@@ -1,0 +1,2369 @@
+0
+Original Question: "How would others feel as a result?"
+
+New Questions:
+a. Context: Jordan invited his colleagues over for a game night. Question: How would others feel as a result?
+b. Context: Lisa organized a surprise party for her sister's birthday. Question: How would others feel as a result?
+c. Context: Chris volunteered to help clean up the community park with his neighbors. Question: How would others feel as a result?
+d. Context: Alex hosted a potluck dinner and asked everyone to bring their favorite dish. Question: How would others feel as a result?
+
+
+
+1
+Original Question: "What will others want to do next?"
+
+New Questions:
+a. Context: Sarah is organizing a community event and needs to assign roles to volunteers. Question: What will the volunteers want to do next?
+b. Context: Alex is planning a team-building exercise and must delegate tasks to his colleagues. Question: What will his colleagues want to do next?
+c. Context: Emma is overseeing a school project and needs to determine responsibilities for her classmates. Question: What will her classmates want to do next?
+d. Context: Mark is preparing for a family reunion and has to assign cooking duties to family members. Question: What will the family members want to do next?
+
+
+
+2
+Original Question: "What will Remy want to do next?"
+
+New Questions:
+a. Context: Lily was an experienced chef preparing a meal for her friend Mark. After slicing the vegetables, Lily seasoned the chicken. What will Lily want to do next?
+b. Context: James was a skilled carpenter working on a project with Sarah. After sanding the wood pieces, James applied glue to the joints. What will James want to do next?
+c. Context: Clara was a talented painter creating a mural with her partner Tom. After sketching the outline, Clara mixed the colors for the painting. What will Clara want to do next?
+d. Context: Michael was a knowledgeable gardener planting flowers alongside his neighbor Emma. After digging the holes for the seeds, Michael placed the bulbs into the ground. What will Michael want to do next?
+
+
+
+3
+Original Question: "Why did Addison do this?"
+New Questions:
+a. Context: Jordan bought a gift for Taylor's daughter when she was feeling anxious about school. Question: Why did Jordan do this?
+b. Context: Chris prepared a meal for Morgan's niece when she was sick at home. Question: Why did Chris do this?
+c. Context: Sam wrote a letter to Avery's friend when he was going through a tough time. Question: Why did Sam do this?
+d. Context: Jamie organized a surprise party for Riley's brother when he was feeling lonely. Question: Why did Jamie do this?
+
+
+
+4
+Original Question: "What does Kai need to do before this?"
+
+New Questions:
+a. Context: Lucas discovered a vintage guitar at a local shop, but the price was beyond his budget. What does Lucas need to do before this?
+b. Context: Maria came across a beautiful dress online, but the cost was too high for her. What does Maria need to do before this?
+c. Context: Mark saw a new gaming console available at a store, but it was too expensive for him. What does Mark need to do before this?
+d. Context: Sarah found an art piece she adored at an auction, but the bidding exceeded her financial limits. What does Sarah need to do before this?
+
+
+
+5
+Original Question: "What does Quinn need to do before this?"
+
+New Questions:
+a. Context: Ava was deep in a cave and was hesitant to come out. We promised her a treasure hunt if she exited. What does Ava need to do before this?
+b. Context: Leo was at the top of a mountain and was enjoying the view. We suggested that he join us for a picnic at the base. What does Leo need to do before this?
+c. Context: Jamie was at the edge of a swimming pool, nervous about jumping in. We assured Jamie that it would be fun if they took the plunge. What does Jamie need to do before this?
+d. Context: Sam was on a ledge of a building, reluctant to climb down. We convinced Sam that a fun activity awaited on the ground. What does Sam need to do before this?
+
+
+
+6
+Original Question: "What does Bailey need to do before this?"
+
+New Questions:
+a. Context: Sarah realized she misplaced her headphones after searching her bag for them. Question: What does Sarah need to do before this?
+b. Context: Alex was unable to locate the spare keys despite checking all his pockets. Question: What does Alex need to do before this?
+c. Context: Jamie looked for her favorite book in the library after not finding it on her shelf. Question: What does Jamie need to do before this?
+d. Context: Mark could not find his laptop charger and searched around his desk. Question: What does Mark need to do before this?
+
+
+
+7
+Original Question: "What will Kendall want to do next?"
+
+New Questions:
+a. Context: After Emma spent the entire day painting and received numerous compliments on her artwork. Question: What will Emma consider doing next?
+b. Context: Liam just finished a big project at work and received praise from his manager, leading to a bonus. Question: What will Liam plan to do next?
+c. Context: Sophia recently completed her final exams and is feeling relieved and excited about her newfound free time. Question: What will Sophia want to do next?
+d. Context: James hosted a successful charity event and received a lot of support from the community, raising more funds than expected. Question: What will James decide to do next?
+
+
+
+8
+Original Question: "What will Quinn want to do next?"
+
+New Questions:
+a. Context: Alex decided to organize the garage because it had become cluttered over time. Question: What will Alex want to do next?
+b. Context: Maria offered to assist me in cooking dinner since I was feeling overwhelmed. Question: What will Maria want to do next?
+c. Context: Jordan volunteered to help me with my homework as I was struggling to keep up. Question: What will Jordan want to do next?
+d. Context: Taylor planned to decorate the living room because it looked dull and uninspired. Question: What will Taylor want to do next?
+
+
+
+9
+Original Question: "How would you describe Kendall?"
+
+New Questions:
+a. Context: After finishing the puzzle, Liam expressed his gratitude to Emma for solving it with him. Question: How would you describe Liam?
+b. Context: Maria baked a cake and thanked her sister for providing her with the ingredients. Question: How would you describe Maria?
+c. Context: Jason completed a marathon and congratulated his friend Alex for training with him. Question: How would you describe Jason?
+d. Context: Sophie painted a beautiful mural and appreciated her neighbor for helping her gather the supplies. Question: How would you describe Sophie?
+
+
+
+10
+Original Question: "How would you describe Sydney?"
+
+New Questions:
+a. Context: Alex was a chef known for creating exquisite dishes that delighted guests at the restaurant.  
+   Question: How would you describe Alex?
+
+b. Context: Maria was a software developer who consistently delivered innovative solutions for her clients.  
+   Question: How would you describe Maria?
+
+c. Context: Jordan was a doctor dedicated to improving patient health and providing compassionate care.  
+   Question: How would you describe Jordan?
+
+d. Context: Taylor was an athlete who trained hard and aimed for success in every competition.  
+   Question: How would you describe Taylor?
+
+
+
+11
+Original Question: "What will Aubrey want to do next?"
+
+New Questions:
+a. Context: During a busy day at work, James noticed that a coworker fainted at their desk. He decided to help his coworker by taking them to the nearest urgent care. Question: What will James want to do next?
+b. Context: While on a camping trip, Mia saw that her friend had a severe allergic reaction. She quickly drove her friend to the nearest hospital. Question: What will Mia want to do next?
+c. Context: At a football game, Alex saw someone collapse due to heat exhaustion. He called for medical assistance and guided the paramedics to the person. Question: What will Alex want to do next?
+d. Context: During a family gathering, Tom realized that his elderly uncle was experiencing chest pain. He immediately called 911 and waited for the ambulance to arrive. Question: What will Tom want to do next?
+
+
+
+12
+Original Question: "What does Cameron need to do before this?"
+
+New Questions:
+a. Context: Jamie agreed to keep the location of Taylor's wedding a secret. Jamie accidentally revealed it to a friend. Question: What does Jamie need to do before this?
+b. Context: Alex swore to maintain the confidentiality of Morgan's job application. Alex mentioned it to a classmate. Question: What does Alex need to do before this?
+c. Context: Sam committed to protecting the details of Pat's birthday gift. Sam accidentally told a coworker. Question: What does Sam need to do before this?
+d. Context: Riley promised to keep the news of Jordan's promotion under wraps. Riley shared it with a neighbor. Question: What does Riley need to do before this?
+
+
+
+13
+Original Question: "How would Jan feel afterwards?"
+
+New Questions:
+a. Context: Maria's dog continually jumped up to reach the food on the table, so she decided to put it in a higher cabinet. Question: How would Maria feel afterwards?
+b. Context: After Mark noticed that his toddler was trying to climb onto the counter to reach the cookies, he secured the cabinet doors. Question: How would Mark feel afterwards?
+c. Context: Lucy's bird kept attempting to fly through the open door, so she installed a screen door to keep it safe. Question: How would Lucy feel afterwards?
+d. Context: When Tom's child kept running towards the street, he put up a fence to prevent it. Question: How would Tom feel afterwards?
+
+
+
+14
+Original Question: "What does Remy need to do before this?"
+
+New Questions:
+a. Context: Maria needs to help Jake get up after he fell during the soccer game. What does Maria need to do before this?
+b. Context: Sarah is about to give a speech but sees that Mike is feeling faint before it starts. What does Sarah need to do before this?
+c. Context: Alex is preparing to assist Ben who collapsed while running a marathon. What does Alex need to do before this?
+d. Context: Ella notices that her friend Lisa is having difficulty breathing at the concert. What does Ella need to do before this?
+
+
+
+15
+Original Question: "Why did Austin do this?"
+
+New Questions:
+a. Context: Sarah noticed that a woman had dropped her wallet on the sidewalk while she was walking her dog, so she quickly ran after her to return it. Question: Why did Sarah do this?
+b. Context: Mark observed that a child had left their backpack at the playground after playing, so he hurried to bring it to them before they left. Question: Why did Mark do this?
+c. Context: Emily saw that an elderly man had left his shopping bag at the bus stop as the bus pulled away, so she rushed to catch the bus driver’s attention. Question: Why did Emily do this?
+d. Context: Jacob realized that a friend had forgotten their keys on a park bench while leaving, and he sprinted to hand them back before they got too far. Question: Why did Jacob do this?
+
+
+
+16
+Original Question: "How would you describe Jordan?"
+
+New Questions:
+a. Context: Alex meticulously arranged the flowers for the funeral service. Question: How would you describe Alex?
+b. Context: Sam carefully prepared the dishes for the wedding banquet. Question: How would you describe Sam?
+c. Context: Taylor skillfully painted the mural on the school wall. Question: How would you describe Taylor?
+d. Context: Jamie researched extensively before delivering the presentation on climate change. Question: How would you describe Jamie?
+
+
+
+17
+Original Question: "What will Ash want to do next?"
+
+New Questions:
+a. Context: Mia finished her workout and took off her sweaty gym clothes to let them air out. Question: What might Mia decide to do next?
+b. Context: Jake finished playing soccer and placed his muddy shoes outside to dry. Question: What will Jake likely want to do next?
+c. Context: Sarah baked some cookies and removed the sticky baking sheets from the oven to cool down. Question: What is Sarah likely to do after this?
+d. Context: Kevin went for a swim and hung his wet swimsuit out in the sun to dry. Question: What is Kevin probably planning to do next?
+
+
+
+18
+Original Question: "Why did Bailey do this?"
+New Questions:
+a. Context: Marcus surprised his family when he revealed his decision to move abroad for work. Question: Why did Marcus do this?
+b. Context: Tara eased the worries of her coworkers when she shared her intentions to lead a project. Question: Why did Tara do this?
+c. Context: Jenna reassured her classmates when she declared her commitment to organizing the school event. Question: Why did Jenna do this?
+d. Context: Ethan calmed his teammates when he communicated his plan to train harder for the upcoming competition. Question: Why did Ethan do this?
+
+
+
+19
+Original Question: "How would Sydney feel afterwards?"
+
+New Questions:
+a. Context: After a long day of studying for exams, Jamie felt overwhelmed and broke down in tears at the library.  
+   Question: How would Jamie feel afterwards?
+
+b. Context: During a heated debate, Alex expressed their frustrations openly and ended up crying in front of the group.  
+   Question: How would Alex feel afterwards?
+
+c. Context: After finally confronting her fears during a therapy session, Harper released a flood of emotions and cried.  
+   Question: How would Harper feel afterwards?
+
+d. Context: When the team lost the championship game, Jordan, filled with disappointment, erupted into tears on the field.  
+   Question: How would Jordan feel afterwards?
+
+
+
+20
+Original Question: "How would Bailey feel afterwards?"
+
+New Questions:
+a. Context: Jacob unexpectedly bumped into his childhood friend, Emily, at a music festival. Question: How would Jacob feel afterwards?
+b. Context: Lisa was shocked to find her former colleague, Mark, at the same art exhibition she attended. Question: How would Lisa feel afterwards?
+c. Context: Olivia ran into her old roommate, Sarah, at a coffee shop after many years apart. Question: How would Olivia feel afterwards?
+d. Context: Alex didn't expect to see his cousin, Jenna, at the same sporting event they both attended. Question: How would Alex feel afterwards?
+
+
+
+21
+Original Question: "What does Sydney need to do before this?"
+
+New Questions:
+a. Context: Alex just received a certification for a new skill. Question: What does Alex need to complete before this?
+b. Context: Jamie is preparing for a big presentation at work. Question: What does Jamie need to finalize before this?
+c. Context: Maria has just accepted a new job offer. Question: What does Maria need to accomplish before this?
+d. Context: Chris is set to move to a new apartment next month. Question: What does Chris need to arrange before this?
+
+
+
+22
+Original Question: "How would Quinn feel afterwards?"
+
+New Questions:
+a. Context: Sarah just discovered that her team won the championship after a tough season. Question: How would Sarah feel afterwards?  
+b. Context: James successfully completed his long-awaited marathon after months of training. Question: How would James feel afterwards?  
+c. Context: Maria received the job offer she had been dreaming about for years. Question: How would Maria feel afterwards?  
+d. Context: Alex finished their final exam and believed they did well. Question: How would Alex feel afterwards?  
+
+
+
+23
+Original Question: "What will Skylar want to do next?"
+
+New Questions:
+a. Context: Sarah was visiting her friend Emily, and she met Emily's sister's partner's family. What will Sarah want to do next?
+b. Context: Michael was at a gathering with his friend Sarah and he met Sarah's cousin's partner's relatives. What will Michael want to do next?
+c. Context: Jason was joining his friend Lily for dinner when he encountered Lily's brother's girlfriend's parents. What will Jason want to do next?
+d. Context: Emma was out for coffee with her friend Chloe when she met Chloe's roommate's parents. What will Emma want to do next?
+
+
+
+24
+Original Question: "How would you describe Remy?"
+New Questions:
+a. Context: Jason loved assisting his colleagues in overcoming their challenges. Question: How would you describe Jason?
+b. Context: Sarah took great pleasure in mentoring her younger siblings through their dilemmas. Question: How would you describe Sarah?
+c. Context: Omar found joy in advising his classmates as they navigated their academic struggles. Question: How would you describe Omar?
+d. Context: Lina was passionate about supporting her peers as they dealt with their personal issues. Question: How would you describe Lina?
+
+
+
+25
+Original Question: "How would Remy feel afterwards?"
+
+New Questions:
+a. Context: Alex enjoyed painting and spent the day creating a mural in a public park. Question: How would Alex feel afterwards?
+b. Context: Jamie was passionate about gardening and spent the weekend planting a new flower bed in their backyard. Question: How would Jamie feel afterwards?
+c. Context: Taylor loved photography and spent several hours capturing stunning landscapes at a local nature reserve. Question: How would Taylor feel afterwards?
+d. Context: Morgan was dedicated to fitness and attended a challenging yoga retreat in the mountains. Question: How would Morgan feel afterwards?
+
+
+
+26
+Original Question: "What does Aubrey need to do before this?"
+
+New Questions:
+a. Context: During a science experiment, the students were confused about the instructions. Jamie grasped the steps clearly and proceeded to demonstrate. Question: What does Jamie need to do before this?
+b. Context: The chef prepared a complicated dish, and the kitchen staff looked unsure about the recipe. Marcus had a clear understanding and started cooking. Question: What does Marcus need to do before this?
+c. Context: In a coding workshop, many attendees were struggling to follow along with the program. Taylor was familiar with the language and began writing code. Question: What does Taylor need to do before this?
+d. Context: While rehearsing for the school play, the actors seemed unsure of their lines. Sam knew the script inside and out and decided to start the performance. Question: What does Sam need to do before this?
+
+
+
+27
+Original Question: "What will Aubrey want to do next?"
+
+New Questions:
+a. Context: After completing her first marathon, Sarah felt a surge of accomplishment. What will Sarah want to pursue next? 
+b. Context: Following the successful launch of their new product, the team celebrated their achievement. What will the team decide to focus on next?
+c. Context: After winning a state championship, James felt an overwhelming sense of victory and pride. What will James aim to achieve next?
+d. Context: Having finished her degree with honors, Emily was delighted with her academic success. What will Emily choose to do next?
+
+
+
+28
+Original Question: "Why did Kendall do this?"
+New Questions:
+a. Context: Alex scared the birds away by clapping loudly and jumping around. Question: Why did Alex do this?
+b. Context: Jamie made loud noises to frighten the raccoons away from the garden. Question: Why did Jamie do this?
+c. Context: Taylor waved their arms and shouted to keep the deer from approaching the campsite. Question: Why did Taylor do this?
+d. Context: Morgan honked the car horn repeatedly to drive the squirrels off the road. Question: Why did Morgan do this?
+
+
+
+29
+Original Question: "How would you describe Jan?"
+
+New Questions:
+a. Context: Maria had always dreamed of owning a cat, but she chose to adopt a senior rabbit from a local rescue instead. Question: How would you describe Maria?
+b. Context: David had a lifelong desire to get a bird, but he ultimately decided to take in a geriatric hamster from a nearby animal shelter. Question: How would you describe David?
+c. Context: Emma had always wanted a ferret, but she opted to adopt an elderly guinea pig from an animal rescue organization. Question: How would you describe Emma?
+d. Context: Liam had his heart set on getting a fish, but he decided to bring home an older tortoise from a wildlife rehabilitation center instead. Question: How would you describe Liam?
+
+
+
+30
+Original Question: "What will Addison want to do next?"
+
+New Questions:
+a. Context: Taylor waved goodbye to Jordan as the bus pulled away from the station.  
+   Question: What will Taylor want to do next?
+
+b. Context: Mia hugged her friend Alex tightly before the plane took off from the runway.  
+   Question: What will Mia want to do next?
+
+c. Context: Liam said farewell to his colleague Sam as the train departed from the platform.  
+   Question: What will Liam want to do next?
+
+d. Context: Sophia patted her dog Max goodbye before leaving for her trip.  
+   Question: What will Sophia want to do next?
+
+
+
+31
+Original Question: "What will Sasha do after getting her nails cut?"
+
+New Questions:
+a. "What will Ryan do after finishing his painting project?"
+b. "What will Maya do after completing her final exams?"
+c. "What will Kyle do after baking a cake for his friend's birthday?"
+d. "What will Bella do after cleaning her room?"
+
+
+
+32
+Original Question: "What will Cameron want to do next?"
+
+New Questions:
+a. Context: Sam chose to take a train instead of driving because he thought it would be more relaxing. Question: What will Sam want to do next?
+b. Context: Jenna decided to bike to the park rather than walk since she wanted to enjoy the fresh air and cover more ground. Question: What will Jenna want to do next?
+c. Context: Mark opted to use a scooter to get to his friend's house, believing it would be quicker than walking. Question: What will Mark want to do next?
+d. Context: Laura picked up some groceries after work since she wanted to prepare a nice dinner at home tonight. Question: What will Laura want to do next?
+
+
+
+33
+Original Question: "What will Jan want to do next?"
+
+New Questions:
+a. Context: Sarah finished baking a cake and carefully placed it on the cooling rack to let it set. Question: What will Sarah want to do next?
+b. Context: After Emma finished painting her room, she stepped back to admire her handiwork and looked at her paint supplies. Question: What will Emma want to do next?
+c. Context: Mike secured the last piece of plywood to the frame of his new shed and wiped away the sweat from his brow. Question: What will Mike want to do next?
+d. Context: After completing the intricate puzzle, Kevin set aside the last piece and stretched his arms. Question: What will Kevin want to do next?
+
+
+
+34
+Original Question: "How would you describe Riley?"
+
+New Questions:
+a. "How would you describe Jordan, who discovered a cat abandoned in an alley?"
+b. "How would you describe Alex, who alerted their friend about a turtle stuck on a road?"
+c. "How would you describe Morgan, who reported a bird trapped in a garden?"
+d. "How would you describe Casey, who shared with a neighbor that they saw a rabbit lost in a field?"
+
+
+
+35
+Original Question: "How would Others feel as a result?"
+
+New Questions:
+a. Context: Sarah was deeply invested in the project, and her enthusiasm inspired her team.  
+   Question: How would her teammates feel as a result?  
+
+b. Context: During the presentation, John shared his innovative ideas, and his excitement was palpable.  
+   Question: What would the audience feel as a result?  
+
+c. Context: Maria organized a surprise party for her friend, putting in a lot of effort to make it special.  
+   Question: How would the guests feel as a result?  
+
+d. Context: After the announcement of the new policy, the employees gathered to discuss their reactions.  
+   Question: How would the staff feel as a result?  
+
+
+
+36
+Original Question: "How would you describe Skylar?"
+
+New Questions:
+a. Context: Jordan came home late after a weekend camping trip filled with adventures. Question: How would you describe Jordan?
+b. Context: Emma arrived back in the city after a week-long vacation on a tropical island. Question: How would you describe Emma?
+c. Context: Tyler returned to his hometown after spending several days in a bustling metropolis. Question: How would you describe Tyler?
+d. Context: Mia got back in the morning after a long weekend of exploring national parks with friends. Question: How would you describe Mia?
+
+
+
+37
+Original Question: "How would Bailey feel afterwards?"
+
+New Questions:
+a. Context: It was a stormy night and Alex was out in the rain waiting for the bus. 
+   Question: How would Alex feel afterwards?
+
+b. Context: After spending the day hiking up a mountain, Jamie sat down to rest at the peak.
+   Question: How would Jamie feel afterwards?
+
+c. Context: Following a long and challenging exam, Taylor walked out of the classroom.
+   Question: How would Taylor feel afterwards?
+
+d. Context: After finishing a marathon, Sam collapsed onto the grass to catch their breath.
+   Question: How would Sam feel afterwards?
+
+
+
+38
+Original Question: "What will Carson want to do next?"
+
+New Questions:
+a. Context: Mia successfully hosted a dinner party for her friends last weekend. 
+   Question: What will Mia want to do next?
+
+b. Context: Alex participated in a local art exhibition and received great feedback on their work. 
+   Question: What will Alex want to do next?
+
+c. Context: Jordan finished reading a captivating mystery novel and enjoyed the storyline.
+   Question: What will Jordan want to do next?
+
+d. Context: Taylor just completed a hiking trip with friends and explored beautiful trails.
+   Question: What will Taylor want to do next?
+
+
+
+39
+Original Question: "Why did Tracy protect her teammates from injury when she saw an accident about to happen?"
+
+New Questions:
+a. Context: Mark noticed that his friends were about to slide down a slippery hill dangerously and quickly called out to warn them. Question: Why did Mark do this?
+b. Context: Sarah observed that her classmates were about to collide during a game of soccer and intervened to stop them. Question: Why did Sarah intervene in the game?
+c. Context: John realized that his coworkers were about to step into a busy street without looking and shouted a warning. Question: Why did John warn his coworkers?
+d. Context: Emily saw her little brother playing near a busy road and rushed to pull him back to safety. Question: Why did Emily rush to her brother's side?
+
+
+
+40
+Original Question: "What will happen to Quinn?"
+
+New Questions:
+a. Context: Jamie was trapped in the mountains after a storm when a rescue team finally reached them. Question: What will happen to Jamie?
+b. Context: Alex was struggling to breathe during an asthma attack when a nearby friend administered their inhaler. Question: What will happen to Alex?
+c. Context: Taylor was lost at sea for days until they were found by a passing ship. Question: What will happen to Taylor?
+d. Context: Morgan fainted from heat exhaustion during the marathon until an emergency medic attended to them. Question: What will happen to Morgan?
+
+
+
+41
+Original Question: "How would Quinn feel as a result?"
+
+New Questions:
+a. Context: During a game of soccer, Sam scored the winning goal and celebrated by ignoring Jordan, who had assisted him. Jordan saw Sam's reaction. Question: How would Jordan feel as a result?
+b. Context: In a school play rehearsal, Mia accidentally knocked over Lily's props and didn't apologize. Lily witnessed the incident. Question: How would Lily feel as a result?
+c. Context: In a group project, Jake presented all the ideas without giving credit to Emma, who contributed significantly. Emma was present during the presentation. Question: How would Emma feel as a result?
+d. Context: While having lunch, Ethan made a joke that embarrassed Sarah, a friend sitting at the table. Sarah heard the joke and saw Ethan laughing. Question: How would Sarah feel as a result?
+
+
+
+42
+Original Question: What will Addison want to do next?  
+New Questions:  
+a. Context: The student received a low grade on their exam and decided to speak to the teacher about it. Question: What will the student want to do next?  
+b. Context: The employee was passed over for a promotion and expressed their disappointment to their supervisor. Question: What will the employee want to do next?  
+c. Context: The contestant was eliminated from the competition and voiced their frustration to the organizers. Question: What will the contestant want to do next?  
+d. Context: The athlete missed out on qualifying for the championship due to an injury and shared their concerns with their coach. Question: What will the athlete want to do next?  
+
+
+
+43
+Original Question: "What will Aubrey want to do next?"
+
+New Questions:
+a. Context: Emily was serving food at a charity event, so Emily asked the guests for their meal preferences. Question: What will Emily want to do next?
+b. Context: Jake was managing the entrance at a festival, so Jake asked the attendees for their tickets. Question: What will Jake want to do next?
+c. Context: Sarah was checking in customers at a hotel, so Sarah asked the guests for their identification. Question: What will Sarah want to do next?
+d. Context: Leo was supervising the registration desk at a conference, so Leo asked the participants for their names. Question: What will Leo want to do next?
+
+
+
+44
+Original Question: "Why did Casey do this?"
+
+New Questions:
+a. Context: Jamie was eager to find out about the job offer, so she quickly clicked on the email.  
+   Question: Why did Jamie do this?
+   
+b. Context: Alex was excited to hear the news about the concert, so he hurriedly opened the package.  
+   Question: Why did Alex do this?
+   
+c. Context: Morgan wanted to learn the results of the competition, so they swiftly unsealed the envelope.  
+   Question: Why did Morgan do this?
+   
+d. Context: Taylor was anxious to uncover the surprise birthday invitation, so they tore into the card.  
+   Question: Why did Taylor do this?
+
+
+
+45
+Original Question: "How would you describe Tracy?"
+
+New Questions:
+a. Context: James was coaching Olivia in tennis, so James adjusted Olivia's grip on the racket for a better serve. Question: How would you describe James?
+b. Context: Sarah was guiding Matt on how to cook pasta, so Sarah showed Matt the proper way to add salt to the water. Question: How would you describe Sarah?
+c. Context: Michael was mentoring Anna in painting, so Michael demonstrated the technique for mixing colors effectively. Question: How would you describe Michael?
+d. Context: Laura was training Ben to play guitar, so Laura positioned Ben's fingers on the fretboard for the upcoming chord. Question: How would you describe Laura?
+
+
+
+46
+Original Question: "How would Remy feel afterwards?"
+
+New Questions:
+a. Context: Jamie cooked a romantic dinner for Alex to celebrate their anniversary. Question: How would Jamie feel afterwards?
+b. Context: Morgan surprised Taylor with an unexpected gift on their birthday. Question: How would Morgan feel afterwards?
+c. Context: Chris completed an important presentation at work and received positive feedback from the team. Question: How would Chris feel afterwards?
+d. Context: Sam helped Jordan overcome a difficult challenge, leading to a successful outcome. Question: How would Sam feel afterwards?
+
+
+
+47
+Original Question: "What will happen to Robin?"
+
+New Questions:
+a. Context: Mia attended her best friend Jamie's concert and was blown away by the performance. Question: What will happen to Mia?
+b. Context: Chris watched his sibling Taylor graduate and felt an overwhelming sense of pride. Question: What will happen to Chris?
+c. Context: Jordan was amazed after seeing their friend Sam showcase their artwork at an exhibition. Question: What will happen to Jordan?
+d. Context: Kelly cheered for her colleague Jordan after their successful presentation at a conference. Question: What will happen to Kelly?
+
+
+
+48
+Original Question: "How would Carson feel about this?"
+New Questions:
+a. Context: Emily and Jake have been collaborating on projects, and their partnership is growing stronger. Question: How would Emily feel about their partnership?  
+b. Context: Sam and Taylor have recently started a new business together, and their joint venture is gaining traction. Question: How would Sam feel about their business partnership?  
+c. Context: Maria and Alex have been working closely on a community project, and their teamwork is becoming more effective. Question: How would Maria feel about their collaboration?  
+d. Context: Liam and Noah are training for a marathon together, and their friendship is deepening through shared experiences. Question: How would Liam feel about their training together?  
+
+
+
+49
+Original Question: How would Sasha feel as a result?
+
+New Questions:
+a. Context: Jordan insisted on getting a specific style of painting, and Jamie was very particular about the art pieces. 
+   Question: How would Jamie feel as a result?
+   
+b. Context: Alex expected Taylor to follow their strict diet plan, and Taylor found it to be overwhelming and controlling.
+   Question: How would Taylor feel as a result?
+
+c. Context: Morgan pressured Chris to adhere to a strict study schedule, making Chris feel like they had no freedom.
+   Question: How would Chris feel as a result?
+
+d. Context: Sam demanded strict compliance from Avery regarding their project, leading to an atmosphere of pressure and tension.
+   Question: How would Avery feel as a result?
+
+
+
+50
+Original Question: "How would you describe Bailey?"
+New Questions:
+a. Context: Alex brought their cat to a pet café and allowed the cat to explore the space. Question: How would you describe Alex?
+b. Context: Jordan hosted a dinner party and prepared a feast for their guests. Question: How would you describe Jordan?
+c. Context: Taylor organized a community clean-up event and actively encouraged participants to join. Question: How would you describe Taylor?
+d. Context: Morgan took their child to an amusement park and watched them enjoy the rides. Question: How would you describe Morgan?
+
+
+
+51
+Original Question: "How would Sasha feel afterwards?"
+
+New Questions:
+a. Context: Maria was an avid gardener, and she had just finished planting a new flower bed in her backyard. Question: How would Maria feel afterwards?
+b. Context: Alex enjoyed painting and had just completed a large mural in his community. Question: How would Alex feel afterwards?
+c. Context: Jordan had just completed a challenging hiking trail in the mountains. Question: How would Jordan feel afterwards?
+d. Context: Taylor had just finished a big presentation at work that she had been preparing for weeks. Question: How would Taylor feel afterwards?
+
+
+
+52
+Original Question: "What does Lee need to do before this?"
+
+New Questions:
+a. Context: Maria was looking to cook a fancy dinner for her friends, so she wanted to compare recipes to find the best one. Question: What does Maria need to do before this?
+b. Context: Josh was planning a vacation but he wanted to ensure he got the best deal on flights by checking multiple websites. Question: What does Josh need to do before this?
+c. Context: Anna wanted to buy a new laptop and was concerned about budget, so she decided to research various brands and models. Question: What does Anna need to do before this?
+d. Context: David wanted to host a birthday party and realized he needed to find the perfect venue to accommodate his guests. Question: What does David need to do before this?
+
+
+
+53
+Original Question: "Why did Kendall do this?"
+
+New Questions:
+a. Context: Mark was excited about the delicious pizza, so he decided to order another slice. 
+   Question: Why did Mark do this?
+
+b. Context: Sarah spotted a tempting slice of cake at the party, and she couldn't resist taking a bite. 
+   Question: Why did Sarah do this?
+
+c. Context: Jake was enjoying a refreshing smoothie, and he felt thirsty again, leading him to grab another sip. 
+   Question: Why did Jake do this?
+
+d. Context: Emma saw the enticing plate of nachos at the gathering, prompting her to reach for another chip. 
+   Question: Why did Emma do this?
+
+
+
+54
+Original Question: "What will Others want to do next?"
+
+New Questions:
+a. Context: Sarah organized a community cleanup to improve the local park's condition. Question: What will participants want to do next?
+b. Context: Mark launched a free coding workshop to help individuals learn programming skills. Question: What will attendees want to do next?
+c. Context: Emily set up a donation drive to collect food for the homeless shelter. Question: What will volunteers want to do next?
+d. Context: James created an online campaign to promote eco-friendly practices among his peers. Question: What will supporters want to do next?
+
+
+
+55
+Original Question: "Why did Alex move the boxes from the doorway?"
+
+New Questions:
+a. Context: The backpack was blocking the entrance to the classroom, so Maria hung the backpack on a hook. Question: Why did Maria do this?
+b. Context: The toys were scattered on the floor, preventing them from entering the playroom, so Liam picked up the toys. Question: Why did Liam do this?
+c. Context: The bicycles were taking up space in the garage entrance, so Jordan parked them outside. Question: Why did Jordan do this?
+d. Context: The plants were obstructing the walkway, so Sarah rearranged the plants on the patio. Question: Why did Sarah do this?
+
+
+
+56
+Original Question: "How would Austin feel afterwards?"
+
+New Questions:
+a. Context: Sarah helped Mark achieve his fitness goals, and he felt a great sense of accomplishment. Question: How would Mark feel about this achievement?
+b. Context: Emily supported Jason during a tough time in his life, and he was grateful for her help. Question: How would Jason feel after receiving Emily's support?
+c. Context: Mia listened patiently to Alex as he shared his problems, and he was relieved to have someone to talk to. Question: How would Alex feel after their conversation?
+d. Context: Liam cheered for Noah at his basketball game, and Noah felt a surge of confidence. Question: How would Noah feel knowing Liam was there for him?
+
+
+
+57
+Original Question: "How would you describe Kai?"
+
+New Questions:
+a. Context: Sarah leads a physics club at a high school. Question: How would you describe Sarah?
+b. Context: Tom manages a marketing team at a tech company. Question: How would you describe Tom?
+c. Context: Lisa coordinates a volunteer program at a non-profit organization. Question: How would you describe Lisa?
+d. Context: Mark directs a drama group at a community center. Question: How would you describe Mark?
+
+
+
+58
+Original Question: "How would Jordan feel afterwards?"
+
+New Questions:
+a. Context: Emily borrowed all of Alex's notes before an important exam, leaving Alex unprepared for the test. Question: How might Emily feel after the exam?
+b. Context: Marcus played all of Clara's favorite songs at the party, making it hard for Clara to enjoy the event. Question: How could Marcus feel after the party?
+c. Context: Tina used up all of Kevin's gas in the car without asking, leaving Kevin stranded. Question: What emotions might Tina experience after realizing the situation?
+d. Context: Rachel spent all of Sam’s birthday budget on gifts for her own friends, leaving Sam without a celebration. Question: How do you think Rachel might feel the day after Sam's birthday?
+
+
+
+59
+Original Question: "How would you describe Addison?"
+
+New Questions:
+a. Context: Jordan was confused about the new project requirements and decided to consult Taylor for guidance. Question: How would you describe Jordan?
+b. Context: Emily felt overwhelmed after the meeting and decided to reach out to Mia for support. Question: How would you describe Emily?
+c. Context: Marcus was feeling lost after the unexpected changes in his schedule, so he turned to Sam for advice. Question: How would you describe Marcus?
+d. Context: Sophie was uncertain about her major and sought help from Claire to clarify her thoughts. Question: How would you describe Sophie?
+
+
+
+60
+Original Question: "What will Ash want to do next?"
+
+New Questions:
+a. Context: Mia just finished a successful baking class and is eager to showcase her new skills. Question: What will Mia want to do next?
+b. Context: After a week of hiking across the mountains, David is inspired to spend more time in nature. Question: What will David want to do next?
+c. Context: After completing her art project, Linda feels a sense of accomplishment and wants to express her creativity further. Question: What will Linda want to do next?
+d. Context: Tom has just wrapped up reading a thrilling novel and is excited to dive into a new adventure. Question: What will Tom want to do next?
+
+
+
+61
+Original Question: "Why did Carson take the day off work after he felt sick to his stomach and threw up?"
+
+New Questions:
+a. Context: Jamie decided to skip class after experiencing a severe headache and feeling dizzy. Question: Why did Jamie make this decision?
+b. Context: Alex called in sick to work because he had a fever and was feeling exhausted. Question: What prompted Alex to call in sick?
+c. Context: Morgan opted to stay home from school after she had a sore throat and was coughing all night. Question: What led Morgan to choose to stay home?
+d. Context: Taylor took a personal day from work after feeling extremely fatigued and having stomach cramps. Question: Why did Taylor take a personal day?
+
+
+
+62
+Original Question: "How would you describe Quinn?"
+
+New Questions:
+a. Context: Maria spent days searching for her lost pet before finally finding it in the neighborhood. Question: How would you describe Maria?
+b. Context: Ethan tirelessly researched for months and ultimately discovered the solution to a complex puzzle. Question: How would you describe Ethan?
+c. Context: Sara scoured antique shops for years, and at last, she located the vintage vase she had been seeking. Question: How would you describe Sara?
+d. Context: Josh combed through the library's archives and eventually unearthed a rare book that had been missing for decades. Question: How would you describe Josh?
+
+
+
+63
+Original Question: "How would you describe Addison?"
+
+New Questions:
+a. "How would you characterize Jordan after reviewing Morgan's marketing strategy and assisting in improving their outreach?"
+b. "What is your opinion of Taylor after analyzing Chris's project proposal and providing valuable insights to enhance their success?"
+c. "How would you evaluate Casey considering their role in refining Alex's financial forecast and contributing to achieving better budget management?"
+d. "What qualities would you attribute to Jamie after collaborating with Taylor on a product launch plan and helping to boost its market potential?"
+
+
+
+64
+Original Question: "What does Ash need to do before this?"
+
+New Questions:
+a. Context: Jenna was anxious about the presentation, but she felt it went successfully. What does Jenna need to do before this?
+b. Context: Mark was concerned about the team meeting, but he believed it was productive. What does Mark need to do before this?
+c. Context: Lisa was nervous about her performance in the audition, but she thought it went wonderfully. What does Lisa need to do before this?
+d. Context: Tom was uneasy about his date, but he felt it turned out well. What does Tom need to do before this?
+
+
+
+65
+Original Question: How would you describe Jesse?
+
+New Questions:
+a. Context: Mia spent all her savings on investing in risky stocks. Question: How would you describe Mia?
+b. Context: Tom donated all his money to a charity without thinking. Question: How would you describe Tom?
+c. Context: Lisa sold her beloved collection to pay for an impulsive shopping spree. Question: How would you describe Lisa?
+d. Context: Jake quit his job to start a fruit juice business, leaving him with no income. Question: How would you describe Jake?
+
+
+
+66
+Original Question: "What will others want to do next?"
+
+New Questions:
+a. "After Emily finishes her presentation on the new marketing strategy, what will her colleagues likely want to do next?"
+b. "Once James shares his findings from the research study, what is the next step the team might want to take?"
+c. "After Sarah demonstrates the features of the new software, what action do you think her coworkers will take following that?"
+d. "Once Michael completes his overview of the project timeline, what do you think the stakeholders will want to discuss next?"
+
+
+
+67
+Original Question: "What will Kendall want to do next?"
+
+New Questions:
+a. Context: Sarah was curious whether her friend Mia had finished her art project.  
+   Question: What will Sarah want to do next?
+
+b. Context: Tom was eager to find out if his brother had booked his flight for the vacation.  
+   Question: What will Tom want to do next?
+
+c. Context: Emily was wondering if her teammate had submitted their portion of the group assignment.  
+   Question: What will Emily want to do next?
+
+d. Context: Jason was anxious to know if his colleague had scheduled a meeting for the upcoming presentation.  
+   Question: What will Jason want to do next?
+
+
+
+68
+Original Question: "What does Sydney need to do before this?"
+
+New Questions:
+a. **Context:** Michael decided to go for a run in the park early in the morning.  
+   Question: What does Michael need to do before this?
+
+b. **Context:** Emma is preparing to bake cookies for her friend's birthday party tonight.  
+   Question: What does Emma need to do before this?
+
+c. **Context:** Liam wants to check out a new video game at the store after finishing his homework.  
+   Question: What does Liam need to do before this?
+
+d. **Context:** Olivia plans to start studying for her final exams this weekend.  
+   Question: What does Olivia need to do before this?
+
+
+
+69
+Original Question: "How would you describe Carson?"
+New Questions:
+a. Context: During a team meeting, Alex became frustrated with Jordan's comments. Question: How would you describe Alex?
+b. Context: At a family dinner, Mia lost her temper when her brother made a rude joke. Question: How would you describe Mia?
+c. Context: While playing a game, Sam got upset at Chris for cheating. Question: How would you describe Sam?
+d. Context: In a classroom discussion, Jamie was annoyed with Pat for interrupting repeatedly. Question: How would you describe Jamie?
+
+
+
+70
+Original Question: "How would Jan feel afterwards?"
+
+New Questions:
+a. Context: Mia was baking a cake and Leah decorated Mia's dessert. Question: How would Leah feel after finishing the decoration?
+b. Context: Tom was painting a mural and Sarah helped Tom with the colors. Question: How would Sarah feel after helping with the mural?
+c. Context: Alex was writing a song and Chris played the guitar for Alex. Question: How would Chris feel after contributing to the song?
+d. Context: Kim was organizing a charity event and Jordan set up the decorations for Kim. Question: How would Jordan feel after preparing the decorations?
+
+
+
+71
+Original Question: "What will Sasha want to do next?"
+
+New Questions:
+a. Context: It was getting late and Michael finished his work at the office. Question: What will Michael want to do next?
+b. Context: The sun was setting and Emily just completed her homework. Question: What will Emily want to do next?
+c. Context: The game was ending and Tyler put down his controller. Question: What will Tyler want to do next?
+d. Context: The concert was over and Amanda stepped outside the venue. Question: What will Amanda want to do next?
+
+
+
+72
+Original Question: "What will Sasha want to do next?"
+
+New Questions:
+a. Context: Logan is preparing for a dance recital and wants to improve their flexibility.  
+   Question: What will Logan want to do next?
+
+b. Context: Maria is training for a marathon and needs to increase her stamina.  
+   Question: What will Maria want to do next?
+
+c. Context: Ethan is aiming to build muscle before his upcoming football season.  
+   Question: What will Ethan want to do next?
+
+d. Context: Julia is getting ready for a swimming competition and wants to enhance her technique.  
+   Question: What will Julia want to do next?
+
+
+
+73
+Original Question: "What does Quinn need to do before this?"
+
+New Questions:
+a. Context: Before embarking on a long road trip without any rest, what should Jamie ensure is taken care of?
+   
+   Question: What does Jamie need to do before this?
+
+b. Context: Before heading to a crucial meeting after a sleepless night filled with work, what should Alex prioritize?
+   
+   Question: What does Alex need to do before this?
+
+c. Context: When participating in a marathon after training tirelessly without adequate sleep, what must Taylor prepare in advance?
+   
+   Question: What does Taylor need to do before this?
+
+d. Context: Prior to launching a new product after an exhausting week of preparation with little sleep, what action should Morgan take?
+   
+   Question: What does Morgan need to do before this?
+
+
+
+74
+Original Question: "Why did Remy post a picture on her social media and hope to get a lot of upvotes?"
+
+New Questions:
+a. Context: Jake shared a video of his cooking skills on his food blog, aiming for it to go viral. Question: Why did Jake create this video?
+b. Context: Lisa wrote an insightful article and published it on her professional networking site, looking for many likes and shares. Question: Why did Lisa decide to publish this article?
+c. Context: Tom painted a mural in his neighborhood and shared it in a local community group, hoping for positive feedback from residents. Question: Why did Tom share his mural online?
+d. Context: Sara launched a podcast episode discussing mental health strategies, eager to reach a wide audience and gain listeners. Question: Why did Sara release this podcast episode?
+
+
+
+75
+Original Question: "Why did Cameron do this?"
+
+New Questions:
+a. Context: To preserve memories of his travels, Alex created a scrapbook filled with postcards. Question: Why did Alex do this?
+b. Context: To celebrate family milestones, Maria hung up photographs of birthday parties and anniversaries. Question: Why did Maria do this?
+c. Context: In order to keep the spirit of their friendship alive, Jordan decorated his room with mementos from their adventures together. Question: Why did Jordan do this?
+d. Context: To acknowledge her academic achievements, Sarah compiled a bulletin board with her awards and diplomas. Question: Why did Sarah do this?
+
+
+
+76
+Original Question: "What will happen to Taylor?"
+
+New Questions:
+a. Context: Sarah found a hidden treasure chest filled with gold coins and decided to share it with her friend Alex. Question: What will happen to Alex?
+b. Context: James received a rare collectible card from his uncle and gifted it to his best friend Mark. Question: What will happen to Mark?
+c. Context: Emily discovered a secret passage in an old library and invited her classmate Zoe to explore it with her. Question: What will happen to Zoe?
+d. Context: Michael cooked a delicious meal and decided to treat his neighbor Ryan to dinner. Question: What will happen to Ryan?
+
+
+
+77
+Original Question: "Why did Quinn try to kill Cameron after learning about the affair with her husband?"
+
+New Questions:
+a. Context: After finding out that Jordan was planning to embezzle funds from their company, Alex confronted Jordan aggressively. Question: Why did Alex confront Jordan so aggressively?
+b. Context: Upon discovering that Taylor was spreading false rumors about her, Morgan decided to cut off all ties with Taylor. Question: Why did Morgan decide to cut off ties with Taylor?
+c. Context: After realizing that Avery was sabotaging his chances at a promotion, Casey confronted Avery about their actions. Question: Why did Casey confront Avery about their actions?
+d. Context: Learning that Jamie had been stealing ideas from her, Riley felt compelled to report Jamie to their supervisor. Question: Why did Riley feel compelled to report Jamie?
+
+
+
+78
+Original Question: "What will others want to do next?"
+
+New Questions:
+a. Context: Jamie was a gardener in a park. Jamie tended to the flowers and plants for visitors. Question: What will the visitors want to do next?
+b. Context: Alex was a librarian at a community center. Alex organized books for patrons. Question: What will the patrons want to do next?
+c. Context: Taylor was a teacher in an art class. Taylor provided supplies for the students to create their projects. Question: What will the students want to do next?
+d. Context: Morgan was a barista at a coffee shop. Morgan prepared drinks for customers. Question: What will the customers want to do next?
+
+
+
+79
+Original Question: "What will Kendall want to do next?"
+
+New Questions:
+a. Context: As the coach was analyzing the game footage to improve strategies, Ryan explained each play thoroughly. Question: What will Ryan decide to do next?
+b. Context: After the scientist finished presenting her research findings to the committee, she detailed every experiment conducted. Question: What will she aim to do next?
+c. Context: Since the chef was hosting a cooking class and wanted to ensure everyone understood the recipes, Mia demonstrated each dish step-by-step. Question: What will Mia likely choose to do next?
+d. Context: Because the director was preparing the cast for the upcoming performance and needed to clarify the script, Taylor reviewed all the character motivations. Question: What will Taylor plan to do next?
+
+
+
+80
+Original Question: How would Remy feel afterwards?
+
+New Questions:
+a. Context: Sarah adopted a kitten today and played with it for hours. Question: How would Sarah feel afterwards?
+b. Context: John helped his neighbor paint their fence over the weekend. Question: How would John feel afterwards?
+c. Context: Emily baked cookies for a charity event and received many compliments. Question: How would Emily feel afterwards?
+d. Context: Mike finished running his first marathon and crossed the finish line. Question: How would Mike feel afterwards?
+
+
+
+81
+Original Question: "How would Quinn feel milk and cookies?"
+
+New Questions:
+a. Context: Taylor was feeling peckish and enjoyed a bowl of cereal with their fruit. Question: How would Taylor feel about cereal and fruit?
+b. Context: Jamie wanted a snack and had a sandwich with some chips. Question: How would Jamie feel about the sandwich and chips?
+c. Context: Alex was hungry and decided to have a slice of pizza with a salad. Question: How would Alex feel about the pizza and salad?
+d. Context: Morgan was craving something sweet and chose to eat a brownie with ice cream. Question: How would Morgan feel about the brownie and ice cream?
+
+
+
+82
+Original Question: "How would Jordan feel afterwards?"
+
+New Questions:
+a. Context: Maria agreed to go hiking with Jenna and her partner on a sunny Saturday. Question: How would Maria feel afterwards?
+b. Context: Alex accepted an invitation from Chris and their spouse to join them for dinner at their favorite restaurant. Question: How would Alex feel afterwards?
+c. Context: Sam said yes to joining Taylor and their significant other for a game night at home. Question: How would Sam feel afterwards?
+d. Context: Jamie decided to go to the beach with Pat and their family for a day of fun in the sun. Question: How would Jamie feel afterwards?
+
+
+
+83
+Original Question: "What will Carson want to do next?"
+
+New Questions:
+a. Context: Jamie was eager to leave for their vacation, but the car was making strange noises. Question: What will Jamie want to do next?
+b. Context: Alex plans to drive to the beach, but they noticed the engine is overheating. Question: What will Alex want to do next?
+c. Context: Taylor is ready to head out for a road trip, but they realized the fuel gauge is almost empty. Question: What will Taylor want to do next?
+d. Context: Morgan was excited to visit friends, but they found that the windshield wipers were broken. Question: What will Morgan want to do next?
+
+
+
+84
+Original Question: "How would you describe Robin?"
+
+New Questions:
+a. Context: Maria frequently eats unhealthy foods, so Alex encourages her to prepare balanced meals at home. How would you describe Alex?
+b. Context: Tom often procrastinates his homework, so Sarah insists he creates a study schedule. How would you describe Sarah?
+c. Context: Lisa frequently forgets to take care of her plants, so Mark advises her to set reminders on her phone. How would you describe Mark?
+d. Context: Jake spends too much time playing video games, so Emma suggests he join a sports team to stay active. How would you describe Emma?
+
+
+
+85
+Original Question: "What will Kendall want to do next?"
+
+New Questions:
+a. Context: After Jordan finished their presentation, Casey was watching from the back of the room. 
+   Question: What will Casey want to do next?
+
+b. Context: After Carter crossed the finish line at the marathon, Jamie was waiting at the sidelines.
+   Question: What will Jamie want to do next?
+
+c. Context: Once Alex completed the final shot in their basketball game, Taylor was in the stands cheering.
+   Question: What will Taylor want to do next?
+
+d. Context: After Morgan finished climbing the rock wall, Riley was at the base of it observing.
+   Question: What will Riley want to do next?
+
+
+
+86
+Original Question: "What does Skylar need to do before this?"
+
+New Questions:
+a. Context: Taylor started a health food business that gained popularity and insists on maintaining high-quality standards. Question: What does Taylor need to do before this?
+b. Context: Jordan successfully completed a marathon and wants to give motivational talks about their journey. Question: What does Jordan need to do before this?
+c. Context: Casey launched a successful app that helps people manage their finances and wants to expand its features. Question: What does Casey need to do before this?
+d. Context: Morgan created a popular YouTube channel centered on eco-friendly living and plans to release a book on the topic. Question: What does Morgan need to do before this?
+
+
+
+87
+Original Question: "What will happen to Austin now?"
+
+New Questions:
+a. Context: Julia was singing loudly, lost in her own world. Sam covered Julia's ears to help her focus. Question: What will happen to Sam now?
+b. Context: Henry was running around excitedly, waving a flag. Morgan grabbed Henry's flag to calm him down. Question: What will happen to Morgan now?
+c. Context: Lila was dancing energetically on stage, drawing everyone's attention. Chris stepped in to help Lila find her rhythm. Question: What will happen to Chris now?
+d. Context: Max was shouting with joy after winning a game, jumping in excitement. Taylor held onto Max's shoulders to steady him. Question: What will happen to Taylor now?
+
+
+
+88
+Original Question: "How would Skylar feel afterwards?"
+
+New Questions:
+a. Context: After completing a challenging project at work, Alex celebrates with his team.  
+   Question: How would Alex feel afterwards?
+
+b. Context: Jamie finally graduates after years of hard work and dedication.  
+   Question: How would Jamie feel afterwards?
+
+c. Context: Taylor wins a local art competition and receives praise from the judges.  
+   Question: How would Taylor feel afterwards?
+
+d. Context: Morgan reconciles with a family member after a long period of estrangement.  
+   Question: How would Morgan feel afterwards?
+
+
+
+89
+Original Question: What will Quinn want to do next?
+
+New Questions:
+a. Context: Alex completed an intense workout session and is feeling exhausted. They need to decide their next step. 
+   Question: What will Alex want to do next?
+   
+b. Context: Jamie spent the entire day shopping and now has a heavy bag to carry. They are contemplating their next move.
+   Question: What will Jamie want to do next?
+
+c. Context: Taylor just finished a challenging project at work and is feeling mentally drained. They are considering their upcoming activity.
+   Question: What will Taylor want to do next?
+
+d. Context: Morgan has been studying for hours and is feeling overwhelmed. They need to think about what to do next.
+   Question: What will Morgan want to do next?
+
+
+
+90
+Original Question: What does Aubrey need to do before this?
+
+New Questions:
+a. Context: Mark set a reminder for his team about the project deadline next week. Question: What does Mark need to do before this?
+b. Context: Sarah organized an event for the charity and sent out invites to the attendees. Question: What does Sarah need to do before this?
+c. Context: Daniel prepared a presentation for the upcoming conference and shared it with his colleagues. Question: What does Daniel need to do before this?
+d. Context: Emily is finalizing the details for her wedding and has contacted the catering service for arrangements. Question: What does Emily need to do before this?
+
+
+
+91
+Original Question: "What does Sydney need to do before this?"
+
+New Questions:
+a. Context: The city of Melbourne aims to improve its public transportation system by increasing funding and resources. Question: What does Melbourne need to do before this?
+b. Context: Brisbane undertook a massive urban renewal project to attract more businesses and residents. Question: What does Brisbane need to do before this?
+c. Context: Perth plans to launch a clean energy initiative to combat climate change and promote sustainability. Question: What does Perth need to do before this?
+d. Context: Adelaide is working on enhancing its tourism sector by promoting local culture and attractions. Question: What does Adelaide need to do before this?
+
+
+
+92
+Original Question: "How would Austin feel afterwards?"
+
+New Questions:
+a. Context: Jamie climbed to the top of the ladder to grab a box from the shelf. Question: How would Jamie feel afterwards?
+b. Context: Sam reached over the counter to pick up the remote control. Question: How would Sam feel afterwards?
+c. Context: Taylor extended their hand to shake hands with a new acquaintance. Question: How would Taylor feel afterwards?
+d. Context: Morgan bent down to tie their shoelaces while waiting for the bus. Question: How would Morgan feel afterwards?
+
+
+
+93
+Original Question: "How would you describe Ash?"
+
+New Questions:
+a. Context: Maria developed a new approach. That approach was more effective than the previous one. Question: How would you characterize Maria?
+b. Context: Kevin came up with a fresh solution. That solution was more innovative than the earlier one. Question: How would you portray Kevin?
+c. Context: Sophie devised a different strategy. That strategy proved to be more efficient than the old one. Question: How would you assess Sophie?
+d. Context: Tom formulated an alternative plan. That plan was superior to the original one. Question: How would you evaluate Tom?
+
+
+
+94
+Original Question: "What will Alex want to do next?"
+New Questions:
+a. Context: Sarah wanted to paint her living room a vibrant yellow but needed to remove the old paint first. What will Sarah want to do next?
+b. Context: Jake desired to dye his shirt a rich red but needed to bleach it first to remove the current color. What will Jake want to do next?
+c. Context: Emily planned to plant roses in her garden but had to clear out the weeds first. What will Emily want to do next?
+d. Context: Michael aimed to renovate his kitchen with a modern style, but he needed to take out the old cabinets first. What will Michael want to do next?
+
+
+
+95
+Original Question: "What will the vet want to do next?"
+
+New Questions:
+a. Context: Sarah rescued a stray cat she found in her backyard and took it to the animal shelter. Question: What will the shelter staff want to do next?
+b. Context: Jake found an injured bird on his way home and decided to take it to a wildlife rehabilitation center. Question: What will the rehabilitator want to do next?
+c. Context: Mia discovered a lost puppy wandering in the park and brought it to the local animal clinic. Question: What will the clinic staff want to do next?
+d. Context: Alex stumbled upon a tortoise crossing the road and safely transported it to a nearby conservation center. Question: What will the conservationists want to do next?
+
+
+
+96
+Original Question: "How would others feel as a result?"
+
+New Questions:
+a. Context: Emily decided to host a surprise party for her friend, hoping it would lift their spirits. Question: How would the guest of honor feel as a result?
+b. Context: During a community cleanup event, volunteers worked hard to restore a local park. Question: How would the local residents feel as a result?
+c. Context: After a long week of hard work, Alex treated his teammates to lunch. Question: How would the team feel as a result?
+d. Context: To boost morale, the manager introduced a flexible work schedule for the employees. Question: How would the employees feel as a result?
+
+
+
+97
+Original Question: "What will Addison want to do next?"
+
+New Questions:  
+a. "After Sarah calms her anxiety by visualizing the worst potential outcome, what might she decide to do next?"  
+b. "Once Marcus reassures himself by thinking about the maximum risk involved, what could be his next step?"  
+c. "After Emma eases her worries by envisioning possible failures, what action is she likely to take following this?"  
+d. "After Liam finds comfort in picturing the unlikely negative scenarios, what choice will he probably make next?"  
+
+
+
+98
+Original Question: "How would you describe Aubrey?"
+
+New Questions:
+a. Context: Jamie prepared Alex's lunch since Alex was running late. Question: How would you describe Jamie?
+b. Context: Olivia completed Liam's project because Liam was unwell. Question: How would you describe Olivia?
+c. Context: Marcus watered Sophia's plants while she was on vacation. Question: How would you describe Marcus?
+d. Context: Emma organized Noah's workspace because he was busy with a deadline. Question: How would you describe Emma?
+
+
+
+99
+Original Question: "How would you describe Skylar?"
+
+New Questions:
+a. Context: Jamie has a close friend who is battling alcohol addiction. Jamie is concerned that their friend might relapse after leaving a rehabilitation center. Question: How would you describe Jamie?
+b. Context: Neha is supporting her brother who recently overcame a gambling addiction. She worries about his chances of staying sober once he returns to everyday life. Question: How would you describe Neha?
+c. Context: Alex is with a sibling who has successfully completed treatment for opioid addiction. Alex fears that the stresses of daily life may push their sibling back into old habits. Question: How would you describe Alex?
+d. Context: Chris is mentoring a colleague who is recovering from an eating disorder. Chris is apprehensive about their colleague's ability to maintain a healthy lifestyle once back at work. Question: How would you describe Chris?
+
+
+
+100
+Original Question: "How would Jordan feel afterwards?"
+
+New Questions:
+a. Context: Alex's cat scratched a hole in the new sofa they had just bought, and Alex quickly repaired it to prevent further damage. Question: How would Alex feel afterwards?
+b. Context: Taylor’s child spilled juice on the carpet during a family gathering, but Taylor cleaned it up immediately to avoid stains. Question: How would Taylor feel afterwards?
+c. Context: Morgan left their favorite book on the kitchen table, and their roommate accidentally spilled coffee on it. Morgan dried the pages quickly. Question: How would Morgan feel afterwards?
+d. Context: Jamie's younger sibling accidentally knocked over a vase during a party, but Jamie managed to clean up the mess right away. Question: How would Jamie feel afterwards?
+
+
+
+101
+Original Question: "What does Riley need to do before this?"
+
+New Questions:
+a. Context: Emma decided to make a cake for her friend's birthday, so she gathered her ingredients. Question: What does Emma need to do before this?
+b. Context: Jake planned to go for a jog, so he put on his running shoes. Question: What does Jake need to do before this?
+c. Context: Sarah wanted to watch a movie, so she took her seat in the theater. Question: What does Sarah need to do before this?
+d. Context: Mark decided to paint his room, so he laid down plastic sheets on the floor. Question: What does Mark need to do before this?
+
+
+
+102
+Original Question: "What does Lee need to do before this?"
+
+New Questions:
+a. Context: After years of training, Maria successfully finished her first marathon. Question: What does Maria need to prepare for before running another marathon?
+b. Context: After months of planning, Jake finally launched his new business. Question: What does Jake need to finalize before officially opening his doors?
+c. Context: After extensive research, Anna managed to publish her first scientific paper. Question: What does Anna need to complete before submitting her next paper?
+d. Context: After weeks of rehearsals, the theater group finally performed their play. Question: What does the group need to arrange before scheduling their next performance?
+
+
+
+103
+Original Question: "How would Cameron feel afterwards?"
+
+New Questions:
+a. Context: Jamie requested Alex to prepare a presentation about their cat that is currently undergoing treatment for a chronic illness. Question: How do you think Jamie will feel once the presentation is finished?
+b. Context: Taylor asked Jordan to create a scrapbook to honor their goldfish that lived for several years. Question: What emotions might Taylor experience after completing the scrapbook?
+c. Context: Morgan encouraged Bailey to write a story about their hamster that recently had a successful surgery. Question: How might Morgan feel about the story once Bailey shares it?
+d. Context: Riley urged Sam to compile a timeline of their rabbit's life, which brought them joy for many years. Question: What feelings do you think Riley will have after the timeline is complete?
+
+
+
+104
+Original Question: "What will Addison want to do next?"
+
+New Questions:
+a. Context: Jordan sat beside Alex on the park bench, noticing the tears rolling down Alex's cheeks after hearing the sad news. Question: What might Jordan feel compelled to do next?
+b. Context: Emily watched as Mark stared at the ground, struggling to hold back his tears after the disappointing announcement. Question: What is likely to be Emily's next action?
+c. Context: Mia knelt beside Sam, who had just received worrisome health news, and she could see the worry on Sam's face. Question: What might Mia choose to do next?
+d. Context: Noah placed a comforting hand on Lisa's back as she wiped her tears away, overwhelmed by the recent changes in her life. Question: What will Noah likely wish to do next?
+
+
+
+105
+Original Question: "How would Taylor feel afterwards?"
+
+New Questions:  
+a. "How would Alex feel after starting a new job?"  
+b. "What emotions might Jamie experience after moving to a new city?"  
+c. "How would Morgan respond after winning a prestigious award?"  
+d. "What feelings might Chris have after finally finishing a long-term project?"
+
+
+
+106
+Original Question: "What will happen to Aubrey?"
+
+New Questions:
+a. Context: After a heated argument, Leo decided to push Sam away. What will happen to Leo?
+b. Context: During a tense moment at the party, Mia started shouting at Jordan. What will happen to Mia?
+c. Context: Following a fierce debate, Alex abruptly shut down Chris's presentation. What will happen to Alex?
+d. Context: In the middle of a stressful meeting, Pat slammed the table while arguing with Kim. What will happen to Pat?
+
+
+
+107
+Original Question: "How will Jan feel?"
+
+New Questions:
+a. Context: Lisa accidentally dropped her wallet at the café, but after Mike spotted it on the ground, he picked it up and returned it to her. Question: How will Lisa feel?
+b. Context: Tom lost his favorite watch at the park, but Sarah found it while jogging and returned it to him. Question: How will Tom feel?
+c. Context: Emily misplaced her phone at work, but after Jake found it on his desk, he returned it to her the next day. Question: How will Emily feel?
+d. Context: Mark’s bicycle was taken by some kids, but when Anna saw it and chased them down, she got it back and returned it to him. Question: How will Mark feel?
+
+
+
+108
+Original Question: "What will others want to do next?"
+
+New Questions:
+a. Context: Sarah called her friends to inform them that she just got engaged. 
+   Question: What will her friends want to do next?
+
+b. Context: James announced to his family that he has accepted a job offer in another city.
+   Question: What will his family want to do next?
+
+c. Context: Lena shared with her classmates that she received a scholarship to study abroad.
+   Question: What will her classmates want to do next?
+
+d. Context: Marcus revealed to his teammates that they qualified for the finals of the tournament.
+   Question: What will his teammates want to do next?
+
+
+
+109
+Original Question: "What does Ash need to do before this?"
+
+New Questions:
+a. Context: James is preparing to throw a surprise birthday party for his sister and has just bought balloons. Question: What does James need to do before this?
+b. Context: Maria decided to take her dog for a walk after finishing her homework. Question: What does Maria need to do before this? 
+c. Context: Liam plans to paint his room and has just bought paint supplies. Question: What does Liam need to do before this?
+d. Context: Sophia is organizing a picnic and has just made sandwiches. Question: What does Sophia need to do before this?
+
+
+
+110
+Original Question: "Why did Robin do this?"
+New Questions:
+a. Context: James visited the bakery where his sister worked, knowing she could provide him with fresh pastries. Question: Why did James decide to go there?
+b. Context: Maria attended the concert where her friend was performing, believing she would get a front-row seat. Question: Why did Maria choose to go to the concert?
+c. Context: Alex stopped by the bookstore where his old colleague managed, hoping to find exclusive book deals. Question: Why did Alex make this visit?
+d. Context: Sara went to the gym where her brother trained, knowing he could offer her personal training tips. Question: Why did Sara decide to go to that gym?
+
+
+
+111
+Original Question: "Why did Skylar do this?"
+
+New Questions:
+a. Context: After two months of chatting online, Jordan finally decided to meet Taylor in person. Question: Why did Jordan make this choice?
+b. Context: Following several weeks of virtual gaming together, Emily arranged to meet her online friend Mike face-to-face. Question: What motivated Emily to take this step?
+c. Context: After regularly discussing their favorite books in a forum, Chris scheduled a meeting with fellow book lover Jamie. Question: What prompted Chris to reach out and meet Jamie?
+d. Context: After exchanging messages for several months, Morgan planned a coffee date with her pen pal Alex. Question: What led Morgan to initiate this meeting?
+
+
+
+112
+Original Question: "What will Skylar want to do next?"
+
+New Questions:
+a. Context: Alex's team was asked to finalize a presentation on short notice, so Alex worked late to prepare the slides. What will Alex want to do next?
+b. Context: Jordan’s teacher requested a summary of the assigned reading for the following day, so Jordan completed the assignment quickly. What will Jordan want to do next?
+c. Context: Taylor’s client requested a quick revision of the proposal, so Taylor spent the afternoon making the necessary edits. What will Taylor want to do next?
+d. Context: Casey’s supervisor needed a budget analysis by the end of the day, so Casey analyzed the figures and submitted the report. What will Casey want to do next?
+
+
+
+113
+Original Question: "What does Remy need to do before this?"
+
+New Questions:
+a. Context: Sarah was preparing for a birthday party by decorating the venue and setting up the food station, so she spent all afternoon organizing. Question: What does Sarah need to do before this?
+b. Context: Mark was building a treehouse for his children during the weekend, so he gathered all the materials and tools the day before. Question: What does Mark need to do before this?
+c. Context: Emily was organizing a charity event and spent all week reaching out to potential sponsors and vendors. Question: What does Emily need to do before this?
+d. Context: Jake was training for a marathon and had been running long distances every morning to prepare. Question: What does Jake need to do before this?
+
+
+
+114
+Original Question: "Why did Cameron meet the body's supervisor of their current department?"
+
+New Questions:
+a. Context: Alex talked to the lead engineer of their project team. Question: Why did Alex do this?
+b. Context: Jamie arranged a meeting with the sales director of their company. Question: Why did Jamie do this?
+c. Context: Taylor consulted with the manager of their internship program. Question: Why did Taylor do this?
+d. Context: Morgan visited the head of marketing for their product line. Question: Why did Morgan do this?
+
+
+
+115
+Original Question: "How would you describe Cameron?"
+New Questions:
+a. "How would you describe Alex, who has just started working as a teacher in a high school?"
+b. "How would you describe Jamie, who recently opened a bakery in the neighborhood?"
+c. "How would you describe Taylor, who began volunteering at an animal shelter last month?"
+d. "How would you describe Jordan, who has taken up a role as a community organizer in their city?"
+
+
+
+116
+Original Question: "How would you describe Austin?"
+
+New Questions:
+a. Context: Emma relocated to New York to follow her dream of becoming a dancer. Question: How would you describe Emma?
+b. Context: Jake shifted to Seattle to chase his passion for music production. Question: How would you describe Jake?
+c. Context: Sarah moved to Chicago to advance her career in graphic design. Question: How would you describe Sarah?
+d. Context: Michael traveled to Los Angeles to build his career in filmmaking. Question: How would you describe Michael?
+
+
+
+117
+Original Question: "How would Ash feel afterwards?"
+
+New Questions:
+a. Context: When Liam presented his artwork, Emily was uncertain about how to critique it. Question: How might Emily feel after offering her feedback?
+b. Context: After presenting his research findings, Sophia noticed that her colleagues were confused about her conclusions. Question: What emotions might Sophia experience afterwards?
+c. Context: During a team meeting, Mark asked Rachel a challenging question, and she stumbled while trying to answer. Question: How do you think Rachel would feel after that interaction?
+d. Context: After Carla attempted to explain a complex concept to her friend, she realized he was still puzzled. Question: What feelings could Carla have in response to her friend's confusion?
+
+
+
+118
+Original Question: "Why did Sasha do this?"
+
+New Questions:
+a. Context: Emma playfully splashed water at Liam while they were enjoying a fun day at the beach. 
+   Question: Why did Emma do this?
+
+b. Context: Mia tickled Noah unexpectedly while they were sharing a laugh on the couch.
+   Question: Why did Mia do this?
+
+c. Context: Alex nudged Sam with a friendly elbow during a heated discussion at the café.
+   Question: Why did Alex do this?
+
+d. Context: Taylor threw a handful of confetti at Jordan while celebrating at a party.
+   Question: Why did Taylor do this?
+
+
+
+119
+Original Question: "Why did Jordan do this?"
+
+New Questions:
+a. Context: After a long day at work, Sarah felt drained and decided to take a nap.  
+   Question: Why did Sarah do this?
+
+b. Context: Following a vigorous workout session, Mike was feeling sore and chose to relax on the couch.  
+   Question: Why did Mike do this?
+
+c. Context: With an intense exam approaching and sleepless nights behind her, Emily opted to unwind with some tea.  
+   Question: Why did Emily do this?
+
+d. Context: During a long road trip, Ben grew weary and pulled over to rest for a while.  
+   Question: Why did Ben do this?
+
+
+
+120
+Original Question: "What will happen to Cameron?"
+
+New Questions:
+a. Context: Jamie practiced their cooking skills to impress their friends during the party. Question: What will happen to Jamie?
+b. Context: Alex studied tirelessly for the upcoming exam, determined to achieve high marks. Question: What will happen to Alex?
+c. Context: Sam trained hard for the marathon, pushing through each workout to reach their goal. Question: What will happen to Sam?
+d. Context: Taylor invested time in learning a new language to enhance their career opportunities. Question: What will happen to Taylor?
+
+
+
+121
+Original Question: "What will Aubrey want to do next?"
+
+New Questions:
+a. Context: Jason intervened between two of his friends before they could argue, making sure they stayed calm. Question: What will Jason decide to do afterward?
+b. Context: Maria separated her dog from the other dog in the park to prevent a potential altercation. Question: What might Maria choose to do next?
+c. Context: Liam broke up a heated discussion between colleagues in the office to maintain a peaceful environment. Question: What action will Liam consider taking afterward?
+d. Context: Sophie pulled her brother away from a group that looked like they were about to start a confrontation. Question: What will Sophie potentially want to do next?
+
+
+
+122
+Original Question: "What will Bailey want to do next?"
+
+New Questions:
+a. Context: Jamie spilled some water on the floor while cooking dinner.  
+   Question: What will Jamie want to do next?
+
+b. Context: Alex mistakenly deleted an important file from their computer.  
+   Question: What will Alex want to do next?
+
+c. Context: Taylor forgot to bring their textbook to class and needs it for the lesson.  
+   Question: What will Taylor want to do next?
+
+d. Context: Morgan lost their keys while out shopping and can't get into their house.  
+   Question: What will Morgan want to do next?
+
+
+
+123
+Original Question: "How would Kendall feel afterwards?"
+
+New Questions:
+a. Context: Jamie remembered their friend wanted to attend the theater, so Jamie bought the tickets as a surprise. Question: How would Jamie feel afterwards?
+b. Context: Taylor recognized that their sibling had always wanted to go to a concert, so Taylor arranged the tickets for their birthday. Question: How would Taylor feel afterwards?
+c. Context: Morgan was aware that their partner loved art, so Morgan purchased tickets to the art exhibition as a special treat. Question: How would Morgan feel afterwards?
+d. Context: Alex knew their colleague was looking forward to the sports game, so Alex secured the tickets as a gesture of appreciation. Question: How would Alex feel afterwards?
+
+
+
+124
+Original Question: How would you describe Jesse?
+
+New Questions:  
+a. Context: Samantha discovered that her colleague Ryan has been spreading rumors about her behind her back for several months. Question: How would you describe Samantha?  
+b. Context: Mark found out that his friend Lisa has been taking credit for his ideas in their project meetings for a long time. Question: How would you describe Mark?  
+c. Context: Emily learned that her roommate Sarah has been borrowing her clothes without asking for weeks. Question: How would you describe Emily?  
+d. Context: David realized that his classmate John has been cheating off his exams since the start of the semester. Question: How would you describe David?  
+
+
+
+125
+Original Question: "What will Addison want to do next?"
+
+New Questions:
+a. Context: Jamie had just started learning to swim and felt overwhelmed in the deep end. Question: What will Jamie want to do next?
+b. Context: Alex was cooking for the first time but accidentally spilled flour everywhere. Question: What will Alex want to do next?
+c. Context: Taylor was participating in a dance competition for the first time and forgot the steps. Question: What will Taylor want to do next?
+d. Context: Morgan tried their hand at painting but found the colors didn't blend as expected. Question: What will Morgan want to do next?
+
+
+
+126
+Original Question: "Why did Addison leave the casino after they had won a jackpot in the slot machines?"
+
+New Questions:
+a. "Why did Sarah decide to leave the theater after she had finished watching an award-winning movie?"
+b. "Why did James exit the restaurant shortly after receiving a compliment on his meal?"
+c. "Why did Emily walk out of the concert after enjoying the last performance?"
+d. "Why did Mark depart from the art gallery after discovering a rare painting he admired?"
+
+
+
+127
+Original Question: "Why did Aubrey do this?"
+
+New Questions:
+a. Context: Jordan woke up early to study for an exam. After several hours of reviewing notes, Jordan took a break and made a cup of coffee. Question: Why did Jordan do this?
+b. Context: Mia decided to go grocery shopping before work. After filling her cart with fresh produce and essentials, she checked out and headed home. Question: Why did Mia do this?
+c. Context: Alex chose to go for a morning jog to start the day healthier. After completing the run, Alex stretched and drank some water. Question: Why did Alex do this?
+d. Context: Sam planned a special dinner for their partner's birthday. Once the meal was ready, Sam set the table with candles and flowers. Question: Why did Sam do this?
+
+
+
+128
+Original Question: "What will happen to Bailey?"
+
+New Questions:
+a. "What will happen to Charlie after the makeover before the big event?"
+b. "What will happen to Lily once she finishes her painting for the art exhibition?"
+c. "What will happen to Jake if he practices his speech before the presentation?"
+d. "What will happen to Mia if she completes her new song before the concert?"
+
+
+
+129
+Original Question: "What will Casey want to do next?"
+
+New Questions:
+a. Context: Alex volunteered to help his teammate with an important presentation at work. What will Alex want to do next?
+b. Context: Sarah decided to take over her coworker's responsibilities while they are on leave. What will Sarah want to do next?
+c. Context: Miguel stepped in to cover for his friend at the event after they fell sick. What will Miguel want to do next?
+d. Context: Jamie agreed to manage the bookstore while the owner was away for a family emergency. What will Jamie want to do next?
+
+
+
+130
+Original Question: "How would you describe Robin?"
+
+New Questions:
+a. Context: Alex was a chef known for his unique flavors, transforming ordinary dishes into culinary masterpieces. Question: How would you describe Alex?
+b. Context: Jamie was an artist who took gloomy landscapes and created vibrant pieces that inspired joy. Question: How would you describe Jamie?
+c. Context: Kelly was a musician who took sad melodies and turned them into uplifting songs that resonated with audiences. Question: How would you describe Kelly?
+d. Context: Sam was an engineer who took a failed design and innovatively reworked it into a groundbreaking invention. Question: How would you describe Sam?
+
+
+
+131
+Original Question: "How would Addison feel afterwards?"
+
+New Questions:
+a. Context: Taylor shared the solution to a math problem with Jordan, who then recorded it in their notebook. Question: How do you think Taylor felt after helping Jordan?
+b. Context: Maya explained the recipe for a cake to Liam, who promptly jotted it down in his cooking journal. Question: What emotions might Maya experience after sharing the recipe?
+c. Context: Alex guided Sam through a challenging coding task, and Sam noted the instructions in his programming guide. Question: How might Alex feel once Sam successfully records the guidance?
+d. Context: Chris taught Pat how to ride a bicycle, and Pat wrote down the tips in a notebook for reference. Question: What feelings could Chris have experienced after teaching Pat?
+
+
+
+132
+Original Question: "What will Ash want to do next?"
+New Questions:
+a. Context: Mia has just finished a swimming lesson and is feeling tired but accomplished. Question: What will Mia want to do next?
+b. Context: Ethan completed his final exams and is relieved. Question: What will Ethan want to do next?
+c. Context: Sara just got a promotion at work after many months of hard work. Question: What will Sara want to do next?
+d. Context: Jake finished reading an engrossing book and is now reflecting on its themes. Question: What will Jake want to do next?
+
+
+
+133
+Original Question: "How would Tracy feel as a result?"
+
+New Questions:
+a. Context: Oliver surprised Rachel when he praised her cooking after a dinner party. How would Rachel feel as a result?
+b. Context: Jamie caught Alex off guard when he complimented her artwork during the gallery opening. How would Alex feel as a result?
+c. Context: During a team meeting, Chris unexpectedly appreciated Sam's idea for a project. How would Sam feel as a result?
+d. Context: After the performance, Maya astonished Ethan by saying he did a fantastic job on stage. How would Ethan feel as a result?
+
+
+
+134
+Original Question: "How would others feel as a result?"
+
+New Questions:
+a. Context: Maria was a successful businesswoman who decided to cut her work hours to spend more time with her family. Question: What impact might this decision have on her colleagues?
+b. Context: John discovered a new treatment that significantly helped his patients, sharing it freely with the medical community. Question: How do you think other doctors would respond to his generosity?
+c. Context: Sarah hosted a community event to raise awareness about environmental issues, inviting all her neighbors to participate. Question: What might the local residents think after attending this event?
+d. Context: Alex helped a struggling friend financially, offering support without asking for anything in return. Question: How might the friend perceive Alex's actions following this assistance?
+
+
+
+135
+Original Question: "What does Sasha need to do before this?"
+
+New Questions:
+a. Context: Jordan was Alexis's graduation partner for the ceremony, and they both put in a lot of effort to look their best. Question: What does Jordan need to do before this?
+
+b. Context: Mia was invited to Liam's birthday party, and they both wore colorful outfits. Question: What does Mia need to do before this?
+
+c. Context: Sam was the team's captain for the soccer match, and everyone was excited to play. Question: What does Sam need to do before this?
+
+d. Context: Zoe was preparing to perform in the school's talent show, and she had practiced her routine extensively. Question: What does Zoe need to do before this?
+
+
+
+136
+Original Question: "What will Bailey want to do next?"
+
+New Questions:
+a. Context: Jamie finished reading the thrilling novel by themselves and decided to discuss it with their classmates. What will Jamie want to do next?
+b. Context: Taylor watched the latest documentary at home and felt inspired to share their thoughts with family members. What will Taylor want to do next?
+c. Context: Morgan completed a challenging puzzle while sitting in a café alone and thought about sharing their experience with fellow puzzle enthusiasts online. What will Morgan want to do next?
+d. Context: Sam baked a delicious cake by themselves and felt excited to showcase it at the upcoming family gathering. What will Sam want to do next?
+
+
+
+137
+Original Question: "Why did Sydney do this?"
+
+New Questions:
+a. Context: Jamie invited Morgan to a picnic yesterday because it was their anniversary. Question: Why did Jamie do this?
+b. Context: Alex bought flowers for Taylor on their graduation day to celebrate their achievement. Question: Why did Alex do this?
+c. Context: Casey baked cookies for Jordan because it was their first day at a new job. Question: Why did Casey do this?
+d. Context: Riley organized a surprise party for Sam after they won the championship. Question: Why did Riley do this?
+
+
+
+138
+Original Question: "How would you describe Jordan?"
+
+New Questions:
+a. Context: After trying on various outfits for the party, Sarah chose a casual t-shirt and jeans instead. Question: How would you describe Sarah?
+b. Context: After spending an hour looking for a formal dress, Emma decided to wear her comfortable leggings and a sweater. Question: How would you describe Emma?
+c. Context: After searching for a suit for his presentation, Michael opted for a polo shirt and chinos he found in his drawer. Question: How would you describe Michael?
+d. Context: After flipping through her closet for an hour, Lisa settled on her favorite hoodie and workout pants. Question: How would you describe Lisa?
+
+
+
+139
+Original Question: "How would Sasha feel afterwards?"
+
+New Questions:
+a. Context: Jamie hosted a movie night for their friends, providing popcorn and drinks. They often gather for film marathons. Question: How would Jamie feel afterwards?
+b. Context: Taylor organized a game night at their apartment, where everyone played board games and shared snacks. They regularly have these get-togethers. Question: How would Taylor feel afterwards?
+c. Context: Morgan prepared a barbecue in their backyard for family and friends, who often enjoy this type of gathering. Question: How would Morgan feel afterwards?
+d. Context: Alex threw a birthday party for their sibling, inviting friends and family to celebrate with cake and games. These occasions happen every year. Question: How would Alex feel afterwards?
+
+
+
+140
+Original Question: "How would you describe Taylor?"
+
+New Questions:
+a. Context: after attending a concert, the audience members shared their impressions. Question: How would you describe the lead singer?
+b. Context: following an art exhibition, critics offered their opinions on the featured artist. Question: How would you describe the artist's style?
+c. Context: during a team meeting, colleagues reflected on their project manager's leadership. Question: How would you describe the project manager?
+d. Context: after watching a movie premiere, film reviewers discussed the main actor's performance. Question: How would you describe the main actor's role?
+
+
+
+141
+Original Question: "What will happen to Casey?"
+
+New Questions:
+a. Context: During the soccer game last weekend, Mia sprained her ankle after colliding with another player. Question: What will happen to Mia?  
+b. Context: In a basketball tournament last month, Alex injured his knee while going for a rebound. Question: What will happen to Alex?  
+c. Context: Last Friday, Jordan fell off his bike and fractured his wrist while riding downhill. Question: What will happen to Jordan?  
+d. Context: At the gymnastics meet last week, Emma landed awkwardly and twisted her knee. Question: What will happen to Emma?
+
+
+
+142
+Original Question: "What will happen to Tracy?"
+
+New Questions:
+a. Context: Sarah provided Jamie guidance on how to handle the project deadline. What will happen to Sarah?
+b. Context: Michael consulted with Emily about strategies for improving customer satisfaction. What will happen to Michael?
+c. Context: Liam shared his thoughts with Ava regarding the upcoming marketing campaign. What will happen to Liam?
+d. Context: Jasmine advised Rob on the next steps for implementing the new software system. What will happen to Jasmine?
+
+
+
+143
+Original Question: "What did Samantha need to do before this?"
+
+New Questions:
+a. Context: Michael was preparing to apply for a scholarship and needed his professor's endorsement. Question: What did Michael need to do before this?
+b. Context: Julia was getting ready to submit her application for an internship and sought a reference from her mentor. Question: What did Julia need to do before this?
+c. Context: Carlos was planning to enter a coding bootcamp and requested a recommendation from a previous employer. Question: What did Carlos need to do before this?
+d. Context: Emily was intending to apply to a graduate program and needed a letter from her former adviser. Question: What did Emily need to do before this?
+
+
+
+144
+Original Question: "What would the others feel afterwards?"
+New Questions:
+a. Context: Maria shared her artwork with the group, inviting their opinions on her painting. Question: How might the others react to her artwork?
+b. Context: Tom presented his new app idea to his team in a meeting. Question: What emotions might the team experience after hearing his presentation?
+c. Context: Lisa performed her dance routine in front of her classmates during a talent show. Question: What feelings could her classmates have after watching her performance?
+d. Context: David baked cookies for his friends and surprised them with the treats. Question: How would his friends likely feel after tasting the cookies?
+
+
+
+145
+Original Question: "What will Taylor want to do next?"
+
+New Questions:
+a. Context: Alex finished a thrilling video game with friends during their game night.  
+   Question: What will Alex want to do next?
+
+b. Context: Jamie just completed a challenging puzzle with their family during a cozy evening at home.  
+   Question: What will Jamie want to do next?
+
+c. Context: Sam cooked a delicious dinner for their friends during a gathering at their house.  
+   Question: What will Sam want to do next?
+
+d. Context: Morgan just finished a fascinating book at the coffee shop.  
+   Question: What will Morgan want to do next?
+
+
+
+146
+Original Question: "What will Cameron want to do next?"
+
+New Questions:
+a. Context: After Samantha shared the research findings with Alex, he became interested in the topic.  
+   Question: What will Alex want to explore further?
+
+b. Context: Following a discussion about the recent environmental policies, Liam convinced Emma to consider volunteering.  
+   Question: What will Emma aim to participate in next?
+
+c. Context: Once Jason demonstrated the benefits of meditation to Maria, she felt inspired to try it herself.  
+   Question: What will Maria decide to practice next?
+
+d. Context: After Nina highlighted the advantages of learning a new language, Mark began to feel curious about it.  
+   Question: What will Mark choose to study next?
+
+
+
+147
+Original Question: "What does Jesse need to do before this?"
+
+New Questions:
+a. Context: Maria was helping her friend carry boxes because he was unable to lift them after his injury. Question: What does Maria need to do before this?
+b. Context: Alex was studying late at night for a test, but he realized he hadn't eaten dinner. Question: What does Alex need to do before this?
+c. Context: Liam was preparing to give a presentation at work, but he noticed his laptop was dead. Question: What does Liam need to do before this?
+d. Context: Sophie was going to start baking a cake, but she realized she didn't have any eggs. Question: What does Sophie need to do before this?
+
+
+
+148
+Original Question: "What will happen to Others?"
+
+New Questions:
+a. Context: I was planning to go to a concert with some friends when I heard that the venue had reached capacity. One of my friends decided not to go because they were worried about finding parking and being late. Question: What will happen to the rest of the group?
+b. Context: On my way to a wedding, I bumped into an acquaintance who mentioned that they were rethinking their attendance because there might be a long wait for drinks. Question: What will happen to the other guests?
+c. Context: While heading to a football game, I came across a group of fans who were considering leaving early due to bad weather. One fan decided to stay but was concerned about the others in the group. Question: What will happen to the rest of the fans?
+d. Context: I was about to join a book club meeting when I learned from a friend that the main speaker canceled last minute. Some members expressed their doubts about attending now. Question: What will happen to the remaining members?
+
+
+
+149
+Original Question: "What will Tracy want to do next?"
+
+New Questions:
+a. Context: James received a new chess strategy book and told his friend he wasn't sure about the concepts. Question: What will James want to do next?
+b. Context: Sarah just finished reading a complex math chapter and expressed to her tutor that she didn't grasp the key points. Question: What will Sarah want to do next?
+c. Context: Michael attended a workshop on photography but admitted to his mentor that he felt lost with some techniques. Question: What will Michael want to do next?
+d. Context: Emma watched a documentary on marine biology and told her professor that she found it difficult to understand the vocabulary. Question: What will Emma want to do next?
+
+
+
+150
+Original Question: "How would Tracy feel afterwards?"
+
+New Questions:
+a. Context: Jake decided to start biking to work to promote a healthier lifestyle. Question: How would Jake feel afterwards?
+b. Context: Sarah started volunteering at an animal shelter to give back to the community. Question: How would Sarah feel afterwards?
+c. Context: Mark began practicing meditation daily to reduce stress. Question: How would Mark feel afterwards?
+d. Context: Emma committed to cooking at home more often to save money and eat healthier. Question: How would Emma feel afterwards?
+
+
+
+151
+Original Question: "Why did Kai work diligently for years to develop the new vaccine?"
+New Questions:
+a. Context: Maria spent countless hours designing a groundbreaking renewable energy system. Question: Why did Maria undertake this project?
+b. Context: David dedicated his time to writing a comprehensive guide on modern cooking techniques. Question: Why did David invest so much effort into this book?
+c. Context: Sarah committed her life to researching the effects of climate change on marine biodiversity. Question: Why did Sarah focus her research on this topic?
+d. Context: Alex performed extensive studies to create an innovative educational software for students. Question: Why did Alex put in the hard work to develop this software?
+
+
+
+152
+Original Question: "What does Ash need to do before this?"
+
+New Questions:
+a. Context: Mia decided to bake a cake but realized she needed to clean her kitchen first. Question: What does Mia need to do before this?
+b. Context: Jake was about to start his homework but noticed his desk was messy. Question: What does Jake need to do before this?
+c. Context: Emma wanted to paint her room but found out the walls needed to be primed first. Question: What does Emma need to do before this?
+d. Context: Liam planned to play soccer but realized he needed to put on his shin guards. Question: What does Liam need to do before this?
+
+
+
+153
+Original Question: "What will happen to Carson?"
+
+New Questions:
+a. Context: Maria informed Lucas about the new marketing strategy they need to implement. Question: What will happen to Lucas?
+b. Context: Sarah explained the new software update to Richard before the meeting. Question: What will happen to Richard?
+c. Context: Emily discussed the upcoming presentation details with Andrew. Question: What will happen to Andrew?
+d. Context: Jason shared the changes in company policy with Maya at the staff briefing. Question: What will happen to Maya?
+
+
+
+154
+Original Question: "How would you describe Jan?"
+
+New Questions:
+a. Context: After a long road trip through the mountains, Alex arrived at their cabin in the woods. Question: How would you describe Alex?
+b. Context: Following a grueling day at work, Sam finally returned home to relax on their couch. Question: How would you describe Sam?
+c. Context: After completing an intense workout at the gym, Taylor sat down to cool off and hydrate. Question: How would you describe Taylor?
+d. Context: Returning from a busy week at a conference, Jordan walked into their apartment feeling exhausted yet accomplished. Question: How would you describe Jordan?
+
+
+
+155
+Original Question: What does Skylar need to do before this?
+
+New Questions:
+a. Context: Jamie finished building a treehouse in their backyard after buying all the materials. Question: What does Jamie need to do before this?
+b. Context: Alex signed up for a cooking class after deciding to improve their culinary skills. Question: What does Alex need to do before this?
+c. Context: Morgan graduated from university after completing all the required courses. Question: What does Morgan need to do before this?
+d. Context: Taylor published their first novel after spending several months writing and editing it. Question: What does Taylor need to do before this?
+
+
+
+156
+Original Question: "How would Skylar feel as a result?"
+
+New Questions:
+a. Context: After being left alone in the dark at a bus stop for an hour, Emma was finally picked up by her friend Alex. Question: How would Emma feel as a result?
+b. Context: Tony was stuck in traffic for 45 minutes before his friend Jake arrived to give him a ride. Question: How would Tony feel as a result?
+c. Context: Mia waited alone in the cold for over an hour until her sister finally came to pick her up. Question: How would Mia feel as a result?
+d. Context: After having been lost in the mall for an hour, Ben was relieved when his father finally found him. Question: How would Ben feel as a result?
+
+
+
+157
+Original Question: "What does Jan need to do before this?"
+
+New Questions:
+a. Context: Sarah was preparing for a big dance recital. Question: What does Sarah need to do before this?
+b. Context: Michael is planning to open a new restaurant. Question: What does Michael need to do before this?
+c. Context: Emily decides to write a novel. Question: What does Emily need to do before this?
+d. Context: Kevin is thinking about running a marathon. Question: What does Kevin need to do before this?
+
+
+
+158
+Original Question: "After the company hired Micah and Pat, Jordan lost a job to them. What will happen to Jordan?"
+
+New Questions:
+a. Context: Following the recruitment of Ella and Mark, Sam found themselves without a position. What will happen to Sam?
+b. Context: After the restaurant brought in more chefs, Alex was laid off from their position. What will happen to Alex?
+c. Context: When the school hired new teachers, Taylor was let go from their teaching role. What will happen to Taylor?
+d. Context: After the startup hired additional developers, Jamie's contract was not renewed. What will happen to Jamie?
+
+
+
+159
+Original Question: "Why did Riley do this?"
+
+New Questions:
+a. Context: Mia went to the park with her friends to have a picnic. Question: Why did Mia do this?
+b. Context: Jake visited the library with his sister to read some books. Question: Why did Jake do this?
+c. Context: Emma attended the concert with her colleagues to enjoy live music. Question: Why did Emma do this?
+d. Context: David went to the beach with his family to build sandcastles. Question: Why did David do this?
+
+
+
+160
+Original Question: "What does Austin need to do before this?"
+
+New Questions:
+a. Context: Maria baked a cake but realized she didn't have enough frosting to decorate it. Question: What does Maria need to do before this?
+b. Context: John planned to start his gardening but discovered that he needed to buy more seeds. Question: What does John need to do before this?
+c. Context: Sarah wanted to watch a movie on her laptop but realized it needed to be charged. Question: What does Sarah need to do before this?
+d. Context: Liam intended to play basketball at the park but found out that he forgot his shoes. Question: What does Liam need to do before this?
+
+
+
+161
+Original Question: "How would you describe Casey?"
+
+New Questions:
+a. Context: Mia was excited, walking through the park, her route shifted to head towards the food truck area. Question: How would you describe Mia?
+b. Context: Ethan was tired, biking along the trail, and decided to take a detour to the beach. Question: How would you describe Ethan?
+c. Context: Sarah was curious, wandering through the museum, her journey altered to include a guided tour. Question: How would you describe Sarah?
+d. Context: Lucas was anxious, navigating through the busy market, and opted to change his path towards the cafe. Question: How would you describe Lucas?
+
+
+
+162
+Original Question: "Why did Alex learn to sew so he could make lots of money?"
+
+New Questions:
+a. Context: Maria started a blog about healthy cooking to share her recipes with others. Question: Why did Maria do this?
+b. Context: James took up photography to capture beautiful moments and sell his work. Question: Why did James do this?
+c. Context: Leah decided to learn web design to create websites for local businesses. Question: Why did Leah do this?
+d. Context: Thomas began training to become a personal trainer so he could help others achieve their fitness goals. Question: Why did Thomas do this?
+
+
+
+163
+Original Question: "Why did Ash do this?"
+
+New Questions:
+a. Context: Jamie noticed a suspicious figure approaching her while she was waiting for the bus, so she tightened her grip on her backpack. Question: Why did Jamie react this way?
+b. Context: While hiking alone in the woods, Sam spotted a shadowy figure in the distance and felt uneasy, so he reached for his whistle. Question: Why did Sam take this action?
+c. Context: While sitting alone in a café, Maya saw a stranger lingering outside and felt a sense of danger, prompting her to check her phone for emergency contacts. Question: Why did Maya feel the need to do this?
+d. Context: As Elena jogged in the park, she noticed someone watching her from afar, making her quicken her pace and move closer to a group of people. Question: What prompted Elena's decision to change her pace?
+
+
+
+164
+Original Question: "Why did Austin do this?"
+New Questions:
+a. Context: Although Maria was supposed to study for her exam, she spent hours watching her favorite series instead. Question: Why did Maria do this?
+b. Context: Even though Jason needed to finish his presentation, he chose to play video games for the afternoon. Question: Why did Jason do this?
+c. Context: While Sarah had a deadline for her project, she opted to scroll through social media for the entire day. Question: Why did Sarah do this?
+d. Context: Despite having household chores to complete, Chris decided to take a long walk in the park instead. Question: Why did Chris do this?
+
+
+
+165
+Original Question: "What will Jordan want to do next?"
+
+New Questions:
+a. Context: Alex discovered that meditation improves focus. He felt inspired by this realization. What will Alex want to do next?
+b. Context: Maria learned that reading can enhance vocabulary. She was excited to apply this knowledge. What will Maria want to do next?
+c. Context: Kevin recognized that exercising regularly boosts his mood. He was motivated to take action. What will Kevin want to do next?
+d. Context: Lisa realized that cooking can be a fun and creative outlet. She was thrilled by this insight. What will Lisa want to do next?
+
+
+
+166
+Original Question: What will happen to Carson?
+
+New Questions:
+a. Context: Morgan taught Alex how to cook a new recipe on a Saturday afternoon. Question: What will happen to Morgan?
+b. Context: Sarah explained the rules of chess to Daniel during a board game night. Question: What will happen to Sarah?
+c. Context: Kevin helped Lisa understand the concepts behind a complicated math problem. Question: What will happen to Kevin?
+d. Context: Emily guided Tom through a painting tutorial in her art studio. Question: What will happen to Emily?
+
+
+
+167
+Original Question: "What will happen to Kendall?"
+
+New Questions:
+a. Context: Jordan threw his backpack on the floor in frustration after Alex canceled their plans. It had been a disappointing day. Question: What will happen to Jordan?
+b. Context: Mia stormed out of the office after a heated debate with Jordan. It was a tense meeting. Question: What will happen to Mia?
+c. Context: Sam shut down his laptop angrily after receiving bad news from a client. It was a rough afternoon. Question: What will happen to Sam?
+d. Context: Taylor slammed the fridge door after her brother ate her leftover pizza. It had been a long week. Question: What will happen to Taylor?
+
+
+
+168
+Original Question: "How would you describe Casey?"
+New Questions:
+a. Context: Jamie was coordinating Sam's birthday party and was executing their plans with great enthusiasm. Question: How would you describe Jamie?
+b. Context: Alex was organizing Taylor's graduation ceremony and was carrying out all tasks as instructed. Question: How would you describe Alex?
+c. Context: Morgan was managing Chris's business launch and was diligently fulfilling their responsibilities. Question: How would you describe Morgan?
+d. Context: Riley was overseeing Jordan's charity event and was completing every requirement to perfection. Question: How would you describe Riley?
+
+
+
+169
+Original Question: "Why did Austin do this?"
+New Questions:
+a. Context: Sarah logged every book she wanted to read in a journal. Question: Why did Sarah do this?
+b. Context: Mark jotted down all the tasks he needed to complete for his project. Question: Why did Mark do this?
+c. Context: Jenna recorded the ingredients she needed for her upcoming dinner party. Question: Why did Jenna do this?
+d. Context: Brian made a list of all the supplies he needed for his art class. Question: Why did Brian do this?
+
+
+
+170
+Original Question: "What will Others want to do next?"
+
+New Questions:
+a. Context: Sarah organized a fundraiser to provide supplies for the local animal shelter. What will the community want to do next?
+b. Context: Tom initiated a campaign to clean up the local park. What will the volunteers want to do next?
+c. Context: Emily hosted a charity event to support education in underprivileged areas. What will the supporters want to do next?
+d. Context: Mark started a project to plant trees in the neighborhood. What will the residents want to do next?
+
+
+
+171
+Original Question: "What does Sasha need to do before this?"
+
+New Questions:
+a. Context: Jordan shared Alex's feelings in a conversation about gratitude and kindness. Question: What does Jordan need to do before this?
+b. Context: Mia articulated Sam's thoughts regarding support and encouragement during a team meeting. Question: What does Mia need to do before this?
+c. Context: Leo conveyed Taylor's views on friendship and loyalty during their discussion. Question: What does Leo need to do before this?
+d. Context: Emma expressed Chris's sentiment towards cooperation and teamwork in a project presentation. Question: What does Emma need to do before this?
+
+
+
+172
+Original Question: "How would you describe Quinn?"
+
+New Questions:
+a. Context: Sam noticed that the lights in the classroom were off, so no one could see the board clearly. Sam turned on the lights. Question: How would you describe Sam?
+b. Context: Jamie realized that the printer was out of paper, preventing anyone from printing their documents. Jamie refilled the printer with paper. Question: How would you describe Jamie?
+c. Context: Alex observed that the heater was malfunctioning, leaving everyone in the room feeling cold. Alex called maintenance to fix the heater. Question: How would you describe Alex?
+d. Context: Taylor discovered that the snack supply was depleted, so no one could have a treat during the meeting. Taylor brought in a new supply of snacks. Question: How would you describe Taylor?
+
+
+
+173
+Original Question: "How would you describe Kai?"
+
+New Questions:
+a. Context: Maria created a sustainable garden in her neighborhood for her community service project. Question: How would you describe Maria?
+b. Context: Sam developed a new app that helps people improve their mental well-being as part of his internship. Question: How would you describe Sam?
+c. Context: Jenna organized a local art exhibition to promote young artists in her town for her school project. Question: How would you describe Jenna?
+d. Context: Luke volunteered at an animal shelter to improve the living conditions of pets waiting for adoption for his summer program. Question: How would you describe Luke?
+
+
+
+174
+Original Question: "What will Casey want to do next?"
+
+New Questions:
+a. Context: Jamie discovered an ancient diary but can't decipher the letters. What will Jamie want to do next?
+b. Context: Alex found a mysterious map but doesn't recognize the landmarks. What will Alex want to do next?
+c. Context: Taylor unearthed a long-lost artifact but has no idea how to date it. What will Taylor want to do next?
+d. Context: Morgan stumbled upon a faded photograph and doesn't recall the people in it. What will Morgan want to do next?
+
+
+
+175
+Original Question: "What will Riley want to do next?"
+
+New Questions:
+a. Context: After Sophia finished her painting, she realized she forgot to add one last detail. Question: What will Sophia want to do next?
+b. Context: After David completed his experiment, he noticed he was missing some data from his notes. Question: What will David want to do next?
+c. Context: After Mia finished reading her book, she discovered she wanted to discuss it with her friends. Question: What will Mia want to do next?
+d. Context: After Tom finished cooking dinner and realized he didn't set the table, he felt something was missing. Question: What will Tom want to do next?
+
+
+
+176
+Original Question: "How would you describe Robin?"
+New Questions:
+a. Context: Kevin had a talent for teamwork, and he managed to convince his entire group to collaborate on the project. Question: How would you describe Kevin?
+b. Context: Mia was a gifted organizer, and she got her friends to help her plan a surprise party for their teacher. Question: How would you describe Mia?
+c. Context: Lucas excelled in negotiation, persuading his colleagues to adopt a new strategy at work. Question: How would you describe Lucas?
+d. Context: Sophia was skilled in motivation, inspiring her teammates to sign up for the charity run. Question: How would you describe Sophia?
+
+
+
+177
+Original Question: "What does Sasha need to do before this?"
+
+New Questions:
+a. Context: Alex received their job application feedback and was excited about the good news. What does Alex need to do before this?
+b. Context: Jamie just finished a challenging project at work and was thrilled to hear they got a promotion. What does Jamie need to do before this?
+c. Context: Taylor submitted their college assignment and felt relieved after the submission. What does Taylor need to do before this?
+d. Context: Morgan completed their training sessions and was eager to find out how they performed. What does Morgan need to do before this?
+
+
+
+178
+Original Question: "How would others feel as a result?"
+
+New Questions:
+a. Context: Michael was meant to attend a family gathering but chose to stay home and watch movies instead. Question: How would his family feel as a result?
+b. Context: Sarah planned to volunteer at the local shelter but ended up going to a concert with friends. Question: What sentiment might the shelter staff have because of her absence?
+c. Context: David was supposed to help his neighbor with yard work but decided to play video games instead. Question: How might his neighbor feel about David's decision?
+d. Context: Emma was going to study for an important exam but opted to go out for dinner with friends. Question: What might her classmates think of her choice?
+
+
+
+179
+Original Question: "Why did Ash do this?"
+
+New Questions:
+a. Context: Maria overheard a conversation and discovered that her coworkers were planning to embezzle funds from the company. Question: Why did Maria decide to keep her distance from them?
+b. Context: Jake saw a group of people breaking into a car and immediately walked the other way. Question: Why did Jake choose to avoid them?
+c. Context: Lila found out that her teammates were using performance-enhancing drugs before the big match. Question: Why did Lila distance herself from her teammates?
+d. Context: Tom noticed that his friends were selling stolen electronics online. Question: Why did Tom avoid hanging out with them?
+
+
+
+180
+Original Question: "What did Aubrey do?"
+
+New Questions:
+a. Context: Marcus prepared for his final exams by pulling an all-nighter. In the morning, he dozed off during the lecture. Question: What did Marcus do?
+b. Context: Jenna was busy working on a project and didn't get any sleep the previous night. When she attended her meeting in the morning, she nodded off. Question: What did Jenna do?
+c. Context: Lucas played video games until dawn to complete his latest quest. The following day, he struggled to stay awake during his class. Question: What did Lucas do?
+d. Context: Emma spent hours studying for a big test and ended up not sleeping at all. The next day in the lecture hall, she fell asleep at her desk. Question: What did Emma do?
+
+
+
+181
+Original Question: "How would Casey feel as a result?"
+
+New Questions:
+a. Context: Alex had trouble keeping up with his rent payments, and Jamie covered the payment to help him out. Question: How would Alex feel as a result?
+b. Context: Morgan was stressed about her upcoming exam, and Taylor offered to tutor her for free. Question: How would Morgan feel as a result?
+c. Context: Sam was struggling to buy groceries after losing his job, and Jordan bought him some essential items. Question: How would Sam feel as a result?
+d. Context: Leah couldn't afford to take her car to the mechanic, and Chris decided to pay for the repairs. Question: How would Leah feel as a result?
+
+
+
+182
+Original Question: "How would Kai feel afterwards?"
+
+New Questions:
+a. Context: Sarah went to the library to study for her exam, but it was closed, so she had to find a café to study instead. Question: How would Sarah feel afterwards?
+b. Context: Tom planned to enjoy a picnic at the park, but when he arrived, it started to rain, so he went back home. Question: How would Tom feel afterwards?
+c. Context: Emily wanted to buy a dress for a party, but the store had run out of her size, so she went home empty-handed. Question: How would Emily feel afterwards?
+d. Context: Mark aimed to catch an early bus to visit his friend, but when he arrived at the station, he found out the bus had already left. Question: How would Mark feel afterwards?
+
+
+
+183
+Original Question: "Why did Bailey do this?"
+
+New Questions:
+a. Context: Jordan found an old map in the attic, but the directions were confusing and unclear, so he tossed it in the trash. Question: Why did Jordan do this?
+b. Context: Mia received an unfamiliar email filled with technical jargon, which she couldn't understand, so she deleted it. Question: Why did Mia do this?
+c. Context: Ethan stumbled upon a recipe that had bizarre measurements, making it impossible for him to follow, so he discarded the paper. Question: Why did Ethan do this?
+d. Context: Olivia encountered a letter written in a language she couldn't comprehend, so she decided to burn it. Question: Why did Olivia do this?
+
+
+
+184
+Original Question: "How would others feel as a result?"
+
+New Questions:
+a. Context: In order to avoid helping with the family budget, Lisa decided to hide her savings and claimed she was financially struggling. Question: How would her family feel as a result?
+b. Context: After deciding not to share his bonus with his colleagues, Mark claimed he was underpaid when asked about his financial situation. Question: How would his coworkers feel as a result?
+c. Context: To avoid giving her friends money for a planned trip, Sarah pretended she had no cash and expressed that she needed to save. Question: How would her friends feel as a result?
+d. Context: Charlie didn't want to take responsibility for a group project, so he downplayed his contributions and said he didn't know enough to help. Question: How would his classmates feel as a result?
+
+
+
+185
+Original Question: "How would you describe Jesse?"
+New Questions:
+a. "How would you characterize Alex based on their decision to switch careers for better opportunities?"
+b. "What adjectives would you use to depict Maria after she relocated to pursue her passion for painting?"
+c. "In what ways would you describe Liam given that he transferred schools to engage more in extracurricular activities?"
+d. "How would you outline the personality of Sara considering she changed cities to follow her dream of starting a business?"
+
+
+
+186
+Original Question: "What will others want to do next?"
+
+New Questions:
+a. Context: Sarah hosted a game night at her house, inviting many of her friends.  
+   Question: What activities might her friends suggest after the games?
+
+b. Context: The team completed their project presentation successfully at the conference.  
+   Question: What might the audience want to do next after the presentation?
+
+c. Context: Jake and his colleagues just finished a brainstorming session for a new marketing campaign.  
+   Question: What steps will the team consider taking next?
+
+d. Context: At the family reunion, everyone enjoyed a delicious potluck dinner together.  
+   Question: What plans might the family make next after dinner?
+
+
+
+187
+Original Question: "Why did Tracy do this?"
+
+New Questions:
+a. Context: Louis showed support for Mia by helping her with her homework and providing her with new school supplies. Question: Why did Louis do this?
+b. Context: Sarah decided to mentor Jake by sharing her knowledge and providing him with resources for his project. Question: Why did Sarah do this?
+c. Context: Alex invited Emma to his home and prepared a special dinner to celebrate her achievements. Question: Why did Alex do this?
+d. Context: The community organized a fundraiser to help Sam pay for his medical bills, collecting donations and providing meals. Question: Why did the community do this?
+
+
+
+188
+Original Question: "How would you describe Cameron?"
+
+New Questions:
+a. Context: Jamie surprised Alex with a remarkable performance when they won the tournament last weekend. Question: How would you describe Jamie?
+b. Context: Taylor delighted Morgan with an outstanding effort when they achieved first place in the competition yesterday. Question: How would you describe Taylor?
+c. Context: Riley impressed Casey with their brilliant skills when they successfully completed the project on time. Question: How would you describe Riley?
+d. Context: Jordan motivated Sam with their inspiring leadership when they led the team to victory during the championship match. Question: How would you describe Jordan?
+
+
+
+189
+Original Question: "What does Quinn need to do before this?"
+
+New Questions:
+a. Context: Lisa prepared to bake a cake after gathering all her ingredients and preheating the oven. Question: What does Lisa need to do before this?
+b. Context: Mark gets set to leave for a hike after packing his backpack and checking the weather. Question: What does Mark need to do before this?
+c. Context: Julia decided to paint her bedroom after choosing a color and buying the supplies. Question: What does Julia need to do before this?
+d. Context: Alex is ready to start his workout after changing into gym clothes and warming up. Question: What does Alex need to do before this?
+
+
+
+190
+Original Question: "What will Jordan want to do next?"
+
+New Questions:
+a. Context: Emily finished her presentation for work on time. What will Emily want to do next?
+b. Context: Alex completed his homework before the deadline. What will Alex want to do next?
+c. Context: Sam made dinner for the family and cleaned the kitchen afterward. What will Sam want to do next?
+d. Context: Mia just returned from a long vacation and unpacked her bags. What will Mia want to do next?
+
+
+
+191
+Original Question: "What will family members want to do next?"
+
+New Questions:
+a. Context: Jessica prepared a beautiful cake for her mother's birthday party.  
+   Question: What will the guests want to do next?
+
+b. Context: Mark finished building a new treehouse for his children's play area.  
+   Question: What will the kids want to do next?
+
+c. Context: Emily organized a surprise party for her best friend's graduation.  
+   Question: What will the attendees want to do next?
+
+d. Context: Alex completed decorating the living room for the holiday festivities.  
+   Question: What will the family want to do next?
+
+
+
+192
+Original Question: "How would Kendall feel as a result?"
+
+New Questions:
+a. Context: Sarah chose to ignore Emma's request for help with her project, so she decided to tidy her own workspace instead. 
+   Question: How would Emma feel as a result?
+
+b. Context: Mark decided not to invite Julia to the movie because he was upset with her, and instead, he went with his other friends.
+   Question: How would Julia feel as a result?
+
+c. Context: Liam refused to share his notes with Mia after their disagreement in class, opting to keep them to himself.
+   Question: How would Mia feel as a result?
+
+d. Context: Chloe didn't want to support Noah at his game, so she spent the evening reading a book alone at home.
+   Question: How would Noah feel as a result?
+
+
+
+193
+Original Question: "What did Madelyn need to do before this?"
+
+New Questions:
+a. Context: James was preparing to present a project proposal and asked Sophia for her feedback. Question: What did James need to do before this?
+b. Context: Emily was training for a marathon and asked her coach for a personalized plan. Question: What did Emily need to do before this?
+c. Context: Marcus was planning a wedding and asked his sister to help with the guest list. Question: What did Marcus need to do before this?
+d. Context: Lucy was launching a new product and asked her team for their input on marketing strategies. Question: What did Lucy need to do before this?
+
+
+
+194
+Original Question: "What will Kendall want to do next?"
+
+New Questions:
+a. Context: Jordan has just received a report from their doctor regarding some recent health concerns. Question: What will Jordan want to do next?
+b. Context: Taylor has just finished their chemotherapy session and is feeling drained. Question: What will Taylor want to do next?
+c. Context: Alex had a long day at work and is feeling stressed out. Question: What will Alex want to do next?
+d. Context: Morgan just completed their final exams and is feeling relieved. Question: What will Morgan want to do next?
+
+
+
+195
+Original Question: "What will Cameron want to do next?"
+
+New Questions:
+a. Context: Jamie was preparing for a major presentation at work, diligently organizing her notes. Question: What will Jamie want to do next?
+b. Context: Alex was baking a cake for a friend's birthday party and had just finished mixing the ingredients. Question: What will Alex want to do next?
+c. Context: Taylor was studying for an important exam and had just completed a difficult chapter in the textbook. Question: What will Taylor want to do next?
+d. Context: Morgan was painting a landscape on canvas and had just finished the background. Question: What will Morgan want to do next?
+
+
+
+196
+Original Question: "What does Sasha need to do before this?"
+
+New Questions:
+a. Context: Mike is a chef. He prepares fresh ingredients for his dishes every morning.
+   Question: What does Mike need to do before this?
+
+b. Context: Lily is a student. She studies diligently for her exams every night.
+   Question: What does Lily need to do before this?
+
+c. Context: Alex is a musician. He warms up his voice before every performance.
+   Question: What does Alex need to do before this?
+
+d. Context: Jenna is a photographer. She checks her equipment before every shoot.
+   Question: What does Jenna need to do before this?
+
+
+
+197
+Original Question: "What will Skylar want to do next?"
+
+New Questions:
+a. Context: Jamie just finished planting a tree in the backyard and hopes it will grow well. Question: What will Jamie want to do next?
+b. Context: Alex cooked a meal for the family and is concerned about how it tastes. Question: What will Alex want to do next?
+c. Context: Taylor just adopted a puppy and is excited about bringing it home. Question: What will Taylor want to do next?
+d. Context: Morgan completed a painting and is anxious to see if others like it. Question: What will Morgan want to do next?
+
+
+
+198
+Original Question: "Why did Riley do this?"
+New Questions:
+a. Context: Emma pushed herself to her limits during her yoga class, going through difficult poses. Question: What motivated Emma to challenge herself in this way?
+b. Context: Jason decided to run a marathon despite having little training. Question: What was Jason's reason for taking on this challenging task?
+c. Context: Mia studied late into the night for her final exams, sacrificing sleep. Question: What drove Mia to prioritize her studies over rest?
+d. Context: Liam practiced the piano for several hours daily, even when he was tired. Question: What inspired Liam to dedicate so much time to practicing the piano?
+
+
+
+199
+Original Question: "How would Addison feel as a result?"
+
+New Questions:
+a. Context: Emily shared a sensitive secret with Max about their coworker, and Max later revealed it to the team. Question: How would Emily feel as a result?
+b. Context: Liam overheard a gossip about Sarah from his friend, and then he decided to pass it on to their mutual friends. Question: How would Liam feel as a result?
+c. Context: Olivia confided in Ava about her personal struggles, and Ava disclosed that information to others in their group. Question: How would Olivia feel as a result?
+d. Context: Noah expressed doubts about a project to his colleague Lisa, who then discussed Noah's concerns with their supervisor. Question: How would Noah feel as a result?
+
+
+

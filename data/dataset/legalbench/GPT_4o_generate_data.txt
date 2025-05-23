@@ -1,0 +1,1253 @@
+0
+Original Question: "Will Google help me if I think someone has taken and used content I've created without my permission?"
+
+New Questions:
+a. "Can I get assistance from Google if I believe my artwork has been used by another individual without my consent?"
+b. "What should I do if I suspect that my original music has been uploaded by someone else on a platform without my authorization, and can Google intervene?"
+c. "If I discover that my video tutorial has been copied and used by someone else on YouTube, is there a process through which Google can assist in resolving the issue?"
+d. "If someone else has posted my photography on their website without my permission, is Google able to help me in protecting my intellectual property rights?"
+
+
+
+1
+Original Question: "Will Google come to a user's assistance in the event of an alleged violation of such user's IP rights?"
+
+New Questions:
+a. "If a user's patent is violated by another entity using a service, will Google intervene to protect the patent owner's rights?"
+   New Context: In the realm of digital platforms, patents are a crucial component of innovation. This scenario involves a user who has developed a novel technology and wishes to understand the protection offered by Google when their intellectual property is violated by another entity through their service.
+
+b. "Does Google offer support for its users when they find their trademark is being infringed by third parties through the use of their platform?"
+   New Context: A user who has trademarked a product or service may seek assistance from Google if they believe that their trademark is being misused by other parties through Google's platform, such as through fake reviews or unauthorized use of their brand name.
+
+c. "In cases where a user's copyrighted content is misused on Google's services, what steps does Google take to help the copyright holder?"
+   New Context: A content creator whose work is copyrighted might face misuse on Google's platforms. This question addresses the measures taken by Google to support the copyright holder in such situations, including the process for filing a copyright infringement claim.
+
+d. "When a user's software code is pirated on Google's platform, what is Google's protocol for responding to the alleged IP rights violation?"
+   New Context: A software developer whose code is used without permission on Google's platform seeks to understand the process by which Google responds to intellectual property violations, specifically concerning software piracy.
+
+
+
+2
+Original Question: "Does Google require the consent of a third party who created content displayed in Google News in order for another person to obtain the right to use such third party's content?"
+
+New Questions:
+a. "Is permission needed from the author of a video featured on YouTube for someone else to reuse that video content?"
+b. "Does Google need the approval of a photographer whose images are shown in Google Photos for another individual to use those images?"
+c. "For a business review to be used on Google Maps, must the owner of the business give their consent to Google first?"
+d. "When a user wants to repurpose a blog post found through Google Blog Search, is it necessary to obtain the blogger's consent before using the content?"
+
+
+
+3
+Output:
+Original Question: "If there is a law preventing me from taking Google to court in California, can I take them to court somewhere else?"
+New Questions:
+a. "If my country's legal system doesn't allow for disputes to be settled in federal courts in Santa Clara County, what options do I have for pursuing legal action against a company that is governed by California law?"
+b. "What are my legal alternatives if the laws in my country invalidate the jurisdiction of the state courts of California in resolving disputes with a service provider governed by Californian law?"
+c. "If my jurisdiction doesn't recognize the governing law of California in commercial disputes, are there international courts I can turn to for resolving a conflict with a company subject to Californian law and court decisions?"
+d. "Can I initiate legal proceedings against a company adhering to Californian law in a court of another country if my local laws do not allow for the enforcement of California's court decisions?"
+
+
+
+4
+Original Question: In circumstances in which, as a consequence of the law of a local jurisdiction, a person is prohibited from commencing legal action against Google in Californian courts, may such person commence legal action against Google in another jurisdiction?
+
+New Questions:
+a. If a resident of Japan is unable to file a lawsuit against Google in California due to Japanese jurisdictional laws, is there a possibility for them to file suit in a court of a different country?
+
+b. Suppose an individual in Germany cannot initiate legal proceedings against Google in California because German law restricts such actions. Can this individual bring legal action against Google within the courts of another European nation?
+
+c. In cases where a user in Brazil is prevented from starting a legal proceeding against Google in California by Brazilian legal constraints, does the individual have the option to sue Google in a court outside of Brazil?
+
+d. If a person in India is unable to initiate legal action against Google in California due to Indian jurisdictional laws, can they proceed with legal action against Google in a court of a neighboring country such as Pakistan?
+
+
+
+5
+Original Question: If I'm younger than 18, do I need my parents' permission to use YouTube?
+
+New Questions:
+a. If I am under 18 years of age, do I require consent from my guardians to access YouTube?
+
+b. What is the procedure if I'm not 18 yet and want to create a YouTube account?
+
+c. If I am 17 years old, is it mandatory to have my parent or legal guardian's approval to use YouTube?
+
+d. Am I required to obtain permission from my parents to use YouTube if I am under the age of 18?
+
+New Context:
+a. "As per YouTube's policy, users who are under 18 years old must obtain consent from their parent or guardian to create an account and use the Service."
+
+b. "To sign up for a YouTube account, individuals under 18 must have the explicit permission of a parent or legal guardian, as dictated by the platform's terms and conditions."
+
+c. "In accordance with YouTube's age requirements, any user younger than 18 years of age is required to have their parent or legal guardian's consent to use the YouTube platform."
+
+d. "YouTube's user agreement stipulates that all individuals under 18 must secure their parent's or guardian's approval before they can join and interact with the platform."
+
+
+
+6
+Original Question: Do minors require parental permission in order to access YouTube's services?
+
+New Questions:
+a. Is it necessary for children under 18 to get their parents' approval to use YouTube Kids?
+b. What are the age requirements for using YouTube services, and do young users need their guardians' consent?
+c. Are under-18 users required to obtain permission from a parent or guardian to access YouTube's advertising features?
+d. Must individuals under the age of 18 have a parent's or legal guardian's permission to join the YouTube Partner Program?
+
+
+
+7
+Original Question: "Can YouTube take down content that it believes causes legal risks for it without explaining the reason for doing this?"
+
+New Questions:
+a. "Is there a possibility for TikTok to remove videos that it thinks might lead to legal complications for the platform, without detailing the reasons for the action?"
+b. "Does Instagram have the authority to delete posts it considers to be potentially legally problematic, without providing an explanation for such deletions?"
+c. "Under what circumstances might Twitter decide to remove tweets that they feel pose legal risks to the company, without giving a rationale for the removal?"
+d. "When can LinkedIn remove user profiles that it suspects could lead to legal issues for the platform, without sharing the specific reasons for the deletion?"
+
+
+
+8
+Output:
+
+Original Question: "Is YouTube exempt from explaining the rationale for removal of content in circumstances in which YouTube is of the opinion that such removal mitigates legal risks to which it would otherwise be exposed?"
+
+New Questions:
+a. "Does Facebook have to disclose the reasons for deleting a user's post if it believes the deletion reduces potential legal exposure for the company?"
+b. "In what situations is Twitter not required to provide an explanation for removing a tweet that they believe helps avoid legal liability?"
+c. "Can Instagram avoid detailing the reason for taking down a video if they think the removal is necessary to prevent legal risks for the platform?"
+d. "When is TikTok not mandated to inform a user why their content was removed if the company believes it is a measure to minimize legal risks?"
+
+
+
+9
+Original Question: Before stopping to use YouTube, can I download my YouTube-related data?
+
+New Questions:
+a. Before discontinuing my use of Instagram, am I able to save a copy of my Instagram data?
+   Context: Instagram offers users the option to download their data before deleting their account to ensure they have a backup of their content.
+
+b. If I decide to cease using Spotify, is there a way to download my Spotify account information?
+   Context: Spotify provides users with the ability to download their account data, including playlists and listening history, before closing their account.
+
+c. Before I stop using Pinterest, can I download my entire Pinterest profile?
+   Context: Pinterest allows users to download a copy of their pins, boards, and other account information for their personal records before deleting their account.
+
+d. When I'm ready to stop using LinkedIn, is it possible to download my LinkedIn profile and associated data?
+   Context: LinkedIn gives users the option to download their profile information, connections, and job history before deleting their LinkedIn account.
+
+
+
+10
+Original Question: "Does YouTube permit a user to download his or her data prior to such user ceasing to use YouTube?"
+
+New Questions:
+a. "Can a user download their personal information from Instagram before they decide to stop using the platform?"
+   Context: Instagram provides users with the option to download their data, including photos, videos, messages, and other content, before they delete their account.
+
+b. "Is it possible for a user to export their data from Twitter before they terminate their account?"
+   Context: Twitter allows users to request an archive of their tweets, direct messages, and other data, which they can download before they deactivate or delete their Twitter account.
+
+c. "What about Facebook? Can a user save their profile data before they deactivate their Facebook account?"
+   Context: Facebook offers users the ability to download a copy of their data, including photos, status updates, messages, and other information, prior to deactivating or deleting their account.
+
+d. "Is there an option to retrieve personal data from Pinterest before a user decides to stop using the service?"
+   Context: Pinterest allows users to download their data, which includes pins, boards, and other content, before they decide to delete their Pinterest account.
+
+
+
+11
+Original Question: "Is YouTube authorized to carry out updates to its software without requiring the permission of users?"
+
+New Questions:
+a. "Does the company XYZ have the authority to automatically update its application on users' devices without asking for consent?"
+
+New Context: XYZ provides a range of productivity tools through a downloadable application. The application is designed to improve workflow and efficiency for its users.
+
+b. "Can the gaming platform Twitch force updates on its software without needing to obtain user approval?"
+
+New Context: Twitch is a popular online platform for gaming content, and it offers a downloadable client that provides users with the ability to watch, chat, and interact with live gaming sessions.
+
+c. "Is it permissible for the social media app Instagram to automatically install updates on user devices without seeking user permission?"
+
+New Context: Instagram is a widely-used photo and video sharing social media platform that provides a downloadable app for its users to connect and share content.
+
+d. "Under what circumstances can the video editing software Adobe Premiere Pro automatically update its software on users' computers without user consent?"
+
+New Context: Adobe Premiere Pro is a professional video editing software that is used by videographers and filmmakers worldwide. The software is distributed as a downloadable application, and it regularly receives updates to improve performance and add new features.
+
+
+
+12
+Original Question: "If my main credit card doesn't work, can Amazon charge another card registered with my Amazon account?"
+
+New Questions:
+a. "If my primary credit card is declined, will Amazon attempt to charge my secondary credit card that's on file?"
+b. "If my main payment method is not accepted, can Amazon process a transaction using an alternative card linked to my Amazon account?"
+c. "In case my primary payment card fails, is there a possibility for Amazon to charge my backup credit card that I have saved on my account?"
+d. "If my main credit card is rejected, will Amazon be able to bill my additional credit card that I've added to my Amazon account details?"
+
+
+
+13
+Original Question: In the event a given credit card or similar means of payment of a user cannot be successfully used, is it within Amazon's rights to effect payment by another means of payment provided such means of payment is affiliated with such user's Amazon account?
+
+New Questions:
+a. If a user's PayPal account fails to process a transaction, can Amazon legally attempt to charge the user's linked credit card for the purchase, assuming the credit card is registered to their Amazon account?
+b. When a customer's bank transfer is declined, does Amazon have the authority to use a different payment method, like a pre-loaded Amazon gift card, if it is linked to the customer's account?
+c. If a user's Amazon account is linked to a different bank account than the one they intended to use for a purchase, and the primary account is not available, can Amazon charge the alternate bank account without the user's explicit consent?
+d. In case a user's debit card is rejected for a purchase, does Amazon have the authority to use any other payment method linked to the user's Amazon account, even if it's a different type of card like a store credit card?
+
+
+
+14
+Original Question: If I upload content to Amazon, can Amazon then allow a third party to use that content?
+
+New Questions:
+a. When I contribute photos to Amazon's online store, does Amazon have the authority to let another company utilize my images?
+b. If I submit reviews on Amazon's platform, am I granting Amazon the permission to share my feedback with other businesses?
+c. By posting videos on Amazon, does Amazon have the right to permit other entities to reproduce and distribute my video content?
+d. If I share my ideas on Amazon's feedback forum, is it within Amazon's rights to collaborate with a third party to implement those ideas?
+
+
+
+15
+Original Question: "Is Amazon entitled to sublicense user-generated content that has been provided to Amazon?"
+
+New Questions:
+a. "Does the platform have the right to sublicense content shared by users for promotional purposes?"
+b. "Can the service provider distribute derivative works created from user-submitted material without further consent?"
+c. "Is there a legal basis for a social media site to sublicense the content its users have uploaded for global advertising?"
+d. "Can a video-sharing site sublicense user-uploaded videos for international broadcasting, according to its terms of service?"
+
+
+
+16
+Original Question: "Does Amazon sometimes give a refund even if a customer hasn't returned the item they purchased?"
+
+New Questions:
+a. "Is it possible for eBay to issue a full refund without requiring the buyer to return the product?"
+   Context: eBay operates similarly to Amazon in handling customer returns and refunds for purchased items. If a buyer encounters an issue with their purchase, eBay has policies that may allow for a refund without a product return.
+
+b. "Can Walmart provide a refund for a defective product without waiting for the item to be returned to the store?"
+   Context: Walmart is another major retailer that offers a variety of goods and services. Their return and refund policies may include scenarios where a refund can be issued without the item being returned.
+
+c. "Under what circumstances might Best Buy offer a refund on a purchase that has not been returned?"
+   Context: Best Buy is known for its electronics and home appliance sales. Their customer service policies may include exceptions to the standard return process for certain circumstances.
+
+d. "Are there situations where Target might process a refund without a customer needing to return the merchandise?"
+   Context: Target is a popular retailer with a diverse range of products. The company may have specific policies or customer service guidelines that allow for refunds without the item being returned.
+
+
+
+17
+Original Question: "Are there instances in which Amazon may reimburse a customer in respect of a purchase notwithstanding that the item so purchased has not been returned?"
+
+New Questions:
+a. "Under what circumstances might Amazon provide a refund to a customer without requiring the item to be returned, even if the product has not been received by the customer?"
+
+b. "What scenarios could lead to Amazon issuing a refund to a customer without the need for the item to be returned, even if the customer hasn't returned the item?"
+
+c. "Are there situations where Amazon might decide to compensate a customer for a purchase without expecting the item back, even if the customer has not returned the item?"
+
+d. "In what cases could Amazon potentially reimburse a customer for a purchase without the item being returned, even though the customer hasn't returned the item to Amazon?"
+
+
+
+18
+Original Question: "If I want to make a claim against Amazon, do I generally have to do this by arbitration (instead of court)?"
+
+New Questions:
+a. "If I need to file a complaint regarding my order from Amazon, must I go through the arbitration process as per their policy, rather than a court proceeding?"
+b. "In the event of a product issue with Amazon, am I required to settle the matter through arbitration according to their terms, not through the courts?"
+c. "Should I encounter a problem with a service from Amazon, is it the company's policy that I must resolve the issue through arbitration rather than taking it to court?"
+d. "When seeking a resolution for a dispute with Amazon over their services or products, do I need to follow the arbitration process laid out by Amazon instead of pursuing legal action in a court of law?"
+
+
+
+19
+Original Question: "Is the general rule that legal action against Amazon must take place by way of arbitration proceedings?"
+
+New Questions:
+a. "Is it typically required for disputes arising from the use of a particular e-commerce platform to be settled through arbitration instead of litigation?"
+b. "Under what circumstances is it the standard practice for consumers to resolve conflicts with an online retailer through binding arbitration rather than through the courts?"
+c. "Is the standard process for resolving claims against a tech giant such as Google usually arbitration rather than court litigation?"
+d. "Does the general practice stipulate that all legal disputes with an online streaming service provider must be resolved via arbitration rather than by going to court?"
+
+
+
+20
+Original Question: Does Facebook promise that it doesn't give advertisers information that lets them know exactly who I am?
+
+New Questions:
+a. "Does Instagram assure users that it won't share personal details with advertisers that could directly identify them?"
+   Context: Instagram is a social media platform owned by Facebook. It operates similarly in terms of advertising and data usage, which makes it a suitable alternative for the original question.
+
+b. "When I use Twitter, does the company guarantee that it will not provide advertisers with specific user information that could reveal my identity?"
+   Context: Twitter is another popular social media platform that handles user data and advertising. It has a similar model to Facebook, which allows for a comparable question.
+
+c. "Is the promise made by LinkedIn that it won't disclose my personal data to advertisers, including my direct identification?"
+   Context: LinkedIn is a professional networking site with its own set of terms and privacy policies, but it also uses user data for targeted advertising, making it relevant for this question.
+
+d. "Does Snapchat guarantee that it won't reveal any personal information that could pinpoint my identity to the advertisers it works with?"
+   Context: Snapchat is a mobile app that also collects user data for targeted advertising purposes. The question is adapted to fit the context of Snapchat's operations.
+
+
+
+21
+Original Question: Does Facebook undertake to refrain from providing advertisers with personal data that would have the effect of divulging the specific identity of a given individual?
+
+New Questions:
+a. Is Google committed to not sharing personal information with advertisers that could reveal the precise identity of any user?
+b. Does Apple promise not to disclose personal details to marketers that might expose the personal identity of its users?
+c. Under what circumstances does Twitter agree not to supply advertisers with personal data that could lead to the identification of its users?
+d. How does LinkedIn ensure that it does not provide advertisers with any personal information that could pinpoint the identity of its members?
+
+
+
+22
+Original Question: "Generally speaking, will Facebook tell me if it removed content that I uploaded?"
+
+New Questions:
+a. "Is it common for Instagram to inform users when they have taken down a post that was originally posted by them?"
+b. "Does TikTok notify its users when it deletes a video they've shared, according to their policy?"
+c. "If YouTube removes a video I've uploaded, am I usually informed about the removal, as per their guidelines?"
+d. "When a tweet is deleted from my Twitter account due to policy violations, am I likely to receive a notification from the platform?"
+
+
+
+23
+Original Question: Other than in the case of certain exceptions, does Facebook agree to inform a user with regard to the removal of such users content?
+
+New Questions:
+a. Does Instagram notify its users when their posts are taken down due to policy violations, excluding specific circumstances?
+
+b. When TikTok decides to delete content of its users, does the platform typically inform those users, except under special circumstances?
+
+c. Can YouTube assure users that they will be informed before their videos are removed for breaches of community guidelines, with the exception of a few predefined situations?
+
+d. Twitter has a policy of removing content that violates its rules. Does this policy include informing the user about such removals, with exceptions made for particular cases? 
+
+New Context:
+a. Instagram, like Facebook, is committed to maintaining a safe and respectful community. They strive to inform users when their content is removed, except in cases where privacy or safety concerns require the removal to be confidential.
+b. TikTok is dedicated to user safety and content quality. While they make efforts to notify users of content removal, they may keep certain actions confidential to protect individuals or maintain the integrity of the platform.
+c. YouTube's Community Guidelines aim to ensure a positive environment for all users. They generally inform users of content removal, except when legal reasons or technical limitations make it impossible to do so.
+d. Twitter operates under strict guidelines to ensure a healthy conversation on its platform. Users are typically informed when their content is removed, but there are exceptions where privacy concerns or legal requirements prevent such notifications.
+
+
+
+24
+Original Question: "Does Facebook sometimes have the right to ban me from Facebook without telling me that I've been banned?"
+
+New Questions:
+a. "Is there a situation where YouTube can temporarily restrict my account without notifying me of the restriction?"
+New Context: "YouTube continuously works to ensure a safe and respectful community environment. They may need to temporarily restrict an account if there's a violation of their community guidelines or policies. Users are notified about such actions as soon as possible, but in some cases, the restriction might take effect without immediate communication."
+
+b. "Under what circumstances might Twitter be able to suspend my account without informing me beforehand?"
+New Context: "Twitter encourages users to engage in constructive conversations and maintain a positive online atmosphere. If a user repeatedly violates Twitter's rules or policies, including spamming or abuse, their account may be suspended. Users are typically informed about the suspension via email or on their account dashboard."
+
+c. "Can Amazon have the authority to deactivate my account without prior notification?"
+New Context: "Amazon operates under a set of seller policies to maintain a high standard of service. If a seller violates these policies, such as selling counterfeit items or providing poor customer service, Amazon may deactivate their account. sellers are usually informed about account deactivation through their account dashboard or via email."
+
+d. "In what scenarios might Spotify disable my account without any prior warning?"
+New Context: "Spotify strives to provide a platform where users can enjoy music without disruption. If a user is found to be in violation of Spotify's terms of service, such as copyright infringement or abuse of the service, Spotify may disable their account. Users are generally informed of such actions via email or their account settings page."
+
+
+
+25
+Original Question: Are there circumstances in which Facebook may suspend or terminate account access without informing the affected user of such suspension or termination?
+
+New Questions:
+a. Under what conditions might Google suspend or disable an account without prior notice to the user?
+New Context: Google provides services such as search, advertising, and cloud computing, and may need to suspend accounts for violations of their terms of service or due to legal reasons.
+
+b. Can Twitter take action to deactivate an account without giving the account holder any prior warning?
+New Context: Twitter is a social media platform that enables users to post and interact with content. They have guidelines for acceptable use and may enforce these by suspending accounts that violate these guidelines.
+
+c. What are the situations where Instagram might decide to disable an account without notifying the user?
+New Context: Instagram is an image-sharing and social networking service where users can share photos and videos. They enforce a set of community guidelines that users must adhere to, and failure to do so may result in account suspension or termination.
+
+d. In what scenarios might Pinterest terminate an account without informing the user in advance?
+New Context: Pinterest is a visual discovery engine where users can find and save creative ideas. They have terms of service that users must comply with, and they may suspend or terminate accounts that violate these terms.
+
+
+
+26
+Original Question: "As a Facebook user who lives in Canada, can I sue Facebook in Canada?"
+
+New Questions:
+a. "If I am a user of Facebook and reside in Australia, am I allowed to initiate legal action against Facebook in Australia?"
+b. "Can a user from the United Kingdom who has a dispute with Facebook file a lawsuit in the UK?"
+c. "What are the legal options for a Facebook user living in France if they wish to take legal action against Facebook?"
+d. "As a Facebook user based in Germany, are there any circumstances under which I could file a lawsuit against Facebook in Germany?"
+
+
+
+27
+Original Question: "Are Canadian Facebook users entitled to take legal action against Facebook in Canadian courts?"
+
+New Questions:
+a. "Can users from Australia initiate legal proceedings against Facebook within Australian courts?"
+   Context: "As an Australian resident, you have certain rights regarding legal action against Facebook. Understand that if you have a dispute with Facebook, it can be resolved under Australian law, and you may have the option to take your case to an Australian court."
+
+b. "Do users in the United Kingdom have the right to sue Facebook in UK courts?"
+   Context: "In the UK, Facebook users are subject to the laws of the country where they reside. If you are a UK resident and have a dispute with Facebook, you may be able to seek legal redress in UK courts, adhering to the UK legal system."
+
+c. "Are Mexican Facebook users able to file a lawsuit against Facebook in Mexican courts?"
+   Context: "Mexican Facebook users should be aware that their legal actions against Facebook will be governed by Mexican law. If a dispute arises, it may be possible to take legal action in Mexico, under the jurisdiction of Mexican courts."
+
+d. "Can users from India bring a legal claim against Facebook in Indian courts?"
+   Context: "In India, Facebook users have the right to seek legal remedies under Indian law. If you reside in India and have a dispute with Facebook, you can consider initiating legal proceedings in an Indian court, adhering to the legal framework of India."
+
+
+
+28
+Original Question: "Is it possible that I will have to pay money for the services?"
+
+New Questions:
+a. "Could I be charged for accessing these services?"
+b. "Is there a likelihood that I might need to pay for the use of these services?"
+c. "Am I expected to incur any costs in order to use the services provided?"
+d. "Will there be any fees associated with the services I am about to use?"
+
+
+
+29
+Original Question: Is Verizon entitled to require users to pay a fee to access the services?
+
+New Questions:
+a. Is it permissible for Google to impose a fee for users to use their search engine services?
+b. Can Facebook charge its users a monthly fee for accessing their social media platform?
+c. Is it within Amazon's rights to implement a fee structure for users to access their e-commerce services?
+d. Does Microsoft have the authority to introduce a charge for users to utilize their cloud computing services?
+
+
+
+30
+Original Question: If I'm below the minimum age but have a US Yahoo Family Account, can I use the services?
+
+New Questions:
+a. If I'm under the age limit but possess a UK Yahoo Family Account, am I allowed to access the services?
+b. Can someone under the minimum age use the services if they have a Canadian Yahoo Family Account?
+c. If I'm not of legal age but hold a Yahoo Family Account from Australia, am I eligible to use the services?
+d. What about those under the minimum age who have a Yahoo Family Account from France; are they permitted to use the services?
+
+
+
+31
+Original Question: "Does holding a US Yahoo Family Account permit access to the services for a person who would otherwise not have such access due to their failure to meet the minimum age requirement?"
+
+New Questions:
+a. "Can a user under the regional minimum age gain access to the service by using a US Yahoo Family Account instead of a regular account?"
+b. "Is there an exception to the age restriction for users with a Yahoo Family Account in the United States, allowing those who are not of legal age to use the service?"
+c. "If someone under the age limit holds a Yahoo Family Account in the US, do they still need to comply with the minimum age requirement to use the services?"
+d. "Does the presence of a Yahoo Family Account in the US override the age restriction for non-adult users who want to access certain Yahoo Media services?"
+
+
+
+32
+Output:
+Original Question: "Is Verizon saying that it won't take responsibility for data that's deleted?"
+
+New Questions:
+a. "Does AT&T acknowledge responsibility for data loss on their network services?"
+b. "Is T-Mobile stating that they will not be liable for data deleted on their user accounts?"
+c. "Is Sprint disclaiming any liability for deleted user data within their service?"
+d. "Can Cox Communications be held accountable for any deleted data from their provided services?"
+
+
+
+33
+Output:
+
+Original Question: Does the section limit Verizon's liability with respect to the deletion of data?
+New Questions:
+a. Does the clause restrict the responsibility of ABC Corp. for the accidental deletion of customer records?
+b. Under the terms outlined, is XYZ Inc. protected from claims regarding the erasure of user information from their platform?
+c. Is the provision within the agreement for DEF Services to be immune to legal action following the wiping of data belonging to clients?
+d. Does the stipulation in the document safeguard GHI Network from liability when customer data is deleted from their system?
+
+
+
+34
+Original Question: Can Verizon sometimes charge my credit card even after its expired?
+
+New Questions:
+a. Is it possible for AT&T to process payments with a card that has already expired?
+   Context: AT&T offers various fee-based services, and customers are required to provide and update their billing information regularly.
+
+b. Can T-Mobile continue to bill me with a credit card that has reached its expiration date?
+   Context: T-Mobile provides a range of fee-based services, and users must maintain accurate payment details for their subscriptions.
+
+c. Under what circumstances might Sprint attempt to charge my expired credit card for a service?
+   Context: Sprint has several fee-based services, and customers must keep their payment methods current to avoid service interruptions.
+
+d. Might a customer's expired Visa card still be charged by a fee-based service from Cox Communications?
+   Context: Cox Communications offers various fee-based services, and it is standard practice for companies to update payment information to ensure continuous service provision.
+
+
+
+35
+Original Question: Does Verizon retain the right to charge a user's credit card notwithstanding the expiration of such credit card?
+
+New Questions:
+a. Can AT&T continue to bill a subscriber's expired credit card for services provided?
+
+b. Is it legal for T-Mobile to process transactions on a user's credit card that has expired, even after notifying the user?
+
+c. Under what circumstances can Comcast bill a customer's credit card after the card's expiration date has passed?
+
+d. When a user's credit card expires, does Sprint have the authority to charge the new card on file without additional user authorization?
+
+
+
+36
+Original Question: Are Zoom users (rather than Zoom the company) responsible for complying with laws regarding recordings?
+
+New Questions:
+a. Are users of the online meeting platform WebEx required to adhere to legal regulations concerning the recording of sessions?
+b. Is it the responsibility of GoToMeeting users to ensure they follow all legal requirements related to the recording of meetings?
+c. Under what circumstances must Slack users ensure that they are in compliance with legal standards for recording conversations?
+d. Are the users of Microsoft Teams expected to respect and follow the legal guidelines surrounding the recording of team discussions?
+
+
+
+37
+Original Question: Do the terms hold users, as opposed to Zoom, responsible for compliance with laws governing conducting recordings?
+
+New Questions:
+a. Are users held accountable, rather than Zoom, for adhering to legal regulations concerning the use of recording features within the service?
+b. According to the terms, is it the user's responsibility to ensure compliance with legal requirements for recording activities, rather than Zoom's?
+c. Does the agreement place the responsibility on users rather than Zoom for upholding the laws that apply to the practice of recording with the service?
+d. Are users solely liable for complying with recording-related laws, according to the terms, as opposed to Zoom?
+
+
+
+38
+Original Question: Does Zoom claim that it is not responsible for what end users do on Zoom?
+
+New Questions:
+a. Does the platform claim immunity for the actions of its users who utilize the platform for educational purposes?
+b. Can the company be held accountable for the activities of its subscribers' users who engage with the service for personal use?
+c. Is the service provider exonerated from the consequences of user behavior when they access the service via corporate accounts?
+d. Does the provider absolve itself of responsibility for the actions of minors who use the service through a school subscription?
+
+
+
+39
+Original Question: Does Zoom purport to exclude liability in respect of the activities of end users?
+
+New Questions:
+a. Is there an assertion by Zoom to not hold liability for the actions of users accessing their services through a corporate account?
+b. Does Zoom disclaim responsibility for the behavior of users who utilize the service via an administrator's account?
+c. Can Zoom be held accountable for the actions of individuals who use the service through an organization's account?
+d. In the case of end users' activities within a service accessed through a company's account, does Zoom intend to avoid liability?
+
+
+
+40
+Original Question: Does Zoom try not to take responsibility if its services are interrupted?
+
+New Questions:
+a. Does the company ABC take responsibility for any disruptions in their online platform?
+b. Under what circumstances might DEF Corp. avoid responsibility for service interruptions?
+c. How does XYZ Software handle accountability when their service experiences downtime?
+d. When a user's experience with the software GHI is disrupted, does GHI attempt to minimize their liability?
+
+
+
+41
+Original Question: Does Zoom claim to not be liable in connection with interruptions to its services?
+
+New Questions:
+a. Does the company Acme claim to not be liable for service interruptions in their cloud computing services?
+b. Is there a disclaimer from TechCorp stating that they are not responsible for interruptions in their internet security software?
+c. According to the terms of service, does MyApp assert that it is not accountable for any service disruptions in their mobile application?
+d. Does the software provider SecureNet explicitly exclude liability for any service outages in their network monitoring tools?
+
+
+
+42
+Original Question: If a court decides that one part of the agreement is not valid, will the rest of the agreement still be valid?
+
+New Questions:
+a. What happens if a court finds a clause in the contract to be unenforceable, but the rest of the contract is compliant with the law?
+b. In case a section of the terms and conditions is deemed illegal, does the entire document lose its effectiveness or does the remainder remain in force?
+c. If a judge rules that a specific provision of the service agreement is not enforceable, can the remaining provisions continue to govern the relationship between the parties?
+d. Should a particular section of the user agreement be invalidated, is it possible for the rest of the agreement to remain legally binding?
+
+
+
+43
+Original Question: "Can I sue Zoom in a small claims court?"
+
+New Questions:
+a. "Am I eligible to file a claim against LinkedIn in my local small claims court?"
+b. "Is it possible to initiate a lawsuit against Twitter in a small claims court near my residence?"
+c. "Can I take Apple to small claims court for a dispute regarding a product purchase?"
+d. "Is there an option to file a lawsuit against Google in a small claims court, considering the terms of their service agreement?"
+
+New Context:
+a. "You have a dispute with LinkedIn regarding a service-related issue, and you're considering filing a claim in your local small claims court."
+b. "You've had a disagreement with Twitter over an advertising matter and are pondering whether you can take them to small claims court in your area."
+c. "You have a product dispute with Apple and are weighing your options, including whether a small claims court is an appropriate venue."
+d. "There is a billing issue with your Google account, and you are inquiring about the possibility of resolving the matter through a small claims court in your jurisdiction."
+
+
+
+44
+Original Question: Do the terms permit the commencement of legal proceedings against Zoom in small claims courts?
+
+New Questions:
+a. Are users allowed to file claims against Zoom in their local small claims court according to the agreement?
+b. Does the agreement allow customers to initiate legal actions in their local Small Claims Court for disputes with Zoom?
+c. Under what circumstances can a customer initiate a legal proceeding in a small claims court against Zoom, as outlined in the agreement?
+d. According to the agreement, is it possible for a consumer to take Zoom to a local small claims court for resolution of disputes?
+
+
+
+45
+Original Question: Are children above age 13 allowed to use Reddit?
+
+New Questions:
+a. Are teenagers who are 14 years old permitted to open an account on Reddit?
+b. Can 15-year-old minors legally access Reddit services?
+c. Are 16-year-olds eligible to create a profile on Reddit, given the age restrictions?
+d. Is it permissible for 17-year-olds to use Reddit without parental consent or meeting the age requirements of their country's laws?
+
+
+
+46
+Original Question: "Does Reddit permit children above age 13 to use its services?"
+
+New Questions:
+a. "Is it permissible for teenagers aged 13 to 17 to access the services offered by Reddit without parental consent?"
+   Context: Reddit's services are designed to be used by individuals of a certain age, and this question seeks to clarify the policy for younger teenagers.
+
+b. "Are minors between the ages of 14 and 18 allowed to create accounts on Reddit without meeting additional age verification requirements?"
+   Context: This question addresses the age verification policies for young adults just below the age of legal majority.
+
+c. "Can individuals under the age of 18 use Reddit's services without complying with the specific age restrictions set forth by their country's laws?"
+   Context: This question focuses on the potential discrepancy between Reddit's global policy and local laws affecting minors.
+
+d. "Does Reddit allow individuals who are 13 years old or older to use its platform, provided they have obtained verifiable consent from their parent or legal guardian?"
+   Context: This question explores the scenario where a minor's use of Reddit is contingent upon parental or guardian approval.
+
+
+
+47
+Original Question: "Will these terms apply to future versions of the services?"
+
+New Questions:
+a. "Do the current Terms of Use extend to any updates or new features added to the software in the future?"
+b. "Are the rules outlined in this agreement applicable to the upcoming iterations of the platform?"
+c. "Does the licensing agreement cover the use of new service releases that may be introduced after the current period?"
+d. "Will the stipulations in the service contract cover any enhancements or new services provided by the company in the future?"
+
+
+
+48
+Original Question: "Will the application of these terms extend to versions of the services developed hereafter?"
+
+New Questions:
+a. "Do the current user agreement stipulations apply to any new features or updates introduced to the platform in the future?"
+   Context: The platform has recently released a new feature that allows users to connect with other users based on shared interests.
+
+b. "Are the same licensing restrictions applicable to the upcoming releases of our software, as outlined in the current user agreement?"
+   Context: The company is planning to roll out a new version of its software with enhanced security features.
+
+c. "Under the present terms, will the rights and responsibilities of users remain unchanged for future iterations of the service?"
+   Context: There is a new iteration of the service being developed with improved user interface design.
+
+d. "Will the rules for using the services remain the same for any new versions or expansions that are released after today?"
+   Context: The service provider is considering expanding their service to include new types of content.
+
+
+
+49
+Original Question: "Am I allowed to use Reddit to conduct a tournament?"
+
+New Questions:
+a. "Can I organize a competition using the Reddit platform?"
+
+b. "Is it permissible to host a gaming event on Reddit?"
+
+c. "May I create a virtual contest on Reddit?"
+
+d. "Can I set up a cooking challenge on Reddit and follow the platform's rules?"
+
+
+
+50
+Original Question: Does Reddit permit the use of its services for the purpose of hosting competitions or similar activities?
+
+New Questions:
+a. Is it allowed to host giveaways using Reddit's platform according to their terms?
+b. Can users organize sweepstakes on Reddit without facing any restrictions?
+c. Is Reddit's policy to allow its users to conduct raffles on their platform?
+d. Are users permitted to run trivia contests on Reddit, as per their service terms?
+
+
+
+51
+Output:
+Original Question: "Are there some Reddit services that I need to pay for in order to use?"
+
+New Questions:
+a. "Do I have to pay for certain aspects of the Instagram app to access its features?"
+
+b. "Is there a fee to upgrade to the Pro version of the YouTube channel?"
+
+c. "Are there any premium features in the Spotify app that require payment?"
+
+d. "Must I pay for additional features to enjoy the full functionality of the Netflix subscription?"
+
+
+
+52
+Output:
+
+Original Question: "Does Reddit charge fees in respect of certain services that it provides?"
+
+New Questions:
+a. "Are there any costs associated with accessing certain features on the YouTube platform?"
+   Context: YouTube offers a variety of free features and content, but it also provides premium subscription services like YouTube Premium, which offer additional benefits.
+
+b. "Is there a charge for using some of the functionalities within the Spotify app?"
+   Context: While Spotify offers a free version with limited features, it also has a Spotify Premium plan that allows for more extensive usage without ads and offline listening capabilities.
+
+c. "Does the use of certain features in the Netflix subscription model incur additional fees?"
+   Context: Netflix primarily operates on a monthly subscription basis, but some of its premium features, like 4K streaming or additional simultaneous streams, may require extra payment.
+
+d. "Are there extra costs for certain add-ons when purchasing a game on the Steam platform?"
+   Context: Steam provides a range of games at different prices, but some games offer in-game purchases, which can include cosmetic items, additional content, or premium membership services.
+
+
+
+53
+Original Question: "Will some of the agreement still apply even if I stop using Reddit?"
+
+New Questions:
+a. "Do certain provisions of the service terms remain in effect if I discontinue using the streaming platform without canceling my subscription?"
+b. "What parts of the membership contract will continue to be binding if I cease using the online gaming service without deleting my account?"
+c. "If I stop using the e-commerce website without unsubscribing, will certain clauses of the user agreement continue to be enforceable?"
+d. "Will the user policies still be applicable if I stop engaging with the social media platform without logging out and deleting my profile?"
+
+
+
+54
+Original Question: "Will certain terms remain in force notwithstanding a user's termination of the service?"
+
+New Questions:
+a. "Does the user's cancellation of the subscription affect the enforcement of specific clauses in the agreement?"
+b. "In the event of a user discontinuing the service, do all conditions outlined in the Terms and Conditions continue to apply?"
+c. "If a subscriber decides to stop using the platform, will all the clauses of the Terms and Conditions still be binding?"
+d. "Upon the user opting out of the service, do particular terms of the service agreement persist regardless of the termination?"
+
+
+
+55
+Output:
+
+Original Question: "Does Wikimedia discourage people from relying on its content for legal or medical advice?"
+
+New Questions:
+a. "Is it advised by the platform to not use the information found on their website for making financial decisions?"
+b. "Should users refrain from using the content on the site for determining home repair procedures?"
+c. "Does the platform caution against using the provided information for diet and exercise recommendations?"
+d. "Is it recommended by the service to avoid using the content on their site for educational purposes in a classroom setting?"
+
+New Contexts:
+a. "Our platform offers a wealth of information on various financial topics, but due to the complexity and variability of financial matters, we strongly advise users to seek professional financial advice before making any significant decisions."
+b. "While we strive to provide accurate and helpful information on home repair, the specifics of each project can vary greatly, and we recommend consulting with a professional for tailored advice."
+c. "The content we provide on diet and exercise is for general information only and should not replace personalized advice from a nutritionist or a fitness trainer."
+d. "Our educational content is designed to supplement learning, but for comprehensive educational purposes, we suggest using our resources in conjunction with formal educational materials and guidance from qualified educators."
+
+
+
+56
+Original Question: Do the terms provide that the content shall not be used as legal or medical advice?
+
+New Questions:
+a. Are users advised not to rely on the content hosted as financial planning guidance?
+b. Do the Privacy Policy terms clarify that the information provided is not to be considered expert legal counsel?
+c. Are there stipulations in the terms that the material presented is not to be used as a substitute for psychiatric treatment advice?
+d. Do the terms of the Privacy Policy indicate that the information provided should not be taken as professional tax advice?
+
+
+
+57
+Original Question: "Am I allowed to be paid for writing a Wikipedia article, assuming I disclose who's paying me?"
+
+New Questions:
+
+a. "Can I receive payment for creating content for a Wikipedia page if I reveal the identity of the sponsor, in compliance with the guidelines?"
+
+b. "Is it permissible to get compensated for contributing to a Wiki project provided I disclose my employer's or client's involvement, as stated in the Terms of Use?"
+
+c. "What are the rules regarding receiving compensation for my work on Wikipedia, if I am required to disclose any payments or sponsorships?"
+
+d. "If I'm getting paid to write content for Wikipedia, do I have to disclose the paying entity's information to adhere to the organization's guidelines on transparency?"
+
+
+
+58
+Original Question: "Are Wikipedia contributors permitted to receive payment in respect of their contributions, provided they disclose the identity of the person or institution providing such payment?"
+
+New Questions:
+a. "Can individuals who contribute to the WikiTravel project be compensated for their work, as long as they reveal who is funding their efforts?"
+   Context: WikiTravel is a collaborative project dedicated to creating a comprehensive travel guide that anyone can edit. The project is a community-driven effort similar to Wikipedia.
+
+b. "Are bloggers on the open-source platform OpenStreetMap allowed to get paid for their mapping work, as long as they inform readers about their paymasters?"
+   Context: OpenStreetMap is a free, editable map of the world that is built by people who contribute and edit the map data. It follows a similar community-based model to Wikipedia.
+
+c. "Is it permissible for volunteers who write content for the website Reddit to be compensated for their contributions, given that they disclose the source of their compensation?"
+   Context: Reddit is a social news aggregation, web content rating, and discussion website where registered users submit content in the form of links or text posts. While not an open-source project, it is community-driven and shares similarities with Wikipedia.
+
+d. "Do participants in the crowdsourced encyclopedia project Citizendium receive payment for their work, as long as they make their funding arrangements public?"
+   Context: Citizendium is an open-content encyclopedia project, much like Wikipedia, which is written collaboratively by volunteers. The project aims to be more reliable and authoritative than Wikipedia by having experts review and endorse articles.
+
+
+
+59
+Original Question: Is it sufficient for me to disclose in the edit summary the compensation I received for the edits I made?
+
+New Questions:
+a. Is it adequate to mention the payment details in the edit summary for the edits performed on the Wikimedia platform?
+b. Is providing the compensation information in the edit summary alone compliant with the Wikimedia Foundation's disclosure policy?
+c. Does stating the compensation received in the edit summary suffice for the disclosure requirement when contributing to a Wikimedia project?
+d. Can I rely solely on including the compensation in the edit summary for the edits I've made to meet the Wikimedia Foundation's disclosure standards?
+
+New Context (for question a):
+a. You have recently completed a series of edits to the Wikipedia article on "Artificial Intelligence." Your employer has sponsored these edits, and you are required to disclose this financial relationship as per the Wikimedia Foundation's Terms of Use. You wish to ensure that your disclosure is in accordance with the Foundation's guidelines.
+
+New Context (for question b):
+b. You are part of a team that has made significant contributions to a Wikimedia project. You have received a monetary reward from your company for these contributions. You are unsure about the correct method of disclosure and are looking for clarity on whether mentioning the compensation in the edit summary is sufficient.
+
+New Context (for question c):
+c. As a member of the Wikimedia community, you have contributed to multiple projects and have been compensated for your work. You are in doubt about the disclosure policy and whether you are required to disclose the compensation in the edit summary alone or through other means.
+
+New Context (for question d):
+d. You are an editor on a Wikimedia project and have been engaged in paid contributions. You are aware of the Foundation's requirement to disclose any compensation received for your work but are not certain if the edit summary is the appropriate place for this disclosure.
+
+
+
+60
+Original Question: Can things I write for Wikipedia be used by other people or organizations for commercial purposes?
+
+New Questions:
+a. Are contributions to the English Wiktionary legally allowed for use in marketing campaigns by companies?
+b. Can individuals use content from my articles on the Spanish Wikipedia for business advertisements?
+c. Is it permissible for a for-profit company to incorporate my writing from the German Wikipedia into their promotional materials?
+d. Are my articles on the French Wikipedia open to be repurposed for commercial use by other entities?
+
+
+
+61
+Original Question: Pursuant to the terms, can contributions to Wikipedia be put to commercial use?
+
+New Questions:
+a. According to the licensing requirements, is it permissible to use content from the Wikimedia Commons for business purposes?
+b. Can individuals or companies utilize content from Wikipedia for their commercial ventures under the stipulated licenses?
+c. Are contributions to the free knowledge projects, like those on Wikipedia, allowed to be employed in a commercial setting, as long as the proper licenses are followed?
+d. Is there a provision in the licensing agreement for using content from Wikipedia in a commercial product or service?
+
+
+
+62
+Original Question: "Does Wikimedia try to avoid taking responsibility for the safety of its services?"
+
+New Questions:
+a. "Is the Wikimedia Foundation exempt from ensuring the security of its user data and services?"
+b. "Does the Wikimedia Foundation seek to negate its responsibility for the safety of its online platforms?"
+c. "Is it the policy of Wikimedia to refrain from accountability for the safety measures of its services?"
+d. "Does Wikimedia intentionally minimize its liability for the security issues related to its service offerings?"
+
+
+
+63
+Original Question: Does Wikimedia purport to disclaim any liability for its services not being safe?
+
+New Questions:
+a. Does the Wikimedia Foundation claim no responsibility for ensuring the safety of its online platforms?
+b. Is it stated that Wikimedia will not accept liability if their services fail to provide a secure environment?
+c. Does the Wikimedia Foundation explicitly exclude liability for any unsafe aspects of their services?
+d. According to the Terms of Use, does Wikimedia disavow liability for any potential hazards associated with using their services?
+
+
+
+64
+Original Question: "Am I able to create multiple Shopify staff accounts?"
+
+New Questions:
+a. "Can I set up several staff accounts for my Etsy store?"
+    Context: You are the owner of an Etsy store and you want to delegate tasks to multiple individuals while maintaining control over their access levels.
+
+b. "Is it possible to have more than one staff account for my WooCommerce shop?"
+    Context: You manage a WooCommerce online store and are looking to hire additional help to manage daily operations, but want to limit their access to certain parts of the store.
+
+c. "How many staff accounts can I create for my Squarespace website?"
+    Context: You have recently launched a Squarespace website and are considering hiring team members to assist with the website's content management and other tasks.
+
+d. "May I establish multiple staff accounts for my BigCommerce online store?"
+    Context: As the owner of a BigCommerce online store, you are interested in dividing responsibilities among several staff members, and you want to know if you can create multiple staff accounts to do so.
+
+
+
+65
+Original Question: Does Shopify permit Shopify accountholders to create more than one staff account each?
+
+New Questions:
+a. Can an Etsy shop owner set up multiple staff accounts for different departments within their online store?
+b. Is it possible for a Squarespace website owner to have several staff accounts with different access levels?
+c. Does BigCommerce allow merchants to create extra staff accounts for their various store locations?
+d. Can a Wix user have several staff accounts to manage different aspects of their online business?
+
+
+
+66
+Original Question: "Can marketing information be considered confidential according to the terms?"
+
+New Questions:
+a. "Under the agreement, is customer feedback treated as confidential information?"
+b. "Are sales strategies considered confidential according to the contract provisions?"
+c. "Does the contract define market research data as confidential information?"
+d. "According to the terms, can the details of promotional campaigns be classified as confidential?"
+
+New Contexts:
+a. "In the context of a partnership between a tech company and a marketing firm, the contract specifies the handling of customer feedback, which is essential for both parties' business strategies."
+b. "A retail corporation has entered into an agreement with a consultant to develop new sales strategies, and the contract outlines how these strategies are to be kept confidential."
+c. "A biotech company has an agreement with a research firm that includes the exchange of market research data, which is considered highly sensitive and confidential."
+d. "A media company is working with an advertising agency to create promotional campaigns for upcoming events, and the contract details the confidentiality requirements for these campaigns."
+
+
+
+67
+Original Question: Do the terms deem certain marketing information Confidential Information?
+
+New Questions:
+a. Does the agreement consider specific sales strategies as Confidential Information?
+b. Are the details of promotional campaigns classified as Confidential Information under the terms?
+c. Is the data related to advertising strategies deemed Confidential Information according to the contract?
+d. Under the terms, is the proprietary information about pricing models considered Confidential Information?
+
+
+
+68
+Original Question: Does Shopify prevent me from telling other people if I'm using a beta service?
+
+New Questions:
+a. Is it against the rules for me to share information about the beta features I'm testing with my colleagues at work?
+
+b. Can I discuss my experience with the beta version of the platform with my friends without Shopify's consent?
+
+c. Does Shopify require me to keep the details of my participation in the beta service secret from my social media followers?
+
+d. Am I restricted from sharing insights about the beta service I'm using with my business partners without Shopify's approval?
+
+
+
+69
+Original Question: Does Shopify preclude users of Beta Services from disclosing their participation in such services?
+
+New Questions:
+a. Are participants in the pre-release software program at Amazon restricted from sharing their involvement without Amazon's explicit approval?
+b. Can users who join the Microsoft beta testing phase reveal their participation in the beta testing without Microsoft's consent?
+c. Is it forbidden for individuals using the Google beta features to talk about their participation in the beta testing phase without Google's written consent?
+d. Under what conditions can a user of the Apple beta version of an app publicly discuss their experience without Apple's prior written permission?
+
+
+
+70
+Original Question: By default, does eBay prohibit transfers of eBay accounts?
+
+New Questions:
+a. By default, is it against the rules for users to transfer their Amazon account details to someone else?
+b. Does the policy of Etsy, by default, include restrictions on transferring an Etsy account to another individual?
+c. By default, is there a rule in place for PayPal users to transfer their account ownership to another person?
+d. By default, does Google allow users to transfer their Google account to a different user?
+
+
+
+71
+Original Question: "Can eBay suspend my account if my credit card doesn't work?"
+
+New Questions:
+a. "Is my PayPal account at risk of being suspended if the linked credit card fails a transaction?"
+b. "What happens if my bank account on file with Etsy is no longer active, and I haven't updated it with Etsy?"
+c. "Can Amazon deactivate my seller profile if the payment method provided for shipping fees is declined?"
+d. "If my Venmo account is linked to my Poshmark account and the payment fails, can Poshmark freeze my account?"
+
+
+
+72
+Original Question: "Is eBay entitled to suspend an account in the event that the credit card registered with such account is rejected?"
+
+New Questions:
+a. "Can Amazon terminate a user's account if the payment method linked to their profile is declined?"
+
+New Context: Amazon has outlined its policies regarding payment methods and account management on its Service Fees page. Users are required to maintain a valid payment method for all transactions. If a payment method is declined, Amazon may take action to suspend the account, retain collection agencies, and charge late fees.
+
+b. "Does PayPal have the right to deactivate a user's account if their bank account is flagged for suspicious activity and funds are not available?"
+
+New Context: PayPal's User Agreement states that users must provide accurate and up-to-date information. If PayPal suspects fraudulent or suspicious activity, it may place holds on transactions, restrict an account, or deactivate the account. PayPal will inform users of such actions and provide instructions for resolving the issue.
+
+c. "Is it permissible for Etsy to halt a seller's access to their shop if a payment processor fails to process their payment and the payment method on file is not valid?"
+
+New Context: Etsy's seller policies, as outlined on their Payments page, require sellers to have a valid payment method on file. If Etsy's payment processor is unable to process a payment due to an invalid payment method, Etsy may suspend the seller's account and provide instructions on how to rectify the situation.
+
+d. "Under what circumstances might Upwork suspend a contractor's profile if their payment method is found to be invalid or expired?"
+
+New Context: Upwork's Terms of Use include provisions for maintaining valid payment methods. If a contractor's payment method is invalid or expired, Upwork may suspend the contractor's profile. Upwork will notify the contractor and guide them through the process of updating their payment information to reactivate their account.
+
+
+
+73
+Original Question: If I win an eBay bid, am I actually obligated to purchase the item?
+
+New Questions:
+a. If I am the highest bidder on a piece of antique furniture on Etsy, do I have a legal commitment to buy it?
+b. Upon being declared the winning bidder on a house listed on Zillow, am I under any obligation to buy the property?
+c. When I place the winning bid on a used motorcycle on Facebook Marketplace, do I have to proceed with the purchase?
+d. If my bid is accepted for a collectible coin on an online auction site, am I bound by contract to purchase the coin?
+
+
+
+74
+Original Question: Do winning bids on eBay entail a legal obligation on the part of the bidder to purchase the applicable item?
+
+New Questions:
+a. Are successful offers on Etsy considered a legal commitment by the buyer to buy the listed product?
+b. When a bid is accepted on Amazon, does the bidder have a legal responsibility to complete the purchase of the item?
+c. In the case of Etsy purchases, does the winning bidder have a legal obligation to follow through with the transaction?
+d. On EBay, what is the legal status of a bid that is confirmed as the winning offer for an item?
+
+
+
+75
+Output:
+Original Question: "Does eBay translate product listings even if I don't ask for that?"
+
+New Questions:
+a. "Is the service of translating my product descriptions offered automatically on Amazon even without my explicit request?"
+b. "Do Alibaba's product listings get automatically translated into other languages without a customer's specific request?"
+c. "Would Etsy translate my product page into various languages even if I have not requested the translation?"
+d. "If I sell on WooCommerce, do the product listings get translated into other languages without my prompting?"
+
+
+
+76
+Original Question: "Does eBay translate product listings in the absence of a user or a store's request for such translation?"
+
+New Questions:
+a. "Is there an automatic translation of product descriptions by Amazon when customers do not specifically ask for it?"
+b. "Can Walmart automatically translate product information on their website for international visitors without their request?"
+c. "Does Alibaba offer the feature of translating product listings into multiple languages without the need for customers to request it?"
+d. "Is it true that Etsy automatically converts product descriptions into different languages for users from around the world, even without a direct request?"
+
+
+
+77
+Original Question: "Does eBay ever do robocalls?"
+
+New Questions:
+a. "Is it possible for Amazon to make automated calls to its customers for account-related matters?"
+b. "Could Walmart use pre-recorded messages to contact customers about their orders or promotions?"
+c. "Does Target use autodialing to reach out to its members for feedback on their shopping experience?"
+d. "Is it common practice for Costco to initiate robocalls to inform members of store policies or exclusive offers?"
+
+
+
+78
+Original Question: Does eBay reserve the right to conduct automated phone calls?
+
+New Questions:
+a. Is it permissible for Amazon to initiate automated phone calls to its customers?
+b. Can Walmart use autodialed calls to communicate with its shoppers for service-related matters?
+c. Can Target engage in automated phone call monitoring for customer support purposes?
+d. Does Best Buy have the authority to make automated phone calls for account maintenance or dispute resolution?
+
+
+
+79
+Original Question: "Can I customize the return policy for items I sell on eBay?"
+
+New Questions:
+a. "Is it possible to modify the standard return process for products I list on eBay?"
+b. "Can I alter the default return preferences for my eBay listings?"
+c. "Do I have the option to personalize the return rules for my eBay sales?"
+d. "Is there a way to change the automated return policy settings on my eBay account?"
+
+
+
+80
+Output:
+Original Question: Are eBay sellers entitled to modify the return policy applicable to goods they sell on eBay?
+
+New Questions:
+a. Can Etsy shop owners adjust the return and cancellation policies for their items listed on the platform?
+b. Are Amazon vendors allowed to alter their product return policies on the online marketplace?
+c. Do Zappos retailers have the right to change the return rules for the products they offer on Zappos?
+d. Is it permissible for Walmart sellers to tweak their return policies for items sold on Walmart's website?
+
+
+
+81
+Original Question: Can some users opt out of the arbitration agreement?
+
+New Questions:
+a. Are there circumstances under which a user may choose not to be bound by the arbitration clause?
+b. How can a user who has recently joined the service withdraw their consent to the arbitration agreement?
+c. Is it possible for a new subscriber to decline the arbitration clause in the terms of service?
+d. What is the process for a user to exclude themselves from the mandatory arbitration provision outlined in the user agreement?
+
+
+
+82
+Original Question: Are certain users entitled to refuse to be subject to the arbitration agreement?
+
+New Questions:
+a. Can new users who sign up for the service opt out of the mandatory arbitration clause?
+b. Do existing users have the right to withdraw their acceptance of the arbitration agreement after they have already enrolled in the service?
+c. Are there any exceptions for users who reside in jurisdictions with specific laws against mandatory arbitration clauses?
+d. Is there a legal mechanism for users to decline the arbitration agreement if they believe it is unfair or not in their best interest?
+
+New Context:
+a. New users who wish to join the service must go through a registration process where they can choose to opt-out of the arbitration agreement within a specified timeframe.
+b. Existing users can submit a written notice to eBay to withdraw their acceptance of the arbitration agreement, which will be considered under the terms and conditions set forth in the User Agreement.
+c. Users living in jurisdictions where mandatory arbitration is not recognized by law can challenge the arbitration clause, and the matter will be decided by a court of competent jurisdiction.
+d. Users who feel the arbitration agreement is unfair or does not serve their interests can file a formal complaint, and eBay will review the matter to determine if an exception can be made to the arbitration clause.
+
+
+
+83
+Original Question: Could there be severe legal consequences if I sell the software to someone else?
+
+New Questions:
+a. What are the potential legal repercussions if I were to resell the software I downloaded from the website?
+b. Are there any legal penalties if I attempt to market the software I obtained from Microsoft's services to a third party?
+c. If I were to redistribute the software I got from the Microsoft services, could I face serious legal sanctions?
+d. What might be the legal implications if I were to sell the software that comes with a License Agreement to another individual?
+
+
+
+84
+Original Question: Does Microsoft caution users that unauthorized reselling of software could lead to the imposition of significant legal sanctions?
+
+New Questions:
+a. Is Adobe warned to its users that selling its software without proper authorization might result in serious legal consequences?
+b. Does Apple advise its customers that redistributing their applications without permission could incur major legal penalties?
+c. Does Google inform its users that selling their apps without the correct licensing can lead to substantial legal repercussions?
+d. Does Amazon notify its users that reselling its digital content without proper authorization might be subject to severe legal actions?
+
+
+
+85
+Original Question: Are schools allowed to hand out Microsoft FAQs and similar documents to students in class?
+
+New Questions:
+a. Can educational institutions distribute Google support guides and related materials to their students during lectures?
+b. Are colleges permitted to provide Apple user manuals and FAQs to their students for educational purposes?
+c. Is it permissible for K-12 schools to circulate Amazon help documents and guides to their students for classroom use?
+d. May universities distribute Salesforce FAQs and technical documents to their students in the context of their studies?
+
+
+
+86
+Original Question: "Is Microsoft saying that it won't be responsible for loss of data caused by its services?"
+
+New Questions:
+
+a. "Does the policy state that Google will not be held liable for any data loss resulting from the use of their cloud services?"
+
+b. "According to the terms, is Apple absolved from responsibility for any data breaches or loss that may occur on their iCloud platform?"
+
+c. "The terms mention that Amazon Web Services will not be accountable for any data loss or corruption that might occur within their service. Is this accurate?"
+
+d. "Does the agreement imply that Dropbox will not be responsible for any loss of user data that might arise from using their file storage services?"
+
+
+
+87
+Original Question: Does Microsoft purport to exclude liability in connection with loss of data occurring on account of its services?
+
+New Questions:
+a. Is Google supposed to disclaim responsibility for any data loss that happens as a result of its online storage services?
+b. Can Apple be held harmless for any data loss that occurs due to their cloud computing services?
+c. Does Amazon claim to be free from liability for any data loss that arises from the use of its cloud services?
+d. Is IBM absolved of any liability for data loss that might occur because of its cloud computing offerings?
+
+
+
+88
+Output:
+Original Question: Is it possible that if someone hacks into my Microsoft account and Microsoft is somehow harmed, then Microsoft could sue me?
+
+New Questions:
+a. Could Microsoft take legal action against me if a hacker accesses my account and causes damage to their services?
+b. If an unauthorized user gains access to my Microsoft account and leads to a financial loss for the company, would Microsoft seek compensation from me?
+c. In the event of a security breach in my Microsoft account leading to damages for the company, am I at risk of being sued by Microsoft?
+d. Is there a possibility that Microsoft would initiate a lawsuit against me if my account is compromised and results in a detrimental impact on their business?
+
+
+
+89
+Original Question: "Are there circumstances in which a security breach of a users Microsoft account could give rise to a claim by Microsoft against such user?"
+
+New Questions:
+
+a. "Under what conditions might a breach of a user's LinkedIn account result in a claim by LinkedIn against the user for damages?"
+
+Context: LinkedIn is a professional networking platform similar to Microsoft, offering services where users can create accounts, access documents, and perform various professional activities. The platform has a privacy and security policy that outlines the responsibilities and liabilities of users.
+
+b. "What scenarios could lead to a claim by Google against a user for losses resulting from a compromised Google account?"
+
+Context: Google provides various services such as email, document storage, and online advertising through its Google account platform. The company's terms of service include clauses on account security and liability.
+
+c. "In what instances could a user's compromised Amazon account be the basis for a claim against them by Amazon for financial losses?"
+
+Context: Amazon offers a broad range of services through its account system, including e-commerce, cloud computing, and streaming services. The company's user agreement includes provisions for account security and the potential for users to be liable for unauthorized activities.
+
+d. "Could a security breach of a user's Apple ID lead to Apple taking legal action against the user for any resulting damages?"
+
+Context: Apple's ID is used across various Apple services, including the App Store, iCloud, and other digital content services. The company's terms and conditions cover the responsibilities and liabilities associated with the use of an Apple ID.
+
+
+
+90
+Original Question: When I give Microsoft feedback on its products, is Microsoft allowed to publicly display that feedback?
+
+New Questions:
+a. If I submit suggestions for Amazon's services, can Amazon publicly showcase my suggestions?
+b. What are the rights of YouTube to use comments I post on videos for their platform?
+c. When I rate a restaurant on TripAdvisor, does TripAdvisor have the authority to display my review publicly?
+d. If I contribute content to a community forum hosted by Google, can Google publicly feature my contributions?
+
+
+
+91
+Original Question: Is Microsoft entitled to make publicly available user feedback that has been provided to it?
+
+New Questions:
+a. Does Google have the right to publish customer reviews that were submitted on their platform?
+b. Can Amazon use customer testimonials that were shared on their website for marketing purposes?
+c. Under what circumstances can Apple display consumer suggestions that were posted on its official website?
+d. Is it permissible for Spotify to share user-generated content that was submitted for public review on their service?
+
+
+
+92
+Original Question: Can I share racist content that is necessary for teaching a civics class on racism?
+
+New Questions:
+a. Is it permissible to distribute content that promotes racial stereotypes in a history course about the evolution of civil rights?
+
+b. Is it acceptable to present material depicting racial discrimination in a sociology class, even if it includes explicit racial slurs?
+
+c. Can I use content that includes racial jokes in a cultural studies lecture about the impact of humor on social norms?
+
+d. Is it okay to share a documentary that portrays racial prejudice in a political science class, despite its potentially offensive language?
+
+
+

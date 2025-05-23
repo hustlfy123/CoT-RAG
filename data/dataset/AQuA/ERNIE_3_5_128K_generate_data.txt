@@ -1,0 +1,2113 @@
+0
+New Questions:
+a. Two colleagues decide to cycle along a 50-km route, starting from different ends at the same time. If Colleague A cycles at a speed that is 20% faster than Colleague B, how many kilometers will Colleague A have cycled when they meet?
+
+b. A pair of siblings plan to run a marathon (42.195 km). They start at different points on the course but at the same time. If Brother X runs at a speed that is 12% faster than Sister Y, how far will Brother X have run when they pass each other?
+
+c. Two competitors embark on a 60-km hiking trail from different starting points but at the same time. If Competitor M's pace is 18% quicker than Competitor N's, how many kilometers will Competitor M have hiked when they encounter each other?
+
+d. Two explorers embark on an adventure on a 35-km trail. Explorer A starts at a faster pace, being 17% quicker than Explorer B. How many kilometers will Explorer A have walked when they meet each other for the first time?
+
+
+
+1
+New Questions:
+a. In the coordinate plane, points (x, 3) and (7, y) are on line l. If line l passes through the point (2,-1) and has slope 2, then what are the values of x and y respectively?
+b. Given a line m in the coordinate plane with slope 3/4, and it passes through the origin and a point (x, 4). If another point (5, y) is also on this line, what are the values of x and y?
+c. In the coordinate system, line n passes through the origin and has a slope of -2. It also passes through point (x, 2). What are the coordinates of another point (3, y) on this line?
+d. In a coordinate plane, line o connects points (2, 7) and (x, 3). If the slope of this line is 2/1, what is the value of x? Also, if it passes through the origin, what would the y-coordinate of the point (x, y) be?
+
+
+
+2
+New Questions:
+a. 对于所有的数p和q，操作符◎被定义为p◎q = p^3 + pq。如果xy ≠ 0，那么以下哪些表达式可能等于零？
+I. x◎y
+II. (xy)◎y
+III. x◎(x + y)
+
+b. 如果我们用一种新操作符号来代表定义p$q = pq + p，那么对于所有数值p和q，以下哪些表达式可能等于零？假设xy ≠ 0。
+I. x$y
+II. (xy)$y
+III. x$(x + y)
+
+c. 对于所有数p和q，假设一个操作符号%定义为p%q = p^2 + q。如果xy ≠ 0，请判断以下表达式的值可能为多少？给出可能为零的表达式。
+I. x%y
+II. (xy)%y
+III. x%(x - y)
+
+d. 对于所有数p和q，我们定义一个新的操作符号~来表示p~q = pq^2 - p。给定xy ≠ 0的条件下，请判断以下哪些表达式可能为零？
+I. x~y
+II. (xy)~y^2
+III. x~(x + y)^2
+
+
+
+3
+a. Emily is facing financial difficulties and can only pay the interest on a £7,500 loan he has taken out. The bank charges him a monthly compound rate of 3%. What is the approximate interest he pays annually?
+
+b. James has taken out a $20,000 loan and can only afford to pay the interest. The bank charges him a quarterly compound rate of 5%. How much will he pay in annual interest?
+
+c. Andrew has a $15,000 loan and is able to pay only the interest which amounts to a daily compound rate of 2%. What will be his annual interest payment?
+
+d. Michael has borrowed $9,000 and the bank is charging him a yearly simple interest rate of 6%. What is the approximate annual interest he will pay?
+
+
+
+4
+New Questions:
+a. The speed at which a woman can row a small boat on calm water is 20 kmph. If she rows downstream with a current speed of 8 kmph, how long will it take her to cover 100 meters?
+
+b. A professional crew member rows a racing boat in calm water with a speed of 30 kmph. Rowing downstream in a current of 15 kmph, how fast will he cover 120 meters?
+
+c. In still water, a team of paddlers can move their kayak at 18 kmph. Paddling downstream through a current of 9 kmph, what is the time taken to travel 75 meters?
+
+d. A person is rowing a leisure boat in still water with a speed of 22 kmph. If he rows downstream in a river with a current speed of 7 kmph, how long does it take him to cover a distance of 90 meters?
+
+
+
+5
+New Questions:
+a. In a certain dance troupe, there are k-2 members excluding Lily and Jack. Two members need to be picked to represent the troupe in an international dance competition. If there are 7 possible combinations where Lily and Jack are not chosen, what is the value of k?
+b. There are k-2 students in a school's robotics club, including Emma and Oliver. Two students are to be picked to represent the club in a competition. If there are 9 possible combinations where Emma and Oliver are not chosen, what is the total number of students in the club?
+c. In a certain music group, there are k-2 musicians excluding Sara and Tom. The group needs to select two musicians to perform at a concert. If there are 5 combinations where Sara and Tom are not chosen, how many musicians are there in total?
+d. In a community service project, there are k-2 volunteers, including Mark and Amanda. Two volunteers need to be assigned to clean up a park. If there are 4 possible combinations where Mark and Amanda are not assigned, what is the total number of volunteers in the project?
+
+
+
+6
+a. If (y^2 + 6y - 29)/7 ≤ y + 2, then y can be represented by which of the following?
+
+b. If the expression (z^2 + z - 30)/3 ≤ z - 4 is true, which real numbers are possible values of z?
+
+c. What values of t satisfy the inequality (t^2 + 2t - 15)/t ≤ t + 3?
+
+d. If a number s satisfies the inequality (s^2 + 5s - 28)/6 ≤ s + 3, what could be the possible values of s?
+
+
+
+7
+a. Find the smallest number of six digits that is exactly divisible by 21, 33, 99, and 77.
+b. What is the smallest five-digit number that is divisible by 11, 22, 55, and 66?
+c. Find the smallest five-digit number that is exactly divisible by 12, 33, 44 and their highest common factor.
+d. Can you find a five-digit number that is simultaneously divisible by 24, 36, 60 and 48? If so, what is it?
+
+
+
+8
+Original Question: The entrance fee for a fair is $5 for persons under the age of 18, and 20% more for persons older. Each ride at the fair costs $0.50. If Joe goes with her 6 years old twin brothers, and they each took 3 rides in total. How much money does Joe end up spending at the fair?
+
+New Questions:
+a. In a similar event, the admission charge for children below 12 years is $3 while those above pay $7.5 (20% more). Each ride at this event costs $1. How much would an 18-year-old girl spend if she brings her 9-year-old brother and they both take 2 rides each?
+
+b. In another event, kids below the age of 10 are charged $2 for entry, while those aged between 10-18 are charged $6 with a ride cost of $0.75 each. How much would a teenager with her two siblings aged 7 and 12 spend if they all took 4 rides?
+
+c. In a theme park, children under 5 get in free while those above pay $4 with each ride costing $0.80. If an adult accompanied by his two kids aged 4 and 8 years old took a total of 6 rides, how much would they pay?
+
+d. At a community festival, kids under 15 are charged $6 each with an additional $5 entrance fee for their adult companion. Each ride at the festival costs $0.99. If a parent brings her two children aged 12 and their friend aged 17, and they all take 5 rides each, how much would they spend in total? Note that the friend does not have a discount on entrance fee as he is not under 15 years old.
+
+
+
+9
+a. If X and Y are digits and 4XY is a multiple of 5, which of the following could be the product of X and Y?
+
+b. Given that X and Y are digits and the number 7XY is divisible by 9, which value is the product of X and Y?
+
+c. Consider the digits X and Y where 1XY is a three-digit number divisible by 3. What is the possible value of the product X*Y?
+
+d. If X and Y are digits that satisfy the condition that 9XY is a multiple of both 6 and 9, what could be the product of X and Y?
+
+
+
+10
+Original Question: If Tim had lunch at $50 and he gave 20% tip, how much did he spend?
+New Questions:
+a. If Jennifer had dinner at $75 and she gave a 15% tip, how much did she spend?
+b. Tom had a meal at a restaurant that cost $40, and he left a 25% tip. How much did he spend in total?
+c. Emma ate at a restaurant and her meal was worth $60, including a 10% discount. How much did she pay after the discount?
+d. David spent $35 on lunch and added a 30% tip to the bill. Calculate his total expenditure.
+
+
+
+11
+Original Question: Rs. 825 becomes Rs. 956 in 3 years at a certain rate of simple interest. If the rate of interest is increased by 4%, what amount will Rs. 825 become in 3 years?
+New Questions:
+a. Rs. 700 grows to Rs. 875 in 2 years at a certain rate of simple interest. If the rate of interest is hiked up by 5%, how much will it be after 2 years?
+b. At a certain rate of simple interest, Rs. 900 becomes Rs. 1089 in 4 years. If the interest rate is raised by 3%, what will Rs. 900 be worth after 4 years?
+c. If Rs. 1000 grow to Rs. 1175 in 3 years at a particular rate of simple interest, what amount will it become if the interest rate is escalated by 2% for the next 3 years?
+d. In a fixed period of 3 years, Rs. 750 will become Rs. 926 at a certain rate of simple interest. The interest rate is now increased by 1%, calculate its value after another 3 years.
+
+
+
+12
+New Questions:
+a. r is a positive integer and divisible by 3; s = 3^r, what is the remainder when s is divided by 8?
+b. g is a positive integer and a multiple of 5; t = 5^g. What is the remainder when t is divided by 6?
+c. n is a positive integer and a multiple of both 7 and 9; m = 7^n. What is the remainder when m is divided by 11?
+d. z is a positive integer and a multiple of 3; f = 2^z * 5^z. What is the remainder when f is divided by both 3 and 7?
+
+
+
+13
+a. If p is the square of a positive integer, which of the following must be equal to the square of the next positive integer after p?
+b. Given a positive integer n whose square is denoted as m, what is the square of the next positive integer?
+c. If a number r is the square of a positive integer, what would be the next positive integer's square, if it were one greater?
+d. The square of a certain positive integer is x. What would be the square of the next positive integer after x?
+
+
+
+14
+New Questions:
+a. If Rs. 6500 is divided into three parts P, Q and R with the ratio 1/7:1/7:1/14, how much more is P than R?
+b. In the division of Rs. 6000 into A, B and C, A is more than C by how much if their ratio is 3/5:1/4:2/5?
+c. If Rs. 5600 is divided into X, Y and Z with a ratio of 1/9:2/9:1/3, how much is X more than Z?
+d. In a distribution of Rs. 7200 among D, E and F in the ratio of 3/7:2/7:1/7, what is the difference between D and F?
+
+
+
+15
+a. If a different number is divided by b resulting in a ratio of 4/5 and the sum of 7a plus 3b is 35, what is the value of a?
+
+b. Given that a/b = 5/6 and 9a + 2b = 33, how much is the value of a?
+
+c. When a is divided by b with a result of 2/3, and 12a + b is equal to 38, find the value of a.
+
+d. If a/b = 7/8 and the sum of 2a and 9b is 64, what is the value of a?
+
+
+
+16
+a. Given that p/q < 2 and both p and q are positive integers, which one of the following must be greater than 2?
+b. Given that a/b > 5 and both a and b are integers, with a being positive and b being negative, which one of the following must be greater than 5?
+c. Given that m/n < 3, and both m and n are non-zero integers, which of the following must have a value greater than 3?
+d. Given that c/d > 7, with c being a positive integer and d being a negative integer, which one of the following must be greater than 7?
+
+
+
+17
+a. John did six mock tests for the GRE. In each mock test, he scored 15 points higher than the previous one. If he scored 300 on the actual GRE and his average score for all the mocks and the GRE was 295, what was the difference in score between his last mock and the GRE?
+
+b. Emma appeared for the SAT after doing 4 mock tests. She scored 50 points higher in each mock test than the previous one. If she scored 1300 on the actual SAT and her average score for all the mocks and the SAT was 1280, what was the difference in score between her last mock and the SAT?
+
+c. Before appearing for the TOEFL, David did 3 mock tests. He scored progressively better in each mock test, with each score being 8 points higher than the previous one. If his final TOEFL score was 960 and his overall average score across all tests was 930, what was the difference in score between his last mock and TOEFL?
+
+d. In preparation for her LSAT exam, Lily did five mock tests, scoring 12 points higher in each one than in the previous one. She ended up scoring 650 on her actual LSAT exam with an average score across all tests of 635. What was the difference in score between her last mock and actual LSAT exam?
+
+
+
+18
+Original Question: John found that the average of 15 numbers is 40. If 10 is added to each number then the mean of number is?
+
+New Questions:
+a. Alice discovered the average of 20 numbers is 35. What happens if she adds 5 to each number?
+
+b. Bob knows the average of a set of numbers is 60. If he subtracts 5 from each number, what will the new mean be?
+
+c. If the average of a group of numbers is 70 and each number is doubled, what will be the new mean?
+
+d. The average of a set of numbers is 50. By adding 3 to each number, what percentage increase will there be in the new mean?
+
+
+
+19
+New Questions:
+a. "A car is moving at a speed of 30 miles per hour and reaches its destination in 3 hours. What is the distance covered?"
+b. "If a bicycle rides at 15 km/h and reaches its destination in 4 hours, how far did it travel?"
+c. "A person is walking at a pace of 5 km/h and takes 2 hours to reach her destination. Calculate the distance walked."
+d. "A runner is running at a speed of 25 km/h and completes the marathon in 3 hours. How far did they run?"
+
+
+
+20
+a. The first five numbers in a regular sequence are 7, 19, X, 43, and 97. What is x?
+b. In a given sequence of numbers, the first five are 3, 9, X, 39, and 81. Find the value of X.
+c. The first five numbers in a growing sequence are 1, 7, X, 37, and 99. What is the value of X?
+d. In a specific sequence of numbers, the first five numbers are 6, 18, X, 54, and 126. What is the missing number X?
+
+
+
+21
+Original Question: Tim has 350 pounds of cement in 100, 50, and 25 pound bags. He has an equal number of each size bag. How many bags of cement does Tim have?
+New Questions:
+a. Lucy has 400 grams of flour in 200, 100, and 50 gram bags. She has the same number of each bag. How many bags of flour does Lucy have?
+b. In a construction site, Bob has 2 tons of sand in large, medium, and small bags, each containing 100, 50, and 25 kilograms respectively. If he has an equal number of each type of bag, how many bags of sand does Bob have?
+c. At the building materials store, Michael has a total of 80 cubic feet of rock in three different size bags containing 20, 10, and 5 cubic feet each. If he has the same number of each type of bag, how many bags does Michael have?
+d. A landscaping project requires 75 yards of mulch. The mulch comes in bags of 10, 5 and 2.5 yards each. If an equal number of each size bag is used, how many bags are needed for the project?
+
+
+
+22
+Original Question: What is the least value of x, so that 2x5475 is divisible by 9?
+
+New Questions:
+a. What is the minimum value of x required for 3x4796 to be divisible by 9?
+b. Find the smallest value of x such that 5x2883 is divisible by 9.
+c. For what minimum value of x is 7x1905 divisible by 9?
+d. What is the least x value that makes 4x369 divisible by 9?
+
+
+
+23
+a. Square R is inscribed in circle S. If the perimeter of R is 60, what is the circumference of S?
+b. Circle A has a diameter that is equal to the perimeter of square B. If the perimeter of B is 50, what is the circumference of A?
+c. Square C is embedded in circle D. If the side of C is 8 units, what is the circumference of D?
+d. A square is inscribed in a circle with a side length of 10 units. What is the circumference of the circle?
+
+
+
+24
+New Questions:
+a. A student starts with a weekly savings of $50 and increases their weekly savings by $5 each week. If they want to save up to $600, how many weeks will it take?
+b. An employer agrees to pay his employee a monthly salary which is double of what he paid the previous month. If the employee's first salary was $2500, and he is expected to earn a total of $48000 over the year, how many months of salary will it take to reach that amount?
+c. A person starts a business with an initial investment of $1000 and doubles their investment every month. If they want to reach a total of $327680, how many months will it take?
+d. An artist starts with daily painting sales of $50 and increases their daily sales by $5 each day. If the artist aims to make $300 in daily sales, how many days will it take?
+
+
+
+25
+New Questions:
+a. As a motorcycle salesperson, James earns a daily wage of $25 per day plus $10 per motorcycle for the first 5 motorcycles he sells, $15 per motorcycle for the next 5 motorcycles, and $20 per motorcycle for every motorcycle sold after the first 10. Suppose he made significantly more last week than his weekly quota of $300. If he sold z motorcycles last week and w motorcycles this week, which of the following statements must be true?
+I. w<z
+II. w>z
+III. w>15
+
+b. As a car salesperson, Alex earns a daily wage of $40 per day plus $8 per car for the first 8 cars he sells, $12 per car for the next 4 cars, and $16 per car for every car sold after the first 12. This week, he earned double what he earned last week. If he sold p cars last week and q cars this week, which of the following statements must be true?
+I. q<p
+II. q>p+4
+III. q>8
+
+c. As a toy salesperson, Emily earns a fixed weekly salary of $40 plus $5 per toy for the first 5 toys she sells, $8 per toy for the next 5 toys she sells, and $12 per toy for every toy sold after the first 10. If she earned more this week than she did last week and sold r toys last week and s toys this week, which of the following statements must be true?
+I. s<r
+II. s>r+3
+III. s>=8
+
+d. As a book salesperson, Jack earns a monthly salary of $150 plus $10 per book for the first 8 books he sells, $15 per book for the next 6 books, and $20 per book for every book sold after the first 14. If he earned more this week than last week by selling t books last week and u books this week, which of the following statements must be true about Jack's sales?
+I. u<t
+II. u>t+4
+III. u>9
+
+
+
+26
+a. A college maintains a fixed number of students per seminar. If the ratio of students per seminar were to be doubled, 5 fewer seminars would be run for a total of 60 students. What is the current ratio R of students per seminar?
+
+b. A club has a limited number of members in each group. If the ratio of members per group were to be increased by 2, 8 fewer groups would gather with a total of 48 members. What is the current ratio S of members per group?
+
+c. In an office, employees are distributed across departments. If the ratio of employees per department were to be tripled, 7 departments would close with a total of 49 employees. What is the current ratio T of employees per department?
+
+d. A factory has a fixed number of workers per workshop. If the ratio of workers per workshop were to be increased by 50%, 3 workshops would be saved with a total of 18 workers. What is the current ratio U of workers per workshop?
+
+
+
+27
+New Questions:
+a. A study finds that the typical income of a restaurant's guests is $35,000 per year. If 60 guests participate in the study and the average income of the most affluent 20 of those guests is $85,000, what is the average income of the remaining 40 guests? Can we use the weighted average concept here?
+
+b. In a shopping center's customer survey, it is discovered that the typical income of its customers is $50,000 annually. Among 55 customers who participated, the wealthiest 15 customers have an average income of $110,000. How do we calculate the average income of the remaining customers using the weighted average approach?
+
+c. A market research shows that the general income level of a bookstore's patrons is $40,000 annually. If 45 patrons respond to the survey and the average income of the most affluent 12 among them is $88,000, what is the estimated average income of the remaining patrons using weighted average?
+
+d. A poll indicates that the typical annual income of a museum's visitors is $55,000. Among 70 visitors who took part in the survey, the wealthiest 25 have an average income of $125,000. Can we apply the weighted average principle to determine the income of the remaining visitors and how would we do it?
+
+
+
+28
+a. The slant height of a cone is 40 cm and the radius of the base is 16cm. Find the curved surface area of the cone.
+
+b. If the slant height of a cone is 30 cm and the base radius is 12 cm, what is the curved surface area of the cone?
+
+c. Given a cone with a slant height of 45 cm and a base radius of 20 cm, calculate its curved surface area.
+
+d. The slant height of a cone is 35 cm and its base radius is decreasing by 5 cm each year. How much is the curved surface area of the cone after 5 years? (Assuming the cone remains upright and the decrease in base radius does not affect its overall shape significantly.)
+
+
+
+29
+Original Question: A cheese factory sells its cheese in rectangular blocks. A normal block has a volume of 8 cubic feet. If a small block has half the width, half the depth, and half the length of a normal block, what is the volume of cheese in a small block in cubic feet?
+
+New Questions:
+a. A dairy sells its butter in rectangular containers. A standard container holds 10 liters. If a mini container has one-quarter of the width, one-quarter of the depth, and one-quarter of the length of a standard container, what is the volume of butter in a mini container in liters?
+
+b. A fruit vendor sells their apples in rectangular boxes. A regular box can hold 24 apples. If a small box has one-third of the width, one-third of the depth, and one-third of the length of a regular box, how many apples can a small box hold?
+
+c. A bakery sells its bread in rectangular loaves. A standard loaf has a volume of 50 cubic inches. If a mini loaf has one-fifth of the width, one-fifth of the depth, and one-fifth of the length of a standard loaf, what is the volume of the mini loaf in cubic inches?
+
+d. A chocolate factory sells its chocolate bars in rectangular wrappers. A standard wrapper can hold 1 kilogram of chocolate. If a small wrapper has one-sixth of the width, one-sixth of the depth, and one-sixth of the length of a standard wrapper, how much chocolate can a small wrapper hold in kilograms?
+
+
+
+30
+New Questions:
+a. In a school campus, there are plans to plant flowers along a path. Each flower pot takes up one square foot of space, and there are to be 20 feet between each flower pot. How many flower pots can be placed if the path is 150 feet long?
+b. In a park, there are plans to plant shrubs along a walkway. Each shrub requires a 1 square foot space and there should be 15 feet between each shrub. How many shrubs can be planted if the walkway is 180 feet long?
+c. In a residential area, the authorities want to plant grass along a road. Each patch of grass requires a space of one square foot and there must be 25 feet between each patch. Calculate the number of patches of grass that can be planted if the road is 200 feet long.
+d. In a new commercial development, landscaping plans call for planting small gardens along a main street. Each garden occupies one square foot and there are to be 30 feet between each garden. What is the maximum number of gardens that can be planted along a 250-foot street?
+
+
+
+31
+a. What is the difference in simple and compound interest on a loan of 3000 after two years at an interest rate of 12 percent per year?
+b. Calculate the difference between simple and compound interest on an investment of 1500 after four years, with an annual interest rate of 8 percent.
+c. What would be the disparity in simple and compound interest on a sum of 1500 after three years, considering an interest rate of 9 percent per year?
+d. How much would the difference be between simple and compound interest on 3500 after three years, assuming an annual interest rate of 15 percent?
+
+
+
+32
+Original Question: A $500 investment and a $1,500 investment have a combined yearly return of 19 percent of the total of the two investments. If the $500 investment has a yearly return of 7 percent, what percent yearly return does the $1,500 investment have?
+
+New Questions:
+a. If a $300 investment and a $700 investment have a combined yearly return of 15%, and the $300 investment has a yearly return of 6%, what is the yearly return for the $700 investment?
+
+b. In a scenario where a $600 investment and a $900 investment have a combined yearly return of 22%, with the $600 investment yielding a yearly return of 8%, calculate the yearly return for the $900 investment.
+
+c. When considering an investment of $400 and another of $1,200, which combined yield a yearly return of 23%, and it is known that the $400 investment has a yearly return of 9%, what is the yearly return for the larger investment?
+
+d. An investor places money in two investments, one for $450 and another for $1,150. Their combined yearly return is 24%, with the smaller investment returning 13%. What percentage do they earn on the larger investment?
+
+
+
+33
+a. Find the constant k such that: -x^2 - (k - 9)x - 1 = -(x + 3)(x - 5).
+
+b. Determine the value of k that satisfies the equation: x^2 + kx + 6 = -(x + 4)(x - 9).
+
+c. Solve for k in this equation: 2x^2 + kx + 8 = -(x + 1)(x - 9).
+
+d. Find the unknown constant k in the equation: -x^2 + kx + 1 = -(x + 7)(x - 1). Make sure to consider the context of this equation as well as the original one.
+
+
+
+34
+New Questions:
+a. '一个正整数有3和7作为它的因子。这个数必须能被以下哪些数整除：I. 21 II. 42 III. 63'?
+
+b. '一个正整数的因子包括4和6。这个数必须能被以下哪些数整除：I. 12 II. 20 III. 24'?
+
+c. '一个正整数的因子包含9和5。这个数必须能被以下哪些数整除：I. 45 II. 80 III. 90'?
+
+d. '某个正整数能被它的两个因子整除，这两个因子分别为某倍数，如我们选择的第一个选项表示的倍数或第二选择的两倍大等等的任意整数等等的任何两个因子的形式呈现（例如，如果选择的数字是第一个选项的两倍，那么选择的数字可以被这两个因子整除：该倍数与该倍数或第一选择的双倍之间的倍数等）。因此它必须能被以下哪些数整除：I. 二倍数于其第二个选择值的数值的倍数的形式选择的整数相乘（即三阶多项式除以我们的第一选择的值）。比如选第三个选择时该数值必须是I选择的两倍和三倍等于相乘的两个选择的数字。？在这个假设的基础上推测，“确实有可能的因数为这种乘以至少第三个整数的三个或多个唯一奇数等的倍数组合的数可以被我们选择的任何一个数整除”？然后找出所有可能的数字选项I的选项必须大于第二选择的选项的数以及所有可能的选项II的乘积必须等于第三个选择的选项的数。'（这个问题比较复杂，旨在考察理解能力和逻辑推理能力）'？对于这样的数字它必须能被以下哪些数整除？选项待你提供答案给出后进行具体生成。
+
+
+
+35
+Original Question: Krishan and Nandan jointly started a business. Krishan invested six times as Nandan did and invested his money for double time as compared to Nandan. Nandan earned Rs. 6000. If the gain is proportional to the money invested and the time for which the money is invested, what is the total gain?
+
+New Questions:
+a. Aman and Bikash jointly started a business. Aman invested three times as Bikash did and invested his money for triple time as compared to Bikash. Bikash earned Rs. 5000. What is the total gain if the gain is proportional to the money invested and the time for which the money is invested?
+
+b. Jaden and Taylor jointly started a business. Jaden invested his money for five times longer than Taylor, and invested four times as much as Taylor did. Taylor earned Rs. 7500. Calculate the total gain assuming gain is proportional to the money invested and the duration of investment.
+
+c. In a joint venture between Maya and Zeeshan, Maya invested half as much as Zeeshan but invested her money for quadruple time. Zeeshan earned Rs. 9000. Calculate the total gain considering gain is directly related to the money invested and the duration of investment.
+
+d. Adam and Bella jointly started a business where Adam invested twice as much as Bella and invested his money for three times longer than Bella. Bella earned Rs. 8000 from her investment. If profits are directly related to the amount invested and time, determine the total profit earned from their joint venture.
+
+
+
+36
+New Questions:
+a. In a football team of 11 players, each player plays a match with every other player once. How many total matches will be played?
+b. A tennis group has 6 players who play each other in a single match. Determine the total number of matches that will be played.
+c. A swimming team consists of 7 members who compete in individual events. Each member races against every other member once. How many races will take place?
+d. In a group of 9 basketball players, every player plays a match against every other player. Calculate the total number of matches played.
+
+
+
+37
+Original Question: A pipe takes a hours to fill the tank. But because of a leakage it took 2 times of its original time. Find the time taken by the leakage to empty the tank.
+
+New Questions:
+a. A container fills up in b hours due to a small hole in it. It took twice the original time to fill up completely. How long would it take for the hole to completely empty the container?
+
+b. A bucket takes c hours to be filled completely. However, there's a small leak that doubled the filling time. Determine the time it takes for the leak to empty the bucket entirely.
+
+c. A tank normally fills in d hours, but due to a leak, it took three times longer than usual. Calculate how long the leak would take to empty the tank completely.
+
+d. A reservoir is designed to fill in e hours, but due to a leakage, it took 1.5 times longer than anticipated. What is the approximate time taken by the leakage to empty the reservoir?
+
+
+
+38
+a. Today is 3 weeks before Olivia's wedding. If she gets married on a Sunday, what day of the week is it today?
+b. In 24 days, William will complete his contract at work. If he finishes on a Wednesday, what day of the week is it now?
+c. The event is happening in 2 weeks and 3 days. If it is a convention on a Saturday, which day of the week is it presently?
+d. It is currently 2 weeks before Emma's vacation starts. If she starts vacation on a Thursday, on which day of the week is it today?
+
+
+
+39
+New Questions:
+a. Given positive integers a, b, and c with a < b < c and 1/a + 1/b + 1/c = 3/2. What is the value of a + b + c?
+b. Suppose a, b, and c are positive integers with a < b < c and their reciprocals sum up to 2/3. What is the sum of a, b and c?
+c. If a, b, and c are positive integers with a < b < c and 1/a + 1/b + 1/c = 4/5, what is the value of a + b + c?
+d. Given three positive integers a, b and c in ascending order with 1/a + 1/(b+2) + 1/(c+4) = 1. What is the value of a + b + c?
+
+
+
+40
+Original Question: The age of a man is three times the sum of the ages of his two sons. Four years hence, his age will be double the sum of the ages of his sons. What is the father's present age?
+
+New Questions:
+a. A man's age is twice the sum of his two daughters' ages. Six years from now, his age will be triple the sum of their ages. What is the man's current age?
+b. A father's age is four times the sum of his two children's ages. Five years in the future, his age will be twice that of his children combined. Calculate the father's present age.
+c. A man's age is triple the sum of his two younger brothers' ages. Three years later, his age will be five times their combined age. What is the man's current age?
+d. The age of a father is five times the sum of his two children's ages at present. Two years hence, his age will be triple the sum of their ages. What is the father's current age now?
+
+
+
+41
+a. A bottle of water initially contains 1kg of fluid but is labeled as having 200gm. If there is a 10% increase in fluid, what is the actual % difference between the labeled and actual amounts?
+
+b. A bottle of juice is labeled as containing 500ml of fluid, but it actually contains 200gm of fluid. If there is a 5% increase in fluid, how much is the actual % difference from the labeled amount?
+
+c. A bottle of beer with a stated volume of 1 liter contains an actual volume of 200gm due to labeling issues. What would be the actual % difference if it were to gain an additional 7% in volume?
+
+d. In a bottle of soft drink, the label shows 500ml but it actually contains 200gm of fluid. There is a plan to increase the initial fluid content by 8%. What would be the actual % difference between the new and labeled amounts?
+
+
+
+42
+New Questions:
+a. A person can walk at a constant rate of 7mph and cycle at a rate of 14mph. If he wants to cover 70 miles in 9 hours using both modes of transport, how much distance would he need to walk?
+b. Assuming a person can walk at 9mph and cycle at 18mph, how far would he need to walk to cover 50 miles in 7 hours?
+c. A person has a choice to walk or cycle to cover a distance of 80 miles in 10 hours. If he cycles at 20mph and walks at a pace of 6mph, how much distance should he cover on foot?
+d. John wants to travel 50 miles in 8 hours. He can cycle at 15mph and walk at a steady rate of 7mph. What proportion of the journey should he cover on foot?
+
+
+
+43
+Original Question: 5358 x 51 = ?
+New Questions:
+a. 5379 x 49 = ?
+b. 6245 x 40 = ?
+c. 908 x 84 = ?
+d. 268 x 73 = ?
+
+
+
+44
+New Questions:
+a. 4 persons (including 2 couples) are seated randomly in a row of 6 chairs. What is the probability that both couples are seated together?
+b. 5 people (including 1 family of 3 members) are seated randomly in a row of 7 chairs. What is the probability that the family members do not sit together?
+c. In a row of 4 chairs, 3 friends (including a couple) are seated randomly. What is the probability that the couple sits together but the third friend sits alone?
+d. In a row of 6 chairs, a group of 3 friends try to sit together. What is the probability that they all sit together if one of them prefers to sit alone?
+
+
+
+45
+Original Question: In a recent survey at a local deli, it was observed that 3 out of 5 customers bought a bagel and 5 out of 7 customers bought a coffee. Some customers bought both. If 8 customers are selected, what are the chances that at least 1 customer bought a coffee and a bagel?
+
+New Questions:
+a. In a recent study at a local bakery, 4 out of 6 customers bought bread and 6 out of 8 customers bought cake. Some customers bought both. If 12 customers are sampled, what are the chances that at least one customer bought both bread and cake?
+b. In a recent survey at a coffee shop, it was found that 2 out of 4 customers bought a latte and 3 out of 5 customers bought a muffin. Some customers bought both. If 10 customers are selected, what are the chances that at least one customer bought both a latte and a muffin?
+c. In an analysis of recent sales data from a convenience store, it was revealed that 5 out of 8 customers bought a sandwich and 4 out of 7 customers bought a beverage. If 15 customers are surveyed, what is the likelihood that at least one customer bought both a sandwich and a beverage?
+d. At a restaurant, it was observed that among the last 10 customers, 3 bought soup and 4 bought salad. Some customers ordered both. What are the chances that at least one customer ordered both soup and salad if we select any 5 customers from the last 10?
+
+
+
+46
+a. How many S solutions will the equation |x+2| - |3-x| = |7+x| have?
+b. In the equation |x+5| - |x-6| = |x+1|, how many S solutions exist?
+c. For the equation |x+9| - |x-7| = |x+4|, what is the count of S solutions?
+d. In the equation |x+11| - |x-2| = |x|, how many S solutions can be found?
+
+
+
+47
+New Questions:
+a. The production of a company was boosted by 20% to cope with the festive demand surge. For the ongoing promotional event, the production was boosted again by 15%. By how much percent should the production be decreased to return to the original output?
+
+b. The sales of a product increased by 15% due to a marketing campaign. To accommodate the summer demand, the sales were further boosted by 8%. By approximately what percent should the sales be decreased now to bring them back to the original level?
+
+c. The production line of a factory was revamped, leading to a 12% increase in output to satisfy urgent orders. However, during the post-holidays, the output needed to be further increased by 18%. What approximate percentage decrease is required to return to the original output level?
+
+d. The output of a factory was boosted by 9% due to technological advancements. To cope with a sudden surge in demand, this output was further increased by 25%. By how much percent should the output now be decreased to get back to the original level?
+
+
+
+48
+a. In an undergraduate engineering program, 60 percent of the students are female and 40 percent of the students are single. If one-fifth of the female students are not single, what fraction of the female students is single?
+
+b. In a high school math class, 55 percent of the students are boys and 25 percent of the boys are involved in sports. What proportion of the boys is not involved in sports?
+
+c. In a computer science major, 75 percent of the students are employed and 25 percent of those employed are part-time workers. If three-fifhs of the part-time workers are male, what fraction of male students is not part-time employed?
+
+d. In a history class, 40 percent of the students are senior citizens and 30 percent of those senior citizens are taking the class online. What proportion of senior citizens in the class is not taking it online?
+
+
+
+49
+New Questions:
+a. The cost of painting the entire surface area of a rectangular prism at the rate of 15 paise per Sq.cm is Rs. 450. What is the volume of the rectangular prism?
+b. Given that the cost of painting a sphere's surface area is Rs. 370, at the rate of 12 paise per Sq.cm, what is the volume of the sphere?
+c. If the cost of painting the entire surface area of a cone at the rate of 10 paise per Sq.cm is Rs. 226.50, what is the volume of the cone?
+d. The cost of painting all sides of a cuboid, including its top and base, at the rate of 14 paise per Sq.cm is Rs. 490. Calculate the volume of the cuboid.
+
+
+
+50
+New Questions:
+a. A trader sold 30 items for $80 and made a profit of 25%. How many items should they sell for $70 to make a loss of 15%?
+b. A business owner sells 15 products for $45 and experiences a loss of 15%. How many products should they sell for $30 to make a profit of 20%?
+c. A shopkeeper sells 25 items for $75 and makes a profit of 30%. How many items should they sell for $60 to make a loss of 25%?
+d. A vendor sells 12 products for $36 and makes a profit of 22%. What should the cost price of each product be if he wants to sell them at $3 each to incur a loss of 18%?
+
+
+
+51
+a. An investor invests money in two different stock options with varying rates of returns. One stock has a return rate of 10% and the other has a return rate of 15%. To obtain equal dividends from both, what should be the ratio of his investments?
+
+b. A person invests his savings in two types of bonds, one at 11% rate and another at 14% rate. To get equal annual returns from both, what should be the proportion of his investments in each bond?
+
+c. A business owner invests in two businesses with different profit margins. One business offers an annual profit of 8%, while another offers 11%. To earn equal profits from both, what should be the allocation of his investments in each business?
+
+d. An individual splits his savings between two investment options: a fixed deposit at 6% interest rate and a mutual fund with an expected return of 9%. To receive the same amount of interest from both investments, what should be the ratio of his investments in each option?
+
+
+
+52
+a. D, E, F share a library. D borrows 5 books for 2 months, E borrows 7 books for 3 months, and F borrows 4 books for 1 month. If the monthly fee for the library is Rs. 50, how much should F pay as their share of the fee?
+
+b. In a shared office space, A, B, C work. A uses the meeting room for 2 hours a day for 5 days a week for 6 weeks, B uses it for 3 hours a day for 4 days a week for 8 weeks, and C uses it for 4 hours a day for 3 days a week for 7 weeks. If the total cost of the meeting room is $200 per week, how much should C pay as their share of the cost?
+
+c. Three farmers, X, Y, Z rent a field. X plants wheat for 3 months, Y plants corn for 4 months and Z plants rice for 2 months. If the rent of the field is $300, how much should Z pay as their share of rent?
+
+d. In a shared fishing spot, P, Q, R go fishing. P fishes for 8 hours, Q fishes for 6 hours and R fishes for 10 hours. If the cost of the fishing spot is $5 per hour, how much should R pay as their share of the cost?
+
+
+
+53
+a. A train 600 m long can cross an electric pole in 25 seconds. What is the speed of the train?
+b. If a train that is 400 meters long passes an electric pole in 15 seconds, what is its speed?
+c. When a train that is 700 meters long crosses an electric pole in 30 seconds, how fast is it moving?
+d. A train that is 300 meters long needs 18 seconds to cross an electric pole. Calculate its speed.
+
+
+
+54
+Original Question: The smallest number when increased by "1" is exactly divisible by 6,9,15,35,45 is:
+New Questions:
+a. The smallest number when decreased by "1" is divisible by all the numbers 6, 9, 15, 30, 45. What is that number?
+b. Find the smallest number which when incremented by 1 is divisible equally by 8, 12, 20 and 30.
+c. What is the smallest number that when added to itself is divisible by 9, 15 and 35?
+d. The smallest number which when decreased by 5 is divisible by 6, 9, 12 and 45 is?
+
+
+
+55
+Original Question: How many keystrokes are needed to type the numbers from 1 to 500?
+New Questions:
+a. How many keystrokes are required to type the letters from A to Z?
+b. What is the total number of keystrokes needed to type the entire alphabet?
+c. How many keystrokes does it take to write the digits from 1 to 1000?
+d. How many keystrokes does it take to sequentially type all the numbers from 0 to 999 in a document?
+
+
+
+56
+Original Question: In a two-digit number, the digit in the unit's place is four times the digit in ten's place and the sum of the digits is equal to 10. What is the number?
+New Questions:
+a. In a three-digit number, the digit in the unit's place is three times the sum of digits in ten's and hundred's places, and the sum of all digits is equal to 15. What is the number?
+b. A three-digit number has a digit in the unit's place which is half of the sum of digits in ten's and hundred's places, and the sum of all digits is 12. What is the number?
+c. In a three-digit number, if we subtract the sum of digits in ten's and hundred's places from the digit in the unit's place, we get 4. The original number is what?
+d. In a four-digit number, the sum of first two digits is equal to the sum of last two digits and both sums are equal to 14. What is the number?
+
+
+
+57
+New Questions:
+a. The edge of a rectangular prism is 5a cm. How do you find its surface area?
+b. If the edge of a cube is 9a cm, what is its surface area?
+c. A cube has an edge length of 4a cm. Calculate its total surface area.
+d. Given that the edge of a cube is 6a cm, find the surface area of the cube in terms of a.
+
+
+
+58
+Original Question: A shop sells chocolates. It initially sold them at Rs. 2 each, but there were no sales at that price. When it reduced the price, all the chocolates were sold, enabling the shopkeeper to earn Rs. 164.90 from them. If the new price was not less than half of the original price, how many chocolates were sold?
+
+New Questions:
+a. A candy store sells gummies. They initially tried selling them for $3 each, but no one bought them. When they lowered the price, all gummies were sold, resulting in $215 in profits. If the new price was not less than three quarters of the original price, how many gummies were sold?
+
+b. A bookstore initially sold a book for £4 each but made no sales. Upon reducing the price, all books were sold and generated £196 in revenue. If the new price was not less than 75% of the original price, how many books were sold?
+
+c. A toy store sells LEGO sets. It initially offered them at $5 each but did not make any sales. When it reduced the price, all LEGO sets were sold and generated $220 in profits. If the new price was not less than two-thirds of the original price, how many LEGO sets were sold?
+
+d. A clothing store sells jackets. At first, they sold them for $70 each but had no sales. After reducing the price, all jackets were sold and generated $420 in revenue. Assuming the new price was not less than half of the original price plus $20, how many jackets were sold?
+
+
+
+59
+New Questions:
+a. A board 9ft long is divided into 5 equal parts. What is the length of each part?
+b. If a 10-foot-long board is divided into 4 equal sections, how long is each section?
+c. A plank that is 6ft 7 inches in length is split into 6 sections of equal length. How long is each segment?
+d. When a 12-foot board is divided into 3 equal sections, what is the length of each resulting segment?
+
+
+
+60
+a. Count the number of zeroes in the expression 20*35*42*50*65*80.
+b. Calculate the number of trailing zeroes in the product of numbers: 99*101*103*107.
+c. How many zeroes are there in the product of the numbers: 77*89*94*96?
+d. What is the total count of zeroes in the expression when we multiply these numbers together: 52, 58, 66, 79, 83?
+
+
+
+61
+New Questions:
+a. The area of a rhombus is defined by its two diagonal lengths. Given its diagonals are 20 cm and 25 cm respectively, find the area of the rhombus?
+b. If a rhombus has one diagonal of length 16 cm and another diagonal of length 24 cm, what is its area?
+c. The rhombus has two diagonals of lengths 19 cm and 23 cm respectively. Calculate its area.
+d. The diagonals of a rhombus are in the ratio 4:5 and its area is 36 square cm. Find the lengths of both the diagonals?
+
+
+
+62
+Original Question: If rupee one produces rupees nine over a period of 40 years, find the rate of simple interest.
+New Questions:
+a. If an investment of 500 rupees becomes 750 rupees after 20 years, what is the rate of simple interest?
+b. Assuming a principal amount of 2000 rupees, calculate the rate of simple interest if it becomes 3000 rupees after 30 years.
+c. If a certain sum of money doubles in value over a period of 15 years due to simple interest, find the rate of interest.
+d. An amount of 800 rupees increases to 1200 rupees after 45 years due to simple interest. What is the rate of interest in this case?
+
+
+
+63
+New Questions:
+a. A和B共同投资了一家企业，A投资了Rs.6500，B投资了Rs.13000。四个月后，A撤走了一半的资金，又过了两个月，B撤走了三分之一的资金。年底时，他们应该如何按比例分配利润？
+
+b. 王伟和李华合作做生意。王伟投资了Rs.5000，李华投资了Rs.10000。三个月后，王伟撤走了他的全部资金，而李华在五个月后撤走了他的一半资金。他们应该如何分配年终的利润？
+
+c. 张涛和赵明共同投资了一家企业，张涛投资了Rs.8000，赵明投资了Rs.16000。半年后，张涛撤走了他的全部资金，赵明则没有撤走任何资金。年底时，他们应如何分配利润？
+
+d. 李亮和陈浩共同投资做生意。开始时李亮投资了Rs.7500，陈浩投资了Rs.15000。一年后，李亮撤走了他的一半资金，而陈浩撤走了他三分之一的投资。他们应该如何按比例分配年底的利润？
+
+
+
+64
+a. A bus covers a distance of 8km in 8 min. If it takes 5 sec to pass a roadside marker, then the length of the bus is?
+
+b. A truck goes through a tunnel 15km long in 20 min. If it takes 8 sec to pass the tunnel's entrance, what is the length of the truck?
+
+c. A subway train takes 15 sec to pass a station sign. If it traveled at a constant speed and covered a distance of 20km in 25 min, what is the length of the train?
+
+d. A plane flying at a constant speed takes 20 sec to pass a cloud formation. If it covers a distance of 30km in 3 min, what is the length of the plane?
+
+
+
+65
+a. The rental fee for a bike is 20 cents for the first 1/3 kilometer ridden and 8 cents for every 1/4 kilometer ridden over the initial 1/3 kilometer. If a person paid $9.60 in rental fees, how many kilometers did they ride?
+
+b. A car rental charges 20p for the first quarter mile driven and 10p for every fifth mile driven beyond that. If a person paid £1.50 in rental charges, how many miles did they drive?
+
+c. A taxi charges $2 for the initial two blocks traveled and $0.80 for each additional block. If a passenger paid $9, how far did they travel in blocks?
+
+d. A vehicle rental fee is $0.50 for the first quarter mile and $0.15 for each subsequent eighth mile driven. If a person paid $3 in rental fees, how many miles did they drive?
+
+
+
+66
+New Context: An exam consists of three different sections with different numbers of questions in each section. Candidates must attempt at least one question from each section, but they do not have to answer all the questions in a section.
+
+New Questions:
+a. An exam paper has sections with 5, 7 and 3 questions respectively. A candidate is required to attempt at least one question from each section. In how many ways can a candidate choose to attempt the questions?
+
+b. In an exam, there are three sections with 6, 8 and 7 questions respectively. Candidates must answer at least one question from each section. Calculate the number of ways a candidate can select questions to attempt.
+
+c. An assessment paper comprises three sections containing 4, 3 and 5 questions respectively. Candidates are required to attempt one question from each section. How many distinct ways are there for a candidate to choose their attempts?
+
+d. In a test, there are three sections with varying numbers of questions: section A has 4, section B has 5, and section C has 6 questions. Candidates must answer at least one question from each section. Determine the number of possible ways a candidate can select questions to attempt from each section.
+
+
+
+67
+New Questions:
+a. 8 men can finish a job in 7 days, while 6 children take 10 days. How many days will 4 men and 5 children take to complete the job?
+b. In a construction site, 12 workers can finish building a wall in 5 days, but if only children are working, they need 8 days. How many days will it take for 7 workers and 9 children to finish the wall?
+c. In a factory, 15 adults can assemble products in 4 days while 12 children need 8 days. How many days will 10 adults and 6 children take to complete the assembly?
+d. At a farm, a team of 20 women can harvest the crop in 3 days, but it takes 25 children 5 days to do the same job. How many days will a team of 15 women and 10 children need to harvest the crop?
+
+
+
+68
+a. Three numbers are in the ratio 3 : 4 : 5. The sum of its largest and smallest numbers is equal to the sum of the third number and 48. Find the third number?
+b. Four numbers are in the ratio 7 : 8 : 9 : 10. The sum of the third and fourth numbers is equal to the sum of the first and second numbers plus 66. What is the value of the second number?
+c. Five numbers are in the ratio 4 : 5 : 6 : 7 : 8. The sum of the second and fifth numbers is equal to the sum of the third number and 93. Determine the value of the third number?
+d. Three numbers are in the ratio 2 : 3 : 4 and their sum is equal to 327. What is the difference between the largest and smallest numbers?
+
+
+
+69
+New Questions:
+a. At a party, 12 people all shake hands with each other once. How many handshakes will there be in total?
+b. At a children's sports event, 7 children are playing a game and they all shake hands with each other as a sign of respect. How many handshakes will there be in total?
+c. At a wedding ceremony, the groom's side and the bride's side have 15 and 13 people respectively. Everyone on both sides shakes hands with each person from the other side. How many handshakes will there be in total?
+d. In a meeting of a board of directors, consisting of 10 members, everyone shakes hands with every other member once. Calculate the total number of handshakes that will occur.
+
+
+
+70
+a. The sum of the squares of four numbers is 589 and their sum of products taken two at a time is 396. What is the sum of these numbers?
+b. If the sum of the squares of three numbers is 432 and their product is 270, what is the sum of these numbers?
+c. The sum of the squares of two numbers is 149 and their product is 60. What is the sum of these two numbers?
+d. The sum of the squares of any three numbers is 217 and their sum of products, each product being taken from different numbers, is 179. What is the sum of these numbers?
+
+
+
+71
+Original Question: What is the area of an equilateral triangle of side 16 cm?
+New Questions:
+a. What is the area of an isosceles triangle with a base of 18 cm and equal sides of 20 cm?
+b. Calculate the area of a triangle whose sides are all of length 25 cm.
+c. If a triangle is right-angled with sides 12 cm, 16 cm, and 20 cm respectively, what is its area?
+d. Find the area of a triangle with a base of 15 cm and a corresponding height of 12 cm.
+
+
+
+72
+a. Which of the following equations, W*, has no solution?
+b. Among the given equations W, which one has no valid solution?
+c. What is the only equation of the set W that lacks a solution?
+d. Identify the equation in W that does not possess any solution.
+
+
+
+73
+Original Question: If the population of a certain country increases at the rate of one person every 40 seconds, by how many persons does the population increase in 1 hour?
+New Questions:
+a. If the population of a specific city grows by one person every 30 seconds, how many people will be added to the city's population in an hour?
+b. Assuming the population of a town increases at a rate of one person every 50 seconds, calculate the number of people added to the town's population after 1 hour.
+c. The population of a village is increasing; it adds one person every 45 seconds. How many new people will be in the village after an hour?
+d. When the population of a region grows at a rate of one new person every minute for an hour, determine the total number of new people in that region.
+
+
+
+74
+New Questions:
+a. A car passes through a parking lot with a length of 150 feet in 20 seconds. Then it passes through another parking lot of length 200 feet in 25 seconds. What is the length of the car?
+b. A ship passes a dock of 200 meters in 30 seconds, and then passes another dock of 300 meters in 45 seconds. What is the length of the ship?
+c. A bus crosses a street of 250 meters in 40 seconds and then crosses another street of 350 meters in 50 seconds. What is the length of the bus?
+d. An airplane taxis past a gate and reaches a length of 150 meters in 25 seconds. Then it taxes past another gate and reaches a length of 200 meters in 30 seconds. What is the length of the airplane?
+
+
+
+75
+a. How large is the area of a rhombus with a side length of 20 cm and one diagonal of 35 cm?
+b. Calculate the area of a rhombus where one side is 28 cm and one diagonal is 24 cm.
+c. Find the area of a rhombus with sides 4 inches long and one diagonal spanning 36 inches.
+d. Given a rhombus where one side is 30 meters and one diagonal is 25 meters, what is its area?
+
+
+
+76
+New Questions:
+a. How long does a train 120 m long running at the speed of 80 km/hr takes to cross a bridge 150 m length?
+b. What is the time taken by a train of length 90 m to cross a bridge of 99 m at a speed of 60 km/hr?
+c. If a train running at a speed of 90 km/hr is 150 m long, how much time it will take to cross a bridge of length 200 m?
+d. A train 105 m long is moving at a speed of 78 km/hr. How much time will it take to cross a bridge of length 175 m?
+
+
+
+77
+Original Question: The consumption of diesel per hour of a bus varies directly as square of its speed. When the bus is travelling at 60 kmph its consumption is 1 litre per hour. If each litre costs $60 and other expenses per hour is $60, then what would be the minimum expenditure required to cover a distance of 600 Km?
+
+New Questions:
+a. The consumption of gasoline per hour of a car is directly proportional to the square of its speed. If the car is moving at 80 kmph, its consumption is 0.8 liters per hour. If each liter costs $70 and other expenses add up to $75 per hour, what is the minimum cost to travel 500 Km?
+
+b. A truck's hourly fuel consumption of petrol varies directly with the square of its speed. At a speed of 90 kmph, its consumption is 1.5 liters per hour. If the petrol costs $50 per liter and other expenses are fixed at $45 per hour, what would be the total cost to travel 750 Km?
+
+c. The consumption rate of an electric vehicle in terms of charging per hour is fixed. However, if the vehicle needs to travel long distances, it has to stop for charging which leads to additional time. What would be the minimum total cost to travel 400 Km considering each charging session costs $40 and other expenses are $30 per hour?
+
+d. A motorbike's fuel consumption varies directly as the square of its speed, and when it's traveling at 50 kmph, it consumes 2 liters of fuel per hour. If fuel costs $30 per liter and there are other expenses of $5 per hour, what is the minimum cost to cover a distance of 450 Km on this motorbike? (Assuming it can travel at consistent speeds throughout the journey)
+
+
+
+78
+Original Question: From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. What is the probability of having 0 woman in committee?
+
+New Questions:
+a. From a group of 12 boys and 10 girls, seven children are to be chosen for a sports team so that at least four boys are on the team. What is the probability of having no girls on the team?
+
+b. In a group of 9 men and 11 women, we need to pick eight people for an event such that there are at least 4 men. What is the probability of having no women in the event team?
+
+c. From a group consisting of 5 boys and 7 girls, we want to select six children to participate in an activity, ensuring at least three boys are selected. What is the probability of having absolutely no girls on the selected team?
+
+d. In a committee of 10 members (including 8 men and 2 women), five people will be nominated for a specific role such that there are at least four men nominated. What is the probability of having zero women nominated?
+
+
+
+79
+a. 'Question': A container has seventeen light bulbs, seven of them are defective. If seven light bulbs are picked at random, what is the probability that exactly six of them are in good condition?
+
+b. 'Question': In a package of twelve pencils, five are defective. If five pencils are randomly selected, what is the probability that exactly four of them are functional?
+
+c. 'Question': A set of fifteen items contains eight defective ones. If six items are picked randomly, calculate the probability that exactly three of them are non-defective.
+
+d. 'Question': A bag contains seventeen light bulbs and six of them are defective. If three bulbs are chosen at random, what is the probability that exactly two of them are in good condition?
+
+
+
+80
+New Questions:
+a. A train passes a station platform in 28 sec and a signal pole in 25 sec. If the speed of the train is 60 km/hr, what is the length of the platform?
+b. A train rushes past a station platform in 35 sec and a worker on the platform in 25 sec. Given the train's speed of 65 km/hr, calculate the length of the platform.
+c. A train passes a station's long platform in 40 sec while a person walking on it in 30 sec. The train is moving at a speed of 72 km/hr. Determine the length of the platform.
+d. A high-speed train passes a station platform in just 20 sec, and a man standing on it in 15 sec. If the train is traveling at 80 km/hr, how long is the platform?
+
+
+
+81
+a. If |x|=−x, what must be true about x?
+
+b. If |a|=−a and |b|=−b, what must be true about a and b?
+
+c. If |m|=−w and |n|=−m, what relationship must exist between m and w?
+
+d. If a number's absolute value is equal to its negative value, what property of numbers does it demonstrate?
+
+
+
+82
+Original Question: Two numbers are less than the third number by 30% and 37% respectively. How much percent is the second number less than by the first?
+
+New Questions:
+a. Two scores are higher than a third one by 25% and 20% respectively. What is the percentage difference between the first and second scores?
+b. In a group of three prices, the first and second prices are lower than the third one by 28% and 40% respectively. What is the percentage difference between the first and second prices?
+c. The first and second values are greater than a third value by 15% and 25% respectively. Calculate the difference in percentage between the second and first values, where both are less than the third value.
+d. In a set of three figures, the second figure is less than the third one by 35%, while the first figure is less than the third one by 28%. What is the difference in percentage between the first and second figures?
+
+
+
+83
+New Questions:
+a. How many numbers from 45 to 95 are exactly divisible by 13?
+b. Count the numbers between 40 and 80 that are divisible precisely by 9.
+c. How many numbers from 42 to 77 are multiples of 10?
+d. Calculate the count of numbers from 30 to 75 that are exactly divisible by 8.
+
+
+
+84
+a. If a different 3D shape has its volume numerically equal to its surface area, what is the length of its side in meters?
+b. In a situation where a cuboid's volume is equal to its surface area, what would be the measurement of its edge in centimeters?
+c. Given a specific 3D shape where the volume is identical to the surface area, how do we calculate the length of one of its sides?
+d. The volume of a specific 3D object is numerically the same as its surface area. How can we determine the unit measurement of its edge?
+
+
+
+85
+Original Question: If there are 30 cans out of which one is poisoned, and a person will die if he tastes a very small amount, how many mice are required to find the poisoned can within 24 hours of testing?
+
+New Questions:
+a. If there are 40 bottles of juice and only one contains a harmful substance, how many rats do we need to identify the harmful bottle within 36 hours of testing?
+b. Suppose we have 50 bags of food and one of them contains expired ingredients. A person who eats the expired food will be hospitalized. How many birds do we need to find the bad bag within 48 hours?
+c. In a set of 60 capsules, there is one capsule that contains a toxic substance that can cause harm to humans if consumed. Given a time frame of 30 hours to test, how many insects should we use to identify the harmful capsule?
+d. We have a collection of 45 bottles of water and one bottle is contaminated. If a person drinks the contaminated water, they will become sick within 24 hours. How many rabbits are needed to find the contaminated bottle within the given time frame?
+
+
+
+86
+New Questions:
+a. How long does a train 200 meters long running at the speed of 80 kmph take to cross a tunnel 500 meters in length?
+b. Calculate the time taken by a 150 meters long train to cross a bridge of length 750 meters, when the train is running at the speed of 65 kmph.
+c. How long does it take for a train that is 250 meters long and moving at the speed of 90 kmph to cross over a bridge which is 900 meters in length?
+d. What is the time taken by a train 140 meters in length to cross a bridge that is 420 meters long, if the train is moving at the speed of 60 kmph?
+
+
+
+87
+a. 'Question': A different store bought a batch of round-neck sweaters and increased its cost by 30%. During the holiday season, it boosted its prices by 35% of the original retail price. In March, the store then offered a discount of 20%. What was its profit on the items sold in March?
+
+b. 'Question': A clothing store bought some stock of hooded sweatshirts and increased its cost by 15%. During the winter season, it increased its prices by 22% of the original retail price. In April, the store offered a discount of 18%. What was its profit on the items sold in April?
+
+c. 'Question': A particular store bought a stock of jackets and increased its cost by 10%. During the autumn season, it boosted its prices by 28% of the original retail price. In November, the store then offered a discount of 25% to celebrate the end of the season. What was its profit on those jackets sold in November?
+
+d. 'Question': A clothing store purchased some T-shirts and initially marked up its cost by 12%. Later, in the summer sale, it increased its prices by 18% over the original retail price. However, it later offered a discount of 10% to attract customers in June. What was the store's profit on the T-shirts sold in June?
+
+
+
+88
+New Questions:
+a. What is one quarter of 3 percent written as a decimal?
+b. What is 25% of 4 percent in decimal form?
+c. How do you represent the number which is equivalent to one-third of 5 percent in decimal?
+d. If a value is 10% of 6 percent, what would it be in decimal form?
+
+
+
+89
+a. If books bought at prices ranging from Rs. 89 to Rs. 187 are sold at prices ranging from Rs. 115 to Rs. 220, what is the greatest possible profit that might be made in selling 15 books?
+b. Suppose books are bought at a range of prices from Rs. 105 to Rs. 200 and sold at prices from Rs. 130 to Rs. 230. What is the maximum profit on selling 20 books?
+c. What is the maximum profit one could expect to make by selling books that are bought at prices between Rs. 120 and Rs. 200, and sold at prices between Rs. 150 and Rs. 250, assuming one sells 18 books?
+d. If one's book buying prices range from Rs. 150 to Rs. 250 and selling prices range from Rs. 180 to Rs. 300, what is the maximum profit possible on selling 25 books?
+
+
+
+90
+a. Two planes A and B depart from two airports and flying towards each other. They meet after 6 hours and 4 hours respectively. If plane A flies at 500kmph, what is the speed of plane B?
+
+b. Two ships A and B set out from opposite ports and head towards each other. Upon meeting, ship A has traveled for 7 hours and ship B for 5 hours. If ship A travels at 30 mph, what is the speed of ship B?
+
+c. Two buses A and B are running from two cities in opposite directions. They reach their respective destinations after meeting each other in 6 hours and 8 hours respectively. If bus A operates at a speed of 45 kmph, find the speed of bus B.
+
+d. Two cars A and B are moving from two locations in opposite directions and meet each other. Car A has been on the road for 10 hours before reaching its destination after the meeting while Car B has been driving for only 6 hours. If car A travels at a speed of 70 kmph, how fast is car B moving?
+
+
+
+91
+Original Question: I bought three toys for my triplet boys (one for each). I placed the toys in the dark store. One by one each boy went to the store and pick the toy. What is the probability that no boy will choose his own toy?
+New Questions:
+a. I bought three different books for my three children. They are all placed on the shelf in the dark library. What is the likelihood that no child chooses the book assigned to them if they randomly select one each?
+b. My sister has three children and she bought three different gifts for them. She wrapped them all in identical wrapping paper and placed them in a bag. What are the chances that none of them will pick their own gift when they each pick a bag at random?
+c. My friend has three sons and she wants to arrange a surprise birthday party for each of them. She bought a toy for each of them and hid them in their respective rooms. What are the odds that none of them will find their own birthday toy during the party?
+d. I have three friends who are all turning the same age soon. I bought a gift for each of them and put them in a bag. If they each pick a bag randomly, what is the likelihood that none of them will get their own gift?
+
+
+
+92
+New Questions:
+a. A man, a woman and a girl can complete a task in 2 days, 3 days and 6 days respectively. How many girls must assist 1 man and 1 woman to complete the task in half a day?
+
+b. An expert, a semi-expert and a beginner can finish a project in 2 days, 4 days and 8 days respectively. How many beginners would be needed to help one expert and one semi-expert complete the project in one day?
+
+c. A teacher, a helper and an apprentice can complete a lesson plan in 2 hours, 3 hours and 6 hours respectively. How many apprentices would be needed to assist the teacher and helper in completing the lesson plan in just 30 minutes?
+
+d. An architect, a draftsman and an apprentice can finish designing a building in 1 week, 2 weeks and 4 weeks respectively. How many apprentices should assist one architect and one draftsman to complete the design in just 2 days?
+
+
+
+93
+New Questions:
+a. At present, the ratio between the ages of Priya and Vijay is 7 : 6. After 5 years, Priya's age will be 32 years. What is the age of Vijay at present?
+b. The ratio between the ages of Sunil and Ravi is 3 : 2. In 4 years, Sunil's age will be 28 years. What is Ravi's age at present?
+c. Currently, the age ratio between Sanchit and Maddy is 9 : 8. In 3 years, Sanchit will be 27 years old. How old is Maddy now?
+d. The ratio between the ages of Tom and Jerry is 4 : 3. After Tom turns 30, he will have been older than Jerry for 7 years. How old is Jerry now?
+
+
+
+94
+New Questions:
+a. A和B在一个生意中分别投资了Rs.3500和Rs.4500。如果在一年后A的资金翻倍了，他们该如何比例分配那一年的利润？
+
+b. C和D在生意中分别投入了Rs.2500和Rs.3500的资本。经过一年后，D的资本翻了两倍。他们应该如何分配这一年的利润？
+
+c. E和F合作做生意，其中E初始投资了Rs.4500而F投资了Rs.5000。到了年终，E的投资金额翻了一番。请问年终利润应该如何按百分比分配给E和F？
+
+d. G和H共同投资做生意，开始时G投入Rs.3200元，H投入Rs.3800元。但在一年内，G的投资金额变为两倍。在这一年中，他们应该如何按比例分配利润？
+
+
+
+95
+New Questions:
+a. If z - a = 8, which of the following must be true?
+I. Both z and a are positive
+II. If z is negative, a must be negative
+III. If z is positive, a must be positive
+
+b. If w is subtracted from v and the result is 9, what are the necessary conditions for both v and w to be positive?
+
+c. If the difference between two numbers p and q is 7, is it possible for both numbers to be negative?
+
+d. Given that m + n = 5, which of the following statements is always true?
+I. Both m and n are positive
+II. If m is negative, n is also negative
+III. If m is positive, n is also positive
+
+
+
+96
+New Questions:
+a. If each side of a rectangle is increased by 25%, how much would its area increase by in percentage?
+b. The length and width of a box are both increased by 25%. By how much does its volume change in percentage?
+c. A square patch of land expands by 25% on all sides. By how many percent does the patch's area increase?
+d. The sides of a square are expanded by a quarter. By what percentage does its area increase as a result?
+
+
+
+97
+New Questions:
+a. If the sum and difference of two numbers are 24 and 10 respectively, then the difference of their squares is?
+b. Given that the sum and difference of two numbers are 18 and 6 respectively, find the difference of their squares.
+c. When the sum and difference of two numbers are 32 and 12 respectively, what is the difference between their squares?
+d. If a number is multiplied by itself, and then subtracted from the sum of two numbers which are 25 apart from each other, the result obtained is 39. What is the difference between the squares of these two numbers?
+
+
+
+98
+a. If $600 is invested in a checking account with an annual interest rate of 4% that compounds weekly, what will be its worth after 20 years?
+b. Assuming an initial deposit of $750 into a fixed deposit account with an annual interest rate of 6% compound quarterly, how much will it grow to after 15 years?
+c. What would be the amount in a retirement fund if $300 is invested at a yearly interest rate of 7% which compounds daily for 12 years?
+d. When $450 is placed in a high-yield savings account with an annual interest rate of 8% that compounds continuously, how much will it be worth after 8 years?
+
+
+
+99
+New Questions:
+a. Two jars contain milk and water in the ratio 3: 2 and 4: 3 respectively. What volume should be taken out from the first jar if volumes have to be taken out from both jars to fill up a third jar with milk and water in the ratio 2:1?
+
+b. Three jars contain milk and water in varying proportions. The first jar has a ratio of 7: 5, the second jar has a ratio of 3: 1, and we need to extract milk and water from both jars to fill the third jar with a ratio of 6:5. How much should we take out from the first jar?
+
+c. Given two jars, one with milk and water in a ratio of 9: 7 and another with a ratio of 2: 1. We want to create a third jar filled with this mixture where the ratio of milk to water is 5: 6. How much should we take out from the first jar to achieve this?
+
+d. There are three jars; one with a milk-to-water ratio of 4:3, another with a ratio of 6:5, and we want to mix them into a third jar with a ratio of milk to water as 1:1. What volume should be taken out from the first jar to achieve this?
+
+
+
+100
+a. A clock shows the time as 6 a.m. If the minute hand loses 3 minutes every hour, how many minutes will the clock lose by 1 p.m.?
+
+b. Imagine a clock that is set correctly at midnight. If the minute hand gains 10 minutes every hour, how many minutes ahead will it be at 8 a.m.?
+
+c. A clock is showing correct time at 10 a.m. If the minute hand loses 2 minutes every hour, how many minutes behind will it be at 2 p.m.?
+
+d. A clock is adjusted to show 1 p.m. If the minute hand gains 4 minutes every hour from now onwards, how many minutes ahead will it be by sunset (assuming it is a standard day with approximately 12 hours of daylight)?
+
+
+
+101
+a. In a grocery store, a particular item has risen from 80 cents per pound to 85 cents per pound. Calculate the percentage increase in the item's cost.
+b. At the local market, a specific product has increased from 95 cents per pound to $1.05 per pound. What is the percentage rise in the product's price?
+c. In a supermarket, a specific item has gone up from $1.20 per pound to $1.32 per pound. Calculate the percentage increase in the item's cost.
+d. At a supermarket, a particular food item has escalated from 65 cents per pound to 70 cents per pound. What is the percentage surge in the food item's price?
+
+
+
+102
+New Questions:
+a. How many positive 6-digit integers have the even sum of their digits?
+b. Among positive 5-digit numbers with sum of digits being a prime number, how many exist?
+c. How many positive 5-digit numbers have the sum of their digits greater than 15?
+d. What is the total count of positive 5-digit numbers where the sum of their digits is divisible by 7?
+
+
+
+103
+Original Question: There are different 15 circles. What is the number of the greatest possible points with which the circles intersect?
+
+New Questions:
+a. There are 20 distinct squares. What is the maximum number of intersection points they can have?
+b. Given 18 different triangles, what is the highest number of intersection points they can share?
+c. If there are 25 hexagons, what is the maximum number of intersection points they could have upon intersecting?
+d. Given a set of 15 trapezoids, how many intersection points could they have at maximum if they intersect each other?
+
+
+
+104
+Original Question: B completes a work in 9 days. A alone can do it in 10 days. If both work together, the work can be completed in how many days?
+New Questions:
+a. If A completes a task in 8 hours and B does it in 10 hours, how many hours will it take for both of them to complete the task together?
+b. Worker A can build a house in 2 months while Worker B can do it in 3 months. How long will it take if they work together?
+c. In a race, A can finish in 8 days but B needs 6 days. If they run together, how many days will they need to complete the race?
+d. A farmer can harvest his crop in 2 weeks but B needs just 1 week to complete the job. If they both work together, how many days will it take?
+
+
+
+105
+New Questions:
+a. A container holds a liquid mixture of 4 parts water and 6 parts juice. How much of the mixture should be removed and replaced with juice to make it half water and half juice?
+
+b. In a bottle, there is a mixture of 2 parts milk and 4 parts tea. What proportion of the mixture should be drawn off and replaced with milk to make it half milk and half tea?
+
+c. A jar contains a mixture of 3 parts water and 7 parts honey. Calculate the amount of mixture that needs to be removed and replaced with honey to make it equally divided between water and honey.
+
+d. A tank holds a mixture of 5 parts water and 7 parts soda. How much of the mixture should be removed and replaced entirely with water to ensure that the remaining mixture is half water and half soda?
+
+
+
+106
+New Questions:
+a. A motorcycle is moving at a speed of 72 kmph. How far will it travel in 16 seconds?
+b. An airplane is flying at a speed of 480 kmph. What distance does it cover in 9 seconds?
+c. A runner is running at a speed of 18 kmph. How far will he run in 8 seconds?
+d. A bicycle is traveling at a speed of 24 kmph. What distance does it cover in 20 seconds?
+
+
+
+107
+a. The average of 7 observations is initially 12. When an 8th observation is added, the new average increases by 2. What is the 8th observation?
+
+b. The mean of 5 measurements is 20. When a 6th measurement is added, the new mean becomes 18. What is the value of the 6th measurement?
+
+c. The mean of a set of numbers is 7. When a new number is added, the mean decreases by 1. What is the value of the new number?
+
+d. The average of a set of 9 numbers is 8. When a 10th number is added, it decreases the average by 2. What is the value of this 10th number?
+
+
+
+108
+a. The population of a city rose from 950,000 to 1,450,000 over the course of a decade. Calculate the average yearly increase in population percentage.
+b. A village's population grew from 42,500 to 58,000 in a decade. What was the average yearly increase in population as a percentage?
+c. In a 10-year period, the population of a small town went from 1,25,000 to 1,92,500. What was the average annual increase in population in percentage terms?
+d. The population of a town rose from 55,000 to 77,500 over the last decade. What was the average percentage increase in population per year?
+
+
+
+109
+New Questions:
+a. If a + b = y 和 a - c = z，那么可以推出表达式 ab + c 吗？能否解释一下原理？
+b. 给定两个条件 a + b = 10 和 a - b = 6，请问 3ab 的值是多少？能否给出计算过程？
+c. 如果一个方程的两个条件是 a + b 和 a - b 分别等于两个已知数 y 和 z，我们如何根据这些条件计算 3ab 的值？举例说明。
+d. 假设已知条件 a + b 与 a - b 之和等于某个值 y 和差等于某个值 z，如何求解表达式 3ab 的值？给出详细步骤。
+
+
+
+110
+a. If the initial ratio of two numbers is 5:7 and an amount of 15 is added to both numbers, which then changes the ratio to 4:5, what is the smallest number?
+b. What would be the smallest number if the ratio of two numbers was 3:4 originally, and after adding 8 to both numbers, the new ratio became 7:10?
+c. Two numbers are in the ratio 4:9. If we add 15 to both numbers and the ratio becomes 9:16, what is the smallest number?
+d. In a situation where the ratio of two numbers is 6:7 and both numbers are increased by 9, causing the ratio to change to 4:5, what is the smaller number?
+
+
+
+111
+New Questions:
+a. A cricketer in his 8th match scores 70 runs and raises his average by 5 runs. What is his new average if he never got out in any of his matches?
+
+b. A player in his 15th game scores 90 points and thus raises his average by 3 points. What was his average after the 15th game if he had never been declared out?
+
+c. A footballer in his 10th match scores a hat-trick and increases his average by 1 goal. What is his average after the match if he has never been scored against in any previous matches?
+
+d. A basketball player in his 20th game makes a total of 45 points and raises his average by 2 points. What is his new average after the game if he had never been fouled in any of his previous games?
+
+
+
+112
+Original Question: In a division sum, the remainder is 6 and the divisor is 5 times the quotient and is obtained by adding 7 to the thrice of the remainder. The dividend is what?
+
+New Questions:
+a. In a division problem, the remainder is 4 and the divisor is twice the quotient plus 9. What is the dividend?
+b. In a division scenario, the remainder is 9 and the divisor is 3 times the quotient minus 5. What is the dividend?
+c. In a division calculation, the remainder is 7 and the divisor is obtained by multiplying the quotient by 4 and then subtracting 3. What is the dividend?
+d. When dividing a number by another, the remainder is 2 and the divisor is equal to 4 times the quotient plus 1. What is the dividend in this case?
+
+
+
+113
+New Questions:
+a. The average weight of 9 people increases by 3 kg when a new person joins the group. What is the weight of the new person if one of them weighs 60 kg and the rest weigh an average of 70 kg?
+b. The average weight of a group of 7 people increases by 2 kg when a new person joins. One of the original members weighs 50 kg. What is the weight of the new person?
+c. When a new person joins a group of 6 people, their average weight increases by 1.5 kg. If one of the original members weighs 45 kg and the rest average 60 kg, what is the weight of the new person?
+d. The average weight of a team of 10 players increases by 1 kg when a new player joins. If 3 of the original players weigh 70 kg each and the rest average 65 kg, what is the weight of the new player?
+
+
+
+114
+New Questions:
+a. Emma needs to visit cities X and Y in any order. The roads connecting these cities to her house are shown on the map. How many distinct routes can she take from point A to point A, visiting both X and Y (but not more than once through each city) and not driving the same road twice?
+
+b. Olivia has to visit villages D and E in a specific order. The paths connecting these villages are shown on the map. How many different ways are there for Olivia to travel from village A to village A, passing through villages D and E (each village can only be visited once) without retracing any path?
+
+c. Benjamin must visit towns F and G in any sequence. The routes connecting these towns to his house are outlined on the diagram. How many unique routes can he take from town A to town A, visiting both F and G (once each) without traveling any route twice?
+
+d. Taylor has to visit cities H and I in any order, following the roads shown on the map. How many different paths can Taylor take from his home city to itself, visiting both H and I (once each) without passing over any road segment more than once?
+
+
+
+115
+a. Incomes of two companies C and D are in the ratio of 3 : 4. If the income of company C increased by 15 lakh, the ratio of their incomes would have been 2 : 1. What is the income of company D?
+
+b. Here the ratio of two companies E and F incomes is 7 : 6. If the income of company E increased by 30 lakh, the ratio would have been 4 : 3. What is the income of company F?
+
+c. Incomes of two companies G and H are in the ratio 9 : 8. If the income of company G had been higher by 20 lakh, the new ratio would have been 5 : 4. What is the income of company H?
+
+d. The ratio of two companies I and J incomes is 6 : 5. If the income of company I increased by 20 lakh and decreased the income of J by 10 lakh, the new ratio would have been 7 : 3. What is the income of company J?
+
+
+
+116
+a. What is the area of a triangle when its sides are of length 1.5m, 2.5m and 3.5m respectively?
+b. Given the sides of a triangle are 2cm, 3cm and 4cm respectively, calculate its area.
+c. How to calculate the area of a triangle when the lengths of its sides are 1unit, 1.5unit and 2unit?
+d. A triangle has sides of length a = 4m, b = 5m and c = 6m. Determine its area.
+
+
+
+117
+a. X and Y started a business investing Rs. 70,000 and Rs. 50,000 respectively. In what ratio should the profit earned after 3 years be divided between X and Y respectively?
+b. M and N had a partnership business. M invested Rs. 120,000 while N invested Rs. 60,000. What would be the ratio of profit distribution between M and N after 1 year?
+c. A and B jointly started a business with investments of Rs. 45,000 and Rs. 65,000 respectively. Calculate the ratio in which the profit earned after 5 years should be divided between A and B?
+d. P and Q are business partners with investments of Rs. 95,000 and Rs. 25,000 respectively. What is the distribution ratio of their profit earned after a period of 4 years?
+
+
+
+118
+New Context and Questions:
+
+a. A and B are playing a different game this time. They are given a set of five-digit numbers ranging from 10000 to 99999. A asks B the same question as before: "Which whole numbers, greater than one, can divide all these five-digit numbers equally?"
+
+b. C and D are both math enthusiasts. C asks D about the whole numbers that can divide all the even three-digit numbers (like 100, 102, 104, etc.) evenly without leaving any remainder.
+
+c. E and F are playing a mathematical challenge. E asks F to find a number that can divide all the numbers in a specific range (say, from 50 to 200) evenly without any remainder. Which number would F choose?
+
+d. In another scenario, G and H are trying to find a specific set of prime numbers that can divide a certain multiple of ten (like 30 or 50) evenly. What would be those prime numbers?
+
+
+
+119
+Original Question: A 1200 m long train crosses a tree in 120 sec, how much time will it take to pass a platform 700 m long?
+New Questions:
+a. A train 1500 m long passes a signal in 90 sec. How much time will it take to cross a bridge 800 m long?
+b. A train that is 900 m long passes a tower in 150 sec. How long will it take to travel past a station that is 600 m long?
+c. A train which is 1600 m in length needs 180 seconds to cross a highway. Calculate the time it will take to pass a terminal that is 500 m long.
+d. A train that is 1400 m in length passes a signal system in 2 minutes. It needs to cross a station that is 950 m long. How much time will this take?
+
+
+
+120
+Original Question: In how many different ways can the letters of the word ‘ARMOUM’ be arranged?
+New Questions:
+a. In how many different ways can the letters of the word ‘ORCHID’ be arranged?
+b. How many permutations are there for the word ‘THUMBS’?
+c. Can you calculate the number of arrangements for the word ‘JUMPER’?
+d. What is the total number of arrangements possible with the letters in the word ‘BANANA’?
+
+
+
+121
+a. Which digits should be used to replace @ and # in the number 79852@#, so that it is divisible by both 7 and 3?
+
+b. Find the digits to replace @ and # in the number 48@#, so that the resulting number is divisible by both 11 and 25.
+
+c. What digits should replace @ and # in the number 570@@#, to make it divisible by both 10 and 9?
+
+d. What digits should replace @ and # in the number 9@@#, so that it is divisible by both 2 and 6, if we know that the first digit after @ is a prime number?
+
+
+
+122
+New Questions:
+a. A car 150 m long passes a pedestrian walking at 1 km/hr in the same direction as the car in 8 sec. What is the speed of the car?
+b. A bus 100 m long surpasses a cyclist, riding at 3 km/hr in the same direction as the bus in 15 sec. Calculate the speed of the bus.
+c. A motorcycle 90 m long overtakes a runner, moving at 5 km/hr in the same direction as the motorcycle in 7 sec. What is the motorcycle's speed?
+d. A truck 180 m long passes a dog walking at 2 km/hr in the direction of travel in 12 sec. Determine the speed of the truck.
+
+
+
+123
+Original Question: A work which could be finished in 8 days was finished 3 days earlier after 10 more men joined. The number of men employed was?
+New Questions:
+a. A work that needed 12 days to complete was done 4 days earlier when 15 new workers joined. How many men were originally employed?
+b. A construction project initially planned for 15 days was completed in 10 days with the addition of 20 workers. How many construction workers were originally working on the project?
+c. The duration of a task was reduced by 5 days after adding 12 people to the team. If it could be done in 6 days initially, how many people were on the team initially?
+d. The number of men employed on a project increased by 20, and the project that used to take 20 days got finished in just 8 days. How many men were originally working on the project?
+
+
+
+124
+Original Question: Each digit in the two-digit number G is halved to form a new two-digit number H. Which of the following could be the sum of G and H?
+
+New Questions:
+a. Each digit in a three-digit number is doubled to form a new three-digit number. What could be the sum of the original number and the new one?
+
+b. For a two-digit number G, if we subtract 5 from each digit to form a new number H, what could be the sum of G and H?
+
+c. If we increase each digit of a two-digit number G by 10 to form a new number H, what would the sum of G and H be?
+
+d. A two-digit number G is multiplied by 10 to form a new number H. What could be the sum of G and H in certain circumstances? (e.g., when G is a specific number)
+
+
+
+125
+Original Question: The product of two numbers is 2028 and their H.C.F. is 13. The number of such pairs is:
+New Questions:
+a. The product of two numbers is 450 and their GCD (greatest common divisor) is 15. How many such pairs are there?
+b. If the product of two numbers is 196 and their HCF (highest common factor) is 7, what is the number of such pairs?
+c. Two numbers have a product of 189 and their LCM (lowest common multiple) is 189. How many such pairs are there?
+d. The product of two numbers is 288 and their GCD is 8. Find the number of valid pairs with these characteristics.
+
+Explanation: All these new questions are based on the same concept as the original question - finding the number of pairs of numbers that satisfy certain conditions related to their product and highest common factor (or related concepts like GCD or LCM). Each new question has a different context with different numerical values, but the logic of solving them remains the same as the original question.
+
+
+
+126
+a. If Renu can do a task in 8 days but with Suma's help in 4 days, how long would Suma take to complete the task alone?
+
+b. Renu and Suma together can complete a job in 4 days. However, Renu needs 8 days on her own. How many days would Suma need to finish the job by herself?
+
+c. When working together, Renu and Suma can complete a task in 4 days. But Renu alone needs 8 days. What is the time Suma needs to complete the task independently?
+
+d. Considering that Renu can do a job in 8 days and with Suma's help it takes only 4 days, how long would it take for Suma to do the same job by herself?
+
+
+
+127
+Original Question: There are 4 people who has to cross a stretch of 300 km. They normally run at a speed of 10 kmph. One of them has a bike that travels at 50 kmph. The bike first takes one person alone and crosses the stretch while the other two keep running. Then he comes back without wasting time and picks up another person from the way, drives him across the stretch, and does the same for the last person. How long does this whole process take?
+
+New Questions:
+a. There are 5 people who need to traverse a distance of 250 km. One of them has a car that can travel at 40 kmph while the others usually walk at 5 kmph. The car first takes one person and reaches the other side, then comes back and takes another person. Calculate the total time taken for the whole process?
+
+b. In a team of 4 people, 3 of them have to walk at a speed of 8 kmph to cross a distance of 400 km. One of them has a motorcycle that can travel at 70 kmph. How long would it take for the team to complete the journey if the motorcycle follows the pattern of taking one person, driving to the other side, and then returning to pick up another person?
+
+c. A group of 6 people have to cover a distance of 350 km. One person in the group has a car that can travel at 60 kmph while others walk at a speed of 9 kmph. If the car follows the pattern of taking one person at a time and returning to pick up others, calculate the total duration of the journey?
+
+d. In a team of three people, all have to cross a distance of 250 km. One person has a bike that travels at 45 kmph while the other two run at a speed of 8 kmph. The bike follows the pattern of carrying one person first, then returning to pick up another, and finally taking the third person. What is the total duration of this journey?
+
+
+
+128
+New Questions:
+a. The security gate at a warehouse needs a Six-digit lock code. The code can only contain digits from 2 through 8, and the first and last digits must be even. How many possible lock codes are there?
+
+b. A secret vault door requires a Six-digit lock code. The code can consist of digits from 1 to 9, but there can be repeated digits. The first and last digits must be prime numbers. How many different lock codes can be created?
+
+c. A storage unit's security system requires a Six-digit access code. The code should only include digits from 3 to 7, and the middle digit must be divisible by 3. Calculate the total number of possible codes.
+
+d. A safety deposit box has a Six-digit combination lock. The combination can only use digits from 1 through 9 and cannot repeat any digit. The first digit is always greater than the second digit and the second digit is even. How many different combinations can the box have? (Considering that all the conditions must be met)
+
+
+
+129
+New Questions:
+a. If by selling an article for Rs.75, a person loses 2/5 of money, what would he have gained or lost % by selling it for Rs.60?
+b. When a person sells a product for Rs.65 and gains 1/3 of money, what percentage of profit would he have made if he sold it for Rs.77?
+c. When a person sells an item for Rs.77 and makes a profit of 20%, how much would he have lost if he sold it for Rs.60?
+d. If by selling a product for Rs.77, a person gains 10%, what would be his total profit or loss percentage if he sold it for Rs.60 initially?
+
+
+
+130
+Original Question: If a light flashes every 6 seconds, how many times will it flash in ¾ of an hour?
+New Questions:
+a. If a beacon signals every 8 seconds, how many times will it signal in a full hour?
+b. A beacon at a crossroad starts flashing every 5 seconds. How many times would it flash in half an hour?
+c. A traffic light at a junction blinks every 7 seconds. Calculate the number of times it blinks in 45 minutes.
+d. A star in the sky twinkles every 4 seconds. How many times would it twinkle in an hour?
+
+
+
+131
+a. Revenues were recorded for Shop C and Shop D over a period of three months. In the first month, Shop C's revenues were $30,000 higher than Shop D's. In the second month, Shop C's revenues were $5,000 higher than Shop D's. If Shop C's average monthly revenue for the three months was $2,500 greater than Shop D's, how much greater was Shop D's revenue in the third month compared to Shop C's?
+
+b. Mall X and Mall Y had different sales figures over a three-month period. In the first month, Mall X had sales that were $50,000 higher than Mall Y. In the second month, this difference was reduced to $10,000. If the average monthly sales difference for the three months was $15,000 in favor of Mall X, how much higher were Mall Y's sales in the third month compared to Mall X?
+
+c. Two stores, Store M and Store N, had sales over a three-month period. In the first month, Store M's sales were $35,000 more than Store N's. In the second month, this difference was $7,500. If Store M had an average monthly sales increase of $18,000 over Store N for the three months combined, how much more did Store N sell in the third month compared to Store M?
+
+d. A comparison of two supermarkets, Supermarket A and Supermarket B, showed varying sales figures over a quarter. In the first week of the quarter, Supermarket A sold $45,000 worth of goods more than Supermarket B. In the second week, this difference was narrowed to $9,000. If on average Supermarket A sold $22,500 more per week than Supermarket B during the quarter, by how much did Supermarket B exceed Supermarket A in weekly sales in the third week? (Note: Assume all weeks are of equal length and consider a quarter as three months or 12 weeks.)
+
+
+
+132
+Original Question: some digits were given like 0 2 2 3 3 4 4, then how many numbers will be there that are greater than 1 lac (100,000), with all numbers being distinct?
+
+New Questions:
+a. Given the digits 1 5 6 7 8 9 9, how many distinct numbers greater than 5 lac (500,000) can be formed?
+b. Using the digits 0, 5, 6, 7, with all numbers distinct, how many can be formed that are greater than 3 lac (300,000)?
+c. Consider the digits 2, 4, 5, 8, and 9. How many distinct numbers greater than 7 lac (700,000) can we form using these digits?
+d. With the digits 3, 4, 6, 7, 8 at our disposal, and the requirement of being distinct from each other, how many numbers do we have that are greater than 2 lac (200,000)?
+
+
+
+133
+New Questions:
+a. A sum of money at simple interest amounts to Rs. 920 in 4 years and to Rs. 980 in 5 years. What is the original sum?
+b. A certain amount of money at compound interest amounts to Rs. 900 after 3 years and to Rs. 1,024 after 4 years. What is the initial sum?
+c. A sum of money at simple interest amounts to Rs. 800 in 3 years and to Rs. 936 in 6 years. Calculate the sum and the interest rate together.
+d. If a sum of money amounts to Rs. 750 in 2 years at simple interest and to Rs. 825 in 3 years, what is the original sum and the interest rate?
+
+
+
+134
+a. 'Question':Each of the following inequalities has at least one solution EXCEPT Z. Is it true?
+
+b. 'Question':Each of the following formulas has a valid solution, except for statement E. Is it true?
+
+c. 'Question':Each of the following equations has a solution, except for statement B. Is it true? Please provide evidence for your answer.
+
+d. 'Question':Please note that each equation has a solution except for statement C. Is it true that none of the other equations have solutions? Provide evidence for your answer. (Note: Consider the context of the equations and their possible solutions)
+
+
+
+135
+Original Question: 10 people went to a hotel for a combined dinner party. 5 of them spent Rs. 20 each on their dinner, and the rest spent 4 more than the average expenditure of all 10. What was the total money spent by them?
+
+New Questions:
+a. 8 people went to a restaurant for a birthday celebration. Among them, 4 spent $30 each on their meal, and the others spent $5 more than the average expenditure of all 8. What was the total amount spent?
+
+b. In a family gathering of 12 members, 6 of them had lunch at a restaurant and spent $25 each. The rest spent $7 more than the average expenditure of all 12 members. Calculate the total amount spent on lunch.
+
+c. At a team outing of 15 members, 9 people bought ice creams for themselves costing $4 each. The remaining people spent $3 more than the average expenditure of all the team members. What was the total amount spent on ice creams?
+
+d. For a corporate dinner, 14 colleagues gathered at a restaurant where 7 of them spent ¥250 each. The others in the group spent ¥10 more than the average expenditure of all the colleagues. Calculate the total amount spent at the dinner.
+
+
+
+136
+New Questions:
+a. If z is the product of the integers from 1 to 200, inclusive, and 3^m is a factor of z, what is the maximum possible value of m?
+b. What is the largest possible value of y such that 2^y is a factor of the product of all integers from 1 to 100, inclusive?
+c. If p is the product of all integers from 1 to 120, inclusive, and 7^n is a factor of p, what is the maximum value of n?
+d. If the product of all integers from 1 to 50 is denoted as q and 10^r is a factor of q, what is the highest value of r possible?
+
+
+
+137
+Original Question: Product M is produced by mixing chemical X and chemical Y in the ratio of 5 : 4. Chemical X is prepared by mixing two raw materials, A and B, in the ratio of 1 : 3. Chemical Y is prepared by mixing raw materials, B and C, in the ratio of 2 : 1. Then the final mixture is prepared by mixing 864 units of product M with water. If the concentration of the raw material B in the final mixture is 50%, how much water had been added to product M?
+
+New Questions:
+a. Product N is made by combining chemical Y and chemical Z in the proportion of 3 : 2. Chemical Y is created by mixing elements P and Q in a ratio of 4 : 1. Chemical Z is a blend of elements Q and R mixed in a ratio of 3 : 5. If 720 units of Product N are mixed with water and the concentration of element Q in the final mix is 40%, how much water was added?
+
+b. Product O is created by mixing chemicals V and W in a ratio of 7 : 6. Chemical V is made by blending ingredients A and D in a ratio of 2 : 3. Chemical W is a combination of ingredients D and E mixed in a ratio of 5 : 4. If the final mixture of Product O with water has a concentration of ingredient D at 45%, how many units of water were added to the mixture? Assume that we have mixed 900 units of Product O with water.
+
+c. A mixture, known as chemical K, is made by mixing ingredients L and M in a proportion of 8 : 5. The final product requires chemical K and water mixed in a ratio of 1 : 2. If the final product has a concentration of ingredient M at 25%, how many liters of water were used to prepare the final product? Assume that we have used 1 liter of chemical K in the final product.
+
+d. Product P is produced by mixing two chemicals, S and T, in a ratio of 7 : 3. Chemical S is created by mixing raw materials V and W in a proportion of 3 : 1. Chemical T comprises of raw materials W and U mixed in a ratio of 4 : 1. If the final mixture comprising of Product P and water has a concentration of raw material W at 30%, how much water was added to the mixture assuming that we have mixed 648 units of Product P with water?
+
+
+
+138
+a. In a 5 person race, medals are awarded to the fastest 4 runners. The first-place runner receives a gold medal, the second-place runner receives a silver medal, and the third-place runner receives a bronze medal. If there are ties, the tied runners receive the same color medal. How many different victory circles are possible with exactly four medals awarded?
+
+b. In a 3 person race for a specific event, only the fastest 2 runners are awarded medals - a gold medal for the first place and a silver medal for the second place. How many different victory circles are possible if there are no ties for this event?
+
+c. In a 4 person race for a marathon, the top 3 runners are awarded medals as mentioned in the previous question. However, if there is a tie between the first and second places, what will be the medal situation, and how many different victory circles can still be formed?
+
+d. In a 6 person race, where only the top 4 runners are awarded medals (gold, silver, bronze), how many different victory circle arrangements are possible if we consider all possible tie scenarios between runners?
+
+
+
+139
+Original Question: X completes a work in 20 days and Y complete the same work in 30 days. If both of them work together, then the number of days required to complete the work will be?
+
+New Questions:
+a. A project needs to be completed by X in 30 days and by Y in 45 days. If they work together, how many days will it take to complete the project?
+b. Z takes 25 days to finish a task while W takes 40 days. If they team up, how many days will it be to complete the task?
+c. M can do a job in 15 days while N can do the same job in 25 days. If they work together, calculate the number of days required to complete the job.
+d. P and Q are working on a project. P can do it in 10 days while Q can do it in 12 days. How many days will it take for them to finish if they work together?
+
+
+
+140
+New Questions:
+a. A table is bought for $200 and sold at $350, calculate gain or loss percentage.
+b. A book is bought for 50 Euros and sold at 70 Euros, find gain or loss percentage.
+c. A laptop is bought for Rs. 6000/- and sold at Rs. 5400/-, determine the gain or loss percentage.
+d. A bike is bought for $800 and sold at a discount of 15%, find the percentage of the original price that was lost due to the discount.
+
+
+
+141
+Original Question: What is the least number to be subtracted from 696 to make it a perfect square?
+
+New Questions:
+a. What is the smallest number that needs to be subtracted from 963 to obtain a perfect square?
+b. What number should be subtracted from 512 so that it becomes a perfect square of an integer?
+c. Subtract the minimum number from 424 to obtain a perfect square. What is that number?
+d. To make 705 a perfect square, what is the smallest number that needs to be subtracted?
+
+
+
+142
+New Questions:
+a. There are 12 books on a shelf, of which 3 are paperbacks and 9 are hardbacks. How many possible selections of 4 books from this shelf include at least one paperback?
+b. On a shelf, there are 15 books, with 5 paperbacks and 10 hardbacks. How many ways are there to choose 3 books that include at least one paperback?
+c. In a library, there are 20 books. Among them, 8 are fiction paperbacks and 12 are non-fiction hardbacks. How many possible combinations of picking 3 books are there, ensuring at least one is a paperback?
+d. In a bookstore, there are 25 books. Some are paperbacks and others are hardbacks. We want to know the number of possible combinations of choosing 5 books, in which there should be at least one paperback. How many such combinations are there?
+
+
+
+143
+New Questions:
+a. If a certain amount of money triples itself in 30 years at simple interest, what is the ratepercent per annum?
+b. A sum of money doubles in 15 years due to compound interest. What is the ratepercent per annum?
+c. If an investment grows to become four times its original value in 25 years at fixed interest, what is the annual interest rate?
+d. A certain sum of money doubles itself every 18 years due to simple interest. What is the annual interest rate in percentage?
+
+
+
+144
+a. In a new fuel station, the service fee has been adjusted to $1.3 per car. Each liter of fuel now costs $0.45. Assuming you have 3 sports cars and 3 executive cars with empty fuel tanks, how much would it cost to fully fuel all the cars?
+
+b. At a different gas station, there is a special promotion where sports cars enjoy a 15% discount on fuel cost. Each liter costs $0.5 with the service charge set at $1 per car. If you own 4 sports cars and 2 executive cars with empty tanks, how much would it cost to gas up all the cars?
+
+c. In a different scenario, fuel prices have changed at your regular station. Now, the service costs $1 per car and each liter of fuel is priced at $0.35. You have 2 sports cars and 3 regular cars (with tanks smaller than executive cars but larger than sports cars) whose tanks are empty. How much would it be to refuel all the cars?
+
+d. At your local gas station, there is a fixed service fee of $1 for each car, regardless of the quantity of fuel purchased. If each liter of fuel costs $0.5 and you need to refuel your 2 sports cars and 3 sedans (with intermediate tank sizes between sports and executive cars), how much would it cost to fully fuel all the cars? The sedan tank is assumed to be 50% bigger than a sports car's tank.
+
+
+
+145
+a. Choose the missing terms out of the given alternatives: AZ, DE, FG, HY.
+
+b. Identify the missing letter sequence among AZ, BN, CO, DP.
+
+c. Complete the sequence: AZ, BR, CX, ____.
+
+d. Select the incomplete sequence from the options: AZ, CY, FX, ___." Note that for each new question, you can change the missing term or the context to make it distinct from the original question.
+
+
+
+146
+a. Company P allocated 1/3 of its revenues last year for advertising and then invested 1/6 of the remaining amount in upgrading its premises. What fraction of last year’s total revenues did Company P have after its advertising and upgrading costs?
+
+b. Organization S spent 20% of its annual income last year on sales promotion and then invested 15% of the remaining amount on the renovation of its office. What percentage of last year’s total income did Organization S have left after these expenses?
+
+c. Company A allocated 1/5 of its annual turnover towards brand promotion last year and then used 1/8 of the remaining amount for facility maintenance. Calculate the proportion of last year’s original turnover that remained with Company A after these expenses.
+
+d. Business X used 25% of its annual revenue last year for marketing activities and then invested 20% of the balance on property maintenance. Calculate the percentage of last year’s total revenue that Business X had left after these costs were incurred.
+
+
+
+147
+a. A train 400 m long is moving at a speed of 50 km/hr. How much time will it take to cross a bridge 200 m long?
+b. A train 300 m long is moving at a speed of 35 km/hr. What time will it take to pass a bridge 100 m in length?
+c. Consider a train 450 m in length running at a speed of 60 km/hr. How long will it take to cross a bridge that is 250 m long?
+d. A train 500 m in length is moving at a speed of 40 km/hr. Calculate the time it will take to pass a bridge that is 180 m long.
+
+
+
+148
+New Questions:
+a. What is the range encompassing 1/20 + 1/21 + 1/22 + ... + 1/30?
+
+b. What is the sum of the values from 1/25 to 1/30, inclusive?
+
+c. Calculate the extent of the sum from 1/21 to 1/30, inclusive?
+
+d. What is the span of the sequence 1/21, 1/22, ..., 1/30?
+
+
+
+149
+a. Company B has 15 employees, 11 of whom are union members. If 6 people work each shift and the union contract requires at least 5 union members per shift, how many different combinations of employees could work any given shift?
+
+b. In a company with 17 employees, where 12 are union members, how many distinct combinations of employees can work a shift if only 4 people are required to work and the union demands at least 3 union members on each shift?
+
+c. If Company C has 20 employees, with 16 being union members, and each shift requires exactly 7 people to work, while the union contract guarantees at least 6 union members per shift, how many distinct combinations of employee shifts are possible?
+
+d. In a scenario where Company D has 19 employees, 14 of whom are part of the union, and for any given shift, at most 6 people can work while ensuring that at least 4 union members are on duty, what is the total number of distinct combinations of employee shifts?
+
+
+
+150
+a. A bag contains 6 red and 3 green balls. 4 balls are picked randomly. What is the probability of getting exactly two green balls?
+
+b. Imagine a bag with 7 red and 1 green ball. 5 balls are drawn at random. Calculate the probability of drawing exactly two green balls.
+
+c. In a bag with 4 red and 3 blue balls, 5 balls are chosen randomly. What is the probability of picking exactly two blue balls?
+
+d. A jar contains 8 yellow and 2 purple marbles. You pick 4 marbles at random. What is the probability of getting exactly two purple marbles?
+
+
+
+151
+New Questions:
+a. A man completes a journey in 18 hours. He travels the first half at 25 km/hr and the second half at 28 km/hr. What is the total distance of his journey in km?
+b. A student completes a trip in 15 hours. He covers the first half in a car at 30 km/hr and walks the second half at 5 km/hr. Calculate the total distance of his trip in km.
+c. A runner finishes a marathon in 3 hours. The first half, she runs at a speed of 12 km/hr and the second half at 14 km/hr. How many kilometers is the marathon?
+d. A cyclist completes a route in 8 hours. He pedals the first half with an average speed of 18 km/hr and the second half at 21 km/hr. What is the total length of his route in kilometers?
+
+
+
+152
+Original Question: The average height in a group of 4 people is 175 cm. If the average height increased when 2 more people were added to the group, which of the following cannot be the heights of the two new people?
+
+New Questions:
+a. The average weight of a group of 5 children is 40 kg. When another child was added to the group, the average weight decreased. Which of the following cannot be the weight of the new child?
+
+b. In a group of 3 students, the average grade is 85%. If after adding 2 more students to the group, the average grade decreased, what grades cannot be those of the two new students?
+
+c. The average age in a family of 4 is 30 years. If the average age increased when 2 more family members joined, which age combinations could not be those of the new members?
+
+d. In a group of 6 basketball players, the average height is 190 cm. If two more players joined and the average height decreased, which of the following cannot be the combined height of the two new players?
+
+
+
+153
+New Questions:
+a. The sum of the present ages of two persons A and B is 55. If the age of A is three times that of B, find the sum of their ages 5 years hence.
+b. The present combined age of A and B is 70 years. If A is older than B by 10 years, find the sum of their ages after 7 years.
+c. The sum of the present ages of A and B is 45. If B's age is half of A, find the sum of their ages in 3 years.
+d. The total age of A and B is 65 years presently. If A's age is greater than B by 5 years, what will be their total age in 8 years?
+
+
+
+154
+a. Find the number which when multiplied by 12 is increased by 180.
+b. What number when multiplied by 20 shows an increase of 299?
+c. Find a number such that when it is multiplied by 9, the result is increased by 163.
+d. Can you find a number which, when multiplied by 18, shows an increase of 254, and what is that number?
+
+
+
+155
+New Questions:
+a. A number A equals 75% of the average of 3, 9, 18 and a number B. If the average of A and B is 30, what is the value of B?
+b. Number Z is 90% of the average of 6, 12, 24 and another number P. If the average of Z and P is 35, find the value of P.
+c. A certain value V is 70% of the average between 4, 12, 20 and another number S. If the average of V and S is given to be 28, what is S?
+d. A number D is equal to 85% of the average between 7, 18, 35 and a number E. The average of D and E is given as 37. What is the value of E?
+
+
+
+156
+Original Question: A man covers a distance on scooter. Had he moved 3kmph faster he would have taken 40 min less. If he had moved 2kmph slower, he would have taken 40min more. What is the distance?
+New Questions:
+a. A woman cycles a certain distance. If she cycles 2mph faster, it would take her 30 minutes less. If she cycles 1mph slower, it would take her 30 minutes more. What is the distance?
+b. A runner runs a certain distance. If his speed increased by 5km/h, he would finish in 20 minutes earlier. If his speed decreased by 3km/h, he would need 20 minutes longer. What is the distance of the run?
+c. A car is driving to a destination. If the speed was 4kmph higher, it would arrive in 30 minutes earlier. If the speed was reduced by 3kmph, it would arrive 30 minutes later. Calculate the distance to the destination.
+d. A student walks to school. If he walked at a pace that was 1km/h faster, he would arrive in 20 minutes early. If he walked at a pace that was 1km/h slower, he would arrive 25 minutes later. How far is school from his house?
+
+
+
+157
+a. The number of livestock in a farm at the beginning of year 2002 was 130,000 after an increase of p% in 2000 and then a decrease of q% due to a famine in 2001. Would the livestock number in 2002 still be the same as that in the beginning of 2000 if there were no such famine?
+
+b. In a farm, the livestock population at the start of year 2000 was 130,000. The number increased by p% during the year and then decreased by q% due to some crisis in the following year. What would be the final number of livestock at the end of year 2001 if the crisis had not occurred?
+
+c. A farm had 130,000 livestock at the start of year 2000 which increased by p% during the year and then decreased by q% due to a natural disaster in year 2001. What would be the total percentage change in the livestock count from year 2000 to year 2001?
+
+d. In a particular farm, the initial count of livestock at the start of year 2000 was 130,000. The number witnessed an increase of p% during the year and then a decrease of q% due to some unpredictable events in year 2001. Calculate the net change in the livestock count during this two-year period.
+
+
+
+158
+a. If 2 men or 3 women can harvest a field in 8 days, how long will 7 men and 9 women take to harvest it?
+b. Given that 4 men can reap a field in 7 days, calculate the time taken by 6 men and 8 women to reap the same field.
+c. If a field can be harvested by either 5 men in 6 days or 7 women in 8 days, how long will it take for 10 men and 12 women to harvest the same field?
+d. Given that a certain field can be harvested by either 3 men in 12 days or 4 women in 15 days, calculate the time taken by 7 men and 9 women together to harvest it.
+
+
+
+159
+a. What is the maximum value of n if the factorial of 150 is divisible by 9^n?
+
+b. Can you determine the largest possible value of an integer n if 120! is divisible by 14^n?
+
+c. What is the highest value of n when 90! is divisible by 18^n? Consider n to be an integer.
+
+d. Find the maximum value of n, given that the factorial of 175 is divisible by 20^n, where n is an integer.
+
+
+
+160
+New Questions:
+a. Please identify the number out of the following sequence 8, 16, 45, 204 that doesn't belong to the series.
+b. Find the odd number out of the series 2, 5, 14, 38, 139 in this pattern that is followed by others in sequence.
+c. Given the series of numbers 9, 18, 36, 72, which number is out of place?
+d. Identify the invalid number in this sequence: 32, 193, 799, 3044, which is not following the series pattern.
+
+
+
+161
+a. On a weekday, a pet rescue center had 60 cats and dogs combined. By the end of the week, 1/3 of the cats and 1/5 of the dogs had been adopted. No new animals were brought in during this period. What is the maximum number of pets that could have been adopted?
+
+b. At the start of the week, an animal rescue center had 50 cats and dogs. By the end of the week, 1/4 of the cats and 1/3 of the dogs had been adopted by new homes. There were no new arrivals during this time. How many pets could have been adopted at most?
+
+c. An animal shelter had 75 animals (cats and dogs) on a Sunday. By the following Thursday, 1/6 of the cats and 1/5 of the dogs had been adopted. During this period, no new animals were brought in. What is the maximum number of pets that could have been adopted?
+
+d. At the start of a weekend, an animal welfare organization had 70 animals (cats and dogs combined). During the weekend, 1/8 of the cats and 1/6 of the dogs were adopted, and no new animals were brought in. What is the highest possible number of animals that could have been adopted?
+
+
+
+162
+Original Question: A shopkeeper gave an additional 20 per cent concession on the reduced price after giving 30 per cent standard concession on an article. If Arun bought that article for 1,120, what was the original price?
+
+New Questions:
+a. A trader provided a 25 per cent discount on a product and then offered a further 15 per cent off the reduced price. If someone bought it for 750, what was the original price?
+b. In a sale, a store first reduced the price of an item by 25 per cent and then gave an additional 18 per cent discount. If a customer paid 480, what was the original price?
+c. A bookstore first applied a 35 per cent discount on a book and then offered a further 10 per cent off the reduced price. If a customer bought it for 390, what was the original price of the book?
+d. A dealer first offered a 28 per cent discount on a product and then provided an extra 12 per cent concession on the discounted price. If a customer paid 780, what was the original price of the product?
+
+
+
+163
+a. The combined age of X and Y is 12 years greater than the combined age of Y and Z. Z is how many years younger than X?
+
+b. In a group of three friends, the sum of the ages of the first two is 8 years greater than the sum of the ages of the second and third. The third friend is how many years junior to the first?
+
+c. The sum of the ages of P and Q is 15 years greater than the sum of the ages of Q and R. R is what age difference from P?
+
+d. The total age of P and Q is 20 years more than the total age of Q and R, who's known as a toddler. Calculate the age difference between R and P in years.
+
+
+
+164
+Original Question: In an election between two candidates, 10% of votes are declares invalid. First candidate got 3600 votes which were 60% of the total valid votes. What was the total number of votes enrolled in that election?
+
+New Questions:
+a. In an election, 5% of votes were declared invalid. The first candidate received 4000 votes, which comprised 70% of the valid votes. What was the total number of votes in that election?
+
+b. In a political contest, 8% of votes were declared invalid. The first candidate garnered 3000 votes which formed 65% of valid votes received. Calculate the total number of votes enrolled in that political contest.
+
+c. In a referendum, 12% of votes were declared invalid. The leading candidate received 2500 votes, which accounted for 55% of the valid votes received. What was the total number of votes in that referendum?
+
+d. In a school election, 9% of votes were declared invalid. The most popular candidate received 2400 votes which comprised 80% of the valid votes received. What was the total number of votes enrolled in that school election?
+
+
+
+165
+a. Find a 7 digit number that if multiplied by the number 7 or any of its multiplications products (14, 21, 28, 35,..) will result in the multiplication factor being repeated (n) number of times.
+b. Can you find a 9 digit number that when multiplied by 5 or any of its multiples (10, 15, 20, etc.) will have the multiplier repeated in the product?
+c. What is an example of a 6 digit number that when multiplied by either 4 or 8 will result in a product where the multiplier is repeated a specific number of times?
+d. Find a specific 9 digit number that when multiplied by any number between 1 and 9 inclusive will result in that number being repeated in the product.
+
+
+
+166
+New Questions:
+a. A和B在一个生意中分别投资了Rs.3500和Rs.6500。如果A在一年后将其资本翻倍，那么在这一年的利润中，A和B应该如何分配比例？
+
+b. 张和王共同投资了一个项目，投资金额分别为5000元和8000元。如果张在一年后将其投资金额翻倍，他们应该如何分配这一年的利润？假设利润是按照投资比例分配的。
+
+c. 假设C和D共同投资做生意，C投资了Rs.4000并在一年后资本翻倍，而D投资了Rs.5000。这一年结束后，他们应该按照怎样的比例分配利润？
+
+d. 在一项业务中，E和F分别投资了不同金额的资金。E在半年后将其投资翻了一番。假设他们按照投资金额的比例来分配利润，求他们应如何分配一年的利润？假设他们的投资金额分别是Rs.2500和Rs.7500。
+
+
+
+167
+New Questions:
+a. A woman saves 30% of her weekly income. Due to a rise in prices, she needs to increase her weekly spending by 30%. She is now able to save $50 per week. What is her weekly income?
+
+Context: The woman used to save a certain amount every week, but due to the increase in prices, she has had to adjust her budget.
+
+b. A student saves 35% of his weekly allowance. If he increases his spending by 15% due to a rise in tuition fees, he is left with $40 per week. What is his weekly allowance?
+
+Context: The student has a fixed weekly allowance from his parents, but with the rise in tuition fees, he has to adjust his spending.
+
+c. An employee puts away 25% of his daily salary in savings. If the cost of living increases and he has to increase his daily expenses by 15%, he can only save £5 per day. What is his daily salary?
+
+Context: The employee has a regular daily salary and puts a certain amount into savings, but due to changes in the cost of living, he has had to adjust his daily budget.
+
+d. An entrepreneur saves 15% of his quarterly profit. If market conditions cause an increase in expenses and he needs to raise his quarterly spending by 10%, he can only save $15,000 per quarter. What is his quarterly profit?
+
+Context: The entrepreneur has a certain amount of profit every quarter and saves a portion of it. However, due to market conditions, he has had to adjust his spending and savings.
+
+
+
+168
+New Questions:
+a. A car drives a certain distance on a highway in 3 hours, but it takes it 5 hours to return to the same place. If the wind speed is 20 kmph, what is the car's speed on the highway in still air?
+
+b. An airplane covers a certain distance to a destination in 2 hours, but it takes it 4 hours to return. If the wind speed is 50 kmph, what is the airplane's speed in calm air?
+
+c. A motorcycle rides a certain distance in the city in 1½ hours, but it takes it 8 hours to ride back due to traffic. If the speed of the traffic is 15 kmph, what is the motorcycle's speed in city streets when traffic-free?
+
+d. A horse runs a certain distance on a track in 45 minutes, but it takes it 1 hour to return. If the wind is blowing at a speed of 4 kmph, what is the horse's running speed on the track when it's calm outside?
+
+
+
+169
+New Questions:
+a. A and B invest Rs.5000 and Rs.7500 in a business. After 5 months, A withdraws two-thirds of his capital and 3 months later, B withdraws one-third of his capital. In what ratio should they share the profits at the end of the year?
+
+b. A and B jointly invest in a business with A investing Rs.3500 and B investing Rs.6500. After 3 months, A takes out two-fifths of his capital while B withdraws nothing. How should they divide the profits earned after a year?
+
+c. A and B invest in a business with A investing Rs.4500 and B investing Rs.5500. After 6 months, A withdraws half of his capital and B withdraws one-quarter of his capital. Calculate the profit sharing ratio at the end of the year.
+
+d. A and B invest in a business with initial investments of Rs.3000 and Rs.7000 respectively. After 8 months, both A and B withdraw equal amounts of their capital. How should they divide the profits earned after a year?
+
+
+
+170
+Original Question: 根据给定的数值序列（0.5，0.55，0.65，0.8），推测下一个可能的数值是多少？
+New Questions:
+a. 基于数字序列（0.1，0.3，0.5，0.7），推测下一个可能的数值是多少？
+b. 在数列（0.4，0.6，0.8，？）中，根据前面规律推断最后的数字应该是多少？
+c. 序列如下： 0.35，0.4，0.45， 之后的数值是什么？理由是什么？ 
+d. 根据这些数列规律（序列增加的数量在每次都为同一特定数值）：如，（先从不同给出一定个数的起始数值进行整体估算规律后，推断接下来的一个数值）求下一数字是多少？（如给出数值序列：如0.3、增长值为（？）且间隔递增数为定值。）接下来会是什么数？给出推理过程。
+
+
+
+171
+a. If 20 women or 15 men can complete a project in 45 days, how many days will 8 women and 3 men working together need to complete the same project?
+b. If 12 women and 8 men can finish a task in 60 days, how many days will it take for 6 women and 4 men to accomplish the same task?
+c. Let's say that if 25 individuals can finish a task in 40 days, regardless of gender. In how many days will 5 women and 4 men complete the same task together?
+d. Given that 20 people working together can complete a task in 30 days, and the same task is taken by 5 women and 4 men in a different context. How many days will they need to complete the task?
+
+
+
+172
+New Questions:
+a. If n is a positive integer and n^3 is divisible by 720, then what is the largest positive integer that must divide n?
+b. If n is a positive integer and n^2 is divisible by 900, what is the largest positive integer that divides n?
+c. If a number n is divided by 36 and the remainder is zero, what is the largest integer that will divide n?
+d. When a positive integer n is squared and the result is divisible by 375, what is the maximum number that divides n without leaving any remainder?
+
+
+
+173
+New Questions:
+a. 有两个水管A和B，它们分别可以在12和18分钟内填满一个蓄水池。一个人在蓄水池应该已满的时候打开了两个水管，但他发现排水管道也是开着的。他关闭了排水管道后，又花了6分钟才把蓄水池填满。请问排水管道空蓄水池的时间是多少？
+
+b. 有两个水龙头A和B，分别可以在15和20分钟内将浴缸注满水。当浴缸应该已经满了时，用户打开了两个水龙头，却发现排水口也在流水。用户关闭排水口后，又等了5分钟浴缸才满。请问排水口排空浴缸的时间是多少？
+
+c. 有两个水渠A和B，它们分别可以在20和30分钟内把一个大湖填满。一个人发现当两个水渠同时工作时，大湖应该在某个时刻填满。但由于疏忽，他忘了关闭湖中的排水管。他在发现后关闭了排水管，然后用了额外的8分钟把湖填满。请问排水管排空大湖的时间是多少？
+
+d. 在一个水池问题中，有两根管道A和B可以在特定时间内填充水池。但在某一时刻水池并没有充满时却发现一条漏水管道打开着。有人关掉了这条漏水管道后花了额外的几分钟才将水池填满。如果知道这两条管道单独填充水池的时间以及最后的额外时间，求漏水管道将水池完全排空所需的时间？
+
+
+
+174
+a. A club with 15 members is conducting an election. One member will be chosen as the president, another as the secretary, and another as the treasurer. What is the probability that a specific member, let's say Adam, will be elected as the secretary or treasurer?
+
+b. In a club of 14 members, including Jack, a president, secretary, and treasurer are to be chosen randomly. What is the likelihood that Jack will be either the secretary or the treasurer?
+
+c. There is a club with 14 members, including David. David has a chance to be chosen as the secretary or the treasurer in a random selection process. What are the chances that David will hold either of these positions?
+
+d. In a club with 14 members (including Tom), members are randomly chosen for roles as president, secretary, and treasurer. What is the probability that Tom will be either the secretary or the treasurer?
+
+
+
+175
+New Questions:
+a. Emily runs 10 miles to the north and then runs back 6 miles. She then turns right and runs 7 miles; runs 3 miles after turning right; she turns right again and runs 2 miles. How far is she from the starting point?
+b. Adam hikes 12 km towards the west and then hikes back 18 km. He then turns right and hikes 7 km; hikes 9 km after turning left; he turns right again and hikes 4 km. How far is he from the starting point?
+c. A person walks 7 miles towards the south, then walks back 12 miles. Following that, they turn left and walk 3 miles, then walk 6 miles straight. Finally, they turn left again and walk 1 mile. How far are they from the starting point?
+d. After traveling 15 km towards the east, a girl walks back 20 km. She then turns right and walks 8 km, then walks 12 km after another turn left. Finally, she turns right again and walks 3 km. How far is she from her starting point?
+
+
+
+176
+a. A girls' basketball team has G girls on the team. If 3 girls are added to the team and one person is randomly chosen to be the team captain, what is the probability that the team captain will be a girl?
+
+b. A mixed martial arts team has W women and M men. If 5 women and 3 men join the team, and a team captain is chosen randomly, what is the probability that the team captain will be a woman?
+
+c. An all-boys basketball team has M boys. If 2 boys are added to the team and one team captain is randomly chosen, what is the probability that the team captain will not be a boy?
+
+d. An athletic club has W women in its archery team and M men in its cricket team. If 2 women from the archery team and 3 men from the cricket team are invited to join a new mixed sport team, and a team captain is randomly chosen from this new team, what is the probability that the team captain will be a woman?
+
+
+
+177
+a. A woman is 25 years older than her daughter. In three years, her age will be twice the age of her daughter. What is the current age of the daughter?
+
+b. A father is 27 years older than his daughter. In five years, his age will be 1.5 times the age of his daughter. What is the current age of the daughter?
+
+c. A teenager is 15 years younger than his brother. In one year, his brother's age will be twice the age of the teenager. How old is the brother now?
+
+d. An elderly man is 40 years older than his grandson. In five years, his age will be three times the age of his grandson. Calculate the present age of the grandson.
+
+
+
+178
+a. Adam mixed 4 pounds of almonds with 4 pounds of walnuts. If a pound of almonds costs twice as much as a pound of walnuts, then the total cost of the walnuts was what fraction of the total cost of the mixture?
+
+b. Bob combined 3 kilograms of apples with 3 kilograms of oranges. If a kilogram of apples costs twice as much as a kilogram of oranges, then the total cost of the oranges was what fraction of the total cost of the combination?
+
+c. If Emma mixed 5 pounds of cherries with 5 pounds of grapes and a pound of cherries costs half as much as a pound of grapes, then the total cost of the cherries was what fraction of the total cost of the mixture?
+
+d. Gina mixed 4 kilograms of strawberries with 6 kilograms of blueberries. If a kilogram of strawberries costs 1.5 times as much as a kilogram of blueberries, then the total cost of the strawberries was what fraction of the total cost of the mixture?
+
+
+
+179
+New Questions:
+a. If 3^(3w) = 27^(w-1), what is the value of w?
+b. Given that 5^(w+1) = 125^(w-3), find the value of w.
+c. If 7^(w+2) = 49^(w-1), determine the value of w.
+d. If the equation 4^(w-1) = 16^(w+1) holds true, what is the value of w?
+
+
+
+180
+New Questions:
+a. A clock that loses time uniformly is 10 minutes slow at 9 a.m. on Sunday and is 2 hours 30 minutes fast at the same time on the following Sunday. When was it accurate?
+b. A clock, which gains time uniformly, is found to be 15 minutes fast at noon on a certain day and is 30 minutes slow at the same time on the following day. At what time was the clock accurate?
+c. A watch, which gains time steadily, shows a difference of 45 minutes from the true time when checked at 10 a.m. on Saturday and a difference of 1 hour and 15 minutes at 2 p.m. on the same day. When was the watch showing correct time?
+d. A clock, which runs fast, is 30 minutes ahead at 9 a.m. on Monday and is exactly on time at noon on the following Monday. At what time was the clock accurate? Consider a 24-hour clock for this question.
+
+
+
+181
+New Questions:
+a. Emma and Sam are driving at constant speeds in opposite directions on a straight road. At a certain time they are driving toward each other and are 60 km apart. Two hours later, they are again 60 km apart, driving away from each other. If Emma drives at a speed of y km per hour, then in terms of y, how many km per hour does Sam drive?
+
+b. On a straight highway, Tom and Jerry are approaching each other from opposite directions. They start with a distance of 50 miles between them. After 2 hours, they are still 50 miles apart but now moving away from each other. If Tom's speed is z miles per hour, what is Jerry's speed in terms of z?
+
+c. Alice and Bob are on a straight road driving in opposite directions. At a certain point, they are 30 miles apart and driving towards each other. After 3 hours, they are the same distance apart but now moving away from each other. If Alice drives at a constant speed of m miles per hour, how fast does Bob drive in terms of m?
+
+d. Ben and Emily travel along a straight highway in opposite directions. At one point they are driving towards each other and are 35 miles apart. After an hour and a half, they are still 35 miles apart but now moving away from each other. Given that Ben's speed is n miles per hour, calculate Emily's speed in terms of n.
+
+
+
+182
+Original Question: The angle between two hands at 3.45 is?
+New Questions:
+a. The angle between two hands at 4.30 is?
+b. At 9 o'clock, what is the angle between the two hands?
+c. The angle between the hands of a clock at 2.15 is?
+d. At 6:30, what is the angle in degrees between the hour and minute hands of a clock?
+
+
+
+183
+a. A car needs to travel a distance of 800 Km in 3 hours. What speed in Kmph should the car maintain to cover the distance?
+b. A truck is traveling a distance of 750 Km. It takes 5 hours. If it wants to cover the same distance in 2.5 hours, what should its speed be in Kmph?
+c. A motorcycle needs to go 500 Km in 2 hours 30 minutes. What speed should it maintain in Kmph to reach the destination on time?
+d. A train has to travel 900 Km. It previously took 7 hours but now it needs to cover the distance in only 4.5 hours due to emergency. What speed should it maintain to do so?
+
+
+
+184
+a. Find at what time between 9 and 10 o'clock will the hands of a clock be in the same straight line but not together.
+b. At what time between 7 and 8 o'clock will the hour and minute hands of a clock align in a straight line, but not overlap?
+c. Please tell the exact time between 7 and 8 o'clock when the hands of a clock will align in a straight line, without overlapping each other.
+d. When, between the hours of 6 and 7, will the clock's hands be aligned in the same straight line but not touching each other?
+
+
+
+185
+Original Question: On Sunday morning, Pugsley and Wednesday are trading pet spiders. If Pugsley were to give Wednesday four of his spiders, Wednesday would then have four times as many spiders as Pugsley does. But, if Wednesday were to give Pugsley five of her spiders, Pugsley would now have five fewer spiders than Wednesday had before they traded. How many pet spiders does Pugsley have before the trading game commences?
+
+New Questions:
+a. On a different day, Pugsley and Spot are playing a trading game with their pet insects. If Pugsley gives Spot three of his insects, Spot will have twice as many insects as Pugsley. But if Spot gives Pugsley four insects, Pugsley will have one less insect than Spot. How many insects does Pugsley have before the game starts?
+b. In the morning, Pugsley and his friend are playing a spider trading game. If Pugsley gives his friend six spiders, his friend will have twice as many as Pugsley had before the trade. If they reverse roles and his friend gives Pugsley seven spiders, Pugsley will have 10 more than before. How many spiders did Pugsley start with?
+c. On a weekend adventure, Pugsley and GratefulDead discover they both have pet frogs. If Pugsley gives GratefulDead six frogs, GratefulDead will have twice as many as Pugsley had before the trade. Conversely, if GratefulDead gives Pugsley seven frogs, Pugsley will then have three times as many as GratefulDead does after the trade. How many frogs did Pugsley start with?
+d. In a pet exchange event, Pugsley and his friend are swapping their pets. If Pugsley gives his friend eight of his pets, his friend will have three times as many as Pugsley initially had. Conversely, if his friend gives Pugsley nine pets, Pugsley will then have one less pet than before the trade. How many pets did Pugsley bring to the event?
+
+
+
+186
+Original Question: To apply for the position of photographer at a local magazine, a photographer needs to include two or three photos in an envelope accompanying the application. If the photographer has pre-selected six photos representative of her work, how many choices does she have to provide the photos for the magazine?
+
+New Questions:
+a. When applying for a job as a landscape designer at a renowned design studio, applicants are required to submit three design proposals. If a designer has created five potential designs, how many options can they present for the studio to choose from?
+
+b. For a fashion magazine's fashion blogger position, candidates are required to submit four photos from their recent fashion shoots. If a candidate has ten potential photos, how many combinations can they provide to fulfill the magazine's requirement?
+
+c. In applying for a job as a product photographer at an e-commerce company, an applicant needs to submit three photos of a specific product. If the applicant has chosen five photos of that product, how many combinations can they present to meet the company's submission requirement?
+
+d. When applying for a news photographer position at a local newspaper, an applicant must submit two photos from her recent news coverage. If she has eight potential photos, how many choices does she have to fulfill the newspaper's submission requirement?
+
+
+
+187
+a. If x is an odd number and y = 5x + 3, which of the following cannot be a divisor of y?
+
+b. If x is a perfect square and y = 2x^2 + 5, which number cannot divide y?
+
+c. If x is a two-digit number and y = x + 4 times the sum of its digits, which of the following cannot divide y?
+
+d. If x is a prime number and y = x^2 + 3x + 1, which of the following cannot be a divisor of y?
+
+
+
+188
+New Questions:
+a. A toy store bought toys of a new game by a famous designer, expecting high sales. They bought 500 toys from their supplier at a wholesale price P. The store sold the first 200 toys in the first week at 10% more than P, and then over the next week, sold another 200 toys at 5% more than P. Finally, to clear shelf space, the store sold the remaining toys at a discount of 20% on P. What was the toy store's net profit or loss on the entire lot of 500 toys?
+
+b. A clothing store bought a new fashion line from a supplier. They bought 400 units at a wholesale cost C. In the first week, they sold 150 units at full price. Over the next two weeks, they sold another 150 units but at a 15% discount on the original price. They sold the remaining stock at a 30% discount to clear the shelf space. What was the store's net profit or loss on this fashion line?
+
+c. An electronics store anticipated strong sales of a new TV model and bought 300 units from their supplier at a cost of S per unit. They sold the first 100 units at full price within the first week. Over the next week, they sold another 120 units but at a 5% discount on the original price. The remaining TVs were sold to a liquidator at a 25% loss on the original cost. What was the store's total profit or loss on all the TVs?
+
+d. A music store anticipated high demand for a new album by a renowned artist and bought 350 copies from their supplier at a wholesale cost of M per copy. They sold the first 250 copies at full price in the first week and then sold another 75 copies over the next week at a 12% discount on the original price. The remaining albums were sold to a discount retailer at a 35% loss on cost. What was the store's net profit or loss on all the albums?
+
+
+
+189
+New Questions:
+a. 'Question': A group of 3 people is to be selected out of 5 teachers and 2 doctors. If the group is chosen at random, what is the probability that it will include at least one doctor?
+
+Context: There are 5 teachers and 2 doctors in a certain institution and a group of 3 people is to be randomly selected.
+
+b. 'Question': In a group consisting of 4 leaders and 3 workers, a team of 3 is to be chosen randomly. What is the probability that this team will consist of at least one leader?
+
+Context: There is a team of leaders and workers, with 4 leaders and 3 workers in total. A team of 3 people is to be randomly selected from this group.
+
+c. 'Question': A team of 4 is to be picked at random from a group of 6 artists and 4 musicians. What is the probability that this team will include at least one musician?
+
+Context: There are 6 artists and 4 musicians in a certain community. The task is to randomly select a team of 4 people from this group.
+
+d. 'Question': A committee of size 5 needs to be formed from a group of 7 students and 3 alumni. If the committee is chosen randomly, what are the odds of it including at least one alumnus?
+
+Context: There are 7 students and 3 alumni in a certain institution. The task is to randomly form a committee of 5 people from this group.
+
+
+
+190
+New Questions:
+a. If 72! has 15 zeroes at the end, how many zeroes will 79! have at the end?
+b. If a number ending in 3 has 16 zeroes when multiplied with a number ending in 7, how many zeroes will a number ending in 5 have at the end when multiplied with a number ending in 9?
+c. If a certain number has 10 zeroes at the end due to its prime factor decomposition, how many zeroes will it have at the end after multiplying with 8?
+d. Given that 67! has 14 zeroes at the end, estimate the number of zeroes at the end of 90!.
+
+
+
+191
+Original Question: Mary's income is 60 percent more than Tim's income, and Tim's income is 40 percent less than Juan's income. What percent of Juan's income is Mary's income?
+New Questions:
+a. Jack's income is 50 percent more than Lisa's income, and Lisa's income is 30 percent less than Adam's income. What percent of Adam's income is Jack's income?
+b. Jane has a monthly income that is 70 percent more than Sam's income, and Sam's income is 25 percent less than Oliver's income. What percentage of Oliver's income does Jane make?
+c. Martha makes an income that is 65 percent higher than David's income, and David earns 25 percent less than the CEO. How many percent of the CEO's income does Martha make?
+d. The CEO earns an income that is 80 percent more than the manager, and the manager makes 35 percent less than the employee. Calculate the percentage of the employee's income that the CEO makes.
+
+
+
+192
+Original Question: Y and Z start a business with Rs.3000 and Rs.6000 respectively. How should they share their profits at the end of one year?
+New Questions:
+a. X and Y invest in a restaurant with Rs.5000 and Rs.7000 respectively. How should they divide the profits after one year?
+b. A and B start a manufacturing business with investments of Rs.4000 and Rs.8000 respectively. How do they divide the annual profits?
+c. Jane and David invest in a technology startup with amounts of Rs.2500 and Rs.7500 respectively. What is the ratio of their profit sharing at the end of the year?
+d. Tom and Jerry invest in a real estate project with investments of Rs.3500 and Rs.6500 respectively. Calculate their respective profit shares at the end of the year.
+
+
+
+193
+a. If 10!/2 is not an integer, what could be the value of x?
+b. If 99!/x is not an integer, what could be the value of x?
+c. If the expression 99!/(x+1) is not an integer, what could be the value of x?
+d. If (98! + 2) / x is not an integer, which of the following could be the value of x? Please provide rationale for your answer. (Note: Here the context is altered by adding the "+ 2" to the numerator.)
+
+
+
+194
+a. S is one year older than T who is three times as old as U. The combined age of S, T and U is 36. How old is T?
+
+b. Q is three years older than B who is half the age of C. The sum of the ages of Q, B and C is 40. How old is C?
+
+c. X is four years older than Y who is three times as old as Z. The total age of X, Y and Z is 55. How old is Y?
+
+d. D is five years older than E who is twice as old as F. The sum of D, E and F's ages is 70. How old is E?
+
+
+
+195
+a. A woman can row with a speed of 15 mph in calm water. If the river current is at 8 mph, what is her downstream speed?
+
+b. A child rows with a speed of 10 kmph in calm water. If the river flows at 5 kmph, how fast will he go downstream?
+
+c. A team of paddlers can move with a speed of 30 kmph in flat water. If they paddle downstream in a river that flows at 9 kmph, what will their total speed be?
+
+d. A boat propels at 25 kmph in regular water. The river current is moving at a speed of 6 kmph. What is the downstream speed of the boat?
+
+
+
+196
+a. A cinema sold an average of 75 tickets per employee to a certain movie during the day. At night, the average number of tickets sold per employee was 60. The overall average across all employees was 65 tickets per employee. What was the ratio of the number of day staff to the number of night staff, if there were no other employees?
+
+b. In a movie theater, the average ticket sales per employee for a specific movie was 65 tickets. If the daytime staff sold an average of 75 tickets each and the evening staff sold an average of 60 tickets each, how many daytime staff members were there in comparison to the evening staff members, assuming there were no other employees?
+
+c. The sales staff in a movie theater sold an average of 65 tickets per person for a particular movie. They were divided into daytime and evening staff, with different averages for each shift: 75 tickets per person during the day and 60 tickets per person at night. If there were no other employees, what was the ratio of daytime staff to evening staff?
+
+d. A movie theater's staff sold tickets to a specific movie with different averages for daytime and evening shifts. Daytime staff sold an average of 75 tickets each while evening staff sold an average of 60 tickets each. The overall average across all staff was 65 tickets per person. Assuming there were no other employees, what was the relative proportion of daytime to evening staff members?
+
+
+
+197
+a. The present ages of John and Lily are in the ratio of 7 : 6 respectively. In five years, their age ratio will become 17 : 15. What is Lily's present age in years?
+b. The ratio of the present ages of Emily and David is 3 : 2. After six years, their age ratio will change to 9 : 5. What is David's current age in years?
+c. Present ages of Alice and Bob are in the ratio of 4 : 3. We know that after two years, Alice will be twice as old as Bob. What is Bob's current age in years?
+d. The ratio of the ages of Bella and Charlie now is 2 : 3. When Charlie turns to 45 years old next year, the ratio will be 1 : 3. What is Bella's current age in years?
+
+
+
+198
+a. If a person can run 20 meters in one second, how many kilometers would they cover in 3 hours and 15 minutes?
+b. Assuming a person can walk 15 meters per second, calculate how many kilometers they can cover in 3 hours and 30 minutes.
+c. Given that a man can sprint 22 meters in a second, determine how far in kilometers he can run in 3 hours.
+d. An athlete can run 25 meters in a second. How many kilometers would he cover if he runs for 3 hours and 40 minutes?
+
+
+
+199
+Original Question: How many meaningful English words can be formed with the letters ESRO using each letter only once in each word?
+New Questions:
+a. How many unique English words can be created with the letters GORE, using each letter only once?
+b. Can you form more than five meaningful English words with the letters 'ALSO', using each letter just once?
+c. How many distinct English words can be generated from the letters STEM, allowing each letter to be used just once?
+d. What is the total number of meaningful English words that can be formed with the letters DERO, using each letter just once in each word?
+
+
+

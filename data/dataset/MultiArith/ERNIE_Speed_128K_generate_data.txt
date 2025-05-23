@@ -1,0 +1,2032 @@
+0
+Original Question: There are 64 students trying out for the school's trivia teams. If 36 of them didn't get picked for the team and the rest were put into 4 groups, how many students would be in each group?
+New Questions:
+a. In a class of 50 children, 22 were selected for a drama club. The rest were divided into 5 teams. How many children are there in each team?
+b. At a music camp, 72 students are participating. If 20 of them are not suitable for the orchestra, and the rest are divided into 6 bands, how many students are there in each band?
+c. In a company of 80 employees, 32 were chosen for a project team. The remaining staff were divided into 4 departments. How many employees are there in each department?
+d. At a high school debate competition, there are 120 students participating. Among them, 50 are chosen to join the debate team initially. If the rest were divided equally into 4 more teams, how many students are there in each of these new teams?
+
+
+
+1
+Original Question: Nancy uploaded 41 pictures to Facebook. She put 37 pics into one album and put the rest into 2 different albums. How many pictures were in each album?
+
+New Questions:
+a. Amy uploaded 50 photos to Instagram. She placed 28 pictures in one album and the rest in two different albums. How many photos are in each album?
+
+b. Adam uploaded 75 videos to YouTube. He put 45 videos in one playlist and the rest in three different playlists. How many videos are in each playlist?
+
+c. Before uploading to Instagram, Nancy rearranged her photos and put 20 into one album and the remaining into two other albums. If she uploaded a total of 50 pictures, how many were in each album?
+
+d. After taking photos at a party, Alex made three albums with some of the pictures. He put 15 photos in the first album, some more in the second, and the rest in the third. If he uploaded a total of 36 photos, how many were in the second album?
+
+
+
+2
+Original Question: A magician was selling magic card decks for 2 dollars each. If he started with 5 decks and by the end of the day he had 3 left, how much money did he earn?
+New Questions:
+a. A storyteller sells storybooks for 3 dollars each. He starts with 10 books and ends the day with 6 books. How much did he earn?
+b. A photographer sells photographs for 4 dollars each. If he had 7 photos at the start of the day and only had 2 left by the end, how much did he make?
+c. A concert ticket costs 5 dollars each. A performer starts with 20 tickets and by the end of the day, only has 5 tickets left. How much money did they earn from ticket sales?
+d. An artist sells paintings for 10 dollars each. She starts with 15 paintings and ends the day with only 3 remaining. Calculate her total earnings for the day.
+
+
+
+3
+a. Adam bought 9 boxes of chocolate candy and shared 2 with his sister. If each box contains 5 pieces, how many pieces does Adam still have?
+
+b. Will bought 7 boxes of chocolate bars and gave away 2 to his friends. If each box has 4 bars, how many bars did Will still have?
+
+c. Alice bought 7 boxes of chocolate cookies and gave 3 away to her neighbors. If every box has 8 cookies, how many cookies did Alice have left?
+
+d. Harry bought a dozen of chocolate candy boxes and gave half to his little brother. If every box contains 3 pieces, how many pieces of chocolate candy does Harry still have?
+
+
+
+4
+Original Question: Olivia was making baggies of cookies with 9 cookies in each bag. If she had 13 chocolate chip cookies and 41 oatmeal cookies, how many baggies could she make?
+New Questions:
+a. If Olivia had 25 chocolate chip cookies and 30 oatmeal cookies instead, how many baggies could she make?
+b. Olivia decides to make smaller bags with only 6 cookies each. How many baggies could she make now with her current cookies?
+c. Olivia has an equal number of chocolate chip and oatmeal cookies. She wants to make the maximum number of baggies possible. How many baggies can she make?
+d. Olivia had a total of 50 cookies, and she made bags with an equal number of cookies in each. How many baggies did she make?
+
+
+
+5
+Original Question: Each chocolate bar in a box cost $4. If a box had 11 bars total and Vanessa sold all but 7 bars, how much money would she have made?
+New Questions:
+a. Each toy car in a set costs $8. If a set has 20 cars and Lucy sold all except 5 cars, how much money did she make?
+b. Each book in a bookstore costs $15. If a bookstore had 50 books and they sold all except 20 books, how much money did they make?
+c. Each album in a music store costs $30. If a music store had 30 albums and they sold all except 15 albums, how much money did they earn?
+d. Each shirt in a clothing store costs $20. If a store had 25 shirts and they sold all except 3 shirts, how much money did they make from selling the shirts?
+
+
+
+6
+Original Question: Bianca had 45 coloring books. If she gave away 6 of them, but then bought 20 more, how many would she have total?
+New Questions:
+a. Emma had 30 storybooks. She lent out 8 of them to friends and then bought 15 new ones. How many storybooks does she have now?
+b. After giving away 7 of his 50 toys, Ethan bought 15 more. How many toys does he have now?
+c. Jessica had 25 crayons. She used 10 of them for a school project and then bought 18 new ones. How many crayons does she have now?
+d. David initially had 40 drawing sheets. He gave away a third of them but later bought double the amount he gave away. How many drawing sheets does he have now?
+
+
+
+7
+a. Taylor bought 9 boxes of chocolate candy and 5 boxes of caramel candy. If each box has 10 pieces inside it, how much candy did he have total?
+b. John bought some candy, including 12 boxes of chocolate candy and 4 boxes of caramel candy. If each box has 5 pieces, how many pieces of candy did he buy?
+c. In the candy store, Adam bought 5 boxes of chocolate and 2 boxes of caramel, and each box contains 12 pieces. How many candies did he get?
+d. In the Christmas season, Sam purchased 8 boxes of chocolate candies and 6 boxes of caramel candies for his family. If each box contains 15 pieces, how many candies did he buy in total?
+
+
+
+8
+Original Question: April's discount flowers had a sale where each rose was 9 dollars. If April started with 11 roses and had 8 roses left, how much money did she earn?
+
+New Questions:
+a. At a different flower sale, each sunflower was sold for 7 dollars. If the seller began with 15 sunflowers and ended with 9, how much did they earn?
+
+b. In a different scenario, a seller had 20 orchids and sold them all for 10 dollars each. How much money did the seller make?
+
+c. In a flower shop promotion, each tulip was priced at 6 dollars. If the shop owner began with 25 tulips and ended with 18, how much profit did they make?
+
+d. At a garden center sale, Iris flowers were sold for 5 dollars each. If the center began with 30 Iris flowers and only had 20 left after the sale, how much revenue did they generate?
+
+
+
+9
+Original Question: Roger was helping the cafeteria workers pick up lunch trays, but he could only carry 4 trays at a time. If he had to pick up 10 trays from one table and 2 trays from another, how many trips will he make?
+
+New Questions:
+a. Carla was assisting in the library, and she could only carry 3 books at a time. If she had to pick up 15 books from the shelf and 5 from the reading area, how many trips will she make?
+b. At the grocery store, Sam had to carry 6 bags of groceries at a time. He had to pick up 18 bags from the shelves and 4 from the floor. How many trips will he make?
+c. In the school classroom, Alice could carry only 2 notebooks at a time. She needed to pick up 12 notebooks from one shelf and 3 from another. How many trips would she make?
+d. In the office, Bob had to carry documents. He could carry only 5 documents at a time and had to pick up 15 documents from one drawer and 7 from another. How many trips would he make?
+
+
+
+10
+Original Question: Rachel bought two coloring books. One had 24 pictures and the other had 39. After one week she had already colored 4 of the pictures. How many pictures does she still have to color?
+
+New Questions:
+a. Lucy bought two puzzle books. One had 50 puzzles and the other had 70. After a week, she had completed 15 puzzles. How many puzzles does she still need to solve?
+b. Emma bought two painting sets. One set had 12 paintings and the other had 24. She has painted 8 paintings so far. How many paintings does she still need to paint?
+c. After buying two drawing books with a total of 60 drawings, Emily has completed 10 drawings in a week. How many drawings does she still need to finish?
+d. Gina bought a storybook with 40 stories and another one with 55 stories. She has read 20 stories so far. How many stories are left for her to read?
+
+
+
+11
+Original Question: Tiffany was playing a video game where she scores 6 points for each treasure she finds. If she found 3 treasures on the first level and 5 on the second, what would her score be?
+New Questions:
+a. In a different game, Tiffany scores 8 points for each gemstone she finds. She finds 4 gemstones on the first level and 6 on the second. What is her total score?
+b. Tiffany is playing a new adventure game where she gains 10 points for each jewel she collects. She gathers 2 jewels on the first round and 7 on the second. How many points does she score?
+c. In a treasure-hunt game, Tiffany scores 12 points for each gold coin she finds. She finds 1 gold coin on the first level and 3 on the second level. Calculate her total score.
+d. Tiffany is playing a treasure-based game where she has to find hidden treasures to score points. On one level, she finds 4 treasures worth 5 points each. On another level, she finds 2 treasures. What is her total score for these two levels?
+
+
+
+12
+Original Question: Megan baked 68 cupcakes for her school's bake sale. If her brother, Todd, ate 32 of them how many packages could she make if she put 6 cupcake in each package?
+New Questions:
+a. Jane made 80 cookies for her friend's birthday party. If her younger sibling, Sam, ate 25 of them, how many boxes could she fill if she put 10 cookies in each one?
+b. Sara made some pasta for dinner and served it to her family. If they ate 4 plates and each plate had 3 portions of pasta, how many total portions were served?
+c. Emily bought 24 apples for her family. If she gave away 8 apples to her neighbor, how many bags could she fit if she put 4 apples in each bag?
+d. Amanda bought a dozen of doughnuts for her office colleagues. If she shared half of them with her colleagues, how many dozen could she buy if she bought 3 doughnuts per dozen?
+
+
+
+13
+New Questions:
+a. A new office building required 18 doors. The contractor had already installed 7 of them. If it takes 6 hours to install each door, how long will it take them to install the rest?
+b. A construction project needs to install 20 lights. The electrician has already installed 9 of them. If it takes 5 hours to install each light, how many more hours will it take to finish the installation?
+c. A house renovation project requires the installation of 15 faucets. The contractor has already installed 7 of them. If each faucet installation takes 4 hours, how many days will it take to complete the installation of the remaining faucets? Assuming a day consists of 8 working hours.
+d. In a school construction project, 20 lockers were required and the builder had already installed 8 of them. If installing each locker takes 3 hours, how many days would it take to install all the lockers if a day consists of 8 working hours?
+
+
+
+14
+New Questions:
+a. Sean is playing a different game where he scores 10 points for each gem he finds. If he finds 3 gems on the first level and 4 on the second level, how many points will he score?
+b. In a different game, Emily scores 5 points for each jewel she finds. She finds 1 jewel on the first level and 3 on the third level. What is her total score?
+c. In a board game, Adam scores 6 points for each star he collects. He collects 2 stars on round 1 and 3 on round 2. What is his total score at the end of round 2?
+d. Jeremy plays a game where he scores 7 points for each treasure chest he opens. He opens 2 treasure chest on level 1 and 1 on level 2. Calculate his total score.
+
+
+
+15
+Original Question: A waiter had 33 customers to wait on. If 31 customers left and he got another 26 customers, how many customers would he have?
+New Questions:
+a. A cashier initially had 45 customers in line. If 35 customers paid and she got another 30 customers waiting, how many customers would she have now?
+b. A teacher had 27 students in class. If 23 students left for a field trip and 20 new students joined, how many students would be in the class now?
+c. A DJ had 60 people at his party. If 45 people left and he invited another 32 people, how many people would be at the party now?
+d. An event coordinator started with 32 registered participants. If 28 participants withdrew and she managed to get another 24 registrants, how many participants would be at the event?
+
+
+
+16
+Original Question: A magician was selling magic card decks for 9 dollars each. If he started with 12 decks and by the end of the day he had 7 left, how much money did he earn?
+New Questions:
+a. A bookseller sells books for 15 dollars each. If she starts with 20 books and ends the day with 10 books, how much money did she make?
+b. A fruit seller was selling apples for 2 dollars each. If he began with 30 apples and sold all but 5, how much money did he earn?
+c. A vendor sells ice cream sandwiches for 4 dollars each. Starting with 15 ice cream sandwiches, how much would he have earned by the end of the day if he sold all but 3?
+d. A music store owner sells CDs for 10 dollars each. If she starts with 50 CDs and by the end of the day she has only 3 left, calculate her total earnings for the day.
+
+
+
+17
+Original Question: Katie uploaded 30 pictures from her phone and 51 from her camera to Facebook. If she sorted the pics into 9 different albums with the same amount of pics in each album, how many pictures were in each of the albums?
+
+New Questions:
+
+a. Emily uploaded 40 photos from her trip to Europe. She wants to divide them into 8 albums with the same number of photos in each. How many photos should be in each album?
+
+b. Ben has 63 photos from his wedding and wants to divide them into 7 albums that have the same number of photos. Calculate the number of photos in each album.
+
+c. Alice took 27 pictures during her vacation and uploaded them to Instagram. She wants to divide them into 3 posts with the same number of photos in each. How many photos should she include in each post?
+
+d. Michael has 72 photos from his daughter's first birthday party. He wants to create 12 albums with an equal number of photos in each one. Calculate the number of photos in each album he will create.
+
+
+
+18
+Original Question: Will had 83 dollars. If he spent 47 bucks on a new game, how many 4 dollar toys could he buy with the money he had left?
+New Questions:
+a. Jane had 90 dollars. After buying a book for 35 dollars, how many 5 dollar toys can she buy with the remaining money?
+b. David had £56. He bought a movie ticket that costs £23, how many £6 toys could he buy with the money left?
+c. If a person had R$120 and spent R$38 on groceries, how many R$7 toys could they buy with the remaining money?
+d. Lily had ¥160 and used ¥70 to buy a shirt. How many ¥9 toys can she afford to buy now?
+
+
+
+19
+New Questions:
+a. Emily and her classmates were recycling plastic bottles for their school project. For every 5 bottles they recycled, they earned 2 points. If Emily recycled 15 bottles and her classmates recycled 25 bottles, how many points did they earn?
+b. Adam and his friends were participating in a reading challenge at school. For every book they read, they earned 5 points. If Adam read 4 books and his friends read 6 books, how many points did they earn in total?
+c. Vanessa and her teammates were collecting money for charity. For every dollar they collected, they earned 2 points. If Vanessa collected $12 and her teammates collected $20, how many points did they earn?
+d. In a school competition, students could earn points by solving math problems. For every 3 problems solved correctly, they earned 1 point. If a student solved 8 problems and another student solved 12 problems, how many points did they earn in total?
+
+
+
+20
+Original Question: Roger had 68 dollars. If he spent 47 bucks on a new game, how many 7 dollar toys could he buy with the money he had left?
+New Questions:
+a. Jane had 50 dollars. After buying a book for 25 dollars, how many 9 dollar toys could she buy with the remaining money?
+b. Tom had 99 dollars. If he bought a shirt for 37 dollars, how many 5 dollar snacks could he buy with the remaining money?
+c. Mary had 75 dollars. She used 35 dollars for a concert ticket. How many 10 dollar hats could she buy with the remaining money?
+d. David had 80 dollars. After buying a skateboard for 30 dollars, how many 12 dollar clothes could he buy with the rest of his money?
+
+
+
+21
+Original Question: Mike invited 13 friends to a birthday party, but 7 couldn't come. If he wanted to buy enough cupcakes so each person could have exactly 4, how many should he buy?
+New Questions:
+a. Lucy invited 20 colleagues to a work celebration, but 8 could not make it. How many cakes should she buy if she wants everyone to have 3?
+b. Emma arranged a surprise party for her brother and invited 25 people, but only 18 came. She wants to buy cupcakes for everyone to share equally. How many cupcakes should she buy?
+c. Adam threw a small gathering and only invited 5 friends. He wants to make sure everyone gets 6 cupcakes each. How many cupcakes should Adam buy?
+d. Jessica invited her classmates to a potluck party and wanted to provide dessert. She invited 30 students but 15 of them were bringing their own desserts. If she wanted to buy enough cupcakes for everyone to have 2, how many should she buy?
+
+
+
+22
+Original Question: Maria was making baggies of cookies with 5 cookies in each bag. If she had 33 chocolate chip cookies and 2 oatmeal cookies, how many baggies could she make?
+New Questions:
+a. Maria was packing candies into small bags with 7 candies in each bag. She had 45 chocolate candies and 10 fruit candies. How many bags could she make?
+b. When Emily made sandwiches, she could fit 3 in each wrapper. She had 24 ham sandwiches and 9 cheese sandwiches. How many wrappers would she need?
+c. Lucy was packaging gummies into small bags with 4 gummies per bag. She had a total of 50 gummies. How many bags could she make?
+d. Emma wanted to make snack bags with her trail mix, which includes 10 pieces of trail mix per bag. She had a total of 75 pieces of trail mix and 10 bags already made. How many more bags can she make?
+
+
+
+23
+Original Question: Tom bought 12 boxes of chocolate candy and gave 7 to his little brother. If each box has 6 pieces inside it, how many pieces did Tom still have?
+New Questions:
+a. Mary bought 8 packs of gum and gave away 5 packs to her friends. If each pack contains 3 pieces of gum, how many pieces does Mary have left?
+b. John bought 20 cookies and ate 3 of them. If each cookie has 2 bites, how many bites did John have?
+c. Sarah bought a dozen apples and ate half of them. If each apple has 6 seeds, how many seeds did Sarah have eaten?
+d. Michael bought 15 pairs of socks and gave away 7 pairs to his friends. How many pairs of socks did Michael still have? (In this case, the context would be different as it's about socks instead of chocolate candy.)
+
+
+
+24
+Original Question: Chloe was playing a video game where she scores 9 points for each treasure she finds. If she found 6 treasures on the first level and 3 on the second, what would her score be?
+
+New Questions:
+a. In another video game, Emily scores 10 points for each gem she finds. She finds 5 gems on the first level and 7 on the second. What is her total score?
+b. Alex is playing a treasure-finding game where he gets 5 points for each jewel he discovers. If he finds 8 jewels on the first level and 9 on the second, how many points does he score?
+c. In a treasure-hunt game, Bella scores 7 points for each gold coin she finds. She finds 12 gold coins on the first level and 4 on the second. Calculate her total score.
+d. Ethan is playing a game where he gets a bonus of 15 points for each secret treasure he finds. He finds 3 secret treasures on the first level and 7 on the second level. What is his total score after playing both levels?
+
+
+
+25
+New Questions:
+a. A decorator had to decorate 20 houses on the street. Each house takes 3 hours to decorate. If he has already decorated 12 houses, how much longer will it take him to decorate the rest?
+b. A construction worker needs to build 15 walls in a building. Each wall takes 2 days to build. If he has already built 7 walls, how many more days will it take to build the rest?
+c. A chef needs to cook 300 meals for a charity event. Each meal takes 15 minutes to prepare. If he has already cooked 120 meals, how much longer will it take to cook the rest?
+d. A photographer has to take pictures of 50 people for a portrait session. Each person takes 10 minutes for a portrait. If he has already taken pictures of 20 people, how much longer will he need to complete the session?
+
+
+
+26
+Original Question: Bianca's team won their dodgeball game and scored 75 points total. If Bianca scored 45 of the points and everyone else scored 6 points each, how many players were on her team?
+
+New Questions:
+a. In a different dodgeball game, Ethan's team scored 90 points in total. Ethan scored 50 points and the other players scored 8 points each. How many players were on his team?
+b. About a soccer match, a team scored a total of 120 goals. The team captain scored 60 goals while the rest of the players scored 10 goals each. Calculate the number of players in the team.
+c. In a basketball match, a team made a total of 48 points. One player scored 30 points and the other players all scored equally. If each of the other players scored 3 points, how many players were there in the team?
+d. A team played volleyball and managed to score 120 points in total. One player scored 40 points while the remaining players each scored 15 points. Determine the total number of players on the team.
+
+
+
+27
+New Questions:
+a. Emily's class is also going on a field trip to the science museum. If each bus can accommodate 8 people and there are 30 students and 4 teachers going, how many buses will they need?
+b. Adam's class is organizing a trip to the botanical gardens. With 20 students and 3 supervisors, how many buses will they need if each bus can hold 7 people?
+c. Lily's class is going on a nature outing to the forest. There are 35 children and 10 teachers. How many vans will they need if each van can carry 4 people?
+d. For a trip to the amusement park, Megan's class is taking some of their teachers along. With 27 students and 7 teachers, how many buses will they need if each bus can accommodate 10 people?
+
+
+
+28
+Original Question: Tom and his friend were buying trick decks from the magic shop for 8 dollars each. How much did they spend if Tom bought 3 decks and his friend bought 5 decks?
+New Questions:
+a. In a bookstore, Mark bought some books and his sister bought twice as many as him. If each book costs 15 dollars, how much did they spend in total if Mark bought 4 books?
+b. At the candy store, Alex bought some chocolate bars and his brother bought 3 times as many as him. If each chocolate bar costs 2 dollars, how much did they spend combined if Alex bought 2 chocolate bars?
+c. Lucy and her friend went to the art store to buy some markers. Lucy bought 4 packs of markers while her friend bought twice as many. If each pack costs 1.5 dollars, how much did they spend in total?
+d. In a toy store, Sara bought some toys and her brother bought 4 times as many as her. If each toy costs 10 dollars, how much did they spend if Sara bought 2 toys?
+
+
+
+29
+Original Question: A pet store had 41 siamese cats and 28 house cats. During a sale they sold 15 cats. How many cats do they have left?
+New Questions:
+a. A pet shop initially had 50 kittens and 35 adult cats. After selling some, they are left with 28 cats. How many did they sell?
+b. At a pet store, there were 30 purebred cats and 35 mixed breed cats. After a discount day, 20 cats were sold. How many are left now?
+c. A pet store had a total of 69 cats (Siamese and regular ones). They sold some during the weekend sale and now have 42 left. How many did they sell?
+d. In a pet store, there were initially 47 long-haired cats and 30 short-haired cats. After a special offer, they sold 22 cats. What is the remaining count of cats?
+
+
+
+30
+Original Question: John made 6 dollars mowing lawns and 18 dollars weed eating. If he only spent 3 dollar a week, how long would the money last him?
+New Questions:
+a. Mary earned $5 by doing house cleaning and $15 by taking care of gardens. If she spends $2 per week, how many weeks will her money last?
+b. David made $8 from painting fences and $20 from building birdhouses. He spends $4 per week. How long will his money last?
+c. Jane earned $10 by taking photos and $22 by assisting in a concert. She plans to spend just $1 per day. How many days will her earnings cover?
+d. Tom received $7 for fixing computers and $19 for teaching guitar lessons. If he has a weekly budget of $5, how many weeks can he sustain with his earnings?
+
+
+
+31
+New Questions:
+a. Emily worked as a cashier at a bookstore where she made 7 dollars an hour. On Wednesday she worked 4 hours and on Thursday she worked 6 hours. How much money did Emily make in those two days?
+b. David was a part-time employee at a restaurant, earning 8 dollars an hour. He worked for 2 hours on Friday and 7 hours on Saturday. Calculate David's total earnings for those two days.
+c. Jesse was a temp worker at a construction site, making 10 dollars an hour. On his first day, he worked for 4 hours and on the second day he worked for 6 hours. What was Jesse's total earnings for the two days?
+d. Emily works at a bakery as a decorator, earning 9 dollars an hour. She worked for 2.5 hours on Monday and 4 hours on Tuesday. How much did Emily earn in those two days?
+
+
+
+32
+Original Question: Luke made 9 dollars mowing lawns and 18 dollars weed eating. If he only spent 3 dollar a week, how long would the money last him?
+
+New Questions:
+a. Emma earned 15 dollars from painting fences and 20 dollars from cleaning houses. If she spends 5 dollars weekly, how many weeks will her money last?
+
+b. Adam made 30 dollars from selling lemons and 25 dollars from selling apples. He spends only 7 dollars per week. How many weeks can he sustain with this income?
+
+c. Jennifer earned 12 dollars from baking cakes and 8 dollars from selling flowers. She spends an average of 4 dollars each week. Calculate how many weeks her earnings will last.
+
+d. Michael received 25 dollars from fixing bicycles and 12 dollars from assisting at an event. If he only spends 2 dollar per day, how many days will his money last?
+
+
+
+33
+New Questions:
+a. A zoo has 12 tiger cages. If each cage has 3 adult tigers and 4 cubs in it, how many tigers does the zoo have total?
+b. A pet store has 15 fish tanks. If each tank has 4 goldfish and 6 koi fish in it, how many fish does the pet store have total?
+c. In a sanctuary, there are 20 elephant corrals. If each corral has 7 adult elephants and 3 baby elephants, how many elephants are there in total?
+d. A farm has 10 chicken coops. Each coop has 8 roosters and 12 hens inside it. How many chickens are on the farm?
+
+
+
+34
+Original Question: While on vacation, Debby took 24 pictures at the zoo and 12 at the museum. If she later deleted 14 of the pictures, how many pictures from her vacation did she still have?
+New Questions:
+a. While on a trip, Mark captured 30 photos at the park and 20 at the beach. Later, he deleted 18 pictures. How many photos from his trip did he still possess?
+b. On her vacation to the city, Jennifer took 35 photos at the monument and 18 at the art gallery. Later, she deleted 20 pictures. How many photos did she still have from her trip?
+c. During his weekend getaway, Adam took 25 photos at the waterfall and 15 at the forest. If he deleted 22 pictures later, how many photos did he still have from his trip?
+d. In her vacation to Europe, Sarah took pictures at various landmarks and ended up with 50 photos. She later deleted 30 of them. How many photos did she still possess from her trip?
+
+
+
+35
+New Questions:
+a. Emma's class is going on a trip to the museum. Each bus can accommodate 10 people, and there are 20 students and 3 teachers going. How many buses will they need?
+b. Lily's class is organizing a trip to the amusement park. With each car being able to carry 9 people, and 18 children and 4 adults confirmed to go, how many cars will they require?
+c. Alex's class is heading to a nature camp. They have booked enough buses to transport 24 children and 6 adults. If each bus can carry 7 people, how many buses did they book?
+d. Jennifer's class is going on an outing to the botanical gardens. They need to rent vans, with each van capable of carrying 11 people. If there are 25 students and 3 supervisors going, how many vans should they rent?
+
+
+
+36
+Original Question: A vase can hold 5 flowers. If you had 6 carnations and 19 roses, how many vases would you need to hold the flowers?
+New Questions:
+a. A jar can hold 7 stones. If you had 8 marbles and 13 gemstones, how many jars would you need?
+b. A basket can hold 4 apples. If you had 5 oranges and 20 bananas, how many baskets would you need to hold all the fruit?
+c. A box can hold 2 toys. If you had 3 cars and 8 dolls, how many boxes would you need to store them all?
+d. A plate can hold 3 chocolates. If you had 4 candy bars and 12 chocolate chips, how many plates would you need to serve them?
+
+
+
+37
+Original Question: A magician was selling magic card decks for 7 dollars each. If he started with 16 decks and by the end of the day he had 8 left, how much money did he earn?
+New Questions:
+a. A bookseller sells books for 10 dollars each. If she began with 20 books and ended the day with 5, how much money did she make?
+b. A chocolate seller sells chocolate bars for 5 dollars each. He starts with 30 bars and ends the day with 15 bars. How much did he earn?
+c. A vendor sells ice cream sandwiches for 2 dollars each. If he starts with 100 sandwiches and sells out all of them by the end of the day, how much money did he earn?
+d. A music vendor sells CDs for 15 dollars each. He starts with 50 CDs and by the end of the day only has 20 left. Calculate his total earnings for the day.
+
+
+
+38
+Original Question: Adam bought 13 boxes of chocolate candy and gave 7 to his little brother. If each box has 6 pieces inside it, how many pieces did Adam still have?
+New Questions:
+a. Emily bought 15 boxes of gummies and shared 9 with her friends. If each box contains 8 pieces, how many does she still have?
+b. Jack bought 20 books and gave away 12 of them to his classmates. If each book has 20 pages, how many pages did Jack still have?
+c. Lucy bought a dozen of apples and ate 5 of them. If there were initially 12 apples in the dozen, how many did she still have?
+d. David bought 25 toys and donated 10 to charity. If each toy costs him $5, how much money did David still have after the donation?
+
+
+
+39
+Original Question: Zoe bought two coloring books. One had 44 pictures and the other had 44. After one week she had already colored 20 of the pictures. How many pictures does she still have to color?
+
+New Questions:
+a. Sam bought two drawing books. One had 36 sketches and the other had 36. After a month, he had already drawn 15 of the sketches. How many sketches does he still need to draw?
+b. Alex bought two puzzle books. One had 50 puzzles and the other had 50. After a week, she had already solved 25 puzzles. How many puzzles does she still need to solve?
+c. Emma bought two activity books for kids. One had activities for 48 days and the other also had activities for 48 days. She has completed 30 days of activities so far. How many days of activities does she still have to do?
+d. Lily bought two storybooks, one with 60 stories and the other with 60 stories too. She has read 40 stories till now. How many stories does she still need to read?
+
+
+
+40
+Original Question: For Halloween Robin scored 23 pieces of candy. She ate 7 pieces the first night and then her sister gave her 21 more pieces. How many pieces of candy does Robin have now?
+New Questions:
+a. For Halloween, Ethan received 30 candies. He ate 8 on the first day and his brother gave him 15 more. How many candies does Ethan have now?
+b. On her birthday, Emily received 25 candies. She ate 5 on the first night and then her friend gave her another 18 candies. How many candies does Emily have now?
+c. During Christmas, David received 35 candies from his family. He ate 9 on Christmas Eve and his uncle gave him an additional 20 candies. How many candies does David have now?
+d. At a party, Olivia collected 20 candies. She ate 6 at the party and then her friend added another 15 candies to her collection. How many candies does Olivia have now?
+
+
+
+41
+Original Question: Each chocolate bar in a box cost $4. If a box had 8 bars total and Emily sold all but 3 bars, how much money would she have made?
+New Questions:
+a. Each candy in a pack costs $1.2. If a pack had 10 candies and Emily sold all except 5 candies, how much money would she have earned?
+
+b. In a pack of gum, each piece is priced at $0.5. If a pack has 12 pieces and Emily sells all but 4 pieces, how much money will she make?
+
+c. Each book in a set costs $20. If a set has 15 books and Emily sold all except 7 books, how much profit would she have made if she sold all the books?
+
+d. In a set of toys, each toy costs $7. If there are originally 20 toys in the set and Emily sells all except 2 toys, how much money will she have earned in total?
+
+
+
+42
+Original Question: While shopping, Maria bought 40 green towels and 44 white towels. If she gave her mother 65 of them, how many towels did Maria end up with?
+New Questions:
+a. While on vacation, Maria bought 30 blue shorts and 35 red shorts. If she gave her brother 40 of them, how many shorts did Maria keep?
+b. Before going to the beach, Emily bought 50 red beach towels and 60 blue beach towels. If she gave away 70 of them, how many towels did she end up with?
+c. In the store, Jennifer bought 25 yellow shirts and 30 purple shirts. If she gave her friend 40 of them as a gift, how many shirts did she keep?
+d. While at the market, Sarah bought 50 green apples and 60 red apples. If she shared 70 of them with her family, how many apples did Sarah have left?
+
+
+
+43
+Original Question: Each chocolate bar in a box cost $6. If a box had 13 bars total and Zoe sold all but 6 bars, how much money would she have made?
+New Questions:
+a. Each toy car in a set costs $8. If a set has 20 cars and Emily sold all except 5 cars, how much money did she make?
+b. In a pack of CDs, each CD costs $12. If a pack contains 18 CDs and Sara sold all except 9 CDs, how much money did she earn?
+c. In a collection of books, each book costs $15. If a collection has 25 books and Jack sold all except 12 books, how much money did he make?
+d. Each painting in an exhibition costs $30. If there are 30 paintings and Lucy sold all except 4 paintings, how much money did she accumulate?
+
+
+
+44
+Original Question: There were 2 friends playing a video game online when 2 more players joined the game. If each player had 3 lives, how many lives did they have total?
+New Questions:
+a. There were 3 students playing a team sport when 2 more teammates joined the team. If each player had 2 stamina, how much stamina did they have in total?
+b. In a chess tournament, there were 4 players on each team. If each player had 5 health points, how many health points did all the players on one team have?
+c. In a football match, there were 10 players on each team and each player had a maximum of 3 fouls they could make before being suspended. What would be the total number of fouls allowed before any player was suspended?
+d. There were 5 workers assigned to a construction project, and each worker had 3 tools to use. How many tools were available for use in total?
+
+
+
+45
+New Questions:
+a. In sixth grade there were 40 students at the beginning of the year. Throughout the year, 15 students left and 5 new students joined. How many students were in sixth grade at the end?
+b. In second grade, there were 25 students at the start of the semester. During the semester, 8 students transferred out and 7 new students joined. How many students were in second grade at the end of the semester?
+c. In eighth grade, there were 50 students at the start of the school term. Throughout the term, 12 students left and 15 new students enrolled. What was the total number of students in eighth grade at the end of the term?
+d. In third grade there were 28 students at the start of the academic year. Throughout the year, 17 students transferred out and 10 new students joined the school. How many students were present in third grade at the end of the year?
+
+
+
+46
+Original Question: At the arcade Jerry won 4 tickets. If he spent 2 tickets on a beanie and later won 47 more tickets, how many would he have?
+New Questions:
+a. At the amusement park, Jerry earned 5 tickets. He used 3 tickets on a prize and then won 38 more tickets. How many tickets does he have now?
+b. Jerry started with 6 tickets at the fair. He used some on a game and later won 52 tickets. If he has 89 tickets now, how many did he win?
+c. At the fun center, Jerry initially had 7 tickets. He lost some but then earned 53 more tickets through various games. If he currently has 43 tickets, how many did he lose?
+d. Jerry participated in a game at the carnival and received 9 tickets as a prize. He used some of them on a ride and then received another 61 tickets as a reward for his performance in a game. How many tickets does he have in total?
+
+
+
+47
+Original Question: Dave was helping the cafeteria workers pick up lunch trays, but he could only carry 9 trays at a time. If he had to pick up 17 trays from one table and 55 trays from another, how many trips will he make?
+
+New Questions:
+a. Jane is assisting in the library by returning books to the shelves. She can only carry 3 books at a time. If she has to arrange 20 books on one shelf and 45 books on another, how many trips will she make?
+b. Bob is cleaning the classrooms, and he can carry only 6 buckets of water at a time to refill the drinking fountains. If there are 20 drinking fountains in one classroom and 30 in another, how many trips will he make?
+c. Lily is moving boxes from one warehouse to another. She can carry only 8 boxes at a time. If she has to transfer 25 boxes from one place and 48 boxes from another, how many trips will she make?
+d. Adam is planting flowers in the garden. He can carry only 7 pots of soil at a time. If he needs to plant flowers in 19 pots in one section and 52 pots in another, how many trips will he make to fetch soil?
+
+
+
+48
+New Questions:
+a. A clothing store had 3 racks of summer clothes and received a new shipment with 5 more racks. They arranged the racks with 4 on each one. How many racks did they use in total?
+b. At a bookstore, they had 2 shelves of children's books and received a new shipment with 8 more shelves. They arranged the books with 3 on each shelf. How many shelves did they use?
+c. A pet store received a new shipment of 12 small dog toys and combined it with their existing stock of 4 toys. They displayed the toys with 5 on each shelf. How many shelves did they need for all the toys?
+d. In a shoe store, there were initially 6 pairs of running shoes on display. They received another shipment with 8 pairs, and they placed them on shelves with 4 pairs per shelf. How many shelves did they use in total?
+
+
+
+49
+New Questions:
+a. Emma and her classmates were collecting stamps in their school event. For every 10 stamps they collected, they got a prize. If Emma collected 25 stamps and her classmates collected 5 stamps, how many prizes did they win?
+b. Alex and his teammates were playing a game where they could earn points by answering questions correctly. For every 3 questions they got right, they earned 1 point. If Alex answered 12 questions correctly and his teammates answered 4 questions correctly, how many points did they earn?
+c. Noah and his peers were collecting coins for charity. For every 5 coins they collected, they could donate $1 to charity. If Noah collected 20 coins and his peers collected 10 coins, how much money did they donate in total?
+d. In a school competition, students could earn points by reading books. For every 5 books read, they earned 10 points. If a student read 15 books and another student read 3 books, how many points did they earn in total?
+
+
+
+50
+Original Question: At lunch a waiter had 10 customers and 5 of them didn't leave a tip. If he got $3 each from the ones who did tip, how much money did he earn?
+New Questions:
+a. In the evening, a waiter served 15 customers and 7 of them didn't leave a tip. If he received $4 from those who did tip, how much did he make?
+b. A waiter had 20 customers at breakfast and 8 of them didn't leave a tip. If he received $2 each from the rest, calculate his total earnings.
+c. At dinner, a waiter had 12 customers and only 3 of them didn't tip him. He received $5 from the others. How much did he earn?
+d. In a restaurant, a waiter served 25 customers at dinner and 15 of them didn't give any tips. If tips from the remaining customers amounted to $60, how much did he make?
+
+
+
+51
+Original Question: Katie was selling her necklaces at a garage sale. She sold 4 bead necklaces and 3 gem stone necklaces. If each necklace cost 3 dollars, how much money did she earn?
+New Questions:
+a. Emily had a yard sale where she sold 5 jewelry necklaces and 2 pearl necklaces. If each necklace cost 5 dollars, how much did she earn?
+b. At a flea market, Sarah sold 6 beaded necklaces and 4 crystal necklaces. If each necklace cost 2 dollars, how much did she make?
+c. Megan sold her homemade jewelry at a craft fair. She sold 7 metal necklaces and 2 gemstone necklaces. Calculate her total earnings if each necklace was priced at 4 dollars.
+d. Joshua sold 9 bracelet necklaces and 6 beaded ones at a local market. If each bracelet cost 10 dollars, how much did he earn in total?
+
+
+
+52
+Original Question: A trivia team had 12 members total, but during a game 4 members didn't show up. If each member that did show up scored 8 points, how many points were scored total?
+New Questions:
+a. A basketball team had 15 players listed, but 3 of them were unable to play in a game. Each playing member scored 20 points; how many points did the team score in total?
+b. In a music competition, a band had 7 members on the stage but 2 of them were temporarily unable to perform. If each present member contributed 10 points, what was the total score achieved?
+c. At a cooking competition, a team of 10 chefs was supposed to participate but 3 didn't show up. If each chef who participated scored 15 points in their cooking task, how many points did the team score in total?
+d. In a debate competition, a team of 12 members was expected but only 8 members attended the competition. If each member who attended scored 10 points for their speech, what was the total score achieved by the team?
+
+
+
+53
+Original Question: A waiter had 9 tables he was waiting on, with 2 women and 6 men at each table. How many customers total did the waiter have?
+New Questions:
+a. A store manager oversees 15 counters, with 5 people at each counter. How many customers are being served in total?
+b. A chef in a restaurant is cooking for 12 tables, with 3 people at each table. How many guests are dining in total?
+c. A receptionist is managing 8 rooms, with 2 people booked in each room. How many guests are staying in total?
+d. A photographer is taking pictures for a wedding of 4 tables at the reception venue, with an average of 10 people at each table. How many guests are at the wedding in total?
+
+
+
+54
+Original Question: Debby had 30 coloring books. If she gave away 7 of them, but then bought 35 more, how many would she have total?
+New Questions:
+a. Emma had 25 toys. She donated 10 of them to charity and then bought 40 new ones. How many toys would she have in total now?
+b. David had 40 videos. He lent out 15 of them to friends and then bought 30 new ones. How many videos would he have now?
+c. Sara had 10 notebooks. She gave away 5 of them to her classmates and then bought 25 new ones. How many notebooks would she have in the end?
+d. John had 25 books. He sold 12 of them but then bought 30 more. How many books would he have in total at the end?
+
+
+
+55
+Original Question: Victor and his friend were buying trick decks from the magic shop for 8 dollars each. How much did they spend if Victor bought 6 decks and his friend bought 2 decks?
+New Questions:
+a. If the price of each deck remained the same but Victor bought 5 decks instead of 6, how much would they spend?
+b. If a third friend joined them and bought 3 decks, how much would they spend in total?
+c. If the price of each deck was doubled to 16 dollars, how much would they spend if Victor still bought 6 decks and his friend bought 2 decks?
+d. Victor's friend gave him some money so that he could buy fewer decks. If he bought 4 decks instead of 6, how much would they save?
+
+
+
+56
+Original Question: Jerry had 7 action figures, but needed 16 total for a complete collection. If each one costs $8, how much money would he need to finish his collection?
+New Questions:
+a. John has 12 stuffed animals and needs to buy 18 more to complete his collection. If each one costs $10, how much money will he need?
+b. If Adam wants to complete his video game collection that requires 24 games and he already owns 15, how much would it cost him if each game costs $20?
+c. Emma has a collection of 50 stickers and she wants to buy more so that she can have a total of 100 stickers in her collection. If each sticker costs $2, how much should she budget?
+d. Mike is trying to finish his comic book collection that requires 20 books but he only has 7 so far. If each book costs $5, how much more money does he need to complete his collection?
+
+
+
+57
+New Questions:
+a. "Sara had 5 pages of history homework and 3 pages of science homework. If each page had 5 questions on it, how many questions did she have to complete total?"
+b. "In a test, Adam had 8 questions and each question had a similar complexity level as pages in a book with homework problems. If each question in the test was equivalent to 2 homework problems, how many problems did Adam complete in total?"
+c. "Olivia had 3 pages of biology homework and 2 pages of geography homework. If each page had 6 tasks on it, how many tasks did she have to complete in total?"
+d. "If a student had 7 pages of math homework and 9 pages of reading homework, with 3 problems per page, how many problems did they have to complete?"
+
+
+
+58
+New Questions:
+a. Lily had 25 history questions and 16 geography questions for homework. If she completed 28 questions in class, how many homework questions did she need to finish?
+b. Jack had 30 math problems and 22 English problems for homework. If he solved 35 of them at school, how many problems did he still have to do at home?
+c. Emma had 15 biology questions and 10 chemistry questions for homework. She finished half of them in class. How many did she need to complete for homework?
+d. Tom faced 20 math problems and 12 social science problems for homework. He did a third of them in class. How many did he still have to do at home?
+
+
+
+59
+Original Question: While playing at the arcade, Ned won 26 tickets playing 'whack a mole' and 19 tickets playing 'skee ball'. If he was trying to buy candy that cost 9 tickets a piece, how many could he buy?
+New Questions:
+a. While at the amusement park, Emily earned 30 tickets playing 'carousel ride' and 23 tickets playing 'roller coaster'. If she wanted to buy a prize that costs 7 tickets each, how many can she buy?
+b. At the fair, Adam received 29 tickets from 'toss the bean bags' and 21 tickets from 'dart throwing'. He wants to buy a stuffed animal that costs 8 tickets each. How many can he buy?
+c. While at the community center, Lily won 35 tickets playing 'ping pong' and 28 tickets playing 'pool'. If she wants to buy a snack that costs 10 tickets each, how many can she afford?
+d. At the school carnival, Emma earned 40 tickets playing '3-legged race' and 35 tickets playing 'spoon race'. She wants to buy a prize that costs exactly half of her total tickets. How many tickets does she need for that prize?
+
+
+
+60
+New Questions:
+a. Ana uploaded 3 videos from her phone and 5 from her camera to Instagram. If she organized the videos into 4 different folders with an equal number of videos in each folder, how many videos are there in each folder?
+b. David uploaded 6 photos from his trip to Europe and 8 photos from his family photoshoot to social media. He sorted them into 5 different albums with an equal number of photos in each album. How many photos were in each album?
+c. Emily uploaded 10 photos from her wedding to her social media account and organized them into 4 different albums. If all albums have the same number of photos, how many photos are there in each album?
+d. Jack took 20 photos during his vacation and uploaded them to his social media account. He sorted them into 5 different collections with equal numbers of photos in each collection. How many photos are in each collection he made?
+
+
+
+61
+Original Question: Katie's team won their dodgeball game and scored 12 points total. If Katie scored 4 of the points and everyone else scored 4 points each, how many players were on her team?
+
+New Questions:
+a. In a basketball game, Adam's team scored 20 points in total. Adam scored 6 points and other players scored an equal number of points each. How many players were on his team?
+b. Emily scored 8 goals in a soccer match while her teammates scored the same number of goals as her each. If they won by a total of 20 goals, how many players were on her team?
+c. In a volleyball match, the team scored 15 points in total. One player scored 3 points, another player scored 4 points, and the rest scored 2 points each. How many players were on their team?
+d. In a cricket match, a team scored 24 runs in total. One player scored 4 runs, another player scored 6 runs, and all other players scored 3 runs each. How many players were on their team?
+
+
+
+62
+Original Question: Tiffany was playing a video game and had 43 lives. In a hard part of the game she lost 14 lives. If she got 27 more lives in the next level, how many lives would she have?
+
+New Questions:
+a. In another video game scenario, Ethan had 60 lives. He lost 20 lives in a challenging part of the game and received 30 lives from the next level. How many lives did he end up having?
+b. Emily is playing a game where she starts with 50 health points. She gets attacked and loses 18 points. Later in the game, she gets a health pack that gives her 25 points. How many health points does she have now?
+c. In a game of survival, Adam had 35 chances to complete a task. He failed five times but received 15 more chances from a friend. How many chances did he have in total?
+d. During her first attempt at a game, Amanda had 45 attempts to complete a task. She failed 17 times and then received an additional 23 attempts from her friend. How many attempts did she have left?
+
+
+
+63
+Original Question: Victor was helping the cafeteria workers pick up lunch trays, but he could only carry 7 trays at a time. If he had to pick up 23 trays from one table and 5 trays from another, how many trips will he make?
+
+New Questions:
+a. Emily was assisting in the library by collecting books. She could only carry 4 books at a time. If she had to pick up 18 books from the fiction section and 7 books from the non-fiction section, how many trips will she make?
+b. Adam was moving boxes from one room to another. He could carry only 6 boxes at a time. If he had to move 25 boxes from the old room and 9 boxes from the new room, how many trips will he make?
+c. Sara was carrying groceries home from the store. She could carry only 5 items at a time. If she had to bring 17 items from the car to her house and 3 items from her garage, how many trips will she make?
+d. In a school event, Alex had to collect trash bins from different classrooms. He could carry only 3 trash bins at a time. If there were 15 trash bins in one classroom and 8 in another, how many trips will Alex make to collect all the trash bins?
+
+
+
+64
+Original Question: Katie baked 18 cupcakes for her school's bake sale. If her brother, Todd, ate 8 of them how many packages could she make if she put 2 cupcake in each package?
+
+New Questions:
+a. Emma made 20 cookies for her friend's birthday party. If her younger sibling, Jack, ate 5 of them, how many batches could she make if she put 4 cookies in each batch?
+
+b. Adam bought 30 apples from the market. If he gave away 10 of them to his neighbors, how many bundles could he make if he put 6 apples in each bundle to sell?
+
+c. Lucy planted 30 roses in her garden. If she gave away 15 of them as gifts, how many bouquets could she make if she put 4 roses in each bouquet?
+
+d. Sam bought 50 donuts from the bakery for his office party. If his colleagues ate 15 of them, how many containers could he fill with donuts if he put a dozen donuts in each container?
+
+
+
+65
+Original Question: Zoe had 6 songs on her mp3 player. If she deleted 3 old songs from it and then added 20 new songs, how many songs does she have on her mp3 player?
+New Questions:
+a. Alex had 15 photos on his phone. He deleted 7 old photos and took 25 new ones. How many photos does he have now?
+b. Emily had 20 videos on her laptop. She removed 10 old videos and uploaded 30 new ones. How many videos does she have now?
+c. Bob had 12 games on his gaming console. He uninstalled 4 old games and then installed 28 new ones. How many games does he have now?
+d. After deleting 5 old e-books and downloading 30 new ones, how many e-books does Jane have on her tablet if she started with 25?
+
+
+
+66
+Original Question: Nancy and her mom were picking carrots from their garden. Nancy picked 38 and her mother picked 47. If only 71 of the carrots were good, how many bad carrots did they have?
+
+New Questions:
+a. Adam and his dad harvested apples from their orchard. Adam picked 45 apples and his dad picked 52. If only 82 of the apples were ripe, how many unripe apples did they have?
+b. Emma and her brother were picking strawberries from their farm. Emma picked 29 and her brother picked 36. If only 62 of the strawberries were ripe, how many unripe strawberries did they have?
+c. Peter and his sister harvested potatoes from their plot. Peter harvested 42 potatoes and his sister harvested 48. If only 76 of the potatoes were edible, how many bad potatoes did they have?
+d. In a vegetable garden, John and his wife harvested tomatoes. John picked 50 and his wife picked 55. If only 90 of the tomatoes were marketable, how many non-marketable tomatoes did they have?
+
+
+
+67
+Original Question: While playing at the arcade, Luke won 2 tickets playing 'whack a mole' and 13 tickets playing 'skee ball'. If he was trying to buy candy that cost 3 tickets a piece, how many could he buy?
+New Questions:
+a. While at the amusement park, Emily earned 5 tickets on the carousel and 10 tickets on the ferris wheel. If she wanted to buy a toy that costs 4 tickets each, how many could she buy?
+b. At the fair, Adam received 7 tickets playing games and 9 tickets from a lucky draw. He wants to buy a prize that costs 6 tickets. How many of such prizes can he buy?
+c. During the school festival, Alex won 15 tickets from the treasure hunt and 2 tickets from the Quiz-a-thon. If he wants to buy a prize that costs 3 tickets each, how many can he afford?
+d. In the children's section of the museum, Emma earned 6 tickets for answering questions correctly and 12 tickets for finding hidden objects. She wants to buy a toy that costs 5 tickets. How many toys can she buy with her total tickets?
+
+
+
+68
+a. For the kindergarten bake sale, Alex made 30 cookies. He sold 22 of them and then made another 25. How many cookies would he have?
+
+b. In the school festival, Emily sold 30 sandwiches in the morning and then made another 35 for the afternoon sale. How many sandwiches would she have sold in total?
+
+c. At the school fair, Emma made 40 brownies for sale. She sold 25 of them and then made another 30 brownies. How many brownies would she have in total?
+
+d. For the community celebration, Bella made 50 cupcakes. She sold 30 of them and then received another batch of 25 cupcakes. How many cupcakes would she currently have in her possession?
+
+
+
+69
+New Questions:
+a. A pet store initially had 96 kittens. In a day, they sold 36 and put the remaining in cages with 9 each. How many cages did they use?
+b. A zoo had 75 rabbits. They sold 25 of them and put the rest in hutches with 7 in each hutch. How many hutches did they use?
+c. At a farm, there were 112 chicks. The farmer sold 56 of them and put the rest in coops with 8 per coop. How many coops did he use?
+d. A pet shop received 70 birds. They sold some and put the remaining ones in cages with 10 birds in each cage. If they sold 30 birds, how many cages did they use?
+
+
+
+70
+Original Question: Nancy uploaded 51 pictures to Facebook. She put 11 pics into one album and put the rest into 8 different albums. How many pictures were in each album?
+
+New Questions:
+a. Jack uploaded 45 videos to his YouTube account. He uploaded 2 videos into a group and the rest into 5 different groups. How many videos are in each group?
+
+b. Emily wrote 30 stories and put them into two books. One book has 9 stories and the other one has the rest. How many stories are in each book?
+
+c. Alex posted 33 photos on Instagram. He put 18 of them in one post and the rest in two different posts. How many photos were in each post?
+
+d. Megan recorded a total of 28 videos over a period of weeks and uploaded them into one folder and two different folders for the rest. How many videos were in each folder?
+
+
+
+71
+a. A pet store had 150 kittens. In a day, they sold 35 of them and put the remaining in cages with 8 each. How many cages did they use?
+b. At a pet store, there were initially 90 puppies. They sold half of them on a weekend and then put the rest into 10 cages with equal number in each cage. How many puppies were there in each cage?
+c. A pet shop had 50 puppies. They sold 12 of them and then placed the remaining puppies in 4 different cages. If they filled the last cage with fewer than 5 puppies, how many total puppies were in the last cage?
+d. A pet store had a total of 75 puppies. They sold 28 of them and used empty plastic boxes for storing the remaining ones, with a maximum of 10 in each box. If all the boxes were full except for the last one, how many boxes did they use?
+
+
+
+72
+Original Question: Haley uploaded 65 pictures to Facebook. She put 17 pics into one album and put the rest into 6 different albums. How many pictures were in each album?
+New Questions:
+a. Emma uploaded 90 videos to YouTube. She combined 24 into a playlist and then put the rest into 7 different playlists. How many videos are in each playlist?
+b. After taking 80 photos on her trip, Emily uploaded them to her Instagram account. She made one album with 15 photos and then uploaded the rest to 5 different albums. How many photos did she put in each album?
+c. Sean has 75 pictures on his computer and he wants to organize them. He puts 20 into one folder and then divides the rest into 9 different folders. How many pictures are in each folder?
+d. Jessica has just uploaded her photos from a wedding to her social media account. She made one album with 28 photos and then put the rest of the photos from the wedding into 3 different albums. How many photos did she upload from the wedding in total? And how many are in each album?
+
+
+
+73
+Original Question: Emily was planting vegetables in her garden. She started with 42 seeds and planted 36 of them in the big garden and in each of her small gardens put 2 seeds each. How many small gardens did Emily have?
+New Questions:
+a. Emily was cultivating flowers in her yard. She began with 50 seedlings and planted 40 in the main garden, with the rest evenly distributed among her small gardens, each one receiving 5 seedlings. How many small gardens did she have?
+b. In the community park, Jane started with 60 seeds to plant trees. She planted 30 in the main area and distributed the rest equally among her small plots, putting 4 seeds in each plot. How many small plots did Jane have?
+c. Alice had a vegetable patch where she planted potatoes. She began with 72 potato sprouts and planted 60 of them in her main patch, with the remaining sprouts divided equally among her smaller patches, each one receiving 3 sprouts. How many smaller patches did Alice have?
+d. While gardening, Carla distributed 30 lettuce seeds among her gardens. She planted all of them except for six in her large garden, and the rest were divided equally among her small gardens, with each garden getting 2 seeds. How many small gardens did Carla have?
+
+
+
+74
+New Questions:
+a. Emily uploaded 9 photos from her phone and 17 from her camera to Instagram. She divided them into 7 albums with the same number of photos in each album. How many photos were there in each album?
+b. Adam took 20 pictures with his camera and uploaded them to Facebook. He then organized them into 8 albums that have the same number of pictures each. Calculate the number of photos in each album.
+c. Alia uploaded 15 photos from her phone to Twitter. She also uploaded 23 photos from her camera. She sorted them into 9 albums containing an equal number of pictures in each. How many photos were there in each album?
+d. Jasmine uploaded pictures to her social media account, splitting them into 6 albums. She uploaded 18 photos from her phone and 26 from her camera. If each album has the same number of pictures, how many were in each album?
+
+
+
+75
+Original Question: At a restaurant each adult meal costs $5 and kids eat free. If a group of 15 people came in and 8 were kids, how much would it cost for the group to eat?
+New Questions:
+a. In a cafeteria, each adult meal costs $6 and children meals are free for 2 children per adult. A group of 20 people consisting of 12 adults arrived, how much would it cost?
+b. In a restaurant, adult meals cost $7 each and children eat free for every 3 kids. A group of 25 people with 15 adults came in, calculate the total cost.
+c. At a family-friendly restaurant, adult meals are $4 each and there's no charge for children up to the age of 12. A group of 18 people with 10 adults and 8 kids came for lunch, how much would the meal cost?
+d. In a bistro, each adult meal costs $3 and the first kid eats free but every additional kid costs $2. A group of 17 people with 9 adults and 8 kids came for dinner, calculate the total cost.
+
+
+
+76
+Original Question: John had 5 action figures, but needed 7 total for a complete collection. If each one costs $5, how much money would he need to finish his collection?
+New Questions:
+a. Emily had 3 toys and wanted to buy 6 more to complete her set. Each toy costs $10, how much more does she need?
+b. Michael is trying to collect 10 baseball cards but is missing 3. If each card costs $2, how much does he need to buy to complete his collection?
+c. Adam has a collection of 4 video games and wants to buy 9 more. If each game costs $8, how much money does he require to complete his collection?
+d. Jane has a collection of 6 books and needs 8 more to complete it. If each book costs $7, how much should she pay to complete her collection?
+
+
+
+77
+Original Question: Paul bought 6 boxes of chocolate candy and 4 boxes of caramel candy. If each box has 9 pieces inside it, how much candy did he have total?
+New Questions:
+a. Mary bought 3 containers of ice cream and 5 bags of chips. If each container has 4 scoops and each bag has 10 chips, how many ice cream scoops and chips did she buy in total?
+b. Tom bought 7 packs of gum and 2 packs of mints. If each pack has 10 pieces, how many pieces of gum and mints did he buy?
+c. David bought some apples and oranges at the fruit market. If he bought 8 apples and 10 oranges, how many fruits did he buy in total?
+d. John bought fish and chicken at the market for dinner. If he bought 4 fish and 6 chicken pieces, how many meals did he buy?
+
+
+
+78
+Original Question: Lana's favorite band was holding a concert where tickets were 6 dollars each. Lana bought 8 tickets for herself and her friends and 2 extra tickets in case anyone else wanted to go. How much did she spend?
+New Questions:
+a. Sara's favorite singer was having a solo performance where tickets cost 5 dollars each. Sara bought 7 tickets for her family and 3 extra tickets as a precaution. How much did she spend?
+b. In a concert by her favorite group, Emily bought 5 tickets costing 7 dollars each and also bought 1 extra ticket as backup. What was the total amount Emily spent on tickets?
+c. At a concert of her favorite rock band, Nina bought 10 tickets which cost 4 dollars each. She also bought 2 extra tickets just in case. Calculate the total amount Nina spent on tickets.
+d. When the popular band was playing in the city, Olivia bought 6 tickets at 8 dollars each and 1 extra ticket as a precautionary measure. How much did Olivia spend on the tickets?
+
+
+
+79
+Original Question: Chloe was unboxing some of her old winter clothes. She found 4 boxes of clothing and inside each box there were 2 scarves and 6 mittens. How many pieces of winter clothing did Chloe have total?
+
+New Questions:
+a. Emily was going through her storage and found 3 containers of winter gear. In each container, she found 3 sweaters and 5 hats. How many pieces of winter clothing did Emily have?
+b. When Jennifer cleaned out her closet, she stumbled on 5 bags of old winter clothes. Each bag contained 4 pairs of boots and 1 winter coat. How many items of winter clothing did Jennifer find?
+c. Before moving to a new house, Mark sorted his winter clothes and put them in 6 boxes. Each box contained 10 pairs of socks and 5 sweaters. How many items of winter clothing did Mark have in total?
+d. Sarah was reorganizing her wardrobe and discovered 7 containers of winter accessories. Inside each container, she found 2 pairs of gloves and a scarf. How many pieces of winter clothing did Sarah find?
+
+
+
+80
+Original Question: Haley was playing a video game and had 14 lives. In a hard part of the game she lost 4 lives. If she got 36 more lives in the next level, how many lives would she have?
+New Questions:
+a. Alex was playing a game and had 15 tries. In a challenging part of the game, he failed 6 times. If he received 40 more tries in the next level, how many tries would he have?
+b. Jennifer is playing a music game and had 20 stars. She made a mistake in a song and lost 8 stars. If she earned 45 stars in the next round, how many stars would she have?
+c. In a certain video game level, Mark had 22 points. He used 14 points on some obstacles in the game. If he gained 38 points in the next level, how many points would he have?
+d. Adam is playing a role-playing game and had 18 health points. In a tough battle, he lost 10 health points. If he regained 40 health points later, what would his total health points be?
+
+
+
+81
+Original Question: Amy had 4 music files and 21 video files on her flash drive. If she deleted 23 of the files, how many files were still on her flash drive?
+New Questions:
+a. Alice had 8 photos and 30 videos on her smartphone. If she deletes 25 items, how many files are left on her phone?
+b. Bob had 15 music tracks and 18 videos on his computer. He deleted 20 files, how many are left?
+c. Carla had 20 documents and 15 spreadsheets on her laptop. She erased 27 files, how many did she have after deletion?
+d. David had 2 music files and 9 videos on his USB drive. He deleted half of the files, how many are left on the USB drive?
+
+
+
+82
+a. A teacher had to grade 12 worksheets initially. However, after grading 8 of them, she received another 20 worksheets. How many worksheets does she need to grade in total now?
+
+b. A professor had 15 exams to evaluate. If he evaluated 5 exams and then received another 25 exams, how many exams does he need to evaluate in total?
+
+c. A student received a batch of 30 assignments to complete. If she completed 24 assignments but then received another 20 assignments, how many assignments does she need to complete in total?
+
+d. An instructor received a stack of papers to grade with an initial batch of 30 worksheets. If he graded 25 of them and then received another 22 worksheets, how many worksheets would he need to grade in total?
+
+
+
+83
+Original Question: Sarah had 60 homework problems. She finished 20 of them but still had 5 pages of problems to do. If each page has the same number of problems on it, how many problems are on each page?
+
+New Questions:
+a. Emma had 75 homework questions. She completed 30 of them and still had 4 chapters left. If each chapter contains the same number of questions, how many are on each chapter?
+
+b. Adam finished 40 out of 80 homework problems and still had 3 notebooks full of problems to complete. Assuming each notebook has the same number of problems, how many are on each notebook?
+
+c. Before the exam, Emily had 100 questions of homework to complete. She finished 70 of them and had only two assignments remaining. If every assignment holds an equal number of questions, how many are in each assignment?
+
+d. Victoria had a total of 96 questions for her math homework. She finished 24 of them and still had work in three books remaining. Assuming that each book has an equal number of questions, how many are in each book?
+
+
+
+84
+a. Emma uploaded 60 videos to Instagram. She put 32 videos in one playlist and the rest in 12 different playlists. How many videos were in each playlist?
+
+b. After taking 50 photos on vacation, Emily uploaded them to her Flickr account. She combined 28 photos into one album and distributed the rest into 11 different albums. How many photos were in each album?
+
+c. Alex uploaded 30 photos to his social media account. He put 15 photos in one album and put the rest into 5 different albums. What was the total number of photos in each album?
+
+d. Sara uploaded her pictures to an online platform. She made 2 album bundles with 4 photos in each and put the rest of her photos into 6 different albums. How many photos did Sara have in total? How many photos were in each album?
+
+
+
+85
+Original Question: For the school bake sale Wendy made pastries. She baked 41 cupcakes and 31 cookies. After the sale she had 32 to take back home. How many pastries did she sell?
+New Questions:
+a. For the school's birthdaay celebration, Wendy made pastries. She made 50 cakes and 40 breads. After the celebration she had 45 leftovers. How many pastries did she sell?
+b. At the charity event, Wendy sold pastries and baked 25 cakes and 35 bread rolls. After the event, she had 28 left. How many pastries did she sell?
+c. Wendy made pastries for the community festival. She made 60 sandwiches and 50 muffins. She sold everything and took nothing home. How many pastries did she sell?
+d. For the school festival, Wendy prepared 35 croissants and 28 muffins which she sold out completely. What was the total number of pastries she sold?
+
+
+
+86
+Original Question: Rachel bought two coloring books. One had 23 pictures and the other had 32. After one week she had already colored 44 of the pictures. How many pictures does she still have to color?
+New Questions:
+a. Emily bought three painting sets. One set had 15 paintings and the other had 20. After a month, she had finished painting 35 of the paintings. How many paintings does she still need to complete?
+b. A student bought two novels for their summer vacation reading. The first novel had 300 pages and the second had 400 pages. After finishing 650 pages in total, how many pages are left to read?
+c. Jennifer bought two books for her trip. One book had 150 pages and the other had 250 pages. She finished reading 320 pages in total. How many pages does she still need to read?
+d. Sara bought two storybooks for her child. Book A has 40 stories while Book B has 50 stories. After reading a total of 70 stories, how many stories are left to be read?
+
+
+
+87
+Original Question: While shopping for music online, Nancy bought 3 country albums and 5 pop albums. Each album came with a lyric sheet and had 8 songs. How many songs did Nancy buy total?
+
+New Questions:
+a. When browsing the web for music, Mark purchased 2 classical albums and 6 dance music albums. Each album included a booklet and 10 tracks. How many tracks did Mark buy in total?
+b. In her online music store purchase, Emily bought 4 rock albums and 6 R&B albums. Every album had a lyrics booklet and 12 songs. How many songs did Emily purchase in total?
+c. While shopping online for music, Adam bought 3 dance music albums and 4 pop albums that each contained a booklet and 9 songs. How many songs did Adam end up buying?
+d. While downloading music online, Olivia bought 5 classical music albums and 3 rock music albums, with each album having a booklet and 11 tracks. What was the total number of tracks Olivia bought?
+
+
+
+88
+New Questions:
+a. Jane earns 10 dollars for each painting she sells. If she had 10 paintings to sell but only sold 8 due to some reasons, how much money did she actually earn?
+b. Michael gets a bonus of 5 dollars for each project he completes on time. He had 5 projects but failed to complete 2 due to an emergency. How much bonus did he get?
+c. Lisa charges 20 dollars for each lesson she teaches. She had a total of 10 lessons scheduled but was unable to teach 3 due to illness. How much money did she earn from her teaching?
+d. Tom earns 15 dollars for every book he sells at the bookstore. He had a target of selling 10 books but only managed to sell 7 due to low demand. How much money did he earn?
+
+
+
+89
+Original Question: At a restaurant each adult meal costs $2 and kids eat free. If a group of 9 people came in and 2 were kids, how much would it cost for the group to eat?
+New Questions:
+a. At a café, each adult beverage costs $3 and children drink for free. If a group of 12 people came in and 4 were children, how much would it cost for everyone to order a drink?
+b. In a restaurant, adults' meals cost $1.50 each and children eat free. A family of 7, including 3 children, came to eat. How much would the meal cost?
+c. At a buffet restaurant, each adult ticket costs $4 and children eat free. A group of 10 people, including 1 child, came for lunch. How much would it cost for the entire group?
+d. In a restaurant, adults have to pay for their meals while children eat free. If a family of 5 adults and 2 children came for dinner, and each adult meal costs $2.50, how much would the total cost be?
+
+
+
+90
+Original Question: Kaleb was collecting cans for recycling. On Saturday he filled 4 bags up and on Sunday he filled 6 more bags. If each bag had 4 cans in it, how many cans did he pick up total?
+New Questions:
+a. Emma was also collecting cans for recycling. On Saturday she filled 3 bags and on Sunday she filled 5 bags. If each bag contained 5 cans, how many cans did she collect in total?
+b. Michael recycled bottles instead of cans. On Saturday he filled 2 boxes and on Sunday he filled 8 more boxes. If each box held 6 bottles, how many bottles did he recycle?
+c. Tony started collecting cans two days ago and collected twice as many as Kaleb did in two days. How many cans did Tony pick up in total?
+d. Jasmine collected both cans and bottles for recycling. On Saturday she filled 4 containers with cans and 3 containers with bottles. On Sunday she filled another 6 containers with cans and 4 containers with bottles. If each can container had 3 cans and each bottle container had 5 bottles, how many items did she collect in total?
+
+
+
+91
+Original Question: A vase can hold 6 flowers. If you had 7 carnations and 47 roses, how many vases would you need to hold the flowers?
+New Questions:
+a. A container can hold 8 plants. If you have 12 daisies and 30 sunflowers, how many containers do you need?
+b. A jar holds 10 petals. With 15 orchids and 20 lilies, how many jars would you need for all the petals?
+c. A pot can accommodate 12 petals. You have 5 bouquets with flowers. How many pots would you need if each bouquet has an average of 8 flowers?
+d. A basket can hold 30 flowers. If you bought 45 roses and 20 daisies, how many baskets would you need to arrange them all?
+
+
+
+92
+New Questions:
+a. When playing an online game, 10 friends started but 7 of them left the game. If each player had 6 lives, how many lives did they have in total at the beginning?
+b. In an online game, there were 12 players initially. If 4 players quit and each of them had 4 lives, how many lives did they start with in total?
+c. While playing a game online, 6 friends were playing together and 3 of them decided to quit. If each player had 3 lives at the start, what was the total number of lives they had?
+d. There were 15 people playing a game and 7 players left. If every person who left had a starting of 2 lives, how many lives did they initially have together?
+
+
+
+93
+Original Question: Olivia and her mom were picking carrots from their garden. Olivia picked 20 and her mother picked 14. If only 19 of the carrots were good, how many bad carrots did they have?
+New Questions:
+a. In the vegetable patch, Emma and her dad harvested potatoes. Emma picked 25 and her dad picked 20. If only 40 were good ones, how many bad potatoes did they have?
+b. At the farm, Adam and his brother were harvesting apples. Adam picked 30 apples while his brother picked 25. However, only 45 of them were ripe. How many unripe apples did they have?
+c. From their orchard, Sara and her sister harvested oranges. Sara picked 18 and her sister picked 10. It was later discovered that only 20 of the oranges were suitable for sale. How many unsuitable oranges did they have?
+d. In their vegetable garden, Henry and his sister harvested tomatoes. Henry picked 22 tomatoes while his sister picked 16. However, only 30 of them were ripe and red. How many unripe or green tomatoes did they have?
+
+
+
+94
+Original Question: Edward earned 4 dollars for each lawn he mowed. If he had 17 lawns to mow, but forgot to mow 9 of them, how much money did he actually earn?
+New Questions:
+a. Adam earns 3 dollars for each painting he sells. If he had 20 paintings to sell but failed to sell 5 of them, how much money did he actually make?
+b. Bella earns 5 dollars for each dog she walks. She was assigned to walk 25 dogs but neglected to walk 7 of them. How much did she earn?
+c. If Charlie charged 6 dollars for each bed he made up, and had to make up 30 beds but didn't make up 12 of them, how much did he earn?
+d. David earns 2 dollars for every fish he catches and sells. He caught and sold 25 fish but forgot to sell 10 of them. Calculate his actual earnings.
+
+
+
+95
+New Questions:
+a. A workbook had 3 exercises in it. If a teacher had 12 workbooks to review and had already reviewed 5 of them, how many more exercises does she need to review?
+b. A student had 5 assignments in a folder. If the teacher has 10 folders to grade and has already graded 6 of them, how many more assignments do they need to grade?
+c. A student has 4 challenges on a test paper. If a teacher has to grade 20 test papers and has graded half of them, how many more challenges do they need to grade?
+d. In a class of 30 students, each student handed in a homework assignment with 3 questions. The teacher has graded 20 homeworks so far. How many more problems do they need to grade?
+
+
+
+96
+Original Question: John had 5 dollars. At the store he spent $2 on a new game. If he got another 26 dollars for his allowance, how much money does he have now?
+New Questions:
+a. If Emma initially had 10 dollars and spent 5 dollars on a new book, then received 30 dollars as a gift, how much money does she have now?
+b. Tom had 20 dollars in his pocket. He bought a snack from the store costing $3. How much money does he have if his parents give him another 30 dollars?
+c. Mark starts with $15. He uses $7 to buy a new shirt. Later, he gets $25 from his grandparents. Calculate the total amount of money he has now.
+d. Lucy had $8 in her purse. She used $3 on a magazine. If she received an additional $22 from her parents, how much money does she have at present?
+
+
+
+97
+New Questions:
+a. Alex uploaded 45 videos to YouTube. He put 32 videos in one playlist and the rest in three different playlists. How many videos were in each playlist?
+b. After taking 50 photos, Jennifer put 28 pictures into one album and the rest into four different albums. How many pictures were in each album?
+c. Carla uploaded 70 photos to her Instagram. She put 35 photos into one folder and then distributed the rest among four different folders. How many photos were in each folder?
+d. Sean uploaded 99 photos to Flickr. He put some photos into three albums and left the rest as a separate group. If he put 66 photos in the three albums, how many photos are in the separate group?
+
+
+
+98
+Original Question: Zoe had 42 bottles of water in her fridge. If she drank 25 of them and then bought 30 more, how many bottles would she have?
+New Questions:
+a.  Sara had 60 bottles of soda in her cupboard. She drank 30 bottles and then bought 40 more. How many bottles of soda would she have now?
+b.  John had 25 books on his shelf initially. He read 10 of them and then bought 30 new ones. How many books would he have in total?
+c.  Lucy had a collection of 50 paintings in her gallery. She sold 25 paintings and then bought 40 new ones. How many paintings would she have now?
+d.  In a restaurant, they initially had 70 bottles of wine. They drank 35 bottles and then purchased another 50 bottles. How many bottles of wine would they have on their shelves now?
+
+
+
+99
+New Questions:
+a. A music band had 12 members initially, but 5 members were absent during a concert. If each member who performed earned $50, how much money was made in total?
+
+b. A basketball team had 11 players on the court during a game, but one player got injured and had to leave. If each playing player scored 10 points, how many points were scored in total?
+
+c. A reading club had 10 members scheduled to meet, but 2 members were unable to attend. If each member who attended contributed 5 books to the library, how many books were contributed?
+
+d. An art group had 15 members originally, but 4 members were absent for the exhibition. If each present member sold 2 paintings, how many paintings were sold in total?
+
+
+
+100
+Original Question: A store had 40 coloring books in stock. They ended up putting them on sale and getting rid of 20 of them. The put the ones they still had onto shelves with 4 on each shelf. How many shelves did they use?
+New Questions:
+a. A bookstore initially had 60 books but sold 25 of them. They then arranged the remaining books on shelves with 8 books per shelf. How many shelves did they use?
+b. A toy store had 50 toys and sold 30 of them during a sale. They then put the remaining toys on shelves with 10 toys per shelf. How many shelves did they use?
+c. A shop had 75 items in stock and sold out of 35 of them. They placed the remaining items on shelves with 6 items per shelf. How many shelves were needed?
+d. In a bookstore, 35 books were left after selling half of the stock. They put these books on shelves with 7 per shelf. How many shelves were used?
+
+
+
+101
+a. A chef needs to prepare 20 vegetables. He has already cooked 8. If each vegetable takes 10 minutes to cook, how long will it take him to cook the rest?
+b. If a chef has cooked 5 potatoes so far and each potato takes 7 minutes to cook, how long will it take him to cook the remaining 10 potatoes?
+c. A chef is cooking pasta and needs to cook 250 grams of it. He has already cooked 100 grams and each gram takes 2 minutes to cook. How long will it take him to cook the rest?
+d. A chef has cooked 12 out of 24 pieces of chicken. If each piece takes 15 minutes to cook, how long will it take him to finish cooking the rest?
+
+
+
+102
+Original Question: At the fair there were 12 people in line for the bumper cars. If 10 of them got tired of waiting and left and 15 more got in line, how many people would be in line?
+New Questions:
+a. At the amusement park, there were initially 20 people in line for the roller coaster. If 15 of them decided to try another ride and left, and 20 more people joined the queue, how many people would be in line now?
+b. In the queue for the ferris wheel, there were originally 30 people. If 25 of them decided to come back later and left, and 18 new people joined, how many are waiting now?
+c. In a queue for a water slide ride at the water park, there were 10 people initially. If 8 of them decided to go on another ride and left, and 25 new people arrived, how many are in line?
+d. At the concert ticket counter, there were initially 5 people in line. If 3 of them decided to return later and left, and another 8 people arrived to buy tickets, how many people are now in line?
+
+
+
+103
+Original Question: Each chocolate bar in a box cost $3. If a box had 7 bars total and Olivia sold all but 4 bars, how much money would she have made?
+New Questions:
+a. Each ice cream cone in a pack costs $2. If a pack had 10 cones total and Emily sold all but 6 cones, how much money would she have earned?
+b. Each book in a set costs $15. If a set had 5 books total and Mark sold all but 3 books, how much money would he have made?
+c. Each pack of gum costs $1. If a store had 20 packs of gum and sold all but 10 packs, how much revenue did they generate?
+d. Each pack of cards costs $4. If a vendor had 30 packs of cards and sold all but 15 packs, how much profit did they make?
+
+
+
+104
+Original Question: Sarah's old washing machine could only wash 5 pieces of clothing at a time. If she had to wash 43 shirts and 2 sweaters how many loads would she have to do?
+New Questions:
+a. If Sarah's new washing machine could wash 10 items at a time, how many loads would she need to wash 43 shirts and 2 sweaters?
+b. How many loads would Sarah need to wash 30 pants and 10 jackets if her machine could only accommodate 3 items at a time?
+c. Sarah has a list of clothes to wash: 20 shorts, 15 pants, and 5 jackets. Her machine can wash 6 items at a time. How many loads will she need to complete?
+d. In total, Sarah has to wash 60 items of clothing, but her machine can only handle 8 at a time. How many loads will she have to do?
+
+
+
+105
+New Questions:
+a. Sara had 15 tracks on her phone. She deleted 9 old ones and then downloaded 22 new ones. How many tracks does she have now?
+b. David had 20 videos on his tablet. He deleted 13 old videos and uploaded 30 new ones. How many videos does he have now?
+c. Emily had 8 photos on her phone gallery. She deleted 6 old photos and then took 25 new ones. How many photos does she have in her gallery now?
+d. Lucy had 18 apps on her smartphone. She uninstalled 11 old apps and then installed 27 new ones. How many apps does she have on her phone now?
+
+
+
+106
+New Questions:
+a. A bakery had 20 loaves of bread in a basket. If they discarded 15 of the expired ones and added 9 fresh loaves, how many would be in the basket?
+b. A library initially had 50 books on a shelf. They removed 30 old ones and placed 25 new ones on the shelf. How many books are now on the shelf?
+c. A farmer had 60 chickens in a pen. He sold 40 of them and bought 25 new ones to replace them. How many chickens are now in the pen?
+d. A toy store had 70 toys in a display box. They discarded broken toys worth 25 and bought 30 new toys to restock. How many toys are now in the box?
+
+
+
+107
+Original Question: For the school bake sale Carol made 30 cupcakes. If she sold 9 of them and then made 28 more, how many cupcakes would she have?
+New Questions:
+a. At the school fair, Carol made 40 cookies. She sold 15 of them and then made 35 more. How many cookies would she have?
+b. For the community event, Carol initially made 25 brownies. She sold 7 of them and then made 30 additional ones. How many brownies would she have?
+c. Carol started with 35 doughnuts for the charity sale. She sold 12 and then made another batch of 33. How many doughnuts would she have?
+d. At the student festival, Carol created a total of 50 desserts consisting of multiple layers of different flavors. She sold 18 of them and then made another dessert of the same kind with 48 layers. How many desserts would she have?
+
+
+
+108
+Original Question: A store had 50 oranges in a bin. If they threw away 40 of the old ones and put 24 new ones in the bin how many would be in the bin?
+New Questions:
+a. A bakery had 100 loaves of bread. If they discarded 30 expired ones and made 35 fresh loaves, how many would be left?
+b. A library had 200 books on a shelf. If they removed 50 old ones and added 40 new books, how many would be on the shelf?
+c. A farmer had 80 chickens in a barn. If they sold 15 of them and bought 25 new chicks, how many would be in the barn now?
+d. A restaurant had 30 plates of food in a container. If they discarded broken plates worth 10 and bought new plates for 20, how many plates would be in the container?
+
+
+
+109
+a. Emma had 45 photos on her phone. She deleted 15 of them and moved the rest into albums with 9 photos in each album. How many albums did Emma create?
+
+b. Adam had 30 songs on his playlist. He deleted 10 of them and then organized the rest into groups with 5 songs in each group. How many groups did Adam end up with?
+
+c. After graduating, Megan had 20 pictures in her photo album. She removed 8 of them and then put the remaining ones into folders with 4 pictures in each folder. How many folders did Megan create?
+
+d. Nick had a total of 54 paintings on his wall. He sold off some and ended up with paintings in groups of 9 in each frame. If he sold 18 paintings, how many frames did Nick end up with?
+
+
+
+110
+New Questions:
+a. If Ethan organizes his basketball cards in a binder with 5 cards on each page and he has 7 new cards and 13 old cards, how many pages will he use?
+b. Luke organized his soccer cards in a binder with 2 cards on each page. He received 4 new cards and had 8 old cards. How many pages did he use?
+c. In a binder, Adam arranges his football cards with 4 on each page. He bought 6 new cards and had 12 old cards. How many pages did he need for all his cards?
+d. When arranging his hiking cards in a binder with 6 on each page, Mark received 7 new cards and had 19 old cards. How many pages did he use?
+
+
+
+111
+Original Question: A pet store had 56 puppies. In one day they sold 24 of them and put the rest into cages with 4 in each cage. How many cages did they use?
+New Questions:
+a. A zoo had 72 monkeys. They sold 16 of them and put the remaining ones in enclosures with 6 monkeys in each enclosure. How many enclosures did they use?
+b. A bird seller had 100 birds. She sold 30 of them and put the rest in cages with 8 birds in each cage. How many cages did she use?
+c. A farm had 90 chickens. They sold 15 chickens and then grouped the remaining ones in sheds with 12 chickens in each shed. How many sheds did they use?
+d. A research facility had 48 rats. They released some of them for experimentation and put the remaining ones in cages with 3 rats in each cage. If they released exactly half of them, how many cages did they use?
+
+
+
+112
+Original Question: At the town carnival Billy rode the ferris wheel 7 times and the bumper cars 3 times. If each ride cost 5 tickets, how many tickets did he use?
+New Questions:
+a. At the amusement park, Emily spun on the ferris wheel 5 times and the carousel 4 times. If each ride costs 10 tickets, how many tickets did she use?
+b. In the school's field day, each student could ride a ferris wheel 3 times and a carousel twice for free. How many tickets would a student who rode both attractions need if they had to pay for each ride separately? Assume that each ride costs 2 tickets.
+c. In the children's carnival zone, each ride costs 4 tickets. Charlie played the bumper cars 5 times and the ferris wheel twice. How many tickets did Charlie use?
+d. At the local fair, a person can buy tickets in bundles of 10 for $50. If Tom rides the ferris wheel 8 times and the bumper cars 2 times at this fair, how many bundles of tickets would he need to buy to cover all rides assuming each ride costs a bundle of tickets?
+
+
+
+113
+Original Question: Bianca earned 5 points for each bag of cans she recycled. If she had 17 bags, but didn't recycle 8 of them, how many points would she have earned?
+New Questions:
+a. Ana works at a community clean-up event where she can earn 2 points for each plastic bottle she collects. She had 20 bottles but forgot to collect 5 of them. How many points did she earn?
+b. At a school recycling competition, Bella earns 3 points for each box of paper she recycles. She had 15 boxes but couldn't recycle 6 of them due to some technical issues. How many points did she obtain?
+c. Gina is participating in a charity event where she gets 4 points for every shoebox of donated toys she collects. She collected 25 shoeboxes, but failed to collect 7 of them due to certain reasons. How many points did Gina earn?
+d. At a community environment day event, Emma can earn 6 points for every bag of leaves she composts. She had 22 bags but couldn't compost 10 of them due to limited resources. How many points did Emma earn in total?
+
+
+
+114
+Original Question: A florist had 6 roses. If she sold 5 of them and then later picked 12 more, how many roses would she have?
+New Questions:
+a. A bookshop owner had 8 books. If they sold 7 of them and then bought 15 new ones, how many books would they have?
+b. A farmer had 10 chickens. If he sold 9 of them and then hatched 20 new chicks, how many chickens would he have?
+c. A baker had 4 loaves of bread. If she sold 3 of them and then made 10 new loaves, how many loaves of bread would she have?
+d. An artist had 3 paintings. If she sold all of them and then created a new artwork in her studio, how many paintings would she have after creating the new artwork? Note that in this case, the new artwork doesn't count as a sold painting, just a creative piece made from scratch.
+
+
+
+115
+Original Question: There were 17 girls and 32 boys trying out for the schools basketball team. If only 10 of them got called back, how many students didn't make the cut?
+New Questions:
+a. In a school drama club auditions, 25 girls and 40 boys tried out. Only 20 were selected. How many students did not get selected?
+b. At the school swimming trials, there were 21 girls and 39 boys participating. Only 15 were offered a spot on the team. How many did not get a spot?
+c. In a dance competition, there were 18 girls and 35 boys participating. Later, only 9 were chosen to continue. How many were not chosen?
+d. For the school's football team, there were 22 girls and 37 boys trying out. However, only 12 got a chance to play. How many did not get a chance to play?
+
+
+
+116
+Original Question: John was trying to expand his game collection. He bought 21 games from a friend and bought 8 more at a garage sale. If 23 of the games didn't work, how many good games did he end up with?
+
+New Questions:
+a. Emily wanted to expand her book collection. She bought 30 books from a bookstore and 15 more at a library sale. If 28 of the books were damaged, how many good books did she end up with?
+b. Michael bought some toys for his kids. He bought 25 toys from a store and 12 more at a yard sale. If 20 of the toys were broken, how many good toys did he end up with?
+c. Alice collected stamps. She bought 15 stamps from a dealer and 10 more at an auction. If 12 of the stamps were fake, how many genuine stamps did she end up with?
+d. David was building his coin collection. He bought 50 coins from a collector and found 15 more in his grandfather's old box. If 30 of the coins were damaged, how many good coins did he end up with?
+
+
+
+117
+Original Question: At the arcade Edward won 9 tickets. If he spent 4 tickets on a beanie and later won 4 more tickets, how many would he have?
+New Questions:
+a. At the fair, Emily bought 7 tickets. She used 3 tickets for a game and later received 5 more tickets as prizes. How many tickets does she have now?
+b. At the amusement park, Sam won 12 tickets. He used some tickets for rides and later received more tickets as prizes. If he had 6 tickets left after using some for rides, how many did he win in total?
+c. In the casino, David had 15 chips. He lost 5 chips playing a game and later received 7 chips as a bonus. How many chips does he have now?
+d. At the entertainment center, Jane initially had 10 tokens. She used some tokens to play games and later received more tokens as rewards. If she had 6 tokens after playing two games, how many tokens did she start with?
+
+
+
+118
+a. For Halloween, Ethan received 7 pieces of candy from his friends and 12 pieces from his grandparents. If he eats 10 pieces per day, how long will the candy last him?
+b. Halloween night brought Bella 9 pieces of candy from her colleagues and 4 pieces from her own stash. She eats 5 pieces every evening, how many days would she have candy for?
+c. On Halloween, Emily received 14 pieces of candy from her classmates and 3 pieces from her little brother. She eats 9 pieces a day; how many days worth of candy did she receive?
+d. During Halloween, Adam received 20 pieces of candy from his relatives and none from his friends. If he eats 12 pieces daily, how many days will the candy last him?
+
+
+
+119
+Original Question: Faye had 46 math problems and 9 science problems for homework. If she finished 40 of the problems at school, how many problems did she have to do for homework?
+
+New Questions:
+a. Emma had 30 history questions and 25 literature questions for homework. If she completed 35 of them in class, how many questions did she need to complete at home?
+
+b. Jennifer has a total of 60 homework questions for her biology and chemistry subjects. She finished half of them in class. How many questions did she have to do for homework?
+
+c. Michael had a homework assignment with a total of 50 questions, divided between his algebra and geometry subjects. He solved 25 of them in school. How many problems did he still need to do for homework?
+
+d. Amanda received 8 math questions and 12 language arts questions for homework. She did not complete any of them in class. How many questions did she have to do for homework?
+
+
+
+120
+New Questions:
+a. Emily earned 10 dollars for each painting she sold. If she had 20 paintings to sell but forgot to sell 5 of them, how much money did she actually earn?
+b. Tom got a bonus of 5 dollars for each project he completed. If he had 15 projects to complete but failed to complete 3 of them, how much bonus did he get?
+c. Jane earns 7 dollars for every book she sells. She had 10 books to sell but left out selling 4 of them. How much did she earn?
+d. David earns a commission of 8 dollars for every consultation he attends. If he had 18 consultations to attend but missed 6 of them, what was his total earning?
+
+
+
+121
+Original Question: Megan was selling her necklaces at a garage sale. She sold 7 bead necklaces and 3 gem stone necklaces. If each necklace cost 9 dollars, how much money did she earn?
+New Questions:
+a. If Sarah sold her earrings at the same garage sale, 8 stud earrings and 5 hoop earrings for $12 each, how much did she earn?
+b. Emily sold her paintings at an art exhibition. She sold 10 oil paintings and 5 watercolor paintings for $50 each. How much did she earn?
+c. At a flea market, a vendor sold 15 bracelets and 20 rings, each priced at $10. How much did they earn in total?
+d. In a charity event, a person sold 20 items (including different types of jewelry) each priced at $20. How much did they raise?
+
+
+
+122
+Original Question: Oliver had 35 dollars. For his birthday he got 50 more dollars but spent 84 on a new game. How much money does he have now?
+New Questions:
+a. Emma initially had 40 dollars. She received 60 dollars as a gift for graduating and spent 90 dollars on a trip. How much money does she have now?
+b. Alex had 25 dollars in his pocket. He earned 40 dollars by doing a part-time job and donated 65 dollars to charity. How much money does he have now?
+c. Bob received 50 dollars as a gift on his wedding anniversary, but he spent 75 dollars on buying gifts for his family. He initially had 20 dollars. How much money does he have now?
+d. Lily had 100 dollars in her savings account. She received a bonus of 75 dollars from her job but also donated 120 dollars to her favorite charity. How much money does she have in her account now?
+
+
+
+123
+Original Question: At the arcade Victor won 46 tickets. If he spent 27 tickets on a beanie and later won 39 more tickets, how many would he have?
+New Questions:
+a. At the fair, Victor earned 52 tickets. He used some tickets on a toy and later received more from a game. How many tickets did he ultimately get?
+b. In the amusement park, Victor collected 42 tickets initially. He then used some on a prize and later received additional ones from playing games. How many tickets did he end up with?
+c. At the carnival, Victor received 58 tickets initially and then lost some playing a game. Later, he won more from another game. How many tickets did he end up having?
+d. In the game center, Victor amassed 72 tickets by winning and playing games. He used some on food and later earned more through a challenge. How many tickets did he have in total?
+
+
+
+124
+Original Question: A book store had 41 books in the bargin bin. If they sold 33 books, but then put 2 more in the bin, how many books would be in the bin?
+New Questions:
+a. A clothing store had 60 items in the sale section. If they sold 45 items and then added 15 new ones, how many items would be in the sale section now?
+b. A toy store had 25 toys in the clearance section. After selling 18 toys and adding 8 new ones, how many toys would be in the clearance section?
+c. A music store had 50 CDs in the discount rack. They sold 35 CDs and then put in 10 new ones. How many CDs would be in the discount rack now?
+d. A pet store had 30 pet supplies in the promotion area. After selling 24 items and adding 12 new ones, how many pet supplies would be in the promotion area?
+
+
+
+125
+New Questions:
+a. Gina sorted her pocket money into piles of pennies and nickels. She had 4 piles of pennies and 2 piles of nickels. If each pile had 10 coins, how many coins did she have in total?
+b. Tom had stacks of coins for spending. He had 3 piles of each kind of coin - pennies, nickels, and dimes. If every stack contained 9 coins, how many coins did he have in total?
+c. Emily was counting her savings. She had 5 piles of quarters and 2 piles of dollars. If each pile had 6 coins, how many coins did she have in total?
+d. Adam placed his pocket money into stacks. He had 7 stacks of quarters and 2 stacks of five-cent coins. If each stack contained 8 coins, how many coins did Adam have altogether?
+
+
+
+126
+Original Question: There were 9 girls and 14 boys trying out for the schools basketball team. If only 2 of them got called back, how many students didn't make the cut?
+New Questions:
+a. In a music ensemble competition, 12 girls and 18 boys tried out. If only 4 were selected, how many did not get chosen?
+b. At the drama club tryouts, 7 girls and 11 boys attended. Only 3 were offered a spot. How many were not accepted?
+c. In the school's soccer team trials, 5 girls and 16 boys participated. If only 5 got selected, how many didn't get a chance to play?
+d. For the dance troupe, there were 8 girls and 13 boys who tried out. The troupe only expanded to 3 members. How many were not chosen?
+
+
+
+127
+New Questions:
+a. Alex was also collecting cans for recycling. On Saturday he filled 4 bags and on Sunday he filled 6 more bags. If each bag had 5 cans, how many cans did he pick up total?
+b. How many cans did Frank pick up in total if each bag had 10 cans instead of 5?
+c. If Frank filled 7 bags on Saturday and 4 bags on Sunday, how many cans did he collect for recycling?
+d. Frank collected cans for recycling and filled the bags on both days. If he collected 3 times as many cans on Sunday as he did on Saturday, how many cans did he collect in total?
+
+
+
+128
+Original Question: Frank had 11 dollars. At the store he spent $3 on a new game. If he got another 14 dollars for his allowance, how much money does he have now?
+New Questions:
+a. Mark had 15 dollars. At the bookstore, he spent $5 on a new book. If his friend lent him 20 dollars, how much money does he have now?
+b. Lily had 20 pounds. She bought a new outfit worth £8 at the mall. If she received £15 as a gift, how much money does she have now?
+c. Adam had $20 initially. He bought a snack worth $4 at the shop and received $16 as pocket money. How much money does he have now?
+d. Emma had £8 in her pocket. She bought a magazine costing £3 at the newsstand and received £9 from her parents as a reward for good grades. What is the total amount of money she has now?
+
+
+
+129
+New Questions:
+a. Lisa had 20 podcasts on her phone. If she deleted 10 old podcasts and then downloaded 30 new ones, how many podcasts does she have now?
+b. David had 5 videos on his tablet. He deleted 3 of them and then uploaded 20 new ones. How many videos does he have now?
+c. Emily had 30 photos on her camera roll. She deleted 15 old photos and then took 25 new ones. How many photos does she have in total?
+d. John had 12 apps on his phone. He uninstalled 7 of them and then installed 40 new ones. How many apps does he have on his phone now?
+
+
+
+130
+Original Question: A company invited 45 people to a luncheon, but 35 of them didn't show up. If the tables they had held 2 people each, how many tables do they need?
+New Questions:
+a. A restaurant hosted an event for 60 guests but only 50 actually came. If each table can seat 4 people, how many tables do they need?
+b. A school organized a dinner for its students, expecting 30 students but only 20 attended. If seating arrangements allow for 3 students at each table, how many tables are needed?
+c. A banquet hall was booked for a wedding with a capacity of 100 people but only 75 showed up. If each table can accommodate a maximum of 6 people, how many tables are required?
+d. An organization planned a meeting for 50 people but only 40 attended. If the meeting room has tables for 2 people each, how many additional tables would they need if everyone wanted their own table?
+
+
+
+131
+Original Question: Zoe baked 5 brownies, but needed 11 total for her party. If she used 7 cups of flour on each one, how much cups of flour does she still need?
+New Questions:
+a. Emma made 3 cakes for her birthday celebration, but she needs 7 in total. If she used 4 cups of sugar in each one, how many cups of sugar does she still need?
+b. Alex cooked 6 pizzas but needs to make 12 for his party. If he used 2 cups of cheese on each pizza, how many cups of cheese does he still need?
+c. When cooking lasagna, Vanessa made 8 layers but needed to make 16 in total. If she used a cup of tomato sauce for each layer, how many cups of tomato sauce does she still need?
+d. Jennifer is baking cookies for her family reunion and has already made 15 dozen. She plans to make a total of 30 dozen cookies. If she used 2/3 cup of sugar per dozen, how much more sugar does she need in cups?
+
+
+
+132
+New Questions:
+a. A decorator needed to decorate 15 houses in a village. Each house takes 4 hours to decorate. If he has already decorated 7 houses, how much longer will it take him to decorate the rest?
+b. A builder had to construct 20 walls in a construction site. Each wall takes 2 hours to build. After completing 10 walls, how much time is left for him to finish the rest?
+c. A photographer needs to shoot photos for 20 different events. Each event takes 1 hour to shoot. After shooting at 8 events, how many more hours of photography do they need?
+d. A chef has to cook 18 dishes for a banquet. Each dish takes 30 minutes to prepare. If he has already cooked 9 dishes, how much longer will it be until he finishes cooking the rest?
+
+
+
+133
+Original Question: Paul had saved up 4 dollars. If he received another 11 dollars for his allowance, how many 5 dollar toys could he buy?
+
+New Questions:
+a. Emma had 6 dollars in her pocket. She received 9 dollars as a gift. How many 3 dollar toys can she buy?
+b. John had collected 2 dollars for his birthday money. He received another 7 dollars from his grandparents. How many 4 dollar toys could he buy?
+c. David had saved up 10 dollars for his first paycheck. If he earned another 6 dollars in his next job, how many 7 dollar video games could he buy?
+d. Lily had 15 dollars in her savings account. She received a raise of 8 dollars from her part-time job. How many 10 dollar books could she afford to buy?
+
+
+
+134
+Original Question: Each chocolate bar in a box cost $2. If a box had 13 bars total and Rachel sold all but 4 bars, how much money would she have made?
+New Questions:
+a. Each toy car in a set costs $5. If a set contains 20 cars and Alex sold all except 5 cars, how much money did he make?
+b. Each book in a library costs $10. If a library has 30 books and a customer bought all but 8 books, how much money did the library earn?
+c. In a bunch of bananas, each banana costs $0.5. If there were 15 bananas in the bunch and Jane sold all except 3 bananas, how much money did she make?
+d. At a candy store, each pack of gum costs $1. If the store had 25 packs and a customer bought all except 7 packs, how much money did the store collect?
+
+
+
+135
+New Questions:
+a. A basketball team had 12 members, but one member was absent during a game. If each member that played scored 20 points, how many points were scored total?
+b. In a concert band of 15 members, 3 members were absent. If each present member played well and earned 10 points, how many points did they earn in total?
+c. A reading club had 10 members for a meeting, but two members failed to attend. If each member who attended contributed 5 points to the total score, how many points were contributed?
+d. A dance troupe had 18 members for a performance, but 3 members were unable to participate. If each member who danced scored 8 points, what was the total score?
+
+
+
+136
+Original Question: In a video game, each enemy defeated gives you 5 points. If a level has 8 enemies total and you destroy all but 6 of them, how many points would you earn?
+New Questions:
+a. In a different video game, you get 10 points for each enemy defeated. If a level has 12 enemies and you destroy all except for 4 of them, how many points do you earn?
+b. In a specific mission of a game, you are rewarded with points for destroying enemies. If there are 15 enemies in total and you destroy all but 9 of them, how many points will you get?
+c. In a certain level of an action game, you gain 3 points for each enemy defeated. If there are 12 enemies and you only destroy 5 of them, how many points do you receive?
+d. In an arcade shooter game, defeating enemies grants you points. If a level has 10 enemies and you destroy all of them except one, how many points will you accumulate?
+
+
+
+137
+New Questions:
+a. Jack had 120 homework problems. He finished 50 of them and still had 3 pages of problems remaining. How many problems are on each page?
+b. Alice completed half of her 200 homework problems and still had 10 pages of work left. If all pages have the same number of problems, how many are on each page?
+c. Bob finished 75% of his homework which comprised of 150 problems and was left with 3 pages to complete. What is the count of problems in each page?
+d. If a student had 99 homework problems and completed 33 of them with 4 pages pending, how many problems would be on each page?
+
+
+
+138
+Original Question: Luke had 47 pieces of clothing to wash. He put 17 of them in one load, but decided to split the rest into 5 equal loads. How many pieces of clothing could go in each of the small loads?
+
+New Questions:
+a. Emma had 60 items of clothing to wash. She put 25 in one load and divided the rest equally into 7 loads. How many went in each of the smaller loads?
+
+b. When Lily washed her clothes, she had 45 items and distributed them in three loads, with the last two loads being equal. The first load had 19 items. How many went in each of the last two loads?
+
+c. James had a total of 50 clothes to wash. He put 30 in one load and distributed the rest among 6 equal loads. Calculate the number of clothes in each of the smaller loads.
+
+d. After a long trip, Vanessa had to wash 52 pieces of clothing. She started with a load of 22 items and then divided the rest into 4 equal loads for washing. Calculate the count of clothes in each of the subsequent loads.
+
+
+
+139
+Original Question: Dave was working as a sacker at a grocery store where he made 6 dollars an hour. On Monday he worked 6 hours and on Tuesday he worked 2 hours. How much money did Dave make in those two days?
+
+New Questions:
+a. Jane works at a clothing store as a salesperson, earning 8 dollars an hour. On Wednesday she worked 5 hours and on Thursday she worked 3 hours. How much money did Jane earn in those two days?
+
+b. Tom is a waiter at a restaurant and makes 9 dollars an hour. He worked for 7 hours on Friday and 4 hours on Saturday. Calculate his total earnings for those two days.
+
+c. Sarah is a librarian at a school library and gets paid 7 dollars an hour. She worked for 4 hours on Monday and another 6 hours on Wednesday. How much did Sarah earn in those two days?
+
+d. Mark is employed at a construction site and makes 10 dollars an hour. He worked for 3 hours on Tuesday and 5 hours on Thursday. What is Mark's total earnings for the two days?
+
+
+
+140
+Original Question: There were 10 friends playing a video game online when 7 players quit. If each player left had 8 lives, how many lives did they have total?
+New Questions:
+a. In a different scenario, imagine there were 15 people playing an online game and 9 of them decided to quit. If each of those players had 10 lives, how many lives did they have in total?
+b. Suppose 12 children are playing a mobile game and 5 of them decide to stop playing. If each child who left the game had 7 lives, how many lives did they have combined?
+c. In a game of survival mode, there were 20 players initially playing but 8 of them exited the game. If each exited player had a starting amount of 9 lives, what was the total number of lives they had initially?
+d. While playing a co-op game online, there were 25 players initially but then 12 of them disconnected. If each disconnected player had 12 lives, how many lives did they have before they disconnected?
+
+
+
+141
+Original Question: Amy had 26 music files and 36 video files on her flash drive. If she deleted 48 of the files, how many files were still on her flash drive?
+New Questions:
+a. Alice had 40 photos and 25 videos on her smartphone. If she deletes 30 items, how many files are left on her phone?
+b. Bob had 50 documents and 35 audio recordings on his laptop. He deleted 40 files, how many are left?
+c. Charlie had a total of 60 files on his computer (music, videos, and photos). He deleted half of them, how many are remaining?
+d. Dana had a total of 100 documents on her external hard drive, but she deleted 70 of them. How many documents are still on the drive?
+
+
+
+142
+Original Question: At the fair Adam bought 10 tickets. After riding the ferris wheel he had 3 tickets left. If each ticket cost 9 dollars, how much money did Adam spend riding the ferris wheel?
+
+New Questions:
+a. At the amusement park, Emma bought 8 tickets. After riding the roller coaster, she had 2 tickets left. If each ticket costs 10 dollars, how much did Emma spend on the roller coaster?
+
+b. On his birthday, Bob bought 12 tickets for the carnival. After playing all the games, he had 4 tickets left. If each ticket costs 5 dollars, how much did Bob spend on the games?
+
+c. At the festival, David bought 15 tickets for the helicopter ride. After the ride, he had none left. If each ticket costs 8 dollars, how much did David spend on the helicopter ride?
+
+d. At the recreation center, a person bought 7 tickets for the carousel ride. After using them all, he used some money to buy additional tickets at full price to continue riding. If each ticket costs 4 dollars and they bought additional tickets worth 10 dollars each, how much did he spend total for all the rides? (This one includes additional spending on new tickets.)
+
+
+
+143
+Original Question: Wendy's old washing machine could only wash 8 pieces of clothing at a time. If she had to wash 39 shirts and 33 sweaters, how many loads would she have to do?
+
+New Questions:
+a. Sara's old dishwasher can only hold 12 plates at a time. If she needs to wash 45 plates and 27 bowls, how many loads will she need to do?
+b. In a restaurant, the dishwasher can process 24 dishes at a time. If there are 50 plates, 40 bowls, and 30 cups to be washed, how many loads will it take?
+c. Your dryer can only hold 7 items at a time. If you need to dry 21 towels and 15 pants, how many loads of laundry will you have to do?
+d. A family has a washing machine that can accommodate 10 items at a time. They want to wash 22 tops, 18 trousers, and 15 socks. How many loads will they need to do?
+
+
+
+144
+Original Question: A florist had 11 roses. If she sold 2 of them and then later picked 32 more, how many roses would she have?
+New Questions:
+a. A jewelry store owner had 15 necklaces. If she sold 4 of them and then bought 20 new ones, how many necklaces would she have?
+b. A bookshop owner had 8 books in stock. If she sold 3 of them and then received 25 new ones in shipment, how many books would she have?
+c. A farmer had 20 chickens. If he sold 7 of them and then hatched 30 new chicks, how many chickens would he have?
+d. A painter had 18 paintings in her collection. If she sold 6 of them and then created 25 new paintings, how many paintings would she have?
+
+
+
+145
+Original Question: A vase can hold 5 flowers. If you had 6 carnations and 19 roses, how many vases would you need to hold the flowers?
+New Questions:
+a. A container can hold 8 plants. If you have 12 orchids and 24 daisies, how many containers do you need?
+b. A basket can hold 7 apples. If you purchased 20 red apples and 30 green apples, how many baskets would you need for all the apples?
+c. A tray can hold 10 books. If you have 15 novels and 35 biographies, how many trays do you need to arrange all the books?
+d. A jar can hold 3 candies. If you bought 18 chocolate candies and have 24 gummies, how many jars would you need to store all the candies?
+
+
+
+146
+Original Question: A store had 48 coloring books in stock. They ended up putting them on sale and getting rid of 38 of them. The put the ones they still had onto shelves with 5 on each shelf. How many shelves did they use?
+New Questions:
+a. A bookstore initially had 60 books but sold 22 of them during a sale. They decided to put the remaining books on shelves with 4 books per shelf. How many shelves did they use?
+b. A toy store had 72 action figures and sold off 26 of them. They organized the remaining toys on shelves with 7 toys per shelf. How many shelves did they use?
+c. A library had 90 books initially and lent out 30 of them to readers. They then placed the remaining books on shelves with 10 books per shelf. How many shelves did they need?
+d. In a school bookstore, there were initially 100 textbooks available. After selling 45 of them, they arranged the remaining books on shelves with 8 books per shelf. Calculate the number of shelves used.
+
+
+
+147
+Original Question: Faye was selling her necklaces at a garage sale. She sold 3 bead necklaces and 7 gem stone necklaces. If each necklace cost 7 dollars, how much money did she earn?
+New Questions:
+a. Amber sold her bracelets at a yard sale. She sold 5 metal bracelets and 10 wooden bracelets. If each bracelet cost 8 dollars, how much money did she earn?
+b. Emma sold her earrings at a flea market. She sold 2 pearl earrings and 6 crystal earrings. If each piece of jewelry cost 10 dollars, how much money did she earn?
+c. A vendor at a street market sold 10 rings and 20 anklets. If each piece of jewelry cost 5 dollars, how much money did he earn in total?
+d. At a charity event, Sophia sold 30 handbags for charity. If each handbag cost 20 dollars, how much money did she raise?
+
+
+
+148
+Original Question: There were 6 girls and 48 boys trying out for the schools basketball team. If only 7 of them got called back, how many students didn't make the cut?
+New Questions:
+a. In a drama club audition, there were 12 girls and 36 boys participating. If only 9 members were selected, how many were not chosen?
+b. At the school's soccer team trials, there were 15 girls and 45 boys participating. If only 8 players got a spot, how many didn't get in?
+c. In a music band competition, there were 9 students who made it to the final round. If there were initially 12 girls and 39 boys participating, how many didn't reach the final round?
+d. In a school-wide talent show, 15 students were chosen to participate. If there were originally 7 girls and 53 boys participating, how many were not chosen to participate in the talent show?
+
+
+
+149
+Original Question: Bianca had 34 songs on her mp3 player. If she deleted 14 old songs from it and then added 44 new songs, how many songs does she have on her mp3 player?
+New Questions:
+a. Emma had 27 photos on her phone. She deleted 12 old photos and took 38 new ones. How many photos does she have now?
+b. David had 56 videos on his computer. He uploaded 32 new videos and deleted 20 old ones. How many videos does he have now?
+c. After deleting 19 old paintings from her collection and adding 36 new paintings, how many paintings does the art gallery have now?
+d. A bookstore initially had 80 books. They sold 25 old books and then bought 40 new books. How many books do they have now?
+
+
+
+150
+New Questions:
+a. A zoo has 12 animal enclosures. If each enclosure has 5 lions and 3 tigers in it, how many animals does the zoo have in total?
+b. A nature center has 6 displays. Each display has 4 penguins and 6 geese. How many birds are at the nature center?
+c. A bird shop has 7 sections. Each section contains 3 sparrows and 4 robins. How many birds are in the shop?
+d. In a pet shop, there are 15 fish tanks. If each tank contains 8 goldfish and 6 other varieties of fish, how many fish are in the shop?
+
+
+
+151
+New Questions:
+a. In third grade there were 5 students at the beginning of the year. Throughout the year, 7 students left and 35 new students joined. How many students were in third grade at the end?
+b. In sixth grade, there were 20 students at the start of the semester. During the semester, 12 students graduated and 25 new students joined. How many students were in sixth grade at the end?
+c. In first grade, there were 15 students at the start of the term. Throughout the term, 8 students transferred to another school and 30 new students enrolled. How many students were in first grade at the end?
+d. In seventh grade, there were 25 students at the start of the year. During the academic year, 15 students transferred out and 40 new students registered. What was the total number of students in seventh grade at the end of the year?
+
+
+
+152
+Original Question: At the arcade Dave won 25 tickets. If he spent 22 tickets on a beanie and later won 15 more tickets, how many would he have?
+New Questions:
+a. At the amusement park, Dave received 30 tickets as prizes. He used 18 tickets for a small toy and then earned 20 more tickets. How many tickets does he have now?
+b. Dave started with 35 tickets at the fair. He used 25 tickets for a game and later won 12 more tickets. How many tickets does he end up with?
+c. At the fun center, Dave received 40 tickets in total. He lost some on a game but still managed to win another 25 tickets later on. How many tickets did he have after the second round of winning?
+d. Dave had 28 tickets at the entertainment center. He spent most of them playing but managed to earn some more through games. If he ended up with 17 tickets, how many did he win in total?
+
+
+
+153
+Original Question: A store had 27 coloring books in stock. They ended up putting them on sale and getting rid of 6 of them. The put the ones they still had onto shelves with 7 on each shelf. How many shelves did they use?
+New Questions:
+a. A toy store initially had 35 action figures but sold 10 of them. They then placed the remaining figures on shelves with 5 figures per shelf. How many shelves did they use?
+b. A bookstore had 50 books on a particular shelf. They sold 18 of them and rearranged the remaining books into a new shelf with 9 books per shelf. How many new shelves did they need?
+c. A clothing store had 40 shirts in stock. They sold 12 of them and then placed the remaining ones on racks with 8 shirts per rack. How many racks did they use?
+d. In a pet store, they initially had 24 fish tanks containing 5 fish each. They sold some fish and ended up with only 15 fish tanks left. How many fish did they sell?
+
+
+
+154
+Original Question: A florist had 37 roses. If she sold 16 of them and then later picked 19 more, how many roses would she have?
+New Questions:
+a. A bakery owner had 40 cakes. If they sold 25 and made 30 more, how many cakes would they have?
+b. A book seller had 50 books in stock. If they sold 35 and received a shipment of 40 new ones, how many books would they have?
+c. A farmer had 20 chickens. If they sold 8 and hatched 15 new chicks, how many chickens would they have?
+d. A toy store owner had 60 toys on display. If they sold 30 and received a new shipment of 25 toys, how many toys would they have?
+
+
+
+155
+New Questions:
+a. The school cafeteria bought 45 red apples and 35 green apples for a snack day. If only 30 students wanted fruit, how many extra apples did the cafeteria end up with?
+b. The school cafeteria prepared 30 red oranges and 25 green oranges for breakfast. However, if only 18 students ate oranges, how many oranges were left unconsumed?
+c. The school cafeteria ordered 36 ripe bananas and 28 unripe bananas for recess. If only 25 students took bananas, how many bananas were left unpicked?
+d. The school cafeteria bought a total of 50 fresh fruits (mixed variety). If only 27 students took fruits, how many extra fruits did the cafeteria have at the end?
+
+
+
+156
+New Questions:
+a. In sixth grade, there were 25 students at the beginning of the year. During the year, 15 students left and 35 new students joined. How many students were in sixth grade at the end?
+b. In third grade, the initial number of students was 18. Throughout the year, 8 students transferred to other schools and 30 new students joined. What was the total number of students in third grade at the end?
+c. At the start of the academic year, there were 9 students in second grade. During the year, 7 students graduated and 37 fresh students joined. How many students were in second grade at the end of the year?
+d. In seventh grade, there were 20 students at the start of the semester. Throughout the semester, 12 students transferred out and 45 new students transferred in. How many students were in seventh grade at the end?
+
+
+
+157
+Original Question: Janet picked 4 tulips and 11 roses to make flower bouquets. If she only used 11 of the flowers though, how many extra flowers did Janet pick?
+New Questions:
+a. How many extra flowers did Emily select when she picked 8 daisies and 15 sunflowers for arrangements, but only used 13 in total?
+b. Jessica took some flowers for a centerpiece, using 6 orchids and 9 carnations. If she only used a total of 12 flowers, how many did she buy extra?
+c. Alex bought some flowers, including 7 daffodils and 12 peonies. He used only 14 of them. How many did he buy too many?
+d. When Sarah picked 9 daisies and 7 sunflowers for her decoration, and used only 13 in total, how many did she over-pick?
+
+
+
+158
+New Questions:
+a. There were 20 colleagues playing a board game when 7 players left the room. If each player had 4 tokens, how many tokens did they have total?
+b. In a basketball game, a team has 12 players. If each player had 3 free throws to make, how many free throws did the team have in total before 5 players were injured and couldn't play anymore?
+c. There were 15 students in a class playing a card game when 7 of them left the classroom. If each student had 10 cards, how many cards did they have total before they left?
+d. In an online multiplayer game, there were initially 12 players. When 3 of them disconnected, if each player had 8 points, how many points did they have in total?
+
+
+
+159
+Original Question: Janet was playing a video game and had 38 lives. In a hard part of the game she lost 16 lives. If she got 32 more lives in the next level, how many lives would she have?
+
+New Questions:
+a. Adam is playing a different game and had 45 retries. In a challenging stage, he used up 25 retries. If he earned 30 retries in the subsequent level, how many retries would he have?
+
+b. When Jennifer was playing an adventure game, she had 25 health points. In a dangerous area, she lost 10 points. If she received 28 health points from a power-up, how many health points would she have?
+
+c. During his first attempt at a puzzle game, Michael had 50 attempts. He failed in a complex section and used up 30 attempts. If he gets 35 more attempts on his second attempt, how many attempts would he have?
+
+d. Sarah is playing a role-playing game where she starts with 40 energy points. She uses up 22 points fighting a monster. If she gains 28 energy points from a potion, how many energy points will she have?
+
+
+
+160
+Original Question: While shopping for music online, Zoe bought 3 country albums and 5 pop albums. Each album came with a lyric sheet and had 3 songs. How many songs did Zoe buy total?
+
+New Questions:
+a. When browsing music online, Adam bought 4 rock albums and 6 classical albums. Every album included a booklet and 4 tracks. How many tracks did Adam purchase in total?
+b. While downloading music, Emily bought 7 electronic albums and 2 dance albums. Every album had a digital booklet and 5 songs. How many songs did Emily buy in total?
+c. While shopping online for music, Sara bought 2 R&B albums and 6 hip-hop albums. Each album came with lyrics and had 6 songs. How many songs did Sara purchase in total?
+d. When downloading music on her computer, Olivia bought 3 alternative rock albums and 4 indie rock albums. Every album included lyrics and 8 tracks. What was the total number of tracks Olivia purchased?
+
+
+
+161
+Original Question: At the fair there were 31 people in line for the bumper cars. If 25 of them got tired of waiting and left and 25 more got in line, how many people would be in line?
+New Questions:
+a. At the amusement park, 28 people were waiting for the roller coaster. 20 of them got impatient and left, while 20 more joined the queue. How many people are now waiting?
+b. At the concert, there were 40 people in line for the merchandise stand. If 30 of them decided to go inside and listen to the music and 20 others joined the line, how many are in line now?
+c. In the library, there were 35 people waiting for their turn to check out books. 25 of them finished their tasks and left while 30 new people arrived. How many are waiting now?
+d. In front of the movie theater, initially there were 28 people in line for the tickets. Then 18 of them decided to go to another movie theater while 15 more arrived to buy tickets. How many are in line now for this movie theater?
+
+
+
+162
+Original Question: A pet store had 19 siamese cats and 45 house cats. During a sale they sold 56 cats. How many cats do they have left?
+New Questions:
+a. A pet shop had 30 purebred cats and 60 mixed breed cats. In a promotion, they sold 70 cats. How many cats are left now?
+b. A pet store stocked 25 breeds of cats and sold 80 of them during a discount sale. They initially had 100 cats. How many are left?
+c. A pet store had a total of 70 cats, including 20 exotics and 35 short-haired ones. They sold half of them in a promotion. How many did they sell? (You may need to invert this question's logic to find the answer, then subtract it from the total to get the original problem's answer.)
+d. At a pet store, there were Siamese cats and their purebred kittens, initially making up a total of 90 cats. During a promotion, they sold 60 of them. What is the initial number of purebred cats at the store? (Hint: You'll need to subtract the sold number from the total to get the remaining number, then subtract the kittens from the remaining to get the original purebred Siamese number.)
+
+
+
+163
+a. Sara arranges her bookshelves with each shelf containing precisely 12 books. She has 4 shelves of history books and 6 shelves of science fiction books. How many books are there in total?
+
+b. Emma was setting up her book display with each shelf holding exactly 7 books. She had 2 shelves of poetry books and 7 shelves of travel books. How many books did she display in total?
+
+c. Emily was arranging her library's books, ensuring that each shelf holds exactly 10 books. She had 3 shelves of fiction books and 4 shelves of non-fiction books. What was the total number of books on all the shelves?
+
+d. Alice was sorting her book collection into her bookcase, with each shelf holding precisely 8 books. She had 5 shelves of thriller books and 4 shelves of children's books. How many books did she have altogether?
+
+
+
+164
+a. The school cafeteria bought 25 blueberries and 43 apples for a special event. If only 42 students participated in the event, how many extra fruits did they end up with?
+
+b. The school cafeteria made a purchase of 8 oranges and 43 pears for breakfast. However, only 42 students opted for fruit, how many extra fruits did the cafeteria have?
+
+c. The school cafeteria purchased a total of 51 apples for a snack period, among which 8 were red. If only 42 students received apples, how many extra apples did the cafeteria end up with?
+
+d. The school cafeteria ordered fruits for a snack break, including 8 mangoes and 43 kiwifruit. But if only 35 students took fruits, how many extra fruits did the cafeteria have at the end?
+
+
+
+165
+Original Question: Zoe and her friends were recycling paper for their class. For every 8 pounds they recycled they earned one point. If Zoe recycled 25 pounds and her friends recycled 23 pounds, how many points did they earn?
+New Questions:
+a. Emily and her classmates were recycling plastic bottles for their school. For every 10 bottles they recycled, they earned 2 points. If Emily recycled 30 bottles and her classmates recycled 40 bottles, how many points did they earn?
+b. In their school environment club, Ethan and his peers were collecting aluminum cans. They earned 1 point for every 5 cans collected. If Ethan collected 25 cans and his peers collected 35 cans, how many points did they accumulate?
+c. In a community service project, Olivia and her team were collecting non-recyclable waste. For every 12 pounds of waste they collected, they earned 3 points. If Olivia collected 30 pounds of waste and her team collected 27 pounds, how many points did they earn?
+d. In a school competition, Emma and her group were collecting glass bottles. They earned 1 point for every 6 bottles collected. If Emma collected 28 bottles and her group collected 32 bottles, how many points did they total?
+
+
+
+166
+Original Question: At lunch a waiter had 9 customers and 5 of them didn't leave a tip. If he got $8 each from the ones who did tip, how much money did he earn?
+New Questions:
+a. In the evening, a different waiter served 12 customers at a restaurant and 7 of them didn't leave a tip. If he received $10 from those who did tip, how much did he earn?
+b. A waiter at a busy restaurant served 15 customers during lunchtime, and 9 of them didn't leave any tip. If he received $7 from the customers who did tip, how much did he make?
+c. At a small cafe, a waiter had 7 customers in the morning and 3 of them didn't give a tip. If he received $5 each from the customers who did tip, how much did he earn in total?
+d. In a restaurant, a waiter had 10 customers during lunch and 6 of them didn't leave any tip. If he received $9 as a tip from the others, calculate his total earnings.
+
+
+
+167
+Original Question: There were 13 friends playing a video game online when 8 players quit. If each player left had 6 lives, how many lives did they have total?
+
+New Questions:
+a. In a different video game scenario, if 15 players are playing and 10 of them quit with 5 lives each, how many lives did they have in total?
+b. If initially there were 20 players in a game, and 12 players quit with 4 lives each, how many lives did they have when they left?
+c. In a game where there were 25 players initially and 15 of them had 7 lives each before leaving, how many lives were there in total before any player left?
+d. In a different scenario, 18 players started a game and 9 of them quit with an average of 6 lives each. How many total lives did the remaining players have combined?
+
+
+
+168
+New Questions:
+a. The college's basketball team has 5 new players and 8 returning players. If the coach forms teams with 4 players each, how many teams can he create?
+b. In the soccer team of a high school, there are 7 fresh players and 9 regular players. If the coach decides to make teams of 6 players each, how many teams will he form?
+c. The college cricket team has 3 new recruits and 7 returning players. If the coach wants to create teams with 4 members each, how many teams can be created?
+d. In a school's volleyball team, there are 2 new players and 10 returning players. The coach plans to create groups with 5 members each. How many groups will he form?
+
+
+
+169
+New Questions:
+a. Jane invited 7 colleagues to a team-building event, but 3 of them couldn't come. If she wanted to buy cupcakes for everyone to have 6 each, how many should she buy?
+b. Michael invited 12 neighbors to a barbecue, but 5 of them couldn't make it. How many cupcakes should he buy if he wants everyone to have 10 each?
+c. Emily planned a surprise birthday party for her brother and invited 15 people. However, 6 couldn't come. She wants to order cupcakes so that everyone present can have 7 each. How many cupcakes should she order?
+d. Adam invited his classmates to a graduation celebration and 12 of them confirmed their attendance. However, 3 didn't come. If he wanted to buy enough cupcakes for everyone to have exactly 9 each, how many should he buy?
+
+
+
+170
+Original Question: Nancy's old washing machine could only wash 9 pieces of clothing at a time. If she had to wash 19 shirts and 8 sweaters, how many loads would she have to do?
+New Questions:
+a. Mary's dishwasher can only fit 12 plates at once. If she needs to wash 25 plates and 10 bowls, how many loads will she need to do?
+b. Alice's dryer can only accommodate 15 items at a time. She needs to dry 27 towels and 12 clothes. How many loads will Alice have to do?
+c. In a restaurant, the dishwasher can wash 24 plates in one cycle. The chef needs to wash 48 plates from the dinner service. How many times will the dishwasher need to run?
+d. Ben's clothes dryer can hold up to 10 items at a time. He needs to dry 23 pants and 17 shirts. How many loads will Ben have to do in total?
+
+
+
+171
+New Questions:
+a. Emma had 60 photos on her phone. She deleted 15 of them and moved the rest into albums with 7 photos in each album. How many albums did Emma end up with?
+b. Alice had 100 songs on her MP3 player. She deleted 25 of them and put the rest into playlists with 12 songs in each playlist. How many playlists did Alice create?
+c. Bob had 75 documents on his desktop. He deleted 18 of them and organized the remaining ones into folders with 9 documents in each folder. How many folders did Bob create?
+d. Sarah had 48 videos on her laptop. She deleted 12 of them and then put the rest into categories with 6 videos in each category. How many categories did Sarah end up creating?
+
+
+
+172
+New Questions:
+a. A teacher had to grade 5 workbooks and he graded 3. Later, another 32 workbooks were submitted. How many workbooks does he need to grade in total?
+b. A tutor initially had 10 homework assignments to review. He reviewed 2 but then received another 50 assignments. How many total assignments does he need to review?
+c. A professor had 15 exams to grade and graded 4 of them. Suddenly, another 62 exams were submitted. What is the total number of exams he needs to grade?
+d. An instructor initially had 9 workbooks to grade and graded 3 of them. Later on, she received another 48 workbooks. How many workbooks does she have to grade in total?
+
+
+
+173
+Original Question: April's discount flowers was having a sale where each flower was 6 dollars. If Maria bought 7 roses and 3 daisies, how much did she spend?
+New Questions:
+a. In the Spring Sale at Blooming Gardens, every flower was priced at 5 dollars. If Maria bought 5 orchids and 6 tulips, how much did she pay?
+b. At the Flower Festival sale, each flower was 4 dollars. Maria bought 2 carnations and 4 sunflowers. How much did she spend?
+c. At the local flower market, Maria bought 10 daisies and 9 roses, with each flower priced at 7 dollars during the discount period. How much did she spend in total?
+d. In a special offer at Flower Paradise, Maria bought a bundle of flowers including 8 roses and 6 daisies for a total discount price of 40 dollars. What was the original price if each flower was priced at 5 dollars?
+
+
+
+174
+Original Question: At the arcade Dave won 11 tickets. If he spent 5 tickets on a beanie and later won 10 more tickets, how many would he have?
+New Questions:
+a. At the amusement park, Dave received 15 tickets as prizes. He used some on a game and later got more tickets from another game. How many tickets would he have in total if he started with none?
+b. Dave started with 8 tickets at the fair. He used some on a ride and then won more tickets from a game. How many tickets would he have if his final total is 20?
+c. Dave had some tickets in his pocket from the previous day. Today at the carnival, he won 7 tickets and then earned another 8 by playing a game. How many tickets did he start with if he ended up with 20?
+d. Dave received 9 tickets from his friend and then won 6 at the game. Later, he earned another 7 tickets by referring his friend to the game. How many tickets did he have initially if he had a total of 22?
+
+
+
+175
+Original Question: Chloe picked 48 carrots from her garden. If she threw out 45 of them and then picked 42 more the next day, how many carrots would she have total?
+New Questions:
+a. Emma harvested 36 potatoes from her farm. She discarded 30 of them, and then gathered 38 more the following day. How many potatoes does she have in total?
+b. After collecting 50 apples from the orchard, Alice threw away 46 of them and picked 45 fresh ones the next day. What is the total number of apples she has?
+c. Lily plucked 60 onions from her patch. She discarded half of them, and then harvested 50 more onions the following day. How many onions does she have now?
+d. After harvesting 72 beans from the garden, David threw away 65 of them and then picked up 55 fresh ones the next day. What is the total number of beans he has in his possession?
+
+
+
+176
+New Questions:
+a. For homework, Sam had 15 history questions and 5 grammar questions. If he can finish 4 questions in an hour, how long will it take him to finish all the questions?
+b. In her studies, Bella had 20 literature problems and 8 comprehension questions. She can solve 3 problems in an hour. How long will it take her to complete all the problems?
+c. For a project, Ethan had to solve 12 math puzzles and 7 reading comprehension problems. If he can finish 5 problems in an hour, how long will it take him to finish all the problems?
+d. In her math homework, Megan had 7 geometry problems and 6 writing prompts. She can solve 4 problems in one hour. How many hours will it take her to complete all the problems?
+
+
+
+177
+New Questions:
+a. Emma earned 12 dollars for each painting she sold. If she had 20 paintings to sell but didn't manage to sell 10 of them, how much money did she actually earn?
+b. David earns 15 dollars for every report he writes. He was assigned with writing 15 reports but could only complete 9 due to some reasons. How much money did he earn?
+c. When Joshua sold his CDs, he earned 7 dollars each. He had 25 CDs but only managed to sell 17 of them due to some issues. How much money did he actually make?
+d. Sara earns 20 dollars for every pet she takes care of during weekends. She had 18 pets to care for this weekend but could only look after 14 due to personal reasons. How much money did Sara earn?
+
+
+
+178
+Original Question: At Tom's Restaurant a group with 2 adults and 5 children came in to eat. If each meal cost 8 dollars, how much was the bill?
+New Questions:
+a. At Jane's Café, a family with 3 adults and 4 children ordered meals. If each meal costs 10 dollars, what is the total bill?
+b. At Mark's Restaurant, a group consisting of 1 adult and 6 children had meals. Each meal costs 7 dollars. Calculate the total bill.
+c. In a restaurant, a group with 7 adults came in for lunch. If each meal costs 8 dollars, how much would the bill be?
+d. In a fast food restaurant, a group of 4 adults and 2 children ordered takeaways. Each meal costs 9 dollars. What is the total cost of their bill?
+
+
+
+179
+a. For Halloween, Emily received 120 pieces of candy. She ate 24 pieces and then put the rest in piles with 12 in each pile. How many piles could she make?
+
+b. On his birthday, Adam received 90 candies. He ate 15 and then put the remaining candies in piles with 6 in each pile. How many piles can he make?
+
+c. For Christmas, Lucy received 150 candies. She ate 45 and decided to put the rest in piles of varying sizes. If she wants to ensure that each pile has at least 7 candies, how many piles can she make?
+
+d. During a party, David received 72 candies and ate half of them. He then decided to put the remaining candies in piles of different sizes. If he wants to make sure each pile has a maximum of 8 candies, how many piles could he potentially make?
+
+
+
+180
+Original Question: For the school bake sale Robin made 42 cupcakes. If she sold 22 of them and then made 39 more, how many cupcakes would she have?
+New Questions:
+a. For the charity event, Robin baked 60 cookies. If she sold 30 of them and made 45 more, how many cookies would she have?
+b. Robin prepared 50 brownies for the fundraiser. After selling 25 and baking 40 more, how many brownies would she have?
+c. At the community fair, Robin made 75 muffins. After selling 35 of them and baking another 70, how many muffins would she have?
+d. Robin made 100 pieces of cake for the event. She sold 40 and then made another batch of 90. How many cakes would she have in total?
+
+
+
+181
+Original Question: Bianca and her mom were picking carrots from their garden. Bianca picked 26 and her mother picked 15. If only 16 of the carrots were good, how many bad carrots did they have?
+
+New Questions:
+a. Adam and his father harvested apples from their orchard. Adam picked 30 apples and his father picked 22. If only 28 of the apples were ripe, how many unripe apples did they have?
+b. Emma and her sister harvested oranges from their backyard. Emma picked 35 oranges and her sister picked 20. If only 30 of the oranges were ripe, how many unripe oranges did they have?
+c. Lily and her brother were picking strawberries from their farm. Lily picked 40 strawberries and her brother picked 30. If only 35 of the strawberries were sweet, how many sour ones did they have?
+d. Ben and his sister were picking grapes from their vineyard. Ben picked 28 grapes and his sister picked 20. If only half of the grapes were ripe, how many unripe grapes did they have? (In this question, the focus is on the proportion of ripe grapes rather than the total number of good ones.)
+
+
+
+182
+Original Question: The school cafeteria ordered 43 red apples and 32 green apples for students lunches. But, if only 2 students wanted fruit, how many extra did the cafeteria end up with?
+New Questions:
+a. The school cafeteria bought 50 oranges and 35 bananas for a fruit sale. If only 10 students took fruit, how many extra fruits did the cafeteria have left?
+b. A restaurant bought 100 pizzas, but only 20 customers ordered it. How many pizzas did the restaurant end up with extra?
+c. The party ordered 150 sandwiches and only 50 guests ate them. How many sandwiches were left over?
+d. The office cafeteria bought 75 boxes of sandwiches for the monthly meeting. However, only 25 people attended the meeting. How many sandwiches were leftover at the end of the meeting?
+
+
+
+183
+Original Question: George was working as a sacker at a grocery store where he made 5 dollars an hour. On Monday he worked 7 hours and on Tuesday he worked 2 hours. How much money did George make in those two days?
+
+New Questions:
+a. Emily worked as a cashier at a bookstore, earning 6 dollars an hour. She worked for 8 hours on Monday and 4 hours on Tuesday. How much money did she earn in those two days?
+
+b. In a restaurant, Bob makes 7 dollars per hour as a chef. He worked for 6 hours on Monday and 3 hours on Wednesday. Calculate his total earnings for these two days.
+
+c. Alex works as a mechanic in a garage and is paid 4 dollars an hour. He worked for 9 hours on Monday and 5 hours on Sunday. How much did he earn in those two days?
+
+d. At a clothing store, Jennifer earned 3 dollars per hour as a salesperson. She worked for 10 hours on Saturday and 2 hours on Sunday. Calculate her total earnings for the weekend.
+
+
+
+184
+Original Question: Edward had 43 books. If he sold 19 of them and used the money he earned to buy 14 new books, how many books would Edward have?
+New Questions:
+a. Alice had 27 paintings. She sold 12 of them and bought 9 new ones. How many paintings would she have now?
+b. Bob had 50 CDs. He sold half of them and bought 25 new ones using the money he earned. How many CDs would Bob have?
+c. After selling 28 photos, Emily used the money to buy 21 new ones. She initially had 35 photos. How many photos does she have now?
+d. David had 60 toys. He sold a third of them and bought 30 new ones with the money he earned. How many toys does David have now?
+
+
+
+185
+New Questions:
+a. When arranging his basketball cards in a binder with 5 cards on each page, Ethan had 12 new cards and 15 old cards. How many pages did he use?
+b. Will is putting his soccer cards in a binder where he can fit 4 cards on each page. He has 15 new cards and 9 old cards. How many pages did he need?
+c. Jack organized his football cards with 2 cards on each page of the binder. If he had 7 new cards and 12 old cards, how many pages did he use?
+d. For arranging his cricket cards in a binder, Adam decided to put 6 cards on each page. He had 17 new cards and 8 old cards. How many pages did Adam use?
+
+
+
+186
+Original Question: A company invited 24 people to a luncheon, but 10 of them didn't show up. If the tables they had held 7 people each, how many tables do they need?
+New Questions:
+a. A restaurant was meant to accommodate 30 guests for a dinner event, but 8 guests didn't arrive. If each table can seat 6 people, how many tables do they need?
+b. An organization invited 50 people to a conference, but 15 of them canceled their attendance. If the tables available can hold 9 people each, how many tables would they require?
+c. A party organizer has invited 25 children to a birthday party, but 5 of them are unable to come. If the tables provided can accommodate 6 children each, how many tables are needed?
+d. A school is hosting a lunch event for its students and has invited 40 students. However, 12 students are absent. If each table can accommodate 8 students, how many tables do they need for the event?
+
+
+
+187
+New Questions:
+a. While playing a music quiz, Adam answered 7 questions correctly in the first half and 6 questions correctly in the second half. If each question was worth 3 points, what was his final score?
+b. In a history knowledge contest, Adam scored 4 points for each correct answer in the first half and 3 points for each correct answer in the second half. If he answered 8 questions correctly in each half, what was his total score?
+c. Adam participated in a science trivia game where he scored 10 points for each correct answer in the first half and 8 points for each correct answer in the second half. If he answered 5 questions correctly in each half, how many points did he score in total?
+d. At a general knowledge quiz night, Adam earned 5 points for each question correctly answered in both halves of the game. If he got 4 questions right in the first half and 6 in the second, what was his final score?
+
+
+
+188
+Original Question: A store had 34 oranges in a bin. If they threw away 20 of the old ones and put 13 new ones in the bin how many would be in the bin?
+New Questions:
+a. A restaurant had 27 apples in a basket. If they discarded 15 of the rotten ones and added 18 fresh ones, how many apples would be in the basket?
+b. A home had 50 bananas in a container. If they removed 30 that were ripe and added 25 unripe ones, how many bananas would be in the container?
+c. A farmer had 45 potatoes in a field. If he dug up 20 of them to use for dinner and planted 18 new ones, how many would be left in the ground?
+d. A factory initially had 70 units of product in stock. They discarded 30 units due to expiry and produced another 25 new units, how many would be available now?
+
+
+
+189
+Original Question: A pet store had 18 puppies. In one day they sold 3 of them and put the rest into cages with 5 in each cage. How many cages did they use?
+New Questions:
+a. A zoo had 27 monkeys. They moved some of them to a new exhibit and left 8 in each cage. How many cages were used?
+b. A farm had 40 chickens. They sold 15 of them and put the remaining birds into sheds with 6 in each shed. How many sheds did they use?
+c. At a pet store, they had a total of 20 kittens. They sold 7 of them and put the rest into containers with 4 in each container. How many containers were used?
+d. In a wildlife park, they had 30 deers. Some were moved to a new habitat and they arranged them in groups with 7 in each group. How many groups were formed?
+
+
+
+190
+New Questions:
+a. At a different restaurant, every adult meal costs $4 and children meals are half-price. A group of 18 people arrived with 9 kids. How much would the meal cost?
+b. In a cafeteria, adults pay $2 for lunch while children eat for free. A group of 20 people came in with 13 kids. What's the total cost of their meal?
+c. In a restaurant, each adult meal costs $5 but children meals are free with an adult purchase. A family of 5 came in with 2 adults and 3 kids. How much would it cost for them to eat?
+d. At a restaurant, the cost of each adult meal is $3 but children eat for free, however, if there are more than 6 kids there is a 25% discount on adult meals. A group of 25 people with 14 kids arrived. What would be the final cost for them to eat?
+
+
+
+191
+a. For Halloween, Olivia received 70 pieces of candy. She ate 44 pieces and then placed the remaining in piles with 9 in each pile. How many piles could she make?
+b. Emma got 60 candies on Halloween. She ate half of them and then put the rest in piles of 5. How many piles did she make?
+c. On Halloween, Michael received 36 candies. He ate a third of them and then put the rest in piles of 4. How many piles could he make?
+d. For Halloween, Joshua received a certain number of candies. He ate 25 pieces and then put the rest in piles of 10. If he made 3 piles, how many candies did he receive in total?
+
+
+
+192
+Original Question: Ned bought 14 boxes of chocolate candy and gave 7 to his little brother. If each box has 6 pieces inside it, how many pieces did Ned still have?
+New Questions:
+a. Lucy bought 12 containers of ice cream and shared 4 with her friends. If each container holds 8 scoops, how many scoops did Lucy have left?
+b. Tom bought 20 bags of chips and gave away 5 to his colleagues. If each bag contains 10 chips, how many chips did Tom still have?
+c. Emma bought a dozen of cakes and gave half to her sister. If there are 12 cakes in a dozen, how many cakes did Emma have left?
+d. Jack bought a pack of gum with 20 pieces and shared 10 with his friend. How many pieces of gum did Jack still have?
+
+
+
+193
+Original Question: A pet shelter had 9 puppies when another 12 were brought in. If 3 puppies a day are adopted, how long would it take for all of them to be adopted?
+New Questions:
+a. A charity home received 20 cats initially and then brought in another 15. If 5 cats are adopted daily, how many days will it take for all of them to be adopted?
+b. At a wildlife rescue center, 18 birds were initially present and another 12 were brought in. If 4 birds are released every week, how long will it take for all of them to be released?
+c. A local shelter had 15 small animals when more were brought in, totaling to 28. If 2 animals are adopted every day on average, how many days will it take for all the animals to be adopted?
+d. In a pet rescue center, there were initially 12 kittens and then another 7 were brought in. If 1 kitten is adopted every two days, how many days will it be before all the kittens are adopted?
+
+
+
+194
+New Questions:
+a. At the amusement park, Bob bought 17 tickets. After riding the roller coaster, he had 6 tickets left. If each ticket cost 7 dollars, how much money did Bob spend on the roller coaster?
+
+b. At the carnival, Charlie bought 20 tickets. After playing games, he had 8 tickets remaining. If each ticket cost 6 dollars, how much did Charlie spend on games?
+
+c. In the context of the fair, David bought 25 tickets and used them all to ride various rides. If each ticket cost 12 dollars, how much did David spend at the fair?
+
+d. At a concert, Emily bought 12 tickets and used them all to watch her favorite band perform. If each ticket cost 15 dollars, how much money did Emily spend on concert tickets?
+
+
+
+195
+Original Question: For the school bake sale Wendy made pastries. She baked 4 cupcakes and 29 cookies. After the sale she had 24 to take back home. How many pastries did she sell?
+New Questions:
+a. At the school book sale, Wendy sold hand-made books. She made 8 storybooks and 35 novels. After the sale, she had 20 left. How many books did she sell?
+b. For the school craft sale, Wendy made jewelry. She made 6 necklaces and 24 earrings. After the sale, she had 18 items left. How many jewelry pieces did she sell?
+c. At the school food festival, Wendy sold sandwiches. She made 10 sandwiches with chicken and 35 with tuna. After the event, she had 30 left. How many sandwiches did she sell in total?
+d. For the community fair, Wendy sold paintings. She brought 20 paintings and sold some. At the end of the day, she had 8 paintings left. How many paintings did she sell?
+
+
+
+196
+Original Question: There were 8 friends playing a video game online when 3 players quit. If each player left had 3 lives, how many lives did they have total?
+New Questions:
+a. There were 10 colleagues playing a board game when 4 of them left. If each person who left had 5 lives, how many lives did they have in total?
+b. In an online game, 12 players were playing when 5 of them decided to quit. If each player who left had 2 lives, what was the total number of lives they had?
+c. While playing a computer game, 6 people were in a team when 3 members left. If each player who left had an initial 4 lives, how many lives did they have when they left?
+d. In a multiplayer game session, there were 15 players initially but 7 of them disconnected. If each disconnected player had 3 lives, what was the total number of lives these players had before disconnecting?
+
+
+
+197
+Original Question: A new building needed 14 windows. The builder had already installed 5 of them. If it takes 4 hours to install each window, how long will it take him to install the rest?
+New Questions:
+a. A new shopping mall required 30 doors. The contractor had installed 12 of them. If it takes 3 hours to install each door, how long will it take to install the remaining ones?
+b. A restaurant owner needs to install 20 lights in his new premises. He has already installed 8 of them. If it takes 2 hours to install each light, how long will it take him to complete the installation?
+c. In a school construction project, 20 classrooms need doors. The contractor has already installed 15 of them. If it takes 5 hours to install each door, how long will it be needed to finish installing the rest?
+d. A factory expansion requires 15 ventilation fans. The worker has already installed 7 of them. If it takes an hour to install each fan, how many hours will it take to finish installing all of them?
+
+
+
+198
+Original Question: For homework Nancy had 17 math problems and 15 spelling problems. If she can finish 8 problems in an hour, how long will it take her to finish all the problems?
+New Questions:
+a. For homework, Sam had 22 reading problems and 18 writing problems. If he can solve 9 problems in an hour, how long will it take him to complete all the problems?
+b. In an exam, Emily faced 25 multiple-choice questions and 20 fill-in-the-blank questions. If she can answer 15 questions in 30 minutes, how long will it take her to answer all the questions?
+c. As a part of his assessment, Bob needs to complete 19 coding challenges and 12 language translation tasks. If he can finish 10 challenges in an hour, how much time will he need to complete all the tasks?
+d. For her assessment, Sara had a total of 30 tasks to complete which included 20 cognitive tasks and 10 practical tasks. If she can complete 15 tasks in an hour, how long will it take her to finish all the tasks?
+
+
+
+199
+Original Question: Henry had 11 dollars. For his birthday he got 18 more dollars but spent 10 on a new game. How much money does he have now?
+New Questions:
+a. Emma initially had 20 dollars. She received 25 dollars as a gift for her graduation and spent 15 dollars on a new outfit. How much money does she have now?
+b. Adam had 5 dollars in his pocket. He earned 12 dollars more at his part-time job and spent 8 dollars on groceries. How much money does he have now?
+c. Michael received 30 dollars in cash as a bonus at work and spent 20 dollars on a new laptop. He initially had no money. How much does he have now?
+d. John had 35 dollars in his bank account. He received an additional 40 dollars in his account from his parents but spent 25 dollars on a concert ticket. How much money is now in his bank account?
+
+
+

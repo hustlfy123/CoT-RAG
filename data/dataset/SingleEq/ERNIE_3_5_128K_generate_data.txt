@@ -1,0 +1,1989 @@
+0
+Original Question: Joan found 70 seashells on the beach. She gave Sam some of her seashells. She has 27 seashell left. How many seashells did she give to Sam?
+New Questions:
+a. Alex collected 60 stones on the riverbank. He gave some to Bob. He is left with 35 stones. How many did he give to Bob?
+b. Lily bought 100 candies from the store. She gave away some to her friends. She has 65 candies left now. How many did she give away?
+c. Emma had 90 books in her bag. She lent out some books to her classmates. Now she has 55 books left. How many did she lend out?
+d. Megan had a collection of 50 coins. She gave away a few to her brother. She now has 32 coins remaining in her collection. How many coins did she give away to her brother?
+
+
+
+1
+Original Question: There were 28 bales of hay in the barn. Tim stacked more bales in the barn today. There are now 54 bales of hay in the barn. How many bales did he store in the barn?
+New Questions:
+a. In the stable, there were initially 30 bundles of hay. Emily added more bundles today, and now there are 60 bundles in total. How many bundles did Emily add?
+b. The warehouse had 40 cartons of milk initially. John brought in more today and now there are 75 cartons in total. How many cartons did John bring in?
+c. At the start, there were 50 bags of fertilizer in the shed. David added some more bags today, resulting in a total of 90 bags now. How many bags did David add?
+d. There were originally 25 boxes of apples in the storage room. Adam stacked some more boxes today, resulting in a total of 55 boxes now. How many boxes did Adam add?
+
+
+
+2
+Original Question: After eating at the restaurant, Sally, Sam, and Alyssa decided to divide the bill evenly. If each person paid 45 dollars, what was the total of the bill?
+New Questions:
+a. After enjoying a meal at the café, Alice, Bob, and Carol split the cost equally. If each person paid $30, how much was the total bill?
+b. After dining at the restaurant with their friends, four people divided the bill equally. If each person paid $50, what was the total cost of the meal?
+c. After a family dinner at the restaurant, three people divided the bill equally. If each person paid $60, what was the total amount of the bill?
+d. At a restaurant with their friends, three girls divided the bill evenly. If each girl paid $40, how much was the total cost of their meal?
+
+
+
+3
+Original Question: Mary is baking a cake. The recipe wants 8 cups of flour. She already put in 2 cups. How many more cups does she need to add?
+New Questions:
+a. Emma is making bread. The recipe requires 10 cups of flour, and she has added 3 cups so far. How many more cups does she need?
+b. Lucy is cooking pasta. The recipe needs a total of 12 cups of flour, and she has already added 4 cups. How many more cups does she require?
+c. David is preparing a dessert. The recipe demands 6 cups of flour, and he has added just 1 cup till now. How many more cups does he need to add?
+d. Susan is baking a breadstick recipe that requires 9 cups of flour, and she has used up 3 cups. How many more cups should she add to complete the recipe?
+
+
+
+4
+Original Question: Sara's high school played 12 basketball games this year. The team won most of their games. They were defeated during 4 games. How many games did they win?
+New Questions:
+a. Andrew's team played 15 soccer matches this season. They lost exactly 5 matches. How many matches did they win?
+b. In a season of 20 volleyball games, Emily's team managed to secure only 3 victories. How many games did they lose?
+c. Nick's high school basketball team played 22 games this year, and succeeded in winning 16 of them. How many games did they lose?
+d. David's team played 18 basketball games this season, losing twice and winning once. How many games did they play in total? (Note: this question doesn't directly answer to the original reasoning logic which is to find the number of wins, but it's a valid question based on the context.)
+
+
+
+5
+Original Question: There are 22 walnut trees currently in the park. Park workers will plant more walnut trees today. When the workers are finished there will be 55 walnut trees in the park. How many walnut trees did the workers plant today?
+New Questions:
+a. In the botanical garden, there are 30 cherry trees presently. Gardeners are adding more cherry trees today. By the end of the day, there will be 75 cherry trees in total. How many cherry trees did the gardeners plant?
+b. A forest initially had 40 pine trees. Foresters decided to plant more pine trees recently. Now, there are 80 pine trees in total. How many pine trees were planted recently?
+c. There were 15 apple trees in the orchard before yesterday. The orchard owner has decided to plant more trees today. After planting, there will be 40 apple trees in total. How many apple trees were planted by the owner today?
+d. In a school campus, there were 18 mango trees earlier. The school authorities have decided to plant more mango trees today. By the end of the day, there will be 42 mango trees on the campus. Calculate the number of mango trees planted by the authorities today?
+
+
+
+6
+Original Question: Mike had 34 peaches left at his roadside fruit stand. He went to the orchard and picked more peaches to stock up the stand. There are now 86 peaches at the stand, how many did he pick?
+New Questions:
+a. Emma had 20 apples at her market stall. She went to the farm and gathered more apples to restock. Now there are 60 apples at the stall, how many did she gather?
+b. David had 50 oranges in his shop. He sourced more oranges from a distributor to increase stock. There are now 120 oranges in the shop, how many did he source?
+c. After harvesting, a farmer had 70 tomatoes in his greenhouse. He picked more from the vines to sell at the farmers' market. There are now 170 tomatoes at the market, how many did he pick?
+d. Amanda had 45 bananas at her stand. She traveled to another orchard and bought more bananas to sell. Now there are 95 bananas at the stand, how many did she buy?
+
+
+
+7
+Original Question: There were 6 roses in the vase. Mary cut some more roses from her flower garden. There are now 16 roses in the vase. How many roses did she cut?
+New Questions:
+a. In the garden, there were initially 10 roses. Emily picked some roses and now there are 20 roses in the garden. How many roses did Emily pick?
+b. In a pot, there were 9 flowers. Then, Jane added some flowers from her garden and now there are 19 flowers in the pot. How many flowers did Jane add?
+c. In a jar, there were 4 orchids. After Jennifer took some orchids from her garden, there are now 13 orchids in the jar. How many orchids did Jennifer take?
+d. There were 8 daisies in a container. Someone from outside added more daisies and now there are 20 daisies in total. How many daisies were added?
+
+
+
+8
+Original Question: Benny bought a soft drink for 2 dollars and 5 candy bars. He spent a total of 27 dollars. How much did each candy bar cost?
+New Questions:
+a. Amy bought a pack of chips and 4 chocolate bars. She paid a total of 20 dollars. How much did each chocolate bar cost?
+b. Mark bought a hamburger and 3 ice cream bars. He spent a total of 15 dollars. What was the price of each ice cream bar?
+c. Lisa bought a bottle of water and 6 gummies. She paid a total of 30 dollars. How much did each gummy cost?
+d. Jack bought a sandwich and 7 candy canes. He spent a total of 25 dollars on these items. What was the cost of each candy cane?
+
+
+
+9
+Original Question: Benny bought 4 new baseball trading cards to add to his collection. The next day his dog ate half of his collection. There are now only 34 cards left. How many cards did Benny start with?
+New Questions:
+a. Benny had some basketball cards in his collection and bought 3 new ones. His dog ate half of his collection and now there are 40 cards left. How many cards did Benny have initially?
+b. Adam collected some football cards and bought 5 new ones. After his cat ate half of his collection, there were 45 cards remaining. How many cards did Adam start with?
+c. Before buying 6 new soccer trading cards, Emily had some in her collection. Her cat ate half of her collection and there were then 50 cards left. How many cards did Emily have before buying the new ones?
+d. Nick had a collection of hockey cards and bought 2 new ones. His brother accidentally destroyed half of his collection and now there are 36 cards left. How many cards did Nick have originally?
+
+
+
+10
+Original Question: Alyssa spent half of her allowance going to the movies. She washed the family car and earned 8 dollars. What is her weekly allowance if she ended with 12 dollars?
+New Questions:
+a. Emma used three quarters of her allowance on a new game. She cleaned her brother's room and received 10 dollars. What was her monthly allowance if she ended up with 20 dollars?
+b. Daniel spent a third of his allowance on buying books. He completed a household task and received 5 dollars. How much was his weekly allowance if he ended with 15 dollars?
+c. Sara invested two-thirds of her allowance in a new outfit. She helped clean the yard and earned 12 dollars. What was her weekly allowance if she ended with 25 dollars?
+d. Adam used a quarter of his allowance on tickets to a concert. He did some extra chores and received 6 dollars as a reward. What is his weekly allowance if he ended with 18 dollars?
+
+
+
+11
+Original Question: The sum of three consecutive even numbers is 162. What is the smallest of the three numbers?
+New Questions:
+a. The sum of three consecutive odd numbers is 159. What is the smallest of the three numbers?
+b. If three consecutive even numbers add up to 174, what is the smallest number?
+c. The sum of three consecutive multiples of 6 is 222. What is the smallest number?
+d. The sum of four consecutive even numbers is 212. What is the smallest of these numbers?
+
+
+
+12
+Original Question: On Monday, 375 students went on a trip to the zoo. All 7 buses were filled and 4 students had to travel in cars. How many students were in each bus?
+New Questions:
+a. On a field trip to the museum, 450 students participated. There were 9 buses and 6 students had to travel by car. How many students were in each bus?
+b. In a school outing to the amusement park, 500 children were taken. They traveled in 10 buses and some children went in cars. If 15 children went in cars, how many were on each bus?
+c. For a trip to the water park, 420 students were transported in 8 buses and some traveled by car. If there were 2 students traveling by car, how many were there in each bus?
+d. On a class trip to the botanical gardens, there were 280 students. They traveled in 7 buses and 10 students went by car. Calculate the number of students in each bus.
+
+
+
+13
+Original Question: Sandy sold half of her comic books and then bought 6 more. She now has 13. How many did she begin with?
+New Questions:
+a. Emma sold three-quarters of her video games and then bought 5 more. She now has 17. How many did she initially have?
+b. Bella sold 20 of her toys and then bought 10 new ones. She now has 30 items. How many did she have initially?
+c. Gina gave away a third of her books and then bought 15 new ones. She now has 45 books. How many did she have at first?
+d. Adam disposed of 10 of his paintings and then bought 8 new ones. He now has 20 works of art. How many did he have initially?
+
+
+
+14
+Original Question: The sum of three consecutive odd numbers is 69. What is the smallest of the three numbers?
+New Questions:
+a. The sum of three consecutive even numbers is 72. What is the smallest of the three numbers?
+b. If the sum of three consecutive positive integers is 66, what is the largest of these numbers?
+c. The sum of three consecutive negative odd numbers is -45. What is the greatest of these numbers?
+d. The sum of any three consecutive odd numbers is 93. What is the middle number if the smallest is 27?
+
+
+
+15
+Original Question: Joan went to 4 football games this year. She went to 9 football games last year. How many football games did Joan go to in all?
+New Questions:
+a. Adam attended 6 basketball games this season and 12 games last season. How many basketball games did Adam attend in total?
+b. Maria went to 7 volleyball matches this year and 15 matches last year. What is the total number of volleyball matches she went to?
+c. John watched 8 cricket matches this year and 20 matches the previous year. How many cricket matches did John watch in total?
+d. Jennifer went to 15 hockey games in her first year of college and 22 games in her second year. How many hockey games did she attend in both years combined?
+
+
+
+16
+New Questions:
+a. Tom拥有12个黄色气球，Sara拥有7个黄色气球。他们总共有多少个黄色气球？
+b. 玛丽有10个黄色气球，约翰有6个黄色气球。他们两个人一共有多少个黄色气球？
+c. 汤姆和凯特都热衷于收集黄色气球。汤姆有7个，凯特有6个。他们总共有多少黄色气球？
+d. 小明和小丽都参加了气球派对，小明带了11个黄色气球，小丽带了9个。他们一共有多少个黄色气球可以分享？
+
+
+
+17
+Original Question: There are 4 walnut trees currently in the park. Park workers will plant 6 more walnut trees today. How many walnut trees will the park have when the workers are finished?
+New Questions:
+a. In the botanical garden, there are 5 cherry trees. Gardeners are planting 7 more today. How many cherry trees will the garden have in total?
+b. At the beginning of the year, the orchard had 8 apple trees. The farmer has decided to plant 10 more this spring. What will be the total number of apple trees in the orchard?
+c. In the school premises, there are 9 pine trees currently. The school gardening club is planting 12 more pine trees this week. How many pine trees will be there in total?
+d. The community park has 15 elm trees presently. The city government plans to plant 20 more elm trees next month. What will be the total number of elm trees in the park?
+
+
+
+18
+Original Question: Sam had 9 dimes in his bank. His dad gave him 7 more dimes. How many dimes does Sam have now?
+New Questions:
+a. Emma had 5 quarters in her pocket. Her brother gave her 3 more quarters. How many quarters does Emma have now?
+b. Tom had 12 pennies in his jar. His mom gave him 4 more pennies. How many pennies does Tom have now?
+c. Lily had 15 tokens in her collection. Her friend gave her 7 more tokens for her birthday. How many tokens does Lily have now?
+d. In the beginning, Amanda had 10 coins in her purse. Her dad added 6 more coins to it. What is the total number of coins Amanda has now?
+
+
+
+19
+Original Question: Alyssa's dog had puppies. She gave 7 to her friends. She now has 5 puppies left. How many puppies did she have to start with?
+New Questions:
+a. Alyssa had puppies with her dog and sold 9 of them at the pet store. She now has 7 left. How many puppies did she initially have?
+b. Alyssa received 5 new puppies from her neighbor and then gave away 3 of them to her family. She now has 7 puppies total. How many puppies did she start with?
+c. Alyssa's dog had a litter of puppies. She kept 6 and gave the rest away to her family and friends. She now has 10 puppies remaining. How many were in her dog's original litter?
+d. Alyssa had a total of 18 puppies from her dog at first, but then gave away some of them to her relatives. She currently has 6 puppies remaining with her. How many did she give away? (Note: This question is similar in logic to the original question, but it is asking for a different number.)
+
+
+
+20
+Original Question: There are 2 pencils in the drawer. Tim placed 3 more pencils in the drawer. How many pencils are now there in total?
+New Questions:
+a. In a container, there were initially 5 pencils. Then Alice added 7 more. How many pencils are now in the container?
+b. There were 4 markers in a box. Bob added 6 more. How many markers are now in the box?
+c. In a bag, there were originally 8 books. Carol put in 12 more books. What is the total number of books in the bag now?
+d. At the start, there were 7 erasers on the shelf. David placed 9 more erasers on the shelf. How many erasers are there on the shelf now?
+
+
+
+21
+Original Question: Joan found 6 seashells and Jessica found 8 seashells on the beach. How many seashells did they find together?
+New Questions:
+a. Alex found 5 stones and Beth found 7 stones in the park. How many stones did they find altogether?
+b. Tom collected 4 mushrooms and Emma collected 6 mushrooms in the forest. How many mushrooms did they collect combined?
+c. Lucy bought 3 apples and Mark bought 7 apples at the market. How many apples did they buy together?
+d. Sarah harvested 20 apples and James harvested 30 apples from their apple trees. What was the total number of apples they harvested?
+
+
+
+22
+New Questions:
+a. Emma picked 3 oranges and Bob picked 7 oranges from the orange tree. How many oranges were picked in total?
+b. David picked 4 bananas and Sarah picked 6 bananas from the bunch. How many bananas were picked in total?
+c. In a fruit-picking competition, Alice picked 8 peaches and Charlie picked 12 peaches. What was the total number of peaches picked?
+d. From the apple orchard, Jamie picked 5 apples and Emily picked 11 apples. Calculate the total number of apples collected.
+
+
+
+23
+Original Question: Sally found 9 seashells, Tom found 7 seashells, and Jessica found 5 seashells on the beach. How many seashells did they find together?
+New Questions:
+a. Lucy, Mark, and Emily found seashells on the beach. Lucy found 6, Mark found 4, and Emily found 8. How many seashells did they find in total?
+b. On the beach, David, Amy, and Charlie collected shells. David found 12, Amy found 10, and Charlie found 3. What is the total number of shells they collected?
+c. At the park, Tom, Jerry, and Mike collected rocks. Tom found 5 rocks, Jerry found 7 rocks, and Mike found 9 rocks. How many rocks did they collect in total?
+d. Emma, Tom, and Alex collected sea creatures on the shore. Emma found 10 sea creatures, Tom found 6 sea creatures, and Alex found 3 sea creatures. What is the sum of sea creatures they collected?
+
+
+
+24
+Original Question: Tim's cat had kittens. He gave 3 to Jessica and 6 to Sara. He now has 9 kittens left. How many kittens did he have to start with?
+New Questions:
+a. Lucy's dog had puppies. She gave 2 to Emma and 4 to Olivia. She now has 7 puppies left. How many puppies did she have initially?
+b. Bob's rabbit had offspring. He gifted 5 to Alice and 8 to Charlie. He has 11 offspring left now. How many did he start with?
+c. Mary had apples. She ate 3 and gave 4 to her friend. She now has 5 apples left. How many apples did she have originally?
+d. Alice bought some candies from the store and shared them with her friends. She gave away 5 and ate 3 more, and now she has 2 candies left. How many candies did she buy initially?
+
+
+
+25
+New Questions:
+a. If Jane has 7 blue balloons, David has 3 blue balloons, and Emily has 4 blue balloons, how many blue balloons do they have in total?
+b. In a party, Alex has 10 blue balloons, Bob has 6 blue balloons, and Charlie has 3 blue balloons. How many blue balloons are there in total?
+c. How many blue balloons do Peter (with 8 balloons), Anna (with 4 balloons), and Michael (with 1 balloon) have together?
+d. If Emma has 12 blue balloons, Sara has 7 blue balloons, and Henry has 9 blue balloons, calculate the total number of blue balloons they have.
+
+
+
+26
+Original Question: A restaurant served 5 cakes during lunch and 6 during dinner today. The restaurant served 3 cakes yesterday. How many cakes were served in total?
+New Questions:
+a. A bakery shop sold 8 breads in the morning and 10 in the evening today. The shop sold 5 breads yesterday. How many breads were sold in total?
+b. A café made 7 coffee orders during breakfast and 9 during lunch today. The café made 4 orders yesterday. What is the total number of coffee orders made?
+c. A dessert shop served 12 pastries in the morning shift and 15 in the evening shift today. The shop served 8 pastries on the previous day. How many pastries were served in total?
+d. A restaurant sold 20 meals during lunch and dinner combined today, while it sold only 15 meals yesterday. Calculate the total number of meals sold in two days.
+
+
+
+27
+Original Question: There are 7 dogwood trees currently in the park. Park workers will plant 3 more dogwood trees today and 2 more dogwood trees tomorrow. How many dogwood trees will the park have when the workers are finished?
+New Questions:
+a. In the botanical garden, there are 9 cherry trees. Gardeners are planting 4 more cherry trees today and 3 tomorrow. How many cherry trees will the garden have after the planting is done?
+b. There are 12 pine trees in the forest currently. Forest workers are planting 2 pine trees today and another 5 tomorrow. How many pine trees will the forest have at the end?
+c. In the schoolyard, there are 5 maple trees. The school's gardening club will plant 7 more maple trees this week and 3 next week. How many maple trees will be in the schoolyard after all the plantings?
+d. There are currently 10 elm trees in the backyard. Yard workers plan to add 6 elm trees this weekend and another 4 next weekend. How many elm trees will the backyard have in total?
+
+
+
+28
+New Questions:
+a. Alex harvested 27 apples and Bella harvested 8 apples from the apple tree. How many apples were harvested in total?
+b. Lucy collected 36 oranges and Mark collected 17 oranges from the orange tree. What is the total number of oranges collected?
+c. David picked 48 bananas and Sarah picked 23 bananas from the banana tree. Calculate the total number of bananas picked.
+d. Jack bought 20 strawberries and his friend Lily bought 5 strawberries at the market. How many strawberries did they buy in total?
+
+
+
+29
+Original Question: Keith has 20 books. Jason has 21 books. How many books do they have together?
+New Questions:
+a. Emily has 15 videos. David has 20 videos. How many videos do they have combined?
+b. Adam has 30 pencils. Emma has 25 pencils. What is the total number of pencils they possess?
+c. If Sam has 17 paintings and his friend Emma has 23 paintings, how many paintings are there in total?
+d. John has collected 40 stamps in his album while his brother James has 35 stamps. How many stamps do they have together?
+
+
+
+30
+Original Question: There are 33 walnut trees currently in the park. Park workers will plant 44 more walnut trees today. How many walnut trees will the park have when the workers are finished?
+New Questions:
+a. In a botanical garden, there are 27 cherry trees presently. Gardeners are planting 38 more cherry trees this week. How many cherry trees will the garden have after the planting is complete?
+b. At the beginning of the season, a farmer had 40 apple trees. They planted 70 more during the course of the season. How many apple trees did they have at the end of the season?
+c. In a school campus, there are 50 mango trees presently. The school plans to plant 60 new ones this year. What will be the total number of mango trees on the campus at the end of the year?
+d. A forest initially had 35 pine trees. More trees were planted and now there are 75 pine trees in total. How many new pine trees were added?
+
+
+
+31
+Original Question: Sara had 21 quarters in her bank. Her dad gave her 49 more quarters. How many quarters does she have now?
+New Questions:
+a. Sara initially had 30 quarters. Her uncle gave her another 60 quarters. How many quarters does she have now?
+b. Sara received 50 quarters from her friend and had 15 in her bank already. How many quarters does she have in total?
+c. Sara had some quarters in her pocket and received another 70 from her brother. If she now has 99 quarters, how many were initially in her pocket?
+d. Sara bought something that cost her 35 quarters from the store. She previously had 28 quarters. How many quarters did she have after buying the item?
+
+
+
+32
+Original Question: There are 41 pencils in the drawer. Mike placed 30 more pencils in the drawer. How many pencils are now there in total?
+New Questions:
+a. In a box, there were originally 25 balls. Emma added 20 more balls to it. How many balls are there in the box now?
+b. At the start, the library had 75 books. Another 50 books were brought in. What is the total number of books in the library now?
+c. There were initially 50 students in the classroom. The teacher allowed 25 more students to enter. How many students are now in the classroom?
+d. On the shelf, there were 60 notebooks initially. Jane added 25 more notebooks to it. What is the total number of notebooks on the shelf now?
+
+
+
+33
+New Questions:
+a. Jane has 35 red balloons, while Sarah has 38 red balloons. How many red balloons do they have in total?
+b. Amy bought 50 green balloons and Bob bought 45 green balloons. What is the total number of green balloons?
+c. Jack has 25 yellow balloons, Lily has 27 yellow balloons. Calculate the total number of yellow balloons they have.
+d. Children's party: 30 children bring 5 balloons each. How many balloons are there in total at the party?
+
+
+
+34
+Original Question: Fred grew 38 cantelopes. Tim grew 44 cantelopes. How many cantelopes did they grow in total?
+New Questions:
+a. Mary planted 27 cantelopes. Bob planted 39 cantelopes. What is the total number of cantelopes they planted?
+b. The farmers grew a total of 50 cantelopes, including 25 grown by Alice and the rest by Bob. How many cantelopes did Bob grow?
+c. John grew 40 cantelopes in his garden, while his neighbor grew 32. Calculate the total number of cantelopes they grew together.
+d. In a farming competition, Sarah grew 42 cantelopes, and her partner David grew 36. How many cantelopes did they collectively grow?
+
+
+
+35
+Original Question: Sam went to 14 football games this year. He went to 29 games last year. How many football games did Sam go to in all?
+New Questions:
+a. Emily went to 22 basketball games this year and went to 33 games last year. How many basketball games did Emily go to in total?
+b. Tom watched 15 cricket matches this season and 28 matches in the previous season. How many cricket matches did Tom watch in all?
+c. Adam attended 20 volleyball games this term and 35 games in the past term. How many volleyball games did Adam attend altogether?
+d. Jack participated in 30 chess tournaments in his career and 15 tournaments in his previous career. How many chess tournaments did Jack participate in throughout his career?
+
+
+
+36
+Original Question: Mary found 18 seashells and Jessica found 41 seashells on the beach. How many seashells did they find together?
+New Questions:
+a. Lucy collected 25 flowers and Alice collected 33 flowers in the garden. How many flowers did they collect in total?
+b. Ben found 8 coins and Emma found 15 coins on the ground. What is the total number of coins they found?
+c. Lisa counted 27 stars and Jack counted 38 stars at night. How many stars did they see together?
+d. In a treasure hunt, Tom found 12 treasures and Sarah found 20 treasures. How many treasures did they find in total?
+
+
+
+37
+Original Question: There are 39 dogwood trees currently in the park. Park workers will plant 41 more dogwood trees today and 20 more dogwood trees tomorrow. How many dogwood trees will the park have when the workers are finished?
+New Questions:
+a. In the botanical garden, there are 50 cherry trees currently. Gardeners are planting 35 more cherry trees today and 28 more tomorrow. How many cherry trees will the garden have when the gardeners finish?
+b. In the community park, there are 70 pine trees presently. The park crew intends to plant 50 more pine trees this week and another 30 next week. What will be the total number of pine trees in the park after the planting is complete?
+c. Currently, there are 45 maple trees in the arboretum. Arboretum staff plans to plant 42 new maple trees this weekend and another 18 next weekend. How many maple trees will be in the arboretum after all the plantings?
+d. At the city park, there are 60 elm trees presently. The park workers are going to plant 35 elm trees this month and another 25 next month. What will be the total number of elm trees at the park once the planting is finished?
+
+
+
+38
+Original Question: Sandy has 10 books, Benny has 24 books, and Tim has 33 books. How many books do they have together?
+New Questions:
+a. Emma has 27 books, David has 15 books, and Lily has 40 books. How many books do they have in total?
+b. In a library, there are 50 books in one shelf, 75 in another shelf, and 90 in the third shelf. How many books are there in total?
+c. John has 12 CDs, Jane has 28 CDs, and Michael has 36 CDs. What is the total number of CDs they own?
+d. There are three students in a class. One student has 18 notebooks, another has 22, and the third has 28. How many notebooks do they have altogether?
+
+
+
+39
+Original Question: Jason picked 46 pears, Keith picked 47 pears, and Mike picked 12 pears from the pear tree. How many pears were picked in total?
+New Questions:
+a. Alice picked 38 apples, Bob picked 42 apples, and Carol picked 25 apples from the apple tree. How many apples were picked in total?
+b. In a fruit-picking contest, Adam picked 60 oranges, Bella picked 50 oranges, and Charlie picked 35 oranges. How many oranges were picked in total?
+c. At the orchard, Peter harvested 70 plums, David harvested 60 plums, and Emma harvested 25 plums. What was the total number of plums harvested?
+d. In a school project, children picked fruits from a tree. Lucy picked 40 peaches, Mark picked 35 peaches, and Olivia picked 18 peaches. How many peaches were picked in total?
+
+
+
+40
+Original Question: Keith grew 29 cantelopes, Fred grew 16 cantelopes, and Jason grew 20 cantelopes. How many cantelopes did they grow in total?
+New Questions:
+a. Lucy cultivated 35 melons, Mark cultivated 27 melons, and Emma cultivated 18 melons. What is the total number of melons they cultivated?
+b. In the vegetable garden, Peter grew 40 cucumbers, Sally grew 30 cucumbers, and Tom grew 25 cucumbers. How many cucumbers did they grow in total?
+c. Alice, Bob, and Charlie are growing pumpkins. Alice grew 50, Bob grew 35, and Charlie grew 45. What is the sum of pumpkins they grew?
+d. In a farming competition, David grew 60 apples, Emily grew 45 apples, and Frank grew 50 apples. How many apples did they grow altogether?
+
+
+
+41
+Original Question: Melanie had 19 dimes in her bank. Her dad gave her 39 dimes and her mother gave her 25 dimes. How many dimes does Melanie have now?
+New Questions:
+a. Emma initially had 25 cents in quarters. Her uncle gave her 15 more quarters and her teacher gave her 3 quarters for good work. How many quarters does Emma have now?
+b. Jennifer had 100 pennies in her jar. Her brother gave her some more pennies and her friend added 20 more pennies. She now has 150 pennies in total. How many pennies did her brother give her?
+c. Michael had a total of 35 nickels in his pocket. His sister gave him some nickels and his brother also gave him some, adding up to a total of 60 nickels. If his brother gave him 15 nickels, how many did his sister give him?
+d. Emily received a total of $2 from her relatives on her birthday - from her brother, sister and father each one dollar each. How many dollars did she receive in total?
+
+
+
+42
+Original Question: Alyssa has 37 blue balloons, Sandy has 28 blue balloons, and Sally has 39 blue balloons. How many blue balloons do they have in all?
+New Questions:
+a. Emily has 42 green balloons, Sam has 31 green balloons, and Tom has 35 green balloons. What is the total number of green balloons?
+b. In a party, David has 25 red balloons, Amy has 32 red balloons, and Ben has 28 red balloons. How many red balloons are there in total?
+c. Count the total number of yellow balloons if Zoe has 40, Jim has 36 and Susan has 45 yellow balloons.
+d. If Joshua has 30 purple balloons, Lily has 27 purple balloons, and Michael has 40 purple balloons, calculate the total number of purple balloons they have.
+
+
+
+43
+Original Question: Sally had 27 cards. Dan gave her 41 new cards. Sally bought 20 cards. How many cards does Sally have now?
+New Questions:
+a. Sara initially had 35 cards. Her friend Mark gave her 30 more cards. Sara also bought 15 cards. How many cards does Sara have now?
+b. Lily received 50 cards as a gift. She bought 35 cards and received another 25 cards from her friend. How many cards does Lily have in total?
+c. Tom had 10 cards initially. He received an additional 28 cards from his friend and bought 12 new cards. What is the total number of cards Tom has now?
+d. After Emma received 24 cards from her brother and bought 16 more, she decides to give away 10 cards to her friend. How many cards does Emma have now?
+
+
+
+44
+Original Question: Jason went to 11 football games this month. He went to 17 games last month, and plans to go to 16 games next month. How many games will he attend in all?
+New Questions:
+a. Mark went to 9 basketball games this month. He went to 14 games last month and plans to go to 12 games next month. How many games did he attend in total?
+b. Last year, Lisa attended 20 tennis tournaments in the spring, 15 in the summer, and 25 in the fall. How many tournaments did she attend in the whole year?
+c. Adam went to 8 volleyball matches this year, 20 last year, and plans to go to 15 matches next year. How many matches will he have attended in all?
+d. Sally participated in 12 marathons last year, 7 the year before, and is planning to run in 9 marathons this year. How many marathons has she participated in throughout her career?
+
+
+
+45
+Original Question: There are 43 pencils in the drawer and 19 pencils on the desk. Dan placed 16 more pencils on the desk. How many pencils are now there in total?
+New Questions:
+a. In a classroom, there were initially 27 markers in a container and 15 markers on the table. Emma added 9 more markers to the table. How many markers are now on the table?
+b. There were 52 books in the shelf and 23 books on the floor. Alex placed 17 more books on the shelf. What is the total number of books now?
+c. Starting with 36 ballpens in a box and 12 ballpens on the table, Chris added 24 ballpens to the table. How many ballpens are now on the table?
+d. In an office, initially there were 48 notebooks in a cabinet and 27 notebooks on the shelf. David placed 30 more notebooks on the shelf. How many notebooks are there in total now?
+
+
+
+46
+Original Question: Mike has 35 books in his library. He bought several books at a yard sale over the weekend. He now has 56 books in his library. How many books did he buy at the yard sale?
+New Questions:
+a. Emma had 40 videos in her collection. She bought some more at a garage sale last week. Now she has 62 videos. How many videos did she buy at the garage sale?
+b. Before the party, David had 20 plates in his cupboard. He bought more at the store before the party began. In total, he now has 35 plates. How many plates did David buy at the store?
+c. Alex had 30 CDs in his collection. He bought some at a second-hand store last week and now has 42 CDs in total. How many CDs did Alex buy at the second-hand store?
+d. How many books did Lily buy at a book fair if she had 25 books before and now has 47 books after buying some at the fair?
+
+
+
+47
+Original Question: Sandy is baking a cake. The recipe wants 7 cups of flour. She already put in 4 cups. How many more cups does she need to add?
+New Questions:
+a. Emma is making bread. The recipe requires 5 cups of wheat flour. She has added 3 cups so far. How many more cups of wheat flour does she need?
+b. Lisa is cooking pasta. The recipe needs a total of 10 cups of water. She has added 6 cups already. How many more cups of water does she need to add?
+c. David is making cookies. The recipe calls for a total of 12 cups of sugar, and he has added 9 cups so far. How many more cups of sugar does he need to add?
+d. Jennifer is baking a birthday cake for her brother. The recipe requires exactly 9 cups of fruit puree. She has already added 6 cups; how many more cups does she need to make the perfect birthday cake?
+
+
+
+48
+Original Question: There are 53 maple trees currently in the park. Park workers will plant more maple trees today. When the workers are finished there will be 64 maple trees in the park. How many maple trees did the workers plant today?
+New Questions:
+a. There are 72 oranges currently in the fruit stand. More oranges will be added today. When the seller is done, there will be 97 oranges in total. How many oranges were added today?
+b. In the school garden, there are 25 rose plants presently. The gardening team has decided to plant more roses today. After the planting session, there will be 37 rose plants in total. How many rose plants were planted today?
+c. At the start of the day, there were 48 apples in the basket. More apples were added during the day. By the end of the day, there were 72 apples in the basket. How many apples were added to the basket during the day?
+d. The library currently holds 300 books. The librarian has purchased some more books today. Once all the new books are added, there will be 350 books in total. How many books did the librarian buy today?
+
+
+
+49
+Original Question: Dan found 56 seashells on the beach, he gave Jessica some of his seashells. He has 22 seashell left. How many seashells did he give to Jessica?
+New Questions:
+a. Emma discovered 70 shells on the shore. She gave some to her friend Sarah, and now she has 30 shells left. How many shells did Emma give to Sarah?
+b. Alex found 80 stones in the river. He gave some to his friend Bella and now has 35 stones remaining. How many stones did Alex give to Bella?
+c. Megan picked up 60 sea creatures on the seashore. She gave some away to her friend and has 25 left now. How many sea creatures did Megan give away?
+d. Tom collected 75 shells on the beach and gave away some of them. After giving away some, he has 33 shells remaining. How many shells did Tom give away?
+
+
+
+50
+Original Question: Benny received 67 dollars for his birthday. He went to a sporting goods store and bought a baseball glove, baseball, and bat. He had 33 dollars left over. How much did he spend on the baseball gear?
+New Questions:
+a. Amy received 75 dollars for her birthday. She also went to a sporting goods store and bought a basketball, basketball shoes, and a jersey. She had 25 dollars left over. How much did she spend on the basketball equipment?
+b. Jack received 100 dollars as a gift for his graduation. He bought a football, helmet, and pads at a sports store. He ended up with 20 dollars remaining. How much did he spend on the football gear?
+c. On her 10th birthday, Lily received 50 dollars as a gift. She bought a tennis racket and some tennis balls at a sports store. She had nothing left over in the end. How much did she spend on the tennis equipment?
+d. Michael received 80 dollars for his birthday and used it all to buy a golf club set, a golf ball, and a tee at a sporting goods store. How much did each item in the golf club set cost if each of the other items costs 10 dollars?
+
+
+
+51
+Original Question: There were 3 roses in the vase. Alyssa cut some more roses from her flower garden. There are now 14 roses in the vase. How many roses did she cut?
+New Questions:
+a. In the beginning, there were 5 flowers in the jar. Emily picked some flowers from her yard and added them to the jar. Now there are 18 flowers in the jar. How many flowers did Emily pick?
+b. Adam had 4 pears at home. He bought some more from the store and now he has 17 pears. How many pears did Adam buy from the store?
+c. There were 7 books on the shelf initially. Emily brought some more books from her collection and placed them on the shelf, making it a total of 20 books now. How many books did Emily bring?
+d. The zoo had 9 lions initially. The zoo director transferred some lions from other facilities and now there are 25 lions in total. How many lions did the zoo director transfer?
+
+
+
+52
+Original Question: Last week Tom had 74 dollars. He washed cars over the weekend and now has 86 dollars. How much money did he make washing cars?
+New Questions:
+a. Last month, John had a balance of 150 dollars in his savings account. He deposited money from his part-time job and now the balance is 200 dollars. How much did John deposit in his account?
+b. Emma started with 50 dollars in her pocket. She sold some of her old books and earned some money. Now she has 70 dollars. How much money did Emma make from selling her books?
+c. At the beginning of the month, Mike had 200 dollars in his wallet. He sold some paintings and received money for them. After selling the paintings, he had 300 dollars. How much money did Mike earn from selling paintings?
+d. Last week, David had 120 dollars in his bank account. He received a salary and now his account balance is 180 dollars. Calculate how much money David earned from his salary.
+
+
+
+53
+Original Question: How many bales did Jason stack in the barn today, if he added to the existing 73 bales and there are now 96 bales in total?
+New Questions:
+a. How many hay bales did Jason add to the barn yesterday, if initially there were 50 bales and now there are 73?
+b. There were 45 bales of hay in the shed. Emily increased the number of bales. Now there are 62 bales in total. How many bales did she add?
+c. The barn initially had 60 bales of hay. After some days, the total number of bales increased to 85. How many new bales were added during this period?
+d. In the stable, there were 25 bales of hay initially. Yesterday, someone stacked more hay and now there are 40 bales. How many were added?
+
+
+
+54
+New Questions:
+a. Emma and Lucy共同种了土豆。Emma种了8个土豆，Lucy种了9个土豆。他们一共种了多少土豆？
+b. 在学校农业课上，Amy和Bill各自种了不同的蔬菜，其中Amy种了五个西红柿和六个南瓜，Bill种了八个西红柿。他们总共种了多少个果蔬？
+c. 根据种植数据，David种了10个红薯，Lucy种了6个紫薯，计算他们两个人总共种了多少不同的种类的红薯？总数量是多少？
+d. 张家和王家后院都种了地瓜。张家种了五个地瓜，王家种了六个地瓜。两家人合起来一共种了多少地瓜？
+
+
+
+55
+Original Question: There are 5 oak trees currently in the park. Park workers will plant 4 more oak trees today. How many oak trees will the park have when the workers are finished?
+New Questions:
+a. In the school garden, there are 3 apple trees. The school gardeners are planting 7 more apple trees today. How many apple trees will the garden have after the planting?
+b. In the botanical gardens, there are 10 cherry trees. Gardeners are adding 6 cherry trees today. How many cherry trees will be in the garden at the end of the day?
+c. Currently, there are 7 pines in the wilderness area. More pines will be planted, adding up to 12 trees. What will be the total count of pines after planting?
+d. At the community park, there are 9 elm trees. The park staff plans to plant 11 more elm trees this weekend. How many elm trees will the park have after the weekend?
+
+
+
+56
+Original Question: Tom found 7 seashells but 4 were broken. How many unbroken seashells did Tom find?
+New Questions:
+a. Emma discovered 9 rocks on the beach, but 3 of them were broken. How many intact rocks did Emma find?
+b. In the park, Alice collected 12 acorns but 5 were damaged. How many undamaged acorns did Alice gather?
+c. At the beach, Bob found 15 sea stars, but 8 of them were broken. How many whole sea stars did Bob find?
+d. In the garden, Sarah picked 20 flowers, but 12 of them were damaged. How many intact flowers did Sarah collect?
+
+
+
+57
+New Questions:
+a. "从柠檬树上，艾米摘了8个柠檬，汤姆摘了6个柠檬。他们一共摘了多少个柠檬？"
+b. "杰克和莉莉从柠檬树上摘柠檬，杰克摘了5个，莉莉摘了11个。他们总共摘了多少？"
+c. "在果树上，安妮摘了7个柠檬和贝蒂摘了3个柠檬。两人一共摘了多少？"
+d. "在果园里，有几棵柠檬树。大卫从一棵树上摘了7个柠檬，而他的朋友卡尔从另一棵树上摘了9个柠檬。他们一共摘了多少柠檬？"
+
+
+
+58
+Original Question: A restaurant served 6 cakes during lunch and 9 during dinner today. How many cakes were served today?
+New Questions:
+a. A bakery shop sold 8 breads in the morning and 12 in the evening. How many breads were sold in total?
+b. A cafeteria provided 7 sandwiches at lunchtime and 11 in the evening. What's the total number of sandwiches served?
+c. A dessert shop sold 5 chocolate truffles during afternoon tea and 10 after dinner. Calculate the total number of truffles sold today.
+d. A restaurant offered 4 pastries in the morning and 7 in the night. How many pastries were served throughout the day?
+
+
+
+59
+New Questions:
+a. Jane had 10 green balloons but blew up 3 of them. How many green balloons does Jane have now?
+b. Mark had 15 blue balloons and sold 5 of them at the market. How many blue balloons does Mark have now?
+c. Lily had 20 pink balloons but gave away 8 of them to her friends. How many pink balloons does Lily have now?
+d. Michael had 7 yellow balloons but popped one and lost one more on the way home. How many yellow balloons does Michael have now?
+
+
+
+60
+Original Question: Fred had 7 dimes in his bank. His sister borrowed 3 of his dimes. How many dimes does Fred have now?
+New Questions:
+a. Mary had 10 quarters in her purse. Her friend took 2 of them. How many quarters does Mary have now?
+b. John had 12 dollars in his wallet. He gave away 5 dollars to his friend. How much money does John have now?
+c. David had 20 coins in his pocket. He gave away half of them to his sister. How many coins does David have now?
+d. Lily had 8 dimes in her savings jar, and she bought some candy with 2 of them. How many dimes does Lily have now?
+
+
+
+61
+Original Question: Joan's cat had 8 kittens. She gave 2 to her friends. How many kittens does she have now?
+New Questions:
+a. Lisa's dog had 10 puppies. She sold 3 to her neighbors. How many puppies does she have now?
+b. Alice had 12 birds' eggs. She hatched 4 of them. How many birds does she have now?
+c. Michael had a pack of 15 cards. He gave away 7 to his classmates. How many cards does he have left?
+d. Sarah had a dozen of apples. She ate 3 of them. How many apples does she have now?
+
+
+
+62
+New Questions:
+a. "公园里现在有27棵杜鹃花树。园艺工人将在明天种植53棵杜鹃花树。园艺工人完成后公园里会有多少棵杜鹃花树？"
+b. "森林公园现有10棵桃树。管理人员将在今日增加种下一百株桃树幼苗。计算森林公园未来会有多少棵桃树？"
+c. "校园内现有枫树若干棵，校方计划再种植紫叶枫树25棵。若紫叶枫树种植完毕后，校方将会共计有多少棵紫叶枫树？"
+d. "小区绿化带里现有银杏树若干棵，园林工人今天打算再种上68棵银杏树。请计算绿化带最终会有多少棵银杏树？"
+
+
+
+63
+Original Question: There are 27 pencils in the drawer. Nancy placed 45 more pencils in the drawer. How many pencils are now there in total?
+New Questions:
+a. There were 30 markers in the box. Alice added 20 more markers. How many markers are there now in total?
+b. Initially, there were 50 books in the shelf. Another 75 books were added by David. What is the total number of books on the shelf now?
+c. In the jar, there were 48 candies. Another person put in 24 candies. How many candies are there in the jar now?
+d. There were 15 toys in the bag. Emma added another 35 toys to it. What is the total number of toys in the bag now?
+
+
+
+64
+Original Question: Benny's high school played 39 baseball games this year. He attended 14 games. How many baseball games did Benny miss?
+New Questions:
+a. In the same school year, how many basketball games did Benny miss if he attended 20 games?
+b. If Benny attended 25 out of the 45 volleyball matches played at his school, how many did he miss?
+c. This year, how many soccer games did Benny not go to if he went to 18 games?
+d. In a season where 50 football games were played at Benny's school and he attended 16 of them, how many did he miss?
+
+
+
+65
+Original Question: Sam found 35 seashells on the beach, he gave Joan 18 of the seashells. How many seashells does he now have?
+New Questions:
+a. Emily collected 40 shells from the beach, and she gave 25 to David. How many shells does she have now?
+b. Adam picked up 50 shells at the beach and gave away 30 of them to his friend. How many shells does he have now?
+c. Lucy found 25 seashells on the beach and she distributed 15 of them to her sister. How many did she keep?
+d. Tom located 45 shells on the shore and handed over 22 to his brother. Calculate the number of shells he has now.
+
+
+
+66
+Original Question: Tim has 22 books. Mike has 20 books. How many books do they have together?
+New Questions:
+a. Sara has 18 books. Tom has 25 books. How many books do they have in total?
+b. If Alex has 15 books and Ben has 17 books, how many books do they have combined?
+c. Jane and John together have 30 books. How many books do they have?
+d. Mark has a collection of 27 books, and his friend Lucy has 19 books. What is the total number of books they own?
+
+
+
+67
+Original Question: Mike has 87 baseball cards. Sam bought 13 of Mike's baseball cards. How many baseball cards does Mike have now?
+New Questions:
+a. Ben had 90 basketball cards. Adam bought 15 of Ben's basketball cards. How many basketball cards does Ben have now?
+b. Jack had 100 football cards. Emma bought 20 of Jack's football cards. How many football cards does Jack have now?
+c. Before selling 15 of his concert tickets, Tom had 100 tickets. How many concert tickets does Tom have now?
+d. David had a collection of 50 stamps. Sarah bought 10 of David's stamps. How many stamps does David have left?
+
+
+
+68
+Original Question: Sandy grew 51 pumpkins. Mike grew 23 pumpkins. How many pumpkins did they grow in total?
+New Questions:
+a. Emily cultivated 60 melons. Michael cultivated 15 melons. What is the total number of melons they cultivated?
+b. In a farming competition, Adam grew 47 carrots while Bella grew 31 carrots. How many carrots did they grow combined?
+c. Regarding their garden produce, Jennifer harvested 38 zucchinis and Sam harvested 29 zucchinis. How many zucchinis did they harvest in total?
+d. For their Halloween decoration, Emma made 43 jack-o'-lanterns while Tom made 16 jack-o'-lanterns. How many jack-o'-lanterns did they make together?
+
+
+
+69
+Original Question: Tim has 44 books. Sam has 52 books. How many books do they have together?
+New Questions:
+a. Alice has 37 books. Bob has 49 books. How many books do they have combined?
+b. In a library, 60 books are on shelf A and 75 books are on shelf B. How many books are there on both shelves?
+c. If Lucy has 28 books and Emma has 36 books, what is the total number of books they own together?
+d. John has a collection of 40 books while Jane has 48 books in her collection. How many books are in their combined collections?
+
+
+
+70
+Original Question: Dan has 64 violet marbles, he gave Mary 14 of the marbles. How many violet marbles does he now have?
+New Questions:
+a. Mark had 72 red marbles and gave Sam 23 of them. How many red marbles does Mark now have?
+b. Lisa had 80 blue marbles and gave Tom 17 of them. How many blue marbles does Lisa have now?
+c. Alex had 56 green marbles and gave his friend 12 of them. How many green marbles does Alex have now?
+d. Tom had 90 orange marbles and gave his sister 19 of them. What is the total number of orange marbles he has now?
+
+
+
+71
+Original Question: There are 25 popular trees currently in the park. Park workers will plant 73 more popular trees today. How many popular trees will the park have when the workers are finished?
+New Questions:
+a. In the botanical garden, there are 30 native flowers currently. Gardeners are planting 90 more native flowers today. How many native flowers will the garden have by the end of the day?
+b. There are 15 popular shrubs in the community park currently. The park staff plans to plant 40 more shrubs this weekend. How many popular shrubs will the park have after the planting?
+c. In the city park, there are currently 50 well-maintained benches. The park workers are adding 25 new benches today. What will be the total number of benches in the park after the addition?
+d. The zoo currently has 40 large animals and plans to introduce 75 more animals this week. How many large animals will the zoo have once all the new animals are added?
+
+
+
+72
+Original Question: There are 54 scissors in the drawer. Keith placed 22 more scissors in the drawer. How many scissors are now there in all?
+New Questions:
+a. There were initially 48 pencils in the box. Later, 17 more pencils were added by Emma. How many pencils are there now in the box?
+b. In the cupboard, initially, there were 36 plates. After, David added 15 more plates. What is the total number of plates in the cupboard now?
+c. At the start, there were 70 books in the library. Later, the library received an addition of 25 books. How many books are there in the library now?
+d. There are 65 markers in the box. After adding 30 more markers by John, how many markers are there in total?
+
+
+
+73
+Original Question: Alyssa picked 42 pears and Nancy picked 17 pears from the pear tree. How many pears were picked in all?
+New Questions:
+a. Adam took 36 apples and Bella took 25 apples from the apple tree. How many apples were taken in total?
+b. Emma harvested 38 oranges and Charlie harvested 20 oranges from the orange tree. What is the total number of oranges harvested?
+c. Gina bought 19 bananas and Jack bought 8 bananas from the market. How many bananas did they buy in total?
+d. Lily harvested 45 grapes and Michael harvested 29 grapes from the vineyard. Calculate the total number of grapes harvested.
+
+
+
+74
+Original Question: Sam had 98 pennies in his bank. He spent 93 of his pennies. How many pennies does he have now?
+New Questions:
+a. Emma had 75 cents in her pocket. She spent 65 cents on groceries. How many cents does she have now?
+b. Tom had 200 coins in his jar. He gave away 193 coins to charity. How many coins does he have now?
+c. Jack had 50 notes in his wallet. He used 47 of them to pay for a purchase. How many notes does he have now?
+d. Lucy had 150 tokens in her bag. She used 146 of them at the amusement park. How many tokens does she have now?
+
+
+
+75
+Original Question: Joan found 79 seashells on the beach, she gave Mike 63 of the seashells. How many seashells does she now have?
+New Questions:
+a. Sara found 90 rocks on the mountain, she gave her friend 45 of them. How many rocks does she have now?
+b. Alex collected 120 flowers in the garden, he gave 70 to his sister. How many flowers does he have left?
+c. After finding 55 books in the library, Alex lent out 35 of them to his friends. How many books does he have now?
+d. Lily bought a total of 80 candies at the store and shared 50 of them with her classmates. How many candies do she have left?
+
+
+
+76
+Original Question: Melanie's high school played 64 soccer games this year. She attended 32 games. How many soccer games did Melanie miss?
+New Questions:
+a. Alex's school participated in 48 basketball matches this semester. He went to 20 matches. How many did he miss?
+b. Jessica attended 15 of the 45 basketball games at her school this year. How many games did she miss?
+c. Adam played 15 of the 27 chess tournaments in his city this year. How many did he not play in?
+d. Emily went to 20 out of the 30 concerts at her school this semester. How many concerts did she miss?
+
+
+
+77
+Original Question: Mary picked 122 oranges and Jason picked 105 oranges from the orange tree. How many oranges were picked in total?
+New Questions:
+a. Amy harvested 130 apples and Bob harvested 97 apples from the apple tree. What is the total number of apples?
+b. The bakery made 250 chocolate cakes and 180 vanilla cakes. How many cakes were made in total?
+c. At the fruit stand, 80 bananas were sold and 70 oranges were sold. How many fruits were sold in total?
+d. In the school garden, 45 roses and 30 sunflowers were planted. How many plants were planted in total?
+
+
+
+78
+Original Question: Fred's high school played 616 baseball games this year. He attended 147 games. How many baseball games did Fred miss?
+New Questions:
+a. In the same high school, Emily attended 200 basketball games this year. How many basketball games did she miss?
+b. In a different high school, Sam attended 250 soccer matches last year. How many did he miss?
+c. Andrew attended 150 football matches this season. If his team played 300 games, how many did he miss?
+d. Michael loves sports and has attended 175 of his college's events. If the college played 500 games in total, how many did he miss?
+
+
+
+79
+Original Question: Melanie grew 139 turnips. Benny grew 113 turnips. How many turnips did they grow in all?
+New Questions:
+a. Emma harvested 128 carrots. David harvested 97 carrots. How many carrots did they harvest together?
+b. Alex grew 200 tomatoes. Emily grew 150 tomatoes. What is the total number of tomatoes they grew?
+c. Emily and her friends cultivated 85 potatoes. Jack and his team cultivated 70 potatoes. How many potatoes did they cultivate in total?
+d. John planted 176 beans. Jane planted 124 beans. Calculate the total number of beans they planted.
+
+
+
+80
+Original Question: Jason has 676 Pokemon cards. Alyssa bought 224 of Jason's Pokemon cards. How many Pokemon cards does Jason have now?
+New Questions:
+a. Connor had 950 trading cards. Emma bought 310 of Connor's cards. How many cards does Connor have left?
+b. Before selling, Adam had 750 video game cards. Lily bought 275 of them. How many cards does Adam have now?
+c. Bob had a collection of 498 Marvel cards. Amy bought 163 of them. How many Marvel cards does Bob have remaining?
+d. Rachel originally had 532 Star Wars cards, and Scott bought 185 of them from her. How many Star Wars cards does Rachel have now?
+
+
+
+81
+Original Question: Fred has 709 green balloons, he gave Sandy 221 of the balloons. How many green balloons does he now have?
+New Questions:
+a. Mary had 548 red apples. She shared 179 with her friends. How many red apples does she have now?
+b. Mark initially had 923 blueberries. He gave away 305 of them to his colleagues. How many blueberries does he have now?
+c. Adam bought 672 oranges, he ate 196 of them. How many oranges does he still have?
+d. David had a total of 854 purple balloons before giving away 248 of them to his family members. How many purple balloons do David have now?
+
+
+
+82
+Original Question: There are 115 pencils in the drawer. Sara placed 100 more pencils in the drawer. How many pencils are now there in all?
+New Questions:
+a. There were 87 books in the shelf. Sarah added 95 more books. How many books are there now in total?
+b. In the box, there were 225 chips. Another 150 chips were added by Sara. What is the total number of chips now?
+c. There were 300 students in the class initially. The teacher added 50 more students to the class. How many students are there now?
+d. In the container, there were 12 apples initially. John placed 25 more apples into it. How many apples are there in total now?
+
+
+
+83
+Original Question: Mike has 45 dollars in 5 dollar bills. How many five dollars bills does he have?
+New Questions:
+a. Emily has 35 dollars in 10 dollar bills. How many ten dollar bills does she have?
+b. Adam has 70 dollars in 20 dollar bills. What is the total number of bills he holds?
+c. John has 90 dollars in various denominations of bills. He has 3 five-dollar bills, 2 ten-dollar bills, and some twenty-dollar bills. How many twenty-dollar bills does he have?
+d. If David has 6 five-dollar bills, how much money does he have in total?
+
+
+
+84
+Original Question: Nancy goes fishing with Joan. They catch 18 trout. If they equally split up the trout, how many will each one get?
+New Questions:
+a. Jack and Lily go hiking together and find 20 mushrooms. If they divide them equally, how many mushrooms will each one get?
+b. Adam and Bella go camping and catch 30 fish. If they share them equally, how many fish will each one receive?
+c. Mark and Sarah go to the beach to collect shells. They find a total of 25 shells. If they divide them equally, how many shells will each one have?
+d. When Emma and David play their game of dice, they roll a total of 16 points between them. If they split the points equally, how many points will each of them get?
+
+
+
+85
+New Questions:
+a. A bakery sold 70 pies last week. How many pies were sold on average per day?
+b. A store sold 56 hot dogs in a week. Calculate the average number of hot dogs sold per day.
+c. A restaurant sold 98 slices of pizza last week. What is the average daily sales of pizza?
+d. A fast food outlet sold 42 chicken sandwiches in a week. How many chicken sandwiches were sold on average per business day?
+
+
+
+86
+Original Question: There were a total of 27 soccer games during the 3 month season. If the games are equally divided, how many soccer games are played a month?
+New Questions:
+a. In a 4 month basketball season, there were 48 games. If the games are evenly distributed, how many basketball games are played per month?
+b. A cricket tournament had a total of 45 matches across a 5 month period. How many matches are played every month if they are divided equally?
+c. There were 60 tennis matches in a 6 month period. If the matches are uniformly distributed, how many are played per month?
+d. In a 9 month long football season, there were 81 games played. What is the average number of games played per month if they are uniformly distributed?
+
+
+
+87
+Original Question: Fred has 110 blue marbles. Fred has 22 times more blue marbles than Tim. How many blue marbles does Tim have?
+New Questions:
+a. Jane has 70 green marbles. Jane has 15 times more green marbles than David. How many green marbles does David have?
+b. Mark has 50 red marbles. Mark has 3 times more red marbles than Lucy. How many red marbles does Lucy have?
+c. Tony has 80 purple marbles and his purple marbles are twice as many as his friend Sarah's. How many purple marbles does Sarah have?
+d. In a school event, there are 200 yellow stickers given out. Each student received 2 times more stickers than their teacher. How many yellow stickers did the teacher receive? (Let's assume one teacher was present during the event)
+
+
+
+88
+Original Question: There are 390 students at a school. If each classroom holds 30 students, how many classrooms are needed at the school?
+New Questions:
+a. At a college, there are 480 students. If each lecture hall holds 40 students, how many lecture halls are needed?
+b. In a kindergarten, there are 270 children. If each class has a maximum of 25 children, how many classrooms will be required?
+c. A high school has 600 students. If each classroom can accommodate up to 35 students, how many classrooms should be allocated?
+d. In an elementary school, there are 500 pupils. Each classroom has space for 28 pupils; how many classrooms does the school need?
+
+
+
+89
+Original Question: Mike has 96 muffins, which he needs to box up into dozens. How many boxes does he need?
+New Questions:
+a. If Emily had 144 cookies and she wanted to put them in boxes of 24 each, how many boxes would she need?
+b. Bob has 75 apples and wants to arrange them in boxes of 15 each. How many boxes will he need?
+c. Anna has 108 cupcakes and needs to put them in boxes of 9 each. How many boxes will she require?
+d. Jack needs to distribute 63 candies among boxes containing 7 candies each. How many boxes will he need in total?
+
+
+
+90
+Original Question: Jason's shelves hold 45 books each. How many shelves will Jason need if he has 315 books?
+New Questions:
+a. If each shelf in Amy's library can hold 60 books, how many shelves will she need for 270 books?
+b. In a store, each shelf holds 75 books. How many shelves will the store need if they have 450 books?
+c. On average, each shelf can hold 50 books. Jason decides to buy more books, this time 400 books. How many shelves will he need?
+d. In a school library, each shelf holds 90 books. The library wants to add 360 new books. How many new shelves will they need?
+
+
+
+91
+Original Question: Nancy bought 615 crayons that came in packs of 15. How many packs of crayons did Nancy buy?
+New Questions:
+a. Mary bought 780 stickers that were in packs of 20. How many packs did she buy?
+b. Emily purchased 378 drawing pencils in packs of 9. How many packs did she purchase?
+c. Tom bought 525 erasers in boxes of 15. How many boxes did he buy?
+d. Lucy purchased some color pencils in sets of 8, and she bought a total of 640 pencils. How many sets did she buy?
+
+
+
+92
+Original Question: Mary earns $46 cleaning a home. How many homes did she clean, if she made 276 dollars?
+New Questions:
+a. Jane earns $36 cleaning a house. How many houses did she clean if she earned 252 dollars?
+b. If Lucy makes $50 per home she cleans, how many houses did she clean to earn 300 dollars?
+c. Tom cleans offices and gets paid $60 per office. How many offices did he clean to earn 360 dollars?
+d. An employee at a restaurant makes $15 per hour. If she works for 12 hours a day, how many days did she work to earn $540?
+
+
+
+93
+Original Question: There were a total of 323 football games in the season. The season is played for 17 months. How many football games were played each month, if each month has the same number of games?
+New Questions:
+a. There were 400 basketball games in the current season which lasted for 20 months. How many basketball games were played on average per month assuming each month has a similar number of games?
+b. A concert season features a total of 280 performances across 15 months. If all months are considered equal, how many concerts took place on average per month?
+c. In a given season of 18 months, a total of 450 ice rink events were held. Assuming equal distribution across months, how many events took place each month?
+d. Across a duration of 21 months, a music festival hosted a total of 560 performances. Calculate the average number of performances per month, assuming all months are similar in terms of events.
+
+
+
+94
+Original Question: Nancy, Melanie, Mary, and Alyssa each bought 540 baseball cards, which come in packs of 20. How many packs of baseball cards do they have in all?
+New Questions:
+a. If Sam, Alex, Emma, and Emily each bought 480 basketball cards that come in packs of 30, how many packs do they have in total?
+b. Adam and Bella bought a total of 1500 playing cards that are sold in packs of 15 each. How many packs did they buy?
+c. Lily, Lucy, and Lucy's brother each bought a collection of video games containing 12 games in a pack. If they all bought 60 games each, how many packs do they have?
+d. Each of the players in a team bought a pack of soccer cards that contains 25 cards per pack. If the team has 10 players, how many total soccer cards did they buy if they bought the same number of packs?
+
+
+
+95
+Original Question: Sally earns $25.00 for each house she cleans. If she cleans 96 houses, how many dozens of dollars will she make?
+New Questions:
+a. Jane earns $30 per room she paints. If she paints 120 rooms, how many scores of dollars will she earn?
+b. Tom gets paid $15 for each book he sells. If he sells 84 books, how many grosses of dollars will he make?
+c. Bella earns $2 per article she writes. If she writes 108 articles, how many dozens of dollars will she accumulate?
+d. Adam is a farmer and gets paid $50 per acre of land he cultivates. If he cultivates 90 acres, how many bundles of dollars will he earn? (Assuming a bundle is equivalent to $100)
+
+
+
+96
+Original Question: There are 60 calories in a candy bar. How many dozen calories are there in 45 candy bars?
+New Questions:
+a. There are 70 calories in a chocolate bar. How many dozen calories are there in 36 chocolate bars?
+b. If each piece of fruit has 45 calories, how many dozen calories are there in 50 pieces of fruit?
+c. A bag of chips contains 200 calories. Calculate the total number of dozen calories in 15 bags of chips.
+d. There are 90 calories in a pack of gummies. How many dozen calories are present in 24 packs of gummies?
+
+
+
+97
+New Questions:
+a. Lucy counted 72 butterflies in a garden. How many dozen butterflies did Lucy count?
+b. In the park, Alex saw 108 squirrels. How many dozen squirrels did Alex see?
+c. Emma observed 60 flowers in a field. How many dozen flowers did Emma observe?
+d. On the farm, Lily counted 120 chickens. How many dozen chickens did Lily count?
+
+
+
+98
+Original Question: Melanie has 84 blue marbles. Sandy has 8 times more blue marbles than Melanie. How many dozen blue marbles does Sandy have?
+New Questions:
+a. Emily has 72 red marbles. David has 7 times more red marbles than Emily. How many dozen red marbles does David have?
+b. Tiffany has 56 green marbles. Vanessa has 5 times more green marbles than Tiffany. How many dozen green marbles does Vanessa have?
+c. Adam has a collection of yellow marbles. He has 3 times more yellow marbles than the total number of blue marbles he has which is 60. How many dozen yellow marbles does Adam have?
+d. Megan has a jar of pink marbles, which are 12 times more than the number of brown marbles she has, which are 24. How many dozen pink marbles does Megan have?
+
+
+
+99
+Original Question: Sara has 192 golf balls. How many dozen golf balls does she have?
+New Questions:
+a. A restaurant owner has 78 bottles of water. How many dozen bottles does he have?
+b. In a party, there are 288 candies. How many dozen candies are there?
+c. Alex has 360 coins in his pocket. Can you tell me how many dozen coins he owns?
+d. A farmer has 432 apples in his orchard. How many dozen apples does he have?
+
+
+
+100
+Original Question: Keith bought 72 eggs from the store to bake some cakes. How many dozen eggs did Keith buy?
+New Questions:
+a. Sarah bought 90 apples from the market to make a fruit salad. How many dozen apples did Sarah buy?
+b. Emma bought 54 bananas at the grocery store. How many dozen bananas did Emma buy?
+c. David bought 150 oranges from the fruit stand. How many dozen oranges did David buy?
+d. Lisa bought 36 cupcakes from the bakery to share with her friends. How many dozen cupcakes did Lisa buy? (Note: The context has changed, but the underlying reasoning logic remains the same – i.e., converting the given quantity into "dozen" units.)
+
+
+
+101
+Original Question: Mike has 48 books. Alyssa has 8 times more books than Mike. How many dozen books does Alyssa have?
+New Questions:
+a. Adam has 36 books. Eva has 9 times more books than Adam. How many dozen books does Eva have?
+b. Emily has 27 pens. Emily's brother has 5 times more pens than Emily. How many dozen pens does his brother have?
+c. Alex has 20 toys. Alex's sister has 4 times more toys than Alex. How many dozen toys does her sister have?
+d. If Emma has 90 records and Sam has twice as many records as Emma, how many dozen records does Sam have?
+
+
+
+102
+Original Question: Sara has saved 9 dollars from washing cars. How many dozen quarters does Sara have?
+New Questions:
+a. Alex has earned 7 dollars from selling lemonade. How many dozen quarters does Alex have?
+b. Emma has saved 15 dollars from doing odd jobs. How many dozen quarters does Emma have?
+c. If Sara has earned 9 dollars from doing housework, how many dozen quarters does she have?
+d. Jane has earned 9 dollars by completing surveys. How many dozen quarters does Jane have in total?
+
+
+
+103
+Original Question: Sara, Keith, Benny, and Alyssa each have 96 baseball cards. How many dozen baseball cards do they have in all?
+New Questions:
+a. Adam, Charlie, Emily, and David all have 72 basketball cards each. How many dozen basketball cards do they have together?
+b. Sara and her friends have a total of 480 football cards among them. How many dozen football cards do they have?
+c. There are five children - Emily, Adam, Michael, Noah and Alex - and each of them has 60 video game cards. How many dozen video game cards do they have in total?
+d. Five friends - Sara, Keith, Emma, Alex and Noah - share a collection of 300 football cards equally. How many dozen football cards does each of them have?
+
+
+
+104
+Original Question: Jason has 3 Pokemon cards. Benny bought 2 of Jason's Pokemon cards. How many Pokemon cards does Jason have now?
+New Questions:
+a. Emma had 7 video game cards. Adam bought 3 of Emma's cards. How many video game cards does Emma have now?
+b. Jack had 9 action figures. Michael bought 4 of Jack's action figures. How many action figures does Jack have now?
+c. Lily had 10 stickers. Adam bought half of Lily's stickers. How many stickers does Lily have now?
+d. Adam had 15 baseball cards. He gave away 5 to his friend. How many baseball cards does Adam have now?
+
+
+
+105
+Original Question: Mike has 8 orange marbles, he gave Sam 4 of the marbles. How many orange marbles does he now have?
+New Questions:
+a. Emma had 10 red apples, she gave Bob 5 of them. How many red apples does she have now?
+b. Adam had 15 blueberries in his basket, he shared 7 with his friend. How many blueberries does he have now?
+c. Sarah had a dozen yellow pencils, she lent out 3 of them. How many yellow pencils does she have now?
+d. John had a set of green playing cards containing 20 cards, he gave away 6 cards to his friend. How many green playing cards does he have now?
+
+
+
+106
+Original Question: Joan had 5 dimes in her bank. She spent 2 of her dimes. How many dimes does she have now?
+New Questions:
+a. Maria had 7 quarters in her wallet. She used 3 of them. How many quarters does she have now?
+b. Before going to the store, Adam had 10 pennies in his pocket. He spent 4 of them. How many pennies does he have now?
+c. After paying for the groceries, Jennifer had 3 dollars and 2 quarters left in her wallet. She used a dollar bill. How many dollars does she have now?
+d. Carla had 6 coins in her hand and she used up 3 of them to buy a snack. How many coins does she have remaining in her hand?
+
+
+
+107
+Original Question: There are 2 rose bushes currently in the park. Park workers will plant 4 more rose bushes today. How many rose bushes will the park have when the workers are finished?
+New Questions:
+a. There are currently 3 cherry trees in the orchard. Farmers will plant 7 more cherry trees today. How many cherry trees will the orchard have in total?
+b. In the school garden, there are 5 sunflower seedlings. The school gardeners are planting 9 more seedlings today. How many sunflowers will be in the garden after they are all grown?
+c. There are currently 6 lilac bushes in the botanical garden. Gardeners are planting 10 more today. What will be the total number of lilac bushes in the garden after planting?
+d. In the city park, there are presently 10 pine trees. The park workers are planting 15 more pine trees today. How many pine trees will the park have after the planting is complete?
+
+
+
+108
+Original Question: Sam grew 4 watermelons, but the rabbits ate 3 watermelons. How many watermelons does Sam have left?
+New Questions:
+a. Lily planted 6 pumpkins, and her rabbits ate 2 of them. How many pumpkins does Lily have now?
+b. John grew 8 apples, but his dog ate 5 of them. How many apples does John have left?
+c. Emma cultivated 10 melons, and her dog and cat ate the same number as Emma did eat. How many melons are left?
+d. George cultivated a dozen oranges and sold half of them at the market. If a squirrel ate 3 oranges, how many oranges does George have now?
+
+
+
+109
+Original Question: There are 3 calories in a candy bar. How many calories are there in 5 candy bars?
+New Questions:
+a. If each piece of chocolate has 4 calories, how many calories are there in 10 pieces?
+b. In a pack of chips there are 5 calories per serving. How many calories are there in 3 packs of chips?
+c. There are 2 calories in a chocolate chip cookie. What is the total calorie count for 6 cookies?
+d. If each chocolate bar has an average of 5 calories, how many calories are there in 7 chocolate bars?
+
+
+
+110
+Original Question: Dan has 5 blue marbles. Mary has 2 times more blue marbles than Dan. How many blue marbles does Mary have?
+New Questions:
+a. Jennifer has 7 red marbles. Eric has twice as many red marbles as Jennifer. How many red marbles does Eric have?
+b. Adam has 9 yellow marbles. Sara has 3 times more yellow marbles than Adam. How many yellow marbles does Sara have?
+c. George has 4 green marbles. Jennifer has half the number of green marbles George has. How many green marbles does Jennifer have?
+d. Kate has 7 purple marbles and she has the same number of purple marbles as her brother Adam. How many purple marbles does Adam have?
+
+
+
+111
+Original Question: Jason had Pokemon cards. He gave 9 Pokemon cards to his friends. He now has 4 Pokemon cards left. How many Pokemon cards did he have to start with?
+New Questions:
+a. Adam had basketball tickets. He gave away 12 tickets to his colleagues. Now he has 7 tickets remaining. How many basketball tickets did he have initially?
+b. Emma had books. She lent out 5 books to her classmates. She now has 3 books with her. How many books did she have originally?
+c. Michael had video games. He sold 7 games at a garage sale and now has 6 games left. How many video games did he start with?
+d. Amanda had music CDs. She gave away half of them to her younger siblings and now has 10 CDs left. How many music CDs did she have initially?
+
+
+
+112
+Original Question: Mary had 7 nickels in her bank. Her dad gave her 5 more nickels. How many nickels does Mary have now?
+New Questions:
+a. Jane initially had 3 pennies. Her brother gave her 2 more pennies. How many pennies does Jane have now?
+b. Tom had 9 quarters in his pocket. His friend gave him 7 more quarters. How many quarters does Tom have now?
+c. Lucy had 10 dollars in her purse. Her mom gave her some more dollars. How many dollars does Lucy have now if she received 5 dollars from her mom?
+d. Adam had 15 tokens in his collection. His uncle gave him some more tokens at a family gathering. If Adam received 10 tokens from his uncle, how many tokens does he have now?
+
+
+
+113
+Original Question: Melanie, Benny, Sally, and Jessica each have 3 baseball cards. How many baseball cards do they have in all?
+New Questions:
+a. Tom, Lucy, David and Emma each possess 2 basketball cards. How many basketball cards are there in total?
+b. Adam, Noah, Ethan and James each own 4 football cards. What is the total number of football cards?
+c. Michael, Emily, Joshua and Olivia all have 5 hockey cards. How many hockey cards are there in total?
+d. In a group of children, each child has 6 soccer cards. If there are 7 children in the group, how many soccer cards are there in total?
+
+
+
+114
+Original Question: Keith grew 6 turnips. Alyssa grew 9 turnips. How many turnips did they grow in all?
+New Questions:
+a. Jonathan planted 7 carrots. Sarah planted 12 carrots. How many carrots did they plant together?
+b. Emma cultivated 4 potatoes. Adam cultivated 7 potatoes. What's the total number of potatoes they cultivated?
+c. Steven is growing 18 tomatoes. Lucy is growing 22 tomatoes. How many tomatoes are they growing in total?
+d. Michael harvested 15 beans. Jennifer harvested 20 beans. What is the sum of beans they harvested?
+
+
+
+115
+Original Question: There are 4 children in the classroom, each student will get 2 pencils. How many pencils will the teacher have to give out?
+New Questions:
+a. In a classroom of 5 kids, each student will receive 3 pencils. How many pencils will the teacher distribute in total?
+b. There are 6 students in the class and each of them will receive 4 pencils. How many pencils should the teacher prepare?
+c. In a classroom setting with 3 children, each student needs 5 pencils to work with. How many pencils do the teacher need to provide?
+d. 7 students are in a class and each of them requires a set of 2 pencils for their work. How many sets of pencils should the teacher provide in total?
+
+
+
+116
+Original Question: Mary has 9 yellow marbles and Joan has 3 yellow marbles. How many yellow marbles do they have in total?
+New Questions:
+a. Lucy has 7 green marbles and Alice has 2 green marbles. How many green marbles do they have together?
+b. Tom has 10 blue marbles and Emma has 5 blue marbles. What is the total number of blue marbles they own?
+c. If Jennifer has 12 red marbles and David has 7 red marbles, how many red marbles are there in total?
+d. 6 children are playing with marbles. Each child has 4 marbles except for one who has only 2 marbles. How many marbles are there in total?
+
+
+
+117
+Original Question: There are 8 calories in a candy bar. How many calories are there in 3 candy bars?
+New Questions:
+a. There are 10 calories in a chocolate bar. How many calories are there in 5 chocolate bars?
+b. If each slice of bread has 25 calories, how many calories are there in 9 slices of bread?
+c. In a pack of chips there are 60 calories. Calculate the total calories for 4 packs of chips.
+d. A fruit juice bottle contains 200 calories. How many calories are in 7 bottles of the same juice?
+
+
+
+118
+Original Question: Joan has saved 6 quarters from washing cars. How many cents does Joan have?
+New Questions:
+a. Emma has collected 8 quarters from recycling bottles. How many cents does Emma have?
+b. David earns 10 quarters by doing chores. How many cents does David have?
+c. If Jennifer picks up 10 quarters on the ground, how many cents does she have?
+d. After collecting 12 quarters from working part-time, how many cents does Sara have?
+
+
+
+119
+Original Question: There are 960 students at a school. If each classroom holds 30 students, how many classrooms are needed at the school?
+New Questions:
+a. A college has 1,200 students and each lecture hall can accommodate 50 students. How many lecture halls are required?
+b. In a secondary school, there are 750 students and each science lab holds 25 students. How many science labs are needed?
+c. A primary school has 840 pupils and each music room can accommodate 20 pupils. How many music rooms will be required?
+d. A university has 1,500 students and each library study room can hold 35 students. How many study rooms will be needed in the library?
+
+
+
+120
+Original Question: There were a total of 12 basketball games in the season. The season is played for 2 months. How many basketball games were played each month, if each month has the same number of games?
+New Questions:
+a. In a soccer season that lasts 3 months and has a total of 21 games, how many matches are played each month if all months have the same number of games?
+b. A tennis player plays 4 tournaments in a season that lasts for 4 months. How many tournaments does he play per month if each month has a similar number of tournaments?
+c. There were 24 rounds of chess tournaments played throughout the year. If the year is divided into 12 equal months, how many chess tournaments were played in each month?
+d. In a season that lasts 6 months and has a total of 48 concerts, how many concerts are held monthly if all months have a similar number of events?
+
+
+
+121
+Original Question: Mary, Sam, Keith, and Alyssa each have 6 baseball cards. How many baseball cards do they have in all?
+New Questions:
+a. Emma, Alex, Noah, and Olivia each have 7 basketball cards. How many basketball cards do they have altogether?
+b. Alex, Jennifer, David and Adam share the same number of football cards as Mary, Sam, Keith and Alyssa had in baseball cards. How many football cards do they have?
+c. If Mary has 8 basketball cards, Sam has 7, Keith has 6 and Alyssa has 5, how many basketball cards do they have in total?
+d. In a group of children, each has 6 soccer cards except for Alyssa who has 4. How many soccer cards are there in all?
+
+
+
+122
+Original Question: Sally bought 4 dozen eggs from the grocery store to bake some cakes. How many eggs did Sally buy?
+New Questions:
+a. Jane bought 6 dozen eggs at the supermarket for a party. How many eggs did Jane buy?
+b. Bob bought 2 dozen eggs from the farm to make an omelet. How many eggs did Bob buy?
+c. Lily bought a dozen eggs from the convenience store for breakfast. How many eggs did Lily buy?
+d. Emma bought three times as many eggs as her sister did, and she bought them all from the grocery store. How many eggs did Emma buy if her sister bought 4 dozen?
+
+
+
+123
+Original Question: There are 1110 students at a school. If each classroom holds 30 students, how many classrooms are needed at the school?
+New Questions:
+a. In a college with 1200 students, each lecture hall holds 50 students on average. How many lecture halls are required?
+b. A high school has 990 students and each classroom can accommodate 25 students. How many classrooms does the school need?
+c. A university has 1500 students and intends to have 30 students per class. How many classrooms should the university build?
+d. In an elementary school, there are 1300 children and each class requires a maximum of 28 children per teacher. How many classes are needed in total?
+
+
+
+124
+Original Question: Sally grew 6 carrots. Fred grew 4 carrots. How many carrots did they grow in all?
+New Questions:
+a. Mary planted 7 potatoes. David planted 3 potatoes. How many potatoes did they plant together?
+b. Emma harvested 9 apples. Tom harvested 2 apples. What is the total number of apples they harvested?
+c. Lucy and her brother grew some beans. Lucy grew 10 beans, her brother grew 6 beans. How many beans did they grow in total?
+d. Gina and her sister planted carrots in their garden. Gina planted 7 carrots, her sister planted 5 carrots. How many carrots did they plant altogether?
+
+
+
+125
+Original Question: Benny has 6 blue marbles. Keith has 5 times more blue marbles than Benny. How many blue marbles does Keith have?
+New Questions:
+a. Alice has 4 red marbles. Bob has 3 times more red marbles than Alice. How many red marbles does Bob have?
+b. If Josh has 8 green marbles and Emma has twice as many green marbles as Josh, how many green marbles does Emma have?
+c. Sara has 9 purple marbles and Tom has 4 times more purple marbles than Sara. How many purple marbles does Tom possess?
+d. John has 7 orange marbles. Emily has 8 times more orange marbles than John. What is the total number of orange marbles Emily has?
+
+
+
+126
+Original Question: Fred earns $12.50 an hour cleaning houses. If he works for 8 hours, how much money will he make?
+New Questions:
+a. Jane earns $10 per hour in a factory. If she works for 7 hours, how much money will she make?
+b. Tom is a teacher and gets paid $20 an hour. How much will he earn if he works for 6 hours?
+c. Gina earns $8 an hour at her part-time job. She works for 9 hours this week. How much will she make?
+d. If an employee makes $15 an hour and works for 10 hours overtime, how much money will the employer pay?
+
+
+
+127
+Original Question: Fred has 5 baseball cards. Melanie bought 3 of Fred's baseball cards. How many baseball cards does Fred have now?
+New Questions:
+a. Alex had 8 basketball cards. Emma bought 4 of them. How many basketball cards does Alex have now?
+b. Before selling 2 of his 7 football cards, how many football cards did Jack have?
+c. Megan had 10 music CDs. She sold 5 of them. How many music CDs does she have now?
+d. Before giving away 3 of his 12 photos, how many photos did Tom have?
+
+Explanation:
+New questions share the same underlying reasoning logic as the original question: They all involve a person having a certain number of items (cards, CDs, photos), selling or giving away some of them, and the remaining number of items after the transaction is what needs to be calculated. The context and specific numbers are changed to create distinct variations.
+
+
+
+128
+Original Question: Nancy has saved 4900 cents from selling lemonade. How many dollars does Nancy have?
+New Questions:
+a. After selling apples, Jane earned 5400 cents. How many dollars did she make?
+b. Lucy saved 3700 cents from selling homemade jewelry. How many dollars does she have?
+c. Tom has earned 6500 cents from doing odd jobs. What is the total amount in dollars?
+d. Emma sold her old toys and saved 2800 cents. How many dollars did she make?
+
+
+
+129
+Original Question: There were a total of 10 soccer games in the season. The season is played for 5 months. How many soccer games were played each month, if each month has the same number of games?
+New Questions:
+a. In a basketball season that lasts 6 months and has a total of 20 games, how many games are played each month if the distribution is the same across all months?
+b. A tennis player plays 8 tournaments in a season that lasts for 4 months. Calculate the number of tournaments played per month if they are distributed uniformly.
+c. A cricket team played 15 matches in a season that lasted for 3 months. How many matches did they play per month, assuming the distribution is the same across all months?
+d. In a football league with a season of 7 months and a total of 35 games, how many games are played each month if the games are distributed uniformly?
+
+
+
+130
+Original Question: Benny goes out to lunch with Sara and Tom. Each person orders the $8 lunch special. Benny agrees to pay the bill. How much will he have to pay?
+New Questions:
+a. Benny, Sara and Tom go to a restaurant and order the $10 meal each. Benny promises to cover the bill. How much should he pay?
+b. At a restaurant with Benny, Sara, and Tom, they all choose the $9 lunch special. Benny intends to pay for all of them. How much should Benny pay?
+c. Benny joins Sara and Tom for lunch at a restaurant where each meal costs $7. Benny agrees to cover the entire cost of the meal. What is Benny's total bill?
+d. When Benny eats with Sara and Tom, they all order dishes priced at $12 each. Benny agrees to cover the total bill. Calculate Benny's total payment.
+
+
+
+131
+Original Question: Melanie goes fishing with Tom. Melanie catches 8 trout. Tom catches 2 times as many trout as Melanie. How many trout did Tom catch?
+New Questions:
+a. Jennifer and Michael go hiking. Jennifer sees 5 deer. Michael sees twice as many deer as Jennifer. How many deer did Michael see?
+b. Emily and Adam play basketball. Emily scores 10 points. Adam scores twice as many points as Emily. How many points did Adam score?
+c. David and Victoria ride bicycles. David rides 15 miles. Victoria rides twice as many miles as David. How many miles did Victoria ride?
+d. Bella and Ethan play chess. Bella wins 3 games in a row. Ethan wins twice as many games as Bella. How many games did Ethan win?
+
+
+
+132
+Original Question: Tom was at the beach for 5 days and found 7 seashells every day. How many seashells did Tom find during the beach trip?
+New Questions:
+a. Lucy visited the mountains for 4 days and picked 6 wildflowers every day. How many wildflowers did she gather?
+b. At the park, Emily found 8 butterflies every day for 7 days. How many butterflies did she find in total?
+c. While camping in the woods, Adam encountered 12 birds every day for 3 days. How many birds did he see?
+d. In the mountains, Bella found 9 gems every day during her 6-day trip. How many gems did she find in total?
+
+
+
+133
+Original Question: A restaurant sold 8 pies every day for a week. How many pies were sold during the week?
+New Questions:
+a. A bakery sold 6 breads every day for a week. How many breads were sold in total?
+b. A cafeteria served 10 sandwiches every day for a weeklong event. How many sandwiches were served in total?
+c. A vendor sold 12 pastries per day for a weekend event. How many pastries were sold during the two days?
+d. A catering service provided 50 meals per day for a corporate event lasting a week. What's the total number of meals provided?
+
+
+
+134
+New Questions:
+a. If Sarah has 7 ten-dollar bills, how much money does she have?
+b. Jane has 12 five-dollar notes. What is the total amount of money she holds?
+c. Emily has 6 five dollars bills and 3 ten dollars bills, how much money does she have in total?
+d. Adam holds 15 dollars in cash, which consists of three five-dollar bills. How many five-dollar bills does he have?
+
+
+
+135
+Original Question: Nancy has 7 black balloons. Mary has 4 times more black balloons than Nancy. How many black balloons does Mary have now?
+New Questions:
+a. Lucy has 9 red balloons. Kate has 3 times more red balloons than Lucy. How many red balloons does Kate have now?
+b. In the party, Adam has 12 blue balloons. His friend Bob has twice more blue balloons than Adam. How many blue balloons does Bob have?
+c. At the children's birthday party, Sam has 15 green balloons. The host has 6 times more green balloons than Sam. How many green balloons does the host have?
+d. At the circus, Molly has 3 orange balloons. Her brother Jimmy has 5 times more orange balloons than Molly. How many orange balloons does Jimmy have?
+
+
+
+136
+Original Question: Jessica, Sandy, and Jason each have 8 pencils. How many pencils do they have in all?
+New Questions:
+a. Emily, David, and Michael each have 9 markers. How many markers do they have in total?
+b. Amy, Bella, and Charlie share an equal number of books. If each of them has 6 books, how many books do they have in total?
+c. Tom, Jerry, and Mike all have 7 notebooks. What is the total number of notebooks they possess?
+d. Sarah, John, and David each possess 10 knives. How many knives do they have combined?
+
+
+
+137
+Original Question: Sam, Dan, Tom, and Keith each have 14 Pokemon cards. How many Pokemon cards do they have in all?
+New Questions:
+a. Emily, Adam, and Olivia each have 20 Magic cards. How many Magic cards do they have altogether?
+b. Alex, Bob, and Charlie share 30 Yu-Gi-Oh cards among them. How many cards do they each have?
+c. Michael, Jessica, and Mark own a total of 40 different sports cards. If each of them has the same number of cards, how many do they each have?
+d. William has 15 basketball cards, Jane has 20 basketball cards, and David has 25 basketball cards. How many basketball cards do they have altogether?
+
+
+
+138
+Original Question: Alyssa has 36 books. Nancy has 7 times more books than Alyssa. How many books does Nancy have?
+New Questions:
+a. Ben has 24 pens. Alice has 5 times more pens than Ben. How many pens does Alice have?
+b. David has 8 apples. Emily has 4 times more apples than David. How many apples does Emily have?
+c. Gina has 21 video games. Brandon has 3 times more video games than Gina. How many video games does Brandon have?
+d. Sara has 30 paintings. Peter has 9 times more paintings than Sara. How many paintings does Peter have?
+
+
+
+139
+Original Question: Tim has 13 dozen golf balls. How many golf balls does he have?
+New Questions:
+a. Emily has 7 dozen tennis balls. How many tennis balls does she have?
+b. Bill has 15 dozen baseballs. What is the total number of baseballs he owns?
+c. Alice has 20 dozen soccer balls. Calculate the total number of soccer balls she has.
+d. Jack has 25 dozen basketballs. How many basketballs does Jack possess in total?
+
+
+
+140
+Original Question: There were a total of 13 hockey games a month. The season is played for 14 months. How many hockey games are in the seasons?
+New Questions:
+a. There are 9 basketball games each month during the season. If the season lasts for 20 months, how many basketball games are played in total?
+b. In a given tennis season, there are 8 tournaments per month for a total of 5 months. How many tournaments are played throughout the season?
+c. A football team plays 15 matches per month on average during its season which lasts for 9 months. How many matches are played in total?
+d. A cricket league has a duration of 8 months with 12 games per month. Calculate the total number of games in a season.
+
+
+
+141
+New Questions:
+a. How many dozen eggs did Benny buy for baking?
+b. Benny bought eggs from the supermarket for baking purposes. How many dozen did he get?
+c. Benny bought eggs at the bakery to make cakes. Can you count how many dozen he bought?
+d. Benny bought a certain number of dozen eggs from the grocery store for his baking needs. How many did he purchase?
+
+
+
+142
+Original Question: Dan has 29 violet balloons. Tim has 7 times more violet balloons than Dan. How many violet balloons does Tim have?
+New Questions:
+a. Alex has 35 blue balloons. Bob has 6 times more blue balloons than Alex. How many blue balloons does Bob have?
+b. Emma has 40 pink roses. Cindy has 5 times more pink roses than Emma. How many pink roses does Cindy have?
+c. Lucy has 12 yellow balloons and Micky has twice as many yellow balloons as Lucy. How many yellow balloons does Micky have?
+d. In a party, Tom has 15 green balloons while Jerry has the triple amount. How many green balloons does Jerry have?
+
+
+
+143
+Original Question: There are 31 calories in a candy bar. How many calories are there in 11 candy bars?
+New Questions:
+a. How many calories are there in 23 chocolate bars if each chocolate bar has 45 calories?
+b. If each ice cream bar contains 70 calories, how many calories are there in 15 ice cream bars?
+c. A packet of chips has 50 calories. Calculate the total calories in 19 packets of chips.
+d. In a packet of wafers, there are 40 calories. How many calories are there in 27 packets of wafers?
+
+
+
+144
+Original Question: Sara has saved 11 quarters from washing cars. How many cents does Sara have?
+New Questions:
+a. Sara earned 12 quarters from mowing lawns. How many cents does Sara have?
+b. Sara has collected 15 quarters from doing chores. What is the total amount in cents?
+c. Sara has received 9 quarters as change. How many cents does she now have?
+d. Sara has been saving quarters from various jobs and has 7 quarters. How many cents does she have in total?
+
+
+
+145
+Original Question: There are 46 children in the classroom, each student will get 4 dozen pencils. How many pencils will the teacher have to give out?
+New Questions:
+a. In a classroom with 35 students, each student gets 5 dozen markers. How many markers will the teacher need to distribute?
+b. There are 50 pupils in the class. Each student is given 3 dozen erasers. How many erasers should the teacher prepare?
+c. In a class of 42 children, every student gets 6 dozen crayons. How many crayons should the teacher provide?
+d. A group of 38 students is about to receive their school supplies. Each student needs 7 dozen notebooks. How many notebooks does the teacher need to prepare?
+
+
+
+146
+Original Question: Nancy has saved 1 dozen quarters from washing cars. How much money does Nancy have?
+New Questions:
+a. Mary has collected 2 dozen coins from selling fruits. How much money does Mary have?
+b. After cleaning dishes for a whole week, Lisa has earned 3 dozen quarters. How much did she earn?
+c. Tom has amassed 4 dozen nickels from doing odd jobs around the neighborhood. What is the total amount of money he has?
+d. John has earned a dozen quarters by recycling bottles each week. How much money has he earned in total?
+
+
+
+147
+New Questions:
+a. "Sarah bought 8 dozen eggs from the market for cooking. How many eggs did Sarah buy?"
+b. "John bought eggs for making a birthday cake. He bought 12 dozen. How many eggs did John buy?"
+c. "Emily bought some eggs from the supermarket to make breakfast dishes. She bought 11 dozen eggs. How many eggs did Emily buy?"
+d. "To make a batch of cookies, Michael bought 7 dozen eggs from the bakery. How many eggs did Michael purchase?"
+
+
+
+148
+Original Question: There are 4 dozen calories in a candy bar. How many calories are there in 42 candy bars?
+New Questions:
+a. If a candy bar has 5 dozen calories, how many calories are there in 42 candy bars?
+b. A chocolate bar has 3 dozen calories. How many calories are there in 42 chocolate bars?
+c. There are 7 dozen calories in a chocolate-covered candy bar. Calculate the total calories for 42 such bars.
+d. In a pack of 42 gummy bears, each gummy bear has 4 dozen calories. How many calories are in the entire pack?
+
+
+
+149
+Original Question: Sandy has 8 dozen books. Fred has 5 times more books than Sandy. How many books does Fred have?
+New Questions:
+a. Emily has 10 books. David has twice as many books as Emily. How many books does David have?
+b. Alex has 20 novels. Bella has 3 times more novels than Alex. Calculate the total number of novels Bella has.
+c. Carla has a collection of 50 CDs. Charlie's CD collection is 4 times larger than Carla's. How many CDs does Charlie have?
+d. Jennifer has 25 textbooks. Her brother's collection of textbooks is 6 times larger than hers. How many textbooks does her brother have?
+
+
+
+150
+Original Question: Jessica has 3 dozen red marbles. Sandy has 4 times more red marbles than Jessica. How many red marbles does Sandy have?
+New Questions:
+a. Adam has 2 dozen blue marbles. He has 5 times fewer blue marbles than Emily. How many blue marbles does Emily have?
+b. Gemma has 6 pink marbles. Alina has 2 times as many pink marbles as Gemma. How many pink marbles does Alina have?
+c. Amy has 7 green marbles and she has 3 more than her brother Bob. How many green marbles does Bob have?
+d. In a jar, there are white and black marbles. The number of white marbles is 8 times greater than the number of black marbles. If there are 40 white marbles, how many black marbles are there?
+
+
+
+151
+Original Question: Melanie, Benny, Sandy, and Jessica each have 9 dozen Pokemon cards. How many Pokemon cards do they have in all?
+New Questions:
+a. Sam, Adam, Emily, and David each possess 8 packs of Marvel comics. What is the total number of Marvel comics they have?
+b. Aaron, Brian, Cheryl, and David each hold 10 collections of Yu-Gi-Oh cards. How many cards do they possess in total?
+c. George, Henry, Isabel, and Jack each bought 12 games of chess pieces. How many chess pieces do they have in total?
+d. Alex, Carla, Dan, and Eva are collecting coins. They all possess 25 coins each. Calculate their total coin count.
+
+
+
+152
+Original Question: Sally saw 1 dozen birds in a tree. How many birds did Sally see?
+New Questions:
+a. Emma noticed 2 dozen butterflies in a garden. How many butterflies did Emma notice?
+b. David counted 3 dozen fishes in the sea. How many fishes did David count?
+c. Lily saw 4 dozen monkeys in the jungle. What is the total number of monkeys she saw?
+d. Tom saw 5 dozen stars at night. How many stars did Tom see?
+
+
+
+153
+Original Question: Fred, Benny, and Jason have 24 crayons all together. If the crayons are equally divided, how many will each person get?
+New Questions:
+a. Tom, Dick, and Harry have 36 markers. If they divide them equally, how many markers will each person get?
+b. Adam, Bella, and Charlie share 48 toys. If they divide them equally, how many toys will each person receive?
+c. Lily, Lucy, and Lucy's brother have 20 cookies. If they divide them equally among themselves, how many cookies will each person get?
+d. Michael, Olivia, and Patrick have a total of 30 candies. If they decide to divide them equally among themselves, how many candies will each of them receive?
+
+
+
+154
+Original Question: Benny goes to lunch with Sally and Sandy. The total bill came to 15 dollars. They decided to equally split up the bill, how much will each person have to pay?
+New Questions:
+a. Amy, Anna, and Alex go out for dinner. The total bill amounts to 20 dollars. If they decide to split the bill equally, how much should each person pay?
+b. Chris, Carla, and Corey attend a restaurant. Their meal costs 25 dollars in total. They want to divide the bill equally, calculate the amount each person should pay.
+c. Mark and his friends go to a café for some coffee. The bill is 12 dollars in total. They decide to split the cost equally among them, how much should each person pay?
+d. Megan, her brother, and her sister-in-law go shopping and spend a total of 50 dollars. They plan to divide the cost equally, how much does each person need to pay?
+
+
+
+155
+Original Question: A restaurant sold 49 hamburgers last week. How many hamburgers on average were sold each day?
+New Questions:
+a. A bakery sold 36 pastries in the past week. What is the average number of pastries sold per day?
+b. A bookstore sold 70 books in a week. Calculate the average number of books sold per day.
+c. A coffee shop made 56 cups of coffee last week. What is the daily average of coffee cups sold?
+d. A convenience store sold 84 sandwiches in a week. On average, how many sandwiches were sold per day?
+
+
+
+156
+Original Question: Sally has 6 blue balloons. Fred has 3 times more blue balloons than Sally. How many blue balloons does Fred have now?
+New Questions:
+a. Jack has 4 red apples. Lucy has twice as many red apples as Jack. How many red apples does Lucy have?
+b. In a party, Ben has 8 yellow balloons. Adam has the same number of green balloons as Ben has yellow balloons. How many green balloons does Adam have?
+c. Gina has 9 purple marbles. David has the half number of purple marbles than Gina. How many purple marbles does David have?
+d. Emma has 12 orange toys. Charlie has four times as many orange toys as Emma. How many orange toys does Charlie have?
+
+
+
+157
+Original Question: There were a total of 7 baseball games a month. The season is played for 2 months. How many baseball games are in a season?
+New Questions:
+a. A basketball season consists of 15 games per month for 3 months. How many basketball games are in a season?
+b. If a football team plays 8 games every month for a duration of 4 months, how many football games are in the whole season?
+c. In a tennis tournament, there are 4 matches per week for a period of 8 weeks. Calculate the total number of matches in the tournament.
+d. A cricket league has 10 matches in a week for a duration of 10 weeks. How many cricket matches are played in the whole league?
+
+
+
+158
+Original Question: Melanie is selling 4 gumballs for eight cents each. How much money can Melanie get from selling the gumballs?
+New Questions:
+a. If each gumball is priced at ten cents, how much can a seller make from selling 5 gumballs?
+b. A store owner is selling 3 candy balls for five cents each. How much would they earn if all were sold?
+c. A vendor is offering 6 gumdrops at a cent each. How much would they receive for all the gumdrops?
+d. A shopkeeper is selling 7 candy flosses for two cents each. Calculate the total amount earned from selling all of them.
+
+
+
+159
+Original Question: Mary had 8 potatoes in the garden. The rabbits ate 3 of the potatoes. How many potatoes does Mary now have?
+New Questions:
+a. John had 12 apples in his basket. The birds ate 4 of the apples. How many apples does John now have?
+b. In the orchard, the apples were abundant. The birds ate half of them. How many apples are left now?
+c. Lucy had a dozen of eggs in the incubator. The chickens hatched 8 of them. How many eggs does Lucy have now?
+d. In the backyard, Jane had a dozen of onions. Some of them were harvested by the squirrels. She is left with 9 onions now. How many onions were harvested by the squirrels?
+
+
+
+160
+Original Question: There were a total of 6 soccer games this year. Jessica missed 4 of the games. How many soccer games did Jessica go to in all?
+New Questions:
+a. In the last season of basketball, there were 8 games. Emily missed 3 games. How many basketball games did Emily attend?
+b. In the football league, Adam attends all games except for 2. If there are 10 games in total, how many did Adam go to?
+c. There were 12 concerts this summer, and Lily missed 7 of them. How many concerts did Lily attend in total?
+d. In the drama club performances, there were 9 shows this semester and Sara missed 5 of them. How many shows did Sara go to?
+
+
+
+161
+Original Question: There are 9 oak trees currently in the park. Park workers had to cut down 2 oak trees that were damaged. How many oak trees will the park have when the workers are finished?
+New Questions:
+a. In the school campus, there are 15 banyan trees. Due to the risk of falling, 3 banyan trees had to be removed by the maintenance team. How many banyan trees will be left in the campus after the removal?
+b. In a forest, there are 25 pine trees. To prevent the spread of a disease, the forest department cut down 8 pine trees. How many pine trees will remain in the forest?
+c. There were 12 mango trees in the orchard until recently, when farmers had to destroy 4 of them due to disease. How many mango trees will be left in the orchard after this action?
+d. In a park, there are 18 palm trees. Due to a storm, 5 palm trees were damaged and had to be removed by park workers. What will be the total number of palm trees in the park after the removal?
+
+
+
+162
+Original Question: A restaurant made 9 hamburgers to serve during lunch. Only 3 were actually served. How many hamburgers were left over from lunch?
+New Questions:
+a. A bakery made 15 cakes for a party. Only 8 were eaten. How many cakes were left over?
+b. A chef cooked 20 dishes for a banquet. Only 5 were served to guests. How many dishes were left unserved?
+c. A shop made 20 sandwiches for a sale event. Only 12 were sold. How many sandwiches were left after the event?
+d. A cafeteria made 12 pizzas for lunch. Only 4 were eaten by students. How many pizzas were left uneaten?
+
+
+
+163
+Original Question: There are 7 crayons in the drawer. Mary took 3 crayons out of the drawer. How many crayons are there now?
+New Questions:
+a. There are 9 toys in the box. Adam took 2 toys out. How many toys are left in the box?
+b. In the classroom, there were 10 pencils on the table. Lily took 4 of them. How many pencils are left on the table?
+c. In the cupboard, there were 15 bottles of water. Four people drank from them and finished their bottles. How many bottles of water are left?
+d. There are 20 books on the shelf. Sarah took away half of them for her reading group. How many books are left on the shelf now?
+
+
+
+164
+Original Question: Dan picked 9 limes and gave Sara 4 of the limes. How many limes does Dan have now?
+New Questions:
+a. Adam harvested 15 oranges and gave away 7 to his friends. How many oranges does Adam have now?
+b. Before giving 3 apples to his sister, Bob had 7 apples. How many apples does Bob have now?
+c. After sharing 6 bananas with his colleagues, Chris still had 2 bananas. How many bananas did Chris initially have?
+d. John had some mangoes and gave his friend 5 of them. He is now left with 7 mangoes. How many mangoes did John have initially?
+
+
+
+165
+Original Question: Dan found 7 seashells but 3 were broken. How many unbroken seashells did Dan find?
+New Questions:
+a. Emily found 9 rocks but 2 were damaged. How many undamaged rocks did Emily find?
+b. After searching the beach, Alex found 12 sea stars, with 4 being intact. How many intact sea stars did Alex find?
+c. On the shore, Bob found 5 conch shells, but only 2 were in good condition. How many good condition conch shells did Bob find?
+d. While on vacation, Emma found 6 sea urchins, but one of them was broken. How many intact sea urchins did Emma find?
+
+
+
+166
+New Questions:
+a. Amanda had 12 green balloons but popped 3 of them. How many green balloons does Amanda have now?
+b. Bob had 5 red apples and ate 2 of them. How many red apples does Bob have now?
+c. Jane had 7 purple toys and broke one of them. How many purple toys does Jane have now?
+d. Lucy had 10 orange candies and ate some of them, now she has 6 left. How many candies did Lucy eat?
+
+
+
+167
+Original Question: Joan picked 43 apples from the orchard, and gave 27 apples to Melanie. How many apples does Joan have now?
+New Questions:
+a. Alice harvested 50 oranges from the orchard and gave 30 to her friend. How many oranges does Alice have now?
+b. Bob had 60 strawberries in his basket, and he gave away 25 to his sister. How many strawberries does Bob have now?
+c. After picking 35 pears from the tree, Carla gave away 18 to her classmates. How many pears does Carla have now?
+d. Gina collected 70 bananas at the market and shared 32 with her family. How many bananas does Gina have now?
+
+
+
+168
+Original Question: Tom has 30 violet balloons, he gave Fred 16 of the balloons. How many violet balloons does he now have?
+New Questions:
+a. Alice had 25 purple balloons and gave away 12 of them to her friend. How many purple balloons does she have now?
+b. Bob initially had 40 blue balloons. He gave away 25 of them to his classmates. How many blue balloons does he have now?
+c. Emma had a bunch of green balloons, she gave away 18 of them and now she has 27 left. How many green balloons did she initially have?
+d. Jack had a certain number of yellow balloons. He gave away 20 balloons and now has 15 left. How many yellow balloons did he initially possess?
+
+
+
+169
+Original Question: Fred found 47 seashells on the beach, he gave Jessica 25 of the seashells. How many seashells does he now have?
+New Questions:
+a. Lucy collected 50 shells from the beach and gave away 30 to her friend. How many shells does she have now?
+b. Bob picked up 60 sea creatures from the sand, and gave away half to his sister. How many sea creatures does he have now?
+c. After finding 70 shells on the shore, Alice shared some with her friends, resulting in only 20 shells remaining. How many did she give away?
+d. Emma picked up 100 shells on the beach and gave her friend 35 of them. What percentage of the original shells does she still have?
+
+
+
+170
+Original Question: Sara grew 43 pumpkins, but the rabbits ate 23 pumpkins. How many pumpkins does Sara have left?
+New Questions:
+a. Mary planted 50 apples, and birds ate 15 of them. How many apples does Mary have now?
+b. Joe had 70 strawberries, and his family ate 30. How many strawberries does Joe have left?
+c. Lucy cultivated 60 carrots, and her dog ate 5 of them. How many carrots does Lucy have remaining?
+d. Mark harvested 30 tomatoes but lost 10 to rot. How many tomatoes does Mark have now?
+
+
+
+171
+Original Question: Joan decided to sell all of her old books. She gathered up 33 books to sell. She sold 26 books in a yard sale. How many books does Joan now have?
+New Questions:
+a. Sarah decided to sell some of her unwanted clothes. She put together 45 tops to sell and sold 35 in a garage sale. How many tops does Sarah have now?
+b. Emily sold all of her paintings in an auction. She initially had 12 paintings and sold 10 at the auction. How many paintings does Emily have now?
+c. Adam listed 50 of his CDs for sale on an online marketplace. He sold 40 of them over the next few weeks. How many CDs does Adam still have?
+d. A student sold all their textbooks after the semester ended except for one. They initially had 15 textbooks. What is the total number of textbooks they still have?
+
+New context for each question will be provided accordingly to make sure the question follows the same logic as the original one.
+
+
+
+172
+Original Question: There are 46 rulers in the drawer. Tim took 25 rulers from the drawer. How many rulers are now in the drawer?
+New Questions:
+a. There were 50 pencils in the box. Alice took away 17. How many pencils are left in the box now?
+b. In the cabinet, originally there were 60 markers. Lucy took out 15 of them. How many markers are left in the cabinet?
+c. In the shelf, there were 80 books. David borrowed 30 of them. How many books are there on the shelf now?
+d. At the start, there were 35 CDs in the case. Jack took away 20 of them. How many CDs are left in the case?
+
+
+
+173
+Original Question: Sandy sold lemonade in her neighborhood. She got 17 half-dollars on Saturday and 6 half-dollars on Sunday. What amount of money did Sandy receive?
+New Questions:
+a. Emma sold flowers in the city. She received 20 quarters on Friday and 15 quarters on Saturday. How much money did Emma make?
+b. Lucy sold paintings in the art fair. She earned 30 dollars on Saturday and 40 dollars on Sunday. What was the total amount of money Lucy received?
+c. On the weekend, Megan sold her handcrafted jewelry. She made 25 dollars on Saturday and 18 dollars on Sunday. How much did Megan earn?
+d. In the street market, Peter sold ice cream bars. He received 35 dollars in cash on Saturday and 20 dollars in cash on Sunday. What was the total amount of cash Peter made?
+
+
+
+174
+Original Question: Sam got 9 pennies for washing clothes, and 7 quarters for mowing lawns. How much money does Sam have?
+New Questions:
+a. Emma received 5 dollars for cooking meals and 3 pounds for taking care of pets. How much money does Emma have?
+b. Jack received 7 nickels for sweeping the floor and 4 dimes for cleaning the windows. How much money does Jack have?
+c. Lisa earned 10 cents for cleaning her room and 8 tickets for participating in a competition. What is the total value of her earnings?
+d. Tom got 5 tokens for carrying bags at the store and 2 coupons for buying products at a discount. How much money equivalent does Tom have?
+
+
+
+175
+Original Question: When Joan was visited by the toothfairy, she received 14 each of quarters, half-dollars, and dimes. How much money did the toothfairy leave Joan?
+New Questions:
+a. When Joan was visited by the toothfairy, she received 20 quarters and 10 half-dollars. How much money did she get in total?
+b. The toothfairy left Sam 15 each of nickels and dollars when he was visited. How much money did the toothfairy give Sam?
+c. During her visit from the toothfairy, Sarah received 8 dimes, 7 quarters, and 5 half-dollars. Calculate the total amount of money she received.
+d. When the toothfairy visited Emily, she left her with 20 dimes, 15 quarters and 2 half-dollars. How much money did Emily get?
+
+
+
+176
+Original Question: As Alyssa was searching through her couch cushions, she found 12 quarters, and 7 pennies in the couch. How much money in total does Alyssa have?
+New Questions:
+a. When looking through her sofa cushions, Olivia found 15 nickels and 8 dimes. How much money did Olivia find?
+b. While cleaning his room, Ethan stumbled upon 9 dollars and 15 cents in various coins. How much money did he find in total?
+c. As Emily was tidying up her room, she discovered money hidden in her bookshelf. She found 300 pennies and 5 quarters. How much money did she find?
+d. During a clean-out of his closet, Adam discovered a stash of cash including 18 dimes and 24 nickels. What was the total amount of money Adam found?
+
+
+
+177
+Original Question: On Wednesday, Joan spent 4 half-dollars playing pinball. The next day, she spent 14 half-dollars on pinball. What was the total amount Joan spent playing pinball?
+New Questions:
+a. On the weekend, Alice spent 5 tokens playing pinball on Saturday and 10 tokens on Sunday. What was the total amount Alice spent playing pinball?
+b. Ben used to play pinball a lot during his vacation. He spent 8 tokens on Monday and 12 tokens on Tuesday. What was the total amount Ben spent playing pinball?
+c. On a sunny day, Gina played pinball at the arcade, spending 6 tokens in the morning and 8 tokens in the afternoon. How much did Gina spend playing pinball in total?
+d. In a two-day trip to the amusement park, Bob played pinball for 3 quarters on the first day and 7 quarters on the second day. Calculate Bob's total spending on pinball games.
+
+
+
+178
+Original Question: Tim got 3 nickels and 13 dimes for shining shoes, and in his tip jar found 7 dimes and 9 half-dollars. How much money did Tim get?
+New Questions:
+a. Emily received 4 nickels and 18 quarters for mowing lawns, in addition to the money she earned from her parents, which included 6 dimes and 5 half-dollars. How much money did Emily receive in total?
+b. Ben earned 5 nickels and 15 dimes for babysitting, and also received some money from his parents which included 9 quarters and 7 half-dollars. What is the total amount of money Ben got?
+c. Amy got coins for cleaning windows: 7 nickels, 11 dimes, and she also received money from her brother in a jar which included 4 quarters and 8 half-dollars. How much did Amy earn?
+d. Emma received tokens for helping in the community: 2 nickels, 10 dimes, and she also received some cash from her parents which included 3 quarters and a dollar coin. What is the total amount of money Emma received?
+
+
+
+179
+Original Question: On Friday, Sam spent 2 pennies on ice cream. The next day, Sam spent 12 dimes on baseball cards. All in all, how much money did Sam spend?
+New Questions:
+a. On a weekend trip, Emma spent 5 dollars on ice cream and 10 dollars on movie tickets. In total, how much did Emma spend?
+b. On Saturday, Tom bought a new shirt costing 20 dollars and a pair of shoes costing 30 dollars. What was the total amount Tom spent?
+c. Last week, Alex bought a book for 8 dollars and a magazine for 2 dollars at the bookstore. How much did Alex spend in total?
+d. In a shopping trip, Jennifer bought groceries worth 50 dollars and some other items worth 15 dollars. Calculate the total amount Jennifer spent.
+
+
+
+180
+Original Question: Joan purchased a basketball game for $5.20, and a racing game for $4.23. How much did Joan spend on video games?
+New Questions:
+a. Amy bought a shooter game for $7.99 and a puzzle game for $3.50. How much did Amy spend on video games?
+b. How much did Mark pay for a fighting game and a simulator game if he paid $6 and $5 respectively?
+c. Mary bought two video games, one for $8.99 and another for $6.80. What was the total cost of Mary's purchases?
+d. Sam bought a football game for $7 and a chess game for $4 at the store. Calculate the total amount he spent on these two games.
+
+
+
+181
+Original Question: Mike joined his school's band. He bought a trumpet for $145.16, and a song book which was $5.84. How much did Mike spend at the music store?
+New Questions:
+a. Alex joined the school orchestra and bought a violin for $200 and some music sheets for $8. How much did he spend in total?
+b. Emily bought a flute in a music store for $170 and also bought a CD of her favorite songs for $15. What is the total amount she paid?
+c. Adam enrolled in the school's choir and bought a clarinet for $120 along with a music stand for $25. Calculate his total expenditure.
+d. Lily purchased a drum kit for $250 and some music books costing $30 from the music store. What was the total amount she spent?
+
+
+
+182
+Original Question: Alyssa bought some toys. She bought a football for $5.71, and spent $6.59 on marbles. In total, how much did Alyssa spend on toys?
+New Questions:
+a. Emily bought some books. She bought an encyclopedia for $20, and spent $15 on novels. In total, how much did Emily spend on books?
+b. Joshua bought a basketball and some puzzle games. He spent $12 on the basketball and $8 on puzzle games. How much did Joshua spend in total?
+c. Sara bought a kite and some building blocks. The kite cost her $7.50 and the blocks cost $4.99. What was the total amount Sara spent?
+d. Emma purchased a chess set and some playing cards. The chess set was $10 and the cards were $3. What was the total cost of Emma's purchase?
+
+
+
+183
+Original Question: Keith loves trading cards. She bought 4 packs of Digimon cards for $4.45 each, and a deck of baseball cards for $6.06. How much did Keith spend on cards?
+New Questions:
+a. Ben enjoys playing basketball. He bought 3 packs of basketball cards for $3 each, and a pack of football cards for $4. What is the total amount Ben spent on card packs?
+b. Amanda loves buying magic cards. She bought 5 decks of magic cards for $6 each and a set of role-playing game cards for $8. How much did Amanda spend on card games?
+c. Mark bought 2 packs of Yu-Gi-Oh! cards for $5 each and a set of chess cards for $3. Calculate the total amount Mark spent on card collections.
+d. Jennifer bought 10 packs of Pokemon cards for $2 each and a pack of Harry Potter cards for $4. What is the total cost of Jennifer's card purchases?
+
+
+
+184
+Original Question: Jessica spent $10.22 on a cat toy, and a cage cost her $11.73. What was the total cost of Jessica's purchases?
+New Questions:
+a. Lisa bought a dog collar for $7.99 and a bowl for $5.35. What was the total amount she spent?
+b. Emma invested $8.99 in a bird feeder and $6.49 in a bird seed pack. What was the total cost of Emma's purchases?
+c. Sarah bought a fish tank and some fish food, spending $15 on the tank and $8 on food. What was the total amount Sarah paid?
+d. Emily purchased a rabbit hutch for $12.50 and some rabbit food for $4. What was the combined cost of Emily's purchases?
+
+
+
+185
+Original Question: Sara got fast food for lunch. Sara spent $5.36 on a hotdog and $5.10 on a salad. What was the total of the lunch bill?
+New Questions:
+a. Mark bought lunch at the cafeteria. He spent $6 on a sandwich and $4 on a cup of coffee. What was the total of his lunch bill?
+b. Alice ordered takeout for dinner. She spent $7 on pizza and $3 on soda. What was the total cost of her meal?
+c. John had a meal at a restaurant. He spent $8 on a pasta dish and $2 on a dessert. What was the total amount he paid?
+d. My friend bought a hamburger and a bottle of water for his snack. He spent $3 on the hamburger and $1.5 on water. How much did he spend in total?
+
+
+
+186
+Original Question: Jason went to the mall on Saturday to buy clothes. He spent $14.28 on shorts and $4.74 on a jacket. In total, how much money did Jason spend on clothing?
+New Questions:
+a. Adam visited the shopping center on a weekend to buy some outfits. He spent $20 on a shirt and $8 on pants. What was the total amount Adam spent on clothes?
+b. On the weekend, Sarah went shopping for new clothes. She bought a skirt for $12 and a dress for $18. Calculate the total amount Sarah spent on clothing.
+c. Michael bought some new clothes at the shopping mall. He spent $15 on a pair of shoes, $7 on a belt, and $3 on a hat. What was the total cost of Michael's clothing purchases?
+d. Lily went to the shopping center to buy some summer clothes. She bought a swimsuit for $25 and a pair of sunglasses for $8. How much did Lily spend in total on her purchases?
+
+
+
+187
+Original Question: Alyssa loves eating fruits. Alyssa paid $12.08 for grapes, and $9.85 for cherries. In total, how much money did Alyssa spend?
+New Questions:
+a. Emily enjoys fresh vegetables. Emily bought spinach for $8.99 and carrots for $6.75. How much did Emily spend in total?
+b. David bought 2 different types of cookies for his party; one type cost $14.33 and another type cost $10.12. How much did David spend on cookies?
+c. Sara bought some strawberries and apples for her breakfast, costing $6.48 and $7.99 respectively. What is the total amount Sara paid?
+d. Alex bought some vegetables at the market; he paid $11.50 for onions and $8.25 for potatoes. What is the total amount Alex spent?
+
+
+
+188
+Original Question: Mary loves eating fruits. Mary paid $11.08 for berries, $14.33 for apples, and $9.31 for peaches. In total, how much money did she spend?
+New Questions:
+a. Adam enjoys fresh vegetables. Adam paid $8.50 for carrots, $12.75 for cucumbers, and $7.99 for lettuce. In total, how much did he spend?
+b. Jennifer bought some cookies from the bakery. She paid $4.50 for chocolate chip cookies, $5.25 for oatmeal cookies, and $3.75 for sugar cookies. How much did she spend in total?
+c. Andrew bought several items at the grocery store, including bread ($3.50), milk ($2.88), and cheese ($5.20). What was his total expenditure?
+d. Emma purchased some fruits at the market; she paid $7 for oranges, $10 for grapes, and $6 for bananas. Calculate the total amount she spent.
+
+
+
+189
+Original Question: Sandy went to the mall to buy clothes. She spent $13.99 on shorts, $12.14 on a shirt, and $7.43 on a jacket. How much money did Sandy spend on clothes?
+New Questions:
+a. Emma went shopping for clothes at the mall. She bought a dress for $15 and a skirt for $10. How much did Emma spend on clothes?
+b. Vanessa bought some new clothes at the store. She paid $18 for a pair of pants and $10 for a scarf. Calculate the total amount of money Vanessa spent on clothes.
+c. Lily went to the shopping center and bought some clothes. She bought a pair of jeans for $20, a shirt for $5, and shoes for $10. What was the total cost of Lily's purchases?
+d. In the clothing store, Adam bought a hoodie for $25 and a cap for $5. What is the total amount he spent on clothing?
+
+
+
+190
+Original Question: Jason joined his school's band. He bought a flute for $142.46, a music stand for $8.89, and a song book for $7. How much did Jason spend at the music store?
+New Questions:
+a. Emma enrolled in dance class and bought dance shoes for $120, a dance bag for $30, and dance classes for $5 per session. How much did Emma spend at the dance studio?
+b. Michael is a music lover and bought a guitar for $250, music notation software for $40, and an instrument case for $25. How much did Michael spend on music-related items?
+c. Lily joined the choir and bought a piano book for $15, a music stand for $10, and singing lessons for $8 per session. What was the total amount Lily spent at the music store?
+d. David wanted to learn guitar, so he bought a guitar for $200, a guitar tuner for $30, and a course book for $15. Calculate the total amount David spent on guitar-related items.
+
+
+
+191
+Original Question: Tom purchased a football game for $14.02, a strategy game for $9.46, and a Batman game for $12.04. How much did Tom spend on video games?
+New Questions:
+a. Emily bought a basketball game for $10.88, a shooter game for $7.99, and a Marvel game for $15.23. How much did Emily spend on gaming?
+b. Jack bought a soccer simulation game for $18.34, a puzzle game for $5.67, and a Harry Potter game for $10.59. What is Jack's total spending on games?
+c. Sara purchased a racing game for $20, an action game for $12, and a supernatural game for $8. How much did Sara spend on video games in total?
+d. Ben bought a tabletop game for $19.99, a role-playing game for $14.95, and a horror game for $10. What is the total amount Ben spent on games?
+
+
+
+192
+Original Question: Fred loves trading cards. He bought 2 packs of football cards for $2.73 each, a pack of Pokemon cards for $4.01, and a deck of baseball cards for $8.95. How much did Fred spend on cards?
+New Questions:
+a. Ben is a fan of sports cards. He bought 3 boxes of basketball cards for $3 each, a set of soccer cards for $5, and a collection of hockey cards for $9. How much did Ben spend on card collections?
+b. Lily enjoys collecting card games. She bought 2 sets of magic cards for $6 each, a pack of yu-gi-oh cards for $7, and an expansion of chess cards for $10. What is the total amount Lily spent on card games?
+c. Adam is passionate about collecting card decks. He bought 5 packs of bridge cards for $1.5 each, a collection of monster cards for $3, and a set of billiards cards for $7. What is the total cost of Adam's card purchases?
+d. Emily likes to collect different types of cards. She bought 3 decks of different card games for $4 each and spent a total of $20 on other various cards. How much did Emily spend on her card collections in total?
+
+
+
+193
+Original Question: On Saturday, Sara spent $10.62 each on 2 tickets to a movie theater. She also rented a movie for $1.59, and bought a movie for $13.95. How much money in total did Sara spend on movies?
+New Questions:
+a. On a weekend afternoon, Emma bought tickets to a music concert, each costing $20, and she also bought an expensive drink priced at $7.50. Additionally, she bought a music CD for $15. How much did Emma spend in total on her entertainment?
+b. On a weekend trip to the city, Lucy bought tickets to a sports event, which totaled to $50 for two tickets. She also rented some equipment costing $20 and bought a snack for $3. What is the total amount of money that Lucy spent on her trip?
+c. During the weekend, Tom visited the amusement park and bought tickets costing $30 each for two persons. Additionally, he spent $12 on snacks and also played some games totaling up to $20 in spending. What was Tom's total spending on the amusement park activities?
+d. On a weekend outing with friends, Carla bought tickets for a concert priced at $25 each for two tickets and also bought a merchandise item for $18. She also rented a vehicle for the day at a cost of $40. How much did Carla spend in total on her weekend outing?
+
+
+
+194
+Original Question: Mike bought some toys. He bought marbles for $9.05, a football for $4.95, and spent $6.52 on a baseball. In total, how much did Mike spend on toys?
+New Questions:
+a. Emily bought some books. She bought a novel for $12.50, a dictionary for $8.75, and a textbook for $10.25. In total, how much did Emily spend on books?
+b. David bought some gifts. He bought a birthday present for his sister costing $25, a greeting card for $3, and a gift wrap for $7. How much did David spend on gifts in total?
+c. How much did Emma spend on her shopping trip if she bought a shirt for $20, a pair of shoes for $30, and some accessories costing $15?
+d. In a shopping trip, Alex bought a pair of sunglasses for $12, a bag for $8, and some jewelry costing $10. What was the total amount Alex spent?
+
+
+
+195
+Original Question: Joan paid $8.77 on a cat toy, and a cage cost her $10.97 with a $20 bill. How much change did Joan receive?
+New Questions:
+a. Sara bought a dog toy for $5.99 and a crate costing $12.32 using a $25 bill. How much change did Sara receive?
+b. Emma used a $20 bill to buy a bird cage priced at $9.85 and a pet accessory for $6.99. How much change did Emma get?
+c. With a $30 bill, Lucy bought a fishbowl priced at $17.95 and a pet food dish for $4.95. Calculate the amount of change she received.
+d. Using a $15 bill, Sam bought a pet bed priced at $7.50 and a pet toy for $3.25. How much money did Sam receive in change?
+
+
+
+196
+Original Question: Sandy bought some toys. She bought a football for $9.14, and paid $6.81 on a baseball with a $20 bill. How much change did he receive from the purchase?
+New Questions:
+a. Adam bought some books. He bought an encyclopedia for $15.50, and paid $10.75 on a dictionary with a $50 bill. How much change did he receive?
+b. Emma bought some clothes. She bought a shirt for $12.33 and paid $8.99 for a pair of shoes with a $50 bill. What was the total amount of change she received?
+c. Henry bought some gifts. He bought a bracelet for $17.88 and paid $13.99 for a watch with a $100 bill. How much did he pay in total? (Hint: This is not a change calculation question, but it uses the same reasoning logic.)
+d. Lily bought some groceries. She spent $25 on apples and $18 on oranges with a $100 bill. What was the total amount of change she received if she paid in cash?
+
+
+
+197
+Original Question: A ship is filled with 5,973 tons of cargo. It stops in the Bahamas, where sailors load 8,723 more tons of cargo onboard. How many tons of cargo does the ship hold now?
+New Questions:
+a. A truck initially has 2,450 kilograms of goods. It stops at a warehouse where 3,500 more kilograms of goods are loaded. What is the total weight of the truck now?
+b. An airplane initially holds 50 tons of fuel. It refuels at an airport, adding 20 more tons. How many tons of fuel does the plane have in total?
+c. A warehouse initially has 10,000 tons of stored goods. Another shipment of 5,500 tons arrives. What is the total amount of goods in the warehouse now?
+d. A container vessel initially carries 8,930 tons of containers. At a port, it loads 2,974 more tons of containers. Calculate the total weight of containers on the vessel now.
+
+
+
+198
+Original Question: Before December, customers buy 1,346 ear muffs from the mall. During December, they buy 6,444 more, and there are none left. In all, how many ear muffs do the customers buy?
+New Questions:
+a. Before Christmas, a store sold 2,500 pairs of sunglasses. During Christmas season, they sold 9,000 more and ended up with none in stock. In total, how many pairs of sunglasses did they sell?
+b. In a book store, 500 copies of a specific book were sold before its release date. Post release, it sold 2,000 more copies and there were no more stocks left. What was the total number of books sold?
+c. Before the festival, a vendor sold 750 traditional toys. During the festival rush, they sold 2,500 more and all were gone. Calculate the total number of toys sold.
+d. At a clothing store, 3,000 jackets were available before a sale. During the sale, they sold 6,500 more jackets and all were out of stock. What is the total number of jackets sold?
+
+
+
+199
+New Questions:
+a. "As a beekeeper, Emily harvested 2,000 pounds of honey last year. This year, she bought some new equipment and increased her harvest by 5,500 pounds. How many pounds of honey did Emily harvest this year?"
+b. "A beekeeper, Alex, harvested 3,200 pounds of honey last season. This season, he added new hives and increased his harvest by 7,200 pounds. What was Alex's total honey harvest this season?"
+c. "Jane is a professional beekeeper. In the previous year, she harvested 1,999 pounds of honey. This year, she bought new hives and managed to increase her harvest by a factor of 3. How many pounds of honey did Jane harvest this year?"
+d. "Mark is a beekeeper who last year harvested 2,500 pounds of honey. This year, he added some new bee colonies and his harvest increased by 25%. Calculate Mark's honey harvest for this year."
+
+
+

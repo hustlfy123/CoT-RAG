@@ -1,0 +1,2033 @@
+0
+New Context: Sara organized a surprise birthday party for her brother.
+New Questions:
+a. How would Sara's brother feel as a result?
+b. What emotions might Sara's friends experience during the party?
+c. How would the guests feel about the surprise celebration?
+d. Given that Sara's brother loves surprises, how would he react to the party?
+
+
+
+1
+New Context: In the upcoming project at work, Jane is responsible for assigning tasks to her team members.
+New Questions:
+a. What will team members expect to be assigned next?
+b. What tasks are team members likely to prioritize next?
+c. What are the team members looking forward to working on next?
+d. How will team members approach their next job assignments?
+
+
+
+2
+New Context and Questions:
+a. Remy and Kai were out on the ocean, where they were trying to catch a rare species of fish. Remy baited Kai's hook. What will Remy do next to help catch the rare fish?
+
+b. Remy showed his expertise in fishing to Kai by baiting his hook. What advanced technique will Remy use next to increase their chances of catching a big fish?
+
+c. Remy and Kai were on a fishing trip together. Remy baited Kai's hook with a special bait he knew would attract certain types of fish. What is the next step Remy will take to ensure a successful catch?
+
+d. Kai was learning fishing from Remy, who baited his hook properly. What will Remy teach Kai next about fishing techniques?
+
+
+
+3
+New Questions:
+a. Why did Addison offer a hug to Skylar's son?
+b. What made Addison comfort Skylar's son with a hug?
+c. What was the purpose of Addison giving a hug to Skylar's son?
+d. What prompted Addison to console Skylar's son with a hug?
+
+
+
+4
+New Context: Julia searched online for a product but the cost was beyond her budget.
+a. What would Julia need to do before searching online?
+
+New Context: Michael saw a TV that he wanted, but the price was beyond his budget.
+b. What did Michael need to do before seeing the TV?
+
+New Context: Sarah found a new restaurant in town that she wanted to try, but the prices were too high for her budget.
+c. What might Sarah have done before discovering this restaurant?
+
+New Context: Emily wanted to buy a new laptop but the available models were too expensive for her.
+d. What might Emily have done before considering buying a laptop?
+
+
+
+5
+New Context and Questions:
+
+a. Quinn was at the park and decided to climb a tree. Being high up, he didn't want to come down. After we proposed a game, he agreed to come down. What did Quinn need to do before climbing the tree?
+
+b. Quinn climbed a tree in his backyard and was enjoying his time high up. We suggested a fun game, which made him decide to come down. What was Quinn's state of mind before being encouraged to come down?
+
+c. In the school yard, Quinn found himself up in a tree and did not want to get down easily. Someone proposed a fun activity, and Quinn agreed to come down. What might have been Quinn's initial reason for not wanting to come down from the tree?
+
+d. While playing at the park, Quinn found himself high up in a tree. Not wanting to get down, he hesitated until we suggested a game that made him change his mind. What was Quinn's reaction when he heard about the game?
+
+
+
+6
+New Questions:
+a. What did Bailey do before he realized he couldn't find Carson's cleaning solution?
+b. How did Bailey feel when he first realized he couldn't find the cleaning solution?
+c. What actions did Bailey take before asking for help to find the cleaning solution?
+d. What was the last thing Bailey tried to do before asking someone else to help him find Carson's cleaning solution?
+
+
+
+7
+New Questions:
+a. What will Kendall do with the money earned from tips?
+b. What are some things Kendall might buy with the money from tips?
+c. After working the weekend at the steakhouse, what plans does Kendall have for the rest of the week?
+d. Given Kendall's recent success with tips, what might they try to do differently next time they work?
+
+
+
+8
+New Questions:
+a. What will Quinn suggest doing after cleaning my room?
+b. After helping me clean my room, what will Quinn suggest doing for the next activity?
+c. Considering my messy room, what will Quinn suggest doing next to improve it even more?
+d. Since Quinn wanted to help me clean my room, what would be his next course of action?
+
+
+
+9
+New Questions:
+a. How would Lee describe Kendall after she ran back and thanked him?
+b. What emotions was Kendall experiencing when she ran back to thank Lee?
+c. How would a third person describe Kendall's reaction to finding the dog?
+d. What actions did Kendall take after she found the dog? How would you describe her behavior?
+
+
+
+10
+New Questions:
+a. Can you describe Sydney's teaching style?
+b. How did Sydney ensure their students learned effectively?
+c. What was Sydney like as a teacher in terms of their dedication?
+d. What qualities did Sydney possess that made them a good teacher?
+
+
+
+11
+New Context: Sasha's mom fell down unexpectedly at the family gathering. Aubrey rushed to help and decided to take her to the hospital.
+New Questions:
+a. What will Aubrey do after taking Sasha's mom to the hospital?
+b. What measures will Aubrey take to ensure Sasha's mom recovers soon?
+c. How will Aubrey handle the situation if Sasha's mom needs long-term care?
+d. Considering Sasha's mom's condition, what do you think Aubrey will prioritize next?
+
+
+
+12
+New Context: Jack promised not to reveal the surprise celebration for Emily's birthday to anyone. But Jack mentioned it casually to a friend.
+New Questions:
+a. What did Jack need to do before revealing the secret about Emily's birthday party?
+b. What measures should Jack have taken before telling anyone about the surprise celebration?
+c. How could Jack have kept the surprise party a secret from others?
+d. What steps should Jack follow to ensure that he doesn't reveal the surprise party to anyone?
+
+
+
+13
+New Context: Her dog was constantly wandering towards the street through the open gate, so Lucy set up a barrier to prevent it.
+New Questions:
+a. How would Lucy feel after setting up the barrier?
+b. What would be the dog's reaction to the new barrier?
+c. Would Lucy feel relieved or worried after seeing her dog safely inside?
+d. Assuming the dog managed to escape through the barrier eventually, how would Lucy feel?
+
+
+
+14
+New Context:Emily covered Sam's mouth because Sam was unconscious after the surgery.
+New Questions:
+a. What does Emily need to do before covering Sam's mouth?
+b. What might have been the reason for Sam's unconsciousness?
+c. Can you explain the scenario when Sam underwent surgery?
+d. What are the steps involved in covering someone's mouth in such a situation?
+
+
+
+15
+New Questions:
+a. Austin noticed a person driving away with their keys in the ignition. Why did he run alongside the car?
+b. Austin saw someone forget something on their car. What made him decide to run alongside the vehicle to get their attention?
+c. Austin realized that someone had left their purse on their car. What was his purpose of running alongside them?
+d. Austin observed a person driving off with their wallet on top of their car. What prompted him to run alongside in order to get their attention?
+
+
+
+16
+New Context: Emily carefully conducted an experiment to study the behavior of cells under different conditions.
+New Questions:
+a. What would you describe Emily as?
+b. What is Emily's approach towards her studies?
+c. How did Emily conduct her experiment?
+d. What skills does Emily possess based on her experiment?
+
+
+
+17
+New Questions:
+a. Ash dried his clothes. What will he do next to his clothes?
+b. After letting his clothes dry for a few hours, Ash will want to do what with them?
+c. Once Ash's clothes are dry, what will he do with them?
+d. Ash has put his wet clothes to dry. What is the next thing he intends to do?
+
+
+
+18
+New Questions:
+a. Why did Bailey announce her plans to stay?
+b. What was the response of her friends when Bailey announced her plans?
+c. What was the impact of Bailey staying on her friends?
+d. What was the reason behind Bailey's decision to stay and relieve her friends?
+
+
+
+19
+New Questions:
+a. How would Sydney's colleagues react to their emotional outburst?
+b. What emotions were pent up inside Sydney before they burst into tears?
+c. How would Sydney feel about themselves after crying at work?
+d. What would be Sydney's thoughts on the impact of their emotional display on their work environment?
+
+
+
+20
+a. When Taylor unexpectedly saw Bailey on the cruise, how would Bailey feel about this moment?
+b. Given that Taylor was surprised to see Bailey on the cruise, how would Bailey react emotionally?
+c. Being a surprise guest on the cruise with Taylor, how would Bailey feel about the whole experience?
+d. Upon showing up on the cruise unexpectedly and surprising Taylor, how would Bailey feel about their shared experience?
+
+
+
+21
+New Context: After years of dedication and hard work, Sydney finally received a raise and a new promotion at work.
+New Questions:
+a. What were the qualifications for Sydney to get this promotion?
+b. What skills did Sydney demonstrate to receive a raise and a promotion?
+c. How did Sydney celebrate after receiving the promotion?
+d. What challenges does Sydney expect in her new promotion?
+
+
+
+22
+New Questions:
+a. After Quinn found their lost puppy, how would they celebrate?
+b. What emotions would Quinn experience upon finding their lost puppy?
+c. How would Quinn's family react when they found out about the lost puppy being found?
+d. What would Quinn's first action be after finding their lost puppy?
+
+
+
+23
+New Questions:
+a. Skylar met Kendall's boyfriend's parents, what will she likely discuss with them next?
+b. After hanging out with Kendall and meeting her boyfriend's parents, what is Skylar planning to do?
+c. What is the next social event Skylar might want to attend after meeting Kendall's boyfriend's parents?
+d. Skylar has just met Kendall's boyfriend's parents, what does she expect to happen next in her relationship with Kendall?
+
+
+
+24
+New Questions:
+a. How would Remy's friends describe her?
+b. What was Remy's character like?
+c. What qualities did Remy possess that made her good at guiding friends through problems?
+d. Remy enjoyed helping others. What would be her best qualities attributed to this?
+
+
+
+25
+New Context and Questions:
+a. Remy enjoyed the hiking trip and came back refreshed and full of energy. How would Remy feel afterwards?
+b. After Remy finished hiking, he had an exciting adventure and met some friendly people. How would Remy feel afterwards?
+c. Remy went hiking and saw beautiful scenery and wildlife. What was Remy's experience like?
+d. Remy was tired but happy after the hiking trip. How would Remy feel after a good rest?
+
+
+
+26
+New Context: The teacher provided a complex problem to the class and asked for solutions. Aubrey understood the problem statement well and provided an explanation to her peers.
+a. What skills does Aubrey need to possess to explain the problem effectively?
+
+New Context: The teacher proposed a mathematical problem that most students struggled with. Aubrey understood the concept and solved it correctly.
+b. What did Aubrey do before answering the question?
+
+New Context: The teacher put forward a challenging question in front of the class that no one could answer at first glance. Aubrey understood the question and answered it confidently.
+c. What was Aubrey's approach to understanding the question?
+
+New Context: The teacher was teaching a new concept in class and then asked a question to check the understanding of her students. Aubrey understood the concept and answered correctly.
+d. What did Aubrey do to ensure she understood the concept before answering?
+
+
+
+27
+New Context: After achieving success in their recent endeavor, Aubrey felt confident and ready for new challenges.
+New Questions:
+a. What are the next challenges Aubrey plans to take on?
+b. What new things does Aubrey want to try after their success?
+c. In light of their recent success, what does Aubrey hope to achieve next?
+d. How will Aubrey continue to grow and succeed after achieving their goal?
+
+
+
+28
+New Questions:
+a. Why did Kendall yell and wave their hands?
+b. What was Kendall's intention in frightening the dogs away?
+c. What measures did Kendall take to deter the dogs?
+d. Kendall scared the dogs by making loud noises and gesturing. What was their intention behind this behavior?
+
+
+
+29
+New Questions:
+a. What was Jan's decision about getting a pet?
+b. How would Jan's friends describe his decision to adopt a shelter dog?
+c. Jan decided to adopt an older dog rather than a puppy, what influenced him?
+d. Despite wanting a puppy, Jan adopted a shelter dog. What kind of person would you say Jan is?
+
+
+
+30
+New Questions:
+a. What did Addison say to Carson before the ship departure?
+b. After bidding farewell to Carson, what will Addison do next at the dock?
+c. Once the ship has left the dock, what will Addison likely be thinking about?
+d. Prior to the ship's departure, what preparations did Addison make for their future after bidding Carson goodbye?
+
+
+
+31
+New Questions:
+a. What will Sasha do after getting her hair done?
+b. What will Sasha do after going on a date?
+c. What will Sasha do on the day after cutting her nails?
+d. Sasha plans to go on a date and get her hair done. What will she do after that to follow up with her social calendar?
+
+
+
+32
+New Context and Questions:
+
+a. Context: After arriving at his destination, Cameron realized he had plenty of time to explore the city.
+Question: What will Cameron want to do next to explore the city?
+
+b. Context: When Cameron arrived at the airport, he realized he had forgotten to buy a travel guidebook.
+Question: What will Cameron do next to find out about the place he has arrived in?
+
+c. Context: Being in a new place, Cameron was excited about trying local foods.
+Question: What will Cameron do next to try local foods?
+
+d. Context: Cameron had a layover at the airport and had some free time before his next flight.
+Question: What will Cameron do during his layover at the airport?
+
+
+
+33
+New Context and Questions:
+a. After securing the boat, Jan checked the weather forecast to see if there were any upcoming storms. What will Jan do next?
+
+b. Once the boat was tied up, Jan made sure to leave a note for anyone coming to check on the boat in the future. What is the next action Jan plans to take?
+
+c. Jan double-checked all the equipment on the boat before calling it a day. What does Jan intend to do after completing this step?
+
+d. After ensuring the boat was safe and secure, Jan prepared a snack for himself to enjoy by the shore. What will Jan's next activity be?
+
+
+
+34
+New Questions:
+a. What emotions might Riley be experiencing upon finding the dog tied up in the park?
+b. How would Taylor describe Riley's character after discovering Riley's act of finding the dog?
+c. What prompted Riley to tell Taylor about finding the dog in the park?
+d. What qualities would you attribute to Riley based on their act of finding a dog in the park?
+
+
+
+35
+New Context:
+Emma was so enthusiastic about her favorite movie that she made her point very clear to everyone.
+
+New Questions:
+a. How would others feel after hearing Emma's passion about the movie?
+b. Considering Emma's enthusiasm, how would her friends react?
+c. Given Emma's excitement, how would her family members perceive others' reactions?
+d. If Emma discussed her movie preference in a group, how would the group members interpret her passion?
+
+
+
+36
+New Context: After a day and night of attending a music festival, Emily returned home early in the evening.
+New Questions:
+a. How would you describe Emily's behavior after returning home?
+b. What emotions might Emily be experiencing after returning home?
+c. What might have been her thoughts during the day and night of partying?
+d. How would you describe her mood during the party?
+
+
+
+37
+New Questions:
+a. What emotions might Bailey experience after waking up alone in bed?
+b. Considering Bailey was asleep alone, how would they feel about being alone at night?
+c. What would happen if someone woke up Bailey unexpectedly?
+d. What would be the scenario if instead of being asleep in bed, Bailey was awake in a strange place at night?
+
+
+
+38
+New Questions:
+a. What will Carson's friends want to do next after the club?
+b. What activities will Carson propose to his friends next?
+c. What is Carson likely to suggest doing next, given their experience at the club?
+d. Given that Carson made many friends at the club, what will he want to do to maintain these new friendships?
+
+
+
+39
+New Questions:
+a. Why did Tracy intervene to protect her teammates?
+b. What would have happened if Tracy hadn't prevented the accident?
+c. How did Tracy recognize the potential danger and respond accordingly?
+d. What was Tracy's motivation behind preventing the accident that could harm her teammates?
+
+
+
+40
+New Context and Questions:
+
+a. Ella was seriously injured in an accident, but the emergency doctor provided timely treatment. What will happen to Ella now?
+
+b. When the athlete collapsed on the field, the trainer rushed in and provided immediate medical attention. What will become of the athlete?
+
+c. The patient's condition was critical, but the doctor performed a successful operation. What will the patient's recovery be like?
+
+d. When Sam fell unconscious due to a severe illness, the doctor administered emergency medication. What will happen to Sam now?
+
+
+
+41
+New Context: In the class photo session, Alex took a picture of herself and her friend Sam. However, Alex later edited the photo and made some changes to Sam's appearance that she thought were not appealing. Unfortunately, Sam saw her do this.
+
+New Questions:
+a. How would Sam feel after seeing the changes Alex made to his photo?
+b. Given that Alex was experimenting with photo editing, how would Sam react to her creative touch-ups?
+c. What emotions would Sam experience knowing that Alex changed his appearance in the picture?
+d. How could Sam potentially react to Alex's actions, given the closeness of their friendship?
+
+
+
+42
+New Context and Questions:
+
+a. Context: The customer expressed dissatisfaction with Addison's behavior and informed the management about their experience.
+Question: What will Addison do to address the customer's complaint?
+
+b. Context: After being informed about the customer's dissatisfaction, Addison realized that she might have been too aggressive in her communication.
+Question:How will Addison adjust her behavior to avoid further complaints?
+
+c. Context: Management has received a complaint from a customer about Addison's attitude and is currently investigating the matter.
+Question:What steps will Addison take to improve her customer service skills?
+
+d. Context: The customer reported that Addison was unhelpful and aggressive during their interaction, causing the customer to lose trust in the company.
+Question:How will Addison rebuild trust with the customer after being informed about the complaint?
+
+
+
+43
+New Questions with Different Content but Same Reasoning Logic:
+a. Context: Anna was manning the entrance of a bookstore and she requested the person entering to purchase a ticket for admission. Question: What will Anna likely do next?
+
+b. Context: Ethan was working as a cashier at the mall and he asked the customer to pay with cash. Question: What will Ethan do after receiving payment?
+
+c. Context: Bella was managing the front desk at a hotel and she asked the guest to fill out their registration form. Question: What is Bella likely to do next after the guest fills out the form?
+
+d. Context: Lucy was operating the booth at a charity event and she asked people for donations. Question: What will Lucy do after receiving the donation? Count the money and make a record of it?
+
+
+
+44
+New Questions:
+a. Why did Casey tear open the envelope hastily?
+b. Casey was eager to see the contents of the letter. Why did he choose to tear it open?
+c. Given Casey's state of mind, why did he rush to open the envelope?
+d. What made Casey so impatient that he decided to tear open the letter?
+
+
+
+45
+New Context: Lucy was helping Adam with his posture while learning to dance. Lucy adjusted Adam's stance and made sure he was aligned properly.
+New Questions:
+a. How would you describe Lucy in this scenario?
+b. What was Adam's initial reaction to Lucy's guidance?
+c. How did Adam feel after Lucy's corrections?
+d. What skills did Lucy possess to effectively guide Adam in dance?
+
+
+
+46
+New Questions:
+a. How did Remy feel after spending a romantic night with Robin?
+b. After having sex with Robin in bed, how did Remy feel about their relationship?
+c. Remy shared an intimate moment with Robin. How did he feel after?
+d. In the aftermath of a romantic encounter with Robin, how did Remy feel emotionally?
+
+
+
+47
+New Context: Robin admired their friend Emma's dance performance in the concert.
+a. What will Robin do after the concert?
+
+New Context: Robin saw their group partner Jennifer successfully complete a challenging task.
+b. How will Robin react to Jennifer's success?
+
+New Context: Robin enjoyed watching their friend Sarah deliver an engaging speech at the event.
+c. What impact will Sarah's speech have on Robin?
+
+New Context: Robin was impressed with their teammate Adam's performance in the competition.
+d. How will Robin's opinion of Adam change after witnessing their performance?
+
+
+
+48
+New Context: Taylor and Emma are in a long-term relationship that's becoming increasingly serious with each passing day.
+New Questions:
+a. How would Taylor feel about their relationship progressing?
+b. As the days go by, how would Emma feel about their growing closeness?
+c. How does their relationship seem to others in their social circle?
+d. What are some of the changes they might be experiencing in their relationship?
+
+
+
+49
+New Context: Emily's demanding and bossy behavior caused her partner, David, to have mixed feelings about her.
+New Questions:
+a. How would David feel as a result of Emily's behavior?
+b. What emotions might David experience due to Emily's demanding nature?
+c. Would David feel pressured or controlled by Emily's bossy behavior?
+d. How would the relationship between Emily and David be affected by her demanding behavior?
+
+
+
+50
+New Questions:
+a. How would you describe the dog owner in Bailey's shoes?
+b. What would you say about the person who enjoys spending time with their dog at the dog park?
+c. What adjective would you use to describe the person who takes their dog to a park?
+d. Considering the scenario where Bailey let their dog run freely in the dog park, how would you describe their attitude towards pet ownership?
+
+
+
+51
+New Questions:
+a. Sasha successfully brought all the animals to the new sanctuary. How would he feel after this accomplishment?
+b. Sasha had a great bond with the animals he was bringing to the sanctuary. How would he feel once they are all settled?
+c. Sasha's love for animals grew after bringing them to the sanctuary. How would he feel knowing they are well taken care of?
+d. Sasha noticed that the animals seemed content at the sanctuary. How would he feel witnessing their happiness?
+
+
+
+52
+New Context:
+Emma realized that her energy bills were too high, so she wanted to save money by shopping around for a better deal.
+
+New Questions:
+a. What does Emma need to do before shopping around for a better energy deal?
+b. What could Emma do to ensure she gets the best deal on her energy bills?
+c. How could Emma compare the prices of different energy providers?
+d. What factors should Emma consider when looking for a new energy supplier?
+
+
+
+53
+New Questions:
+a. Why did Kendall take another bite of her hot dog?
+b. What made Kendall want to take another bite of the large hot dog?
+c. What was the reason behind Kendall taking another bite of her meal?
+d. Kendall had a hunger for the large hot dog, so what prompted her to take another bite?
+
+
+
+54
+New Context: Taylor introduced a new toothpaste that effectively prevents tooth decay, and people who used it had positive feedback about their dental health.
+New Questions:
+a. What will the users of the toothpaste want to do next after experiencing its benefits?
+b. What might people recommend to their friends and family after using Taylor's toothpaste?
+c. What kind of feedback would people give about Taylor's toothpaste after noticing the improvement in their oral health?
+d. How do you think the users of Taylor's toothpaste will appreciate its benefits in the long run?
+
+
+
+55
+New Questions:
+a. Why did Alex clear the doorway of the boxes?
+b. What was the purpose of Alex moving the boxes from the doorway?
+c. What might have prompted Alex to relocate the boxes from the doorway?
+d. Alex shifted the boxes out of the doorway, why did he do that?
+
+
+
+56
+New Context: Austin helped defend Quinn and she was deeply grateful for his support.
+New Questions:
+a. How would Austin feel after helping Quinn?
+b. Given his efforts, how would Austin feel about Quinn's gratitude?
+c. What emotions might Austin experience after knowing Quinn appreciated his help?
+d. Austin helped Quinn in need, how would he feel about his actions?
+
+
+
+57
+New Questions with different context:
+a. Kai coached the basketball team at the same college. How would you describe Kai?
+b. Kai led a group of students on a volunteer project. How would you describe Kai?
+c. Kai supervised a team of researchers at the college. How would you describe Kai in this role?
+d. Kai was responsible for organizing college events. How would you describe Kai's leadership skills?
+
+
+
+58
+New Questions:
+a. How would Jordan feel after eating all of his own food?
+b. What would happen if Sydney had brought enough food for both of them?
+c. What would Jordan do if he had to share his food with someone else?
+d. Given that Sydney was still hungry after Jordan ate her food, how would this affect Jordan's mood?
+
+
+
+59
+New Questions:
+a. What emotions would Addison be experiencing after hearing the news?
+b. How would you describe the situation Addison is facing?
+c. What was Addison's first reaction upon hearing the news?
+d. Given that Addison went to Ash for advice, how would you describe their relationship?
+
+
+
+60
+New Questions:
+a. After spending a weekend hiking with Carson, Ash wants to see him again. What will Ash suggest as their next activity?
+b. Ash enjoyed his weekend game session with Carson so much that he wants to do it again. What type of games will they play next?
+c. Ash is eager to see Carson once more after the enjoyable weekend they spent playing games. What could their upcoming meeting include?
+d. After the fun weekend with Carson playing games, Ash is looking forward to their next meeting. What will Ash propose to do together next?
+
+
+
+61
+New Questions:
+a. Why did Carson take a sick day?
+b. What happened to Carson that made him take a day off work?
+c. What made Carson feel sick and throw up?
+d. What caused Carson to feel unwell enough to miss work?
+
+
+
+62
+New Context: After a long search, Quinn finally located the item.
+New Questions:
+a. How would you describe Quinn's persistence?
+b. What can be inferred about Quinn's dedication?
+c. How would Quinn feel after such a long search?
+d. What are some adjectives that would describe Quinn's efforts?
+
+
+
+63
+New Questions with different context but same reasoning logic:
+a. Emily reviewed Sam's marketing strategy and helped him increase sales. How would you describe Emily?
+b. Alex reviewed his friend's restaurant business plan and suggested ways to improve efficiency. How would you describe Alex?
+c. Sara went through Lucy's financial projections and helped her identify potential growth areas. How would you describe Sara?
+d. Megan provided feedback on the product development plan of her startup, helping them increase marketability. How would you describe Megan?
+
+
+
+64
+New Context: Despite being nervous, Jack felt confident about his performance. He believed that things would work out well in the end.
+New Questions:
+a. What did Jack need to do before his performance?
+b. Jack was anxious about something, what could it be?
+c. What made Jack believe that things would go well?
+d. How did Jack feel after his performance?
+
+
+
+65
+a. After losing all his money gambling on sports, how would you characterize Jesse?
+
+b. Jesse's luck in sports gambling was so bad that he ended up with nothing. How would you describe his situation?
+
+c. Jesse's sports gambling experience left him with no money. What traits could be inferred about Jesse from this situation?
+
+d. Jesse, who had lost all his money on sports gambling, was in a terrible situation. What was his personality like before this event?
+
+
+
+66
+New Context:
+Emily used a flowchart to demonstrate the operations of the software to her team members.
+
+New Questions:
+a. What will the team members likely do after understanding the software operations?
+b. What is the next step after Emily's explanation?
+c. What will the team do to further explore the software?
+d. After studying the flowchart, what action will the team take?
+
+
+
+67
+New Context: Kendra wanted to check with her friend Sam if he had received an invitation to the birthday party already.
+New Questions:
+a. What will Kendra want to do next about the birthday party?
+b. What questions will Kendra ask Sam about the birthday party?
+c. How will Kendra feel if she finds out that she is not invited to the birthday party?
+d. What are some possible outcomes of Kendra asking Sam about the birthday party invitation status?
+
+
+
+68
+New Context and Questions:
+
+a. Before playing basketball with friends after school on a sunny afternoon, Sydney needed to finish her homework and studies for the day.
+Question: What did Sydney need to do before playing basketball?
+
+b. Sydney had been practicing basketball skills throughout the week in preparation for the game with her friends on a sunny afternoon.
+Question: What did Sydney do in the days leading up to playing basketball with her friends?
+
+c. Sydney and her friends had been looking forward to playing basketball on a sunny afternoon after school. They had been discussing their strategies for the game.
+Question: What was Sydney's mood before playing basketball with her friends?
+
+d. On the day of the game, Sydney brought water bottles and snacks for her and her friends after their basketball practice after school.
+Question: What did Sydney bring for herself and her friends after the basketball game?
+
+
+
+69
+New Questions:
+a. How would Carson be perceived after getting angry at Taylor at the bar?
+b. In the aftermath of the argument at the bar, how would Taylor describe Carson's behavior?
+c. How did Carson behave while he was drinking at the bar after work?
+d. What emotions was Carson experiencing when he got angry at Taylor in the bar?
+
+
+
+70
+New Context and Questions:
+
+a. Context: Riley was working on a painting project and Jan provided the necessary materials.
+Question: How would Jan feel after helping Riley with the painting project?
+
+b. Context: Riley was writing a book and Jan helped him by creating the cover design.
+Question: How would Jan feel after contributing to Riley's book?
+
+c. Context: Riley was working on a new software program and Jan coded an important component of it.
+Question: How would Jan feel after contributing to Riley's software project?
+
+d. Context: Riley was preparing for a science experiment and Jan made sure all the necessary materials were ready for him.
+Question: How would Jan feel after assisting Riley in his science experiment?
+
+
+
+71
+New Questions:
+a. Sasha is excited about going to the party. What will she do after getting ready?
+b. As Sasha got ready, she felt nervous about the party. What will she likely do next?
+c. It's the eve of the party and Sasha is about to leave for it. What is she looking forward to doing?
+d. Sasha is about to attend a friend's party. What activity is she excited for after getting ready?
+
+
+
+72
+New Questions:
+a. What is Sasha's plan to lose weight before the cheer competition?
+b. What will Sasha do to ensure she reaches her weight loss goal before the competition?
+c. Sasha needs to lose weight for the cheer competition. What will she focus on doing next to achieve that?
+d. Given that Sasha is aiming to lose weight for the cheer competition, what is her next step in achieving this goal?
+
+
+
+73
+New Context: When successfully finished a challenging exam after days of diligent preparation.
+New Questions:
+a. What did Quinn have to do before starting the preparation?
+b. What was Quinn's approach to studying for the exam?
+c. How did Quinn feel after putting in so much effort for the exam?
+d. What was Quinn's routine like during the days of preparation?
+
+
+
+74
+New Questions:
+a. Why did Remy post the picture on her social media?
+b. What was Remy hoping to achieve by posting the picture?
+c. Remy wanted attention for her post. Why did she choose to post a picture?
+d. Remy uploaded a photo on her profile with the intention of receiving many likes. What might have been her motivations behind this action?
+
+
+
+75
+New Questions:
+a. Why did Cameron always display pictures in his home?
+b. What was Cameron's purpose behind hanging pictures?
+c. Cameron used to put up pictures to commemorate what?
+d. What was the reason behind Cameron hanging pictures of past events?
+
+
+
+76
+New Questions:
+a. When Jordan gave Taylor the lucky lottery ticket, what did Taylor do next?
+b. What emotions did Taylor experience when he received the lottery ticket from Jordan?
+c. What are the chances of Taylor winning the jackpot with the lottery ticket given by Jordan?
+d. How did Taylor feel about winning the lottery after receiving the right ticket from Jordan?
+
+
+
+77
+New Questions:
+a. What prompted Quinn to try and kill Cameron?
+b. Quinn discovered that Cameron was attempting to hurt their spouse, what did they do in response?
+c. Quinn found out about Cameron's intentions towards their husband, how did they react?
+d. Being informed about Cameron's unfaithfulness, Quinn's reaction was to try and harm Cameron. What caused this strong reaction?
+
+
+
+78
+New Context and Questions:
+
+a. 语境：凯尔在学校食堂工作，他负责制作沙拉。问题：其他人接下来会想做什么？
+
+b. 语境：艾米在公司的餐厅工作，她经常做意大利面给同事们吃。问题：同事们接下来会期待什么样的菜品？
+
+c. 语境：汤姆是个外卖厨师，他最近开始为一家餐馆制作汉堡。问题：顾客接下来会期待什么服务？
+
+d. 语境：苏珊是学校食堂的厨师助手，她为同学们准备了早餐三明治。问题：同学们接下来会选择什么样的食物搭配？
+
+
+
+79
+New Questions:
+a. Given that Kendall is now finished with the explanation, what is he likely to do next?
+b. Since Kendall clarified every concept for the benefit of the students, what will he do next?
+c. Being responsible for imparting knowledge, what is Kendall's next step after proving every point?
+d. As Kendall needs to ensure the students understand completely, what action will he take next?
+
+
+
+80
+New Questions:
+a. How did Remy feel about getting a new puppy today?
+b. How did Remy's puppy react to learning how to sit?
+c. How would Remy feel about his ability to train the puppy so quickly?
+d. What emotions would Remy experience after successfully teaching his puppy a new trick?
+
+
+
+81
+New Context and Questions:
+
+a. Context: Emma was hungry and had a meal of pasta with tomato sauce.
+Question: How would Emma feel after eating pasta with tomato sauce?
+
+b. Context: David was tired and decided to have a cup of coffee with his sandwich.
+Question: How would David feel after having coffee and a sandwich?
+
+c. Context: Alex was on a diet and had a glass of water with her salad.
+Question: How would Alex feel after drinking water with her salad?
+
+d. Context: Lily was at a party and drank lots of juice with her friends.
+Question: How would Lily feel after drinking juice at the party?
+
+
+
+82
+New Context: After Jordan agreed to go to the movies with Riley's boyfriend, she was very excited about the upcoming activity.
+New Questions:
+a. How would Jordan feel about spending time with Riley's boyfriend?
+b. Would Jordan enjoy the movie experience with Riley's boyfriend?
+c. How would Jordan feel about going to the movies as a group?
+d. What emotions would Jordan experience after agreeing to go on this activity?
+
+
+
+83
+New Questions:
+a. Carson realized their car's tires were low on air, so what would they prefer to do next?
+b. Although Carson wanted to go straight away, what would they do about the low air in their tires?
+c. Carson needed to attend an emergency meeting and had to deal with low tire air. What would they do in this situation?
+d. With the car's tires being low on air, what would Carson consider as their next step?
+
+
+
+84
+New Context: Emily is always spending money recklessly, so her friend Aaron suggests that she starts depositing her money in the savings account.
+New Questions:
+a. How would you describe Aaron's behavior?
+b. Aaron notices that Emily has been saving money in the bank, how would he describe her now?
+c. What would be Aaron's opinion if Emily still spends money recklessly despite depositing it in the bank?
+d. What would people around Aaron say about his efforts to encourage Emily to save money?
+
+
+
+85
+New Context: After reaching the point where they could be seen by their friend, Riley and their group continued climbing the challenging hill.
+New Questions:
+a. What will Kendall do upon seeing Riley and their group at the top of the hill?
+b. Assuming Kendall has been waiting for them, what will be his first action?
+c. What could be Kendall's feelings after seeing Riley and their group reach the top safely?
+d. Given that Kendall has been eager to reach the top too, how will he react to Riley's achievement?
+
+
+
+86
+New Context: Skylar saved and invested wisely after working diligently to earn a large income.
+New Questions:
+a. What steps did Skylar take to become financially stable?
+b. What decisions did Skylar make to become a millionaire?
+c. How did Skylar use their money wisely?
+d. What habits did Skylar cultivate to achieve financial success?
+
+
+
+87
+New Questions:
+a. What will Austin do next to Riley?
+b. What will be the consequence for Austin if he continues to hold Riley's arms?
+c. How will Riley react if Austin doesn't let go of his arms?
+d. What are the possible reasons for Austin to hold Riley's arms in the first place?
+
+
+
+88
+New Questions:
+a. How would Skylar's friend feel after the argument and the subsequent amends?
+b. What efforts did Skylar make to make amends with his friend?
+c. How would Skylar feel after resolving the conflict with his friend through communication?
+d. What changes in their relationship did Skylar expect after making amends with his friend?
+
+
+
+89
+New Context and Questions:
+
+a. Context: Adam had a few drinks too many at the party last night and started feeling unwell. He now realizes he has a drinking problem.
+Question: What will Adam want to do next to address his problem?
+
+b. Context: Bella enjoyed her glass of wine with friends last night, but she overdid it and felt guilty about it the next day.
+Question: What will Bella want to do to avoid this happening again?
+
+c. Context: David's friend invited him for a drink, but he had a busy day and had a headache after just a few drinks.
+Question: What will David want to do now to unwind?
+
+d. Context: Ethan had a great night out with friends, but he had too many drinks and started to forget things the next day.
+Question: How will Ethan react to this realization about his behavior last night?
+
+
+
+90
+New Context: Before the meeting, Aubrey sent reminders to the team via email.
+Question: What does Aubrey need to do before sending the reminders?
+
+New Context: Aubrey is responsible for organizing the group meeting and she sent reminders through social media.
+Question: What does Aubrey need to do to ensure everything is prepared for the meeting?
+
+New Context: Before reminding the group about the meeting, Aubrey made sure to check the meeting details with the organizer.
+Question: What does Aubrey need to do after checking the meeting details?
+
+New Context: Aubrey texted the group to remind them of the meeting and also attached the meeting agenda.
+Question: What does Aubrey need to do before texting the group about the meeting?
+
+
+
+91
+New Questions:
+a. What are the strategies that Sydney used to stimulate the economy?
+b. How did Sydney ensure that reducing taxes would not harm public services?
+c. What economic policies did Sydney implement to encourage businesses to invest?
+d. What was the fiscal situation of Sydney before implementing the debt reduction measures?
+
+
+
+92
+New Questions:
+a. What emotions would Austin experience after stretching out their arms?
+b. How would Austin feel after successfully reaching the item on the table?
+c. What would Austin's body language indicate after extending their arms?
+d. Austin reached for the item, how would they feel about their accomplishment?
+
+
+
+93
+New Questions:
+a. How would you characterize Ash's understanding?
+b. What qualities does Ash possess to have a better idea than the original one?
+c. Can you describe Ash's thought process behind his new idea?
+d. What is Ash's level of creativity in terms of generating new ideas?
+
+
+
+94
+New Questions:
+a. After removing their natural hair color, what color will Alex want to dye their hair next?
+b. How did Alex plan to remove their natural hair color?
+c. What steps did Alex follow to prepare their hair for the bright blue color?
+d. What challenges did Alex expect in achieving their desired bright blue hair color?
+
+
+
+95
+New Context: After bringing the stray cat she found in the park to the vet, Sarah was informed about its health condition.
+New Questions:
+a. What will the vet recommend for the cat's health?
+b. What tests will the vet perform to assess the cat's condition?
+c. What is the general procedure at the vet after bringing in a stray animal?
+d. What questions will Sarah need to answer about the cat for the vet?
+
+
+
+96
+New Context: Emma got stuck in a traffic jam so she decided to help the people around her.
+New Questions:
+a. How would the people in the traffic feel as a result of Emma's help?
+b. Would Emma's actions have a positive impact on the people in the traffic?
+c. If Emma helped someone resolve their issue, how would they feel about her?
+d. Assuming Emma's actions were successful, how would the people around her react?
+
+
+
+97
+New Questions:
+a. What will Addison do to further prepare for the worst?
+b. After imaging the worst that could happen, what will Addison focus on next?
+c. Once Addison realized it wasn't so bad, what will be their next step?
+d. Given that Addison has allayed their fears, what action will they take next to further assess the situation?
+
+
+
+98
+New Context: Emily helped Sarah with her homework as Sarah had been struggling with it.
+New Questions:
+a. How would you describe Emily?
+b. What would happen if Emily didn't help Sarah with her homework?
+c. What would Sarah do if she didn't need Emily's help?
+d. Despite helping Sarah, how would Emily feel about her own progress in studies?
+
+
+
+99
+New Context: Emily had a friend who had become addicted to alcohol. She was worried he would relapse after detoxifying successfully.
+New Questions:
+a. What was Emily's feeling about her friend?
+b. How would you describe Emily's relationship with her friend?
+c. What would happen if Emily's friend relapsed?
+d. What steps would Emily need to take to help her friend avoid relapse?
+
+
+
+100
+New Questions:
+a. How did Jordan react when he found out his dog peed on the couch?
+b. What measures did Jordan take to remove the odor from the couch?
+c. How would Jordan's dog feel after peeing on the couch and being scolded by Jordan?
+d. After removing the odor, how would Jordan's family react to the situation?
+
+
+
+101
+New Context and Questions:
+
+a. Context: Taylor had finished reading a book and wanted to return it to the library.
+Question: What did Taylor need to do before returning the book?
+
+b. Context: Emily owed a friend a book and she wanted to give it back on time.
+Question: What did Emily need to do before returning the book to her friend?
+
+c. Context: Adam had just finished reading a book at the bookstore and decided to return it.
+Question: What did Adam need to do before returning the book at the bookstore?
+
+d. Context: Jessica wanted to return a book she had borrowed from the school library before the end of the semester.
+Question: What did Jessica need to ensure before returning the book?
+
+
+
+102
+New Context: After months of planning and practicing, Lee finally managed to successfully complete a difficult cooking task.
+Question: What did Lee need to do before starting this cooking task?
+
+a. Lee had to prepare the ingredients and tools necessary for cooking.
+b. Lee had to learn the recipe and practice it several times to perfect it.
+c. Lee had to schedule time in his busy schedule to focus on this cooking task.
+d. Lee had to gather all the necessary information about the ingredients and their measurements.
+
+
+
+103
+New Context: Alex asked Megan to write a poem about her former classmate who died in a car accident.
+Question: How would Alex feel after receiving Megan's poem?
+
+New Context: Emily requested her brother to write an essay about their childhood memories before they moved to different cities.
+Question: How would Emily feel after reading her brother's essay?
+
+New Context: Jane asked her friend Sam to craft a short story about a lost pet cat that was eventually found.
+Question: How would Jane feel after hearing the story from Sam?
+
+New Context: Victoria encouraged her daughter Sophia to draw a picture of their family dog for her birthday card.
+Question: How would Victoria feel upon receiving Sophia's birthday card?
+
+
+
+104
+New Questions:
+a. Given that Casey is feeling emotional, what will Addison's next move be to comfort him?
+b. After touching Casey's shoulder and seeing him cry, what will Addison do to provide support?
+c. In light of Casey's emotional response, what will Addison's reaction be?
+d. Given the context where Casey is crying and Addison has touched his shoulder, how will Addison respond next?
+
+
+
+105
+New Context: After years of being in a relationship with multiple partners, Alex decided to take their love to a new level and finally settle down.
+New Questions:
+a. How would Alex feel after deciding to settle down?
+b. What emotions might Alex experience after taking their relationship to a new level?
+c. How would their partner feel about Alex wanting to take the relationship to the next level?
+d. What would be the potential challenges that Alex might face in their new relationship phase?
+
+
+
+106
+New Context: Aubrey, feeling frustrated and overwhelmed, starts shouting at Remy.
+New Questions:
+a. What will be the outcome of Aubrey's behavior?
+b. What could happen to Remy after Aubrey's outburst?
+c. What steps might Aubrey take next in this situation?
+d. What are the possible consequences of Aubrey's actions on their relationship?
+
+
+
+107
+New Questions:
+a. When Jan realized her keys were missing from her car, how would she feel?
+b. After the car was recovered by Casey, how would Jan react?
+c. How would Jan feel after Casey returned the car to her after the successful pursuit?
+d. Given the situation where Jan lost her keys and then got her car back, how would she feel about Casey's efforts?
+
+
+
+108
+New Context: After hearing the news, the family and friends gathered at the hospital to prepare for the baby's arrival.
+New Questions:
+a. What will the family and friends do at the hospital?
+b. What preparations will they make for the baby's arrival?
+c. How will they feel about the upcoming baby's arrival?
+d. What actions will they take to help Quinn during this time?
+
+
+
+109
+New Questions:
+a. What did Ash do before she decided to walk to her friend's house?
+b. What preparations did Ash make before bringing the cake to her friend's house?
+c. What did Ash do to ensure the cake was ready for giving as a gift?
+d. What did Ash need to arrange before visiting her friend with the cake?
+
+
+
+110
+New Questions:
+a. Robin visited the restaurant where her friends were employed, anticipating what?
+b. Robin went to the restaurant knowing what special courtesy she would receive from her friends working there, why did she do this?
+c. Robin decided to visit the restaurant where her acquaintances worked, due to her knowing what?
+d. Robin sought refuge at the restaurant where her friends were employed, knowing they would provide her with food, why did she make this choice?
+
+
+
+111
+New Questions:
+a. Why did Skylar agree to meet Alex after a year of online communication?
+b. What prompted Skylar to finally meet Alex in person after communicating with him online for a year?
+c. After a year of online conversations, what influenced Skylar to take the step of meeting Alex in real life?
+d. Skylar and Alex had been talking for a year online. What was the reason behind Skylar's decision to finally meet him face-to-face?
+
+
+
+112
+New Questions:
+a. Given that the report was highly praised by the boss, what will Skylar's next action be?
+b. As Skylar finished the report on time, he has some free time now. What will he do next?
+c. Being a diligent employee, Skylar knows his job responsibilities don't end with the report. What will he do after submitting the report?
+d. With the report submitted, Skylar can focus on other tasks at work. What is the most probable next task he will do?
+
+
+
+113
+New Context:Remy was preparing for a baking competition where he had to make large batches of cookies. He wanted to impress the judges and win the competition.
+New Questions:
+a. What did Remy need to do before starting the baking competition?
+b. What preparations did Remy make for the baking competition?
+c. How did Remy practice baking cookies for the competition?
+d. What materials or ingredients did Remy need to gather before the baking competition?
+
+
+
+114
+New Questions:
+a. What could have prompted Cameron to meet the supervisor?
+b. What reasons might Cameron have had for connecting with the department's supervisor?
+c. Cameron met the head of their department. What could be the purpose of this meeting?
+d. Can you imagine any reasons why Cameron would arrange a meeting with the supervisor of their department?
+
+
+
+115
+New Questions with new context:
+a. How would you describe Emma, who found a new career helping seniors in the community?
+b. Can you describe Lucas, who has a passion for teaching in the local school?
+c. How would you depict Andrew, who landed a job assisting students in a local college?
+d. Can you describe Taylor, who recently started a new job at a local youth center?
+
+
+
+116
+New Questions:
+a. What is Austin's current situation after moving to California?
+b. What opportunities did Austin seek in California for their acting career?
+c. How did Austin's acting career progress after they moved to California?
+d. What challenges did Austin face when they first moved to California for their acting career?
+
+
+
+117
+New Questions:
+a. When Ash didn't know the answer to the question and Jesse helped her out, how would she feel?
+b. If Ash had to rely on Jesse for the answer, how would she feel about her own knowledge?
+c. Ash asked Jesse a tough question and he responded. How would she interpret his response?
+d. When Jesse provided an answer to Ash's question despite her lack of knowledge, how would their interaction be perceived?
+
+
+
+118
+New Questions:
+a. Why did Sasha touch Jesse's tongue during their romantic makeout session in the basement?
+b. What was Sasha's intention when she flicked Jesse's tongue during their intimate moment in the basement?
+c. During their passionate kissing session in the basement, Sasha played with Jesse's tongue. What could have been her reason?
+d. Sasha and Jesse were engaging in a passionate makeout session in the basement. During this time, Sasha flicked Jesse's tongue. What was her motivation behind this action?
+
+
+
+119
+New Questions:
+a. Why did Jordan feel exhausted and try to sleep?
+b. Being tired and exhausted, what was Jordan's main priority?
+c. Jordan was so tired that he wanted to do what?
+d. Explain the reason behind Jordan's attempt to sleep despite his exhaustion.
+
+
+
+120
+New Context: After years of dedication and practice, Taylor has perfected their unique way of playing the piano. They hope to open a music studio where they can share their passion for music with others.
+New Questions:
+a. What will Taylor do after mastering their piano skills?
+b. What steps are involved in Taylor's plan to open a music studio?
+c. What opportunities do they hope to provide through their music studio?
+d. How will Taylor share their passion for music with others through the studio?
+
+
+
+121
+New Questions:
+a. What will Aubrey do to prevent further conflicts?
+b. What measures will Aubrey take to ensure Remy stays calm?
+c. How will Aubrey handle the situation if Remy starts fighting again?
+d. Given her previous actions, what would Aubrey's next course of action be if she wants to avoid trouble?
+
+
+
+122
+New Questions:
+a. Given that he wasted some food, what measures will Bailey take to avoid this happening again?
+b. What will Bailey do to ensure that he reduces his carbon footprint, especially in terms of food waste?
+c. What steps will Bailey take to ensure that he properly composts his food waste in the future?
+d. After accidentally throwing away the food, what actions will Bailey take to correct his mistake and ensure proper disposal of food waste in the future?
+
+
+
+123
+New Questions:
+a. Kendall bought tickets to a concert as a birthday gift for their parents, who had expressed interest in attending. How would Kendall feel afterwards?
+b. Kendall bought tickets to a dance performance as a wedding anniversary gift for their parents who love dance. How would Kendall feel after the performance?
+c. Kendall surprised their parents by purchasing tickets to a music festival as a special gift for their anniversary. How would Kendall feel on seeing their parents enjoy the event?
+d. Kendall bought tickets to a show knowing that their parents wanted to see it as a gift for their anniversary and the parents loved it. How would Kendall feel after receiving their appreciation?
+
+
+
+124
+New Questions:
+a. How would you describe Jesse's behavior?
+b. Given that Jesse knew about Ash's boyfriend's actions, how would she be perceived by others?
+c. What would be Jesse's feelings if she found out about the whole situation?
+d. Jesse learned that her friend Ash's boyfriend had been deceiving her for months. How would you describe Jesse's character in this situation?
+
+
+
+125
+New Questions:
+a. Considering his lack of experience, what would Addison prefer to do now about horse riding?
+b. After experiencing the horse taking control too fast, what would Addison like to do differently next time?
+c. Being a beginner, how would Addison want to approach horse riding in the future?
+d. Given his first-time challenge, what would Addison's next steps be in terms of horse-riding safety?
+
+
+
+126
+New Questions:
+a. Why did Addison leave the casino after winning a prize in the slot machines?
+b. What was the reason for Addison to quit the casino after winning a slot machine jackpot?
+c. Can you infer why Addison left the casino with a slot machine jackpot?
+d. What factors influenced Addison's decision to leave the casino after winning in the slot machines?
+
+
+
+127
+New Questions:
+a. Why did Aubrey get up early?
+b. What was the purpose of Aubrey making breakfast?
+c. What prompted Aubrey to finish preparing breakfast and sit down?
+d. What was happening before Aubrey decided to make breakfast?
+
+
+
+128
+New Questions:
+a. What will happen to Austin after he finished running the brush through Bailey's hair?
+b. What will be the outcome of the dance party for Bailey?
+c. What does Austin expect to happen after he prepared Bailey for the dance party?
+d. What is the mood of Bailey as Austin runs the brush through her hair?
+
+
+
+129
+New Questions:
+a. After backing up her friend by performing Jan's duty, what will Casey expect as her next action?
+b. Casey has just taken on a responsibility from Jan due to her friend needing support. What does she plan to do next?
+c. Being in the context of supporting her friend, Casey has fulfilled Jan's duty. What is she likely to do now?
+d. Given that Casey is already involved in helping her friend by doing Jan's job, what would she likely pursue as her next step?
+
+
+
+130
+New Questions with different context and same reasoning logic:
+a. As a talented artist, Emma always managed to turn any challenging situation into an opportunity for success. How would you describe Emma?
+b. Being a skilled chef, Adam could transform simple ingredients into mouth-watering dishes. How would you describe Adam?
+c. Having strong leadership skills, Emily always managed to turn around a failing team to become the best in the league. How would you describe Emily?
+d. With his amazing mechanical skills, Michael was able to convert an old broken car into a stunning showpiece. How would you describe Michael?
+
+
+
+131
+New Questions:
+a. How would Kendall feel after receiving the answer from Addison?
+b. What emotions would Addison experience after helping Kendall?
+c. How would the situation be perceived from Addison's perspective?
+d. What would Addison think about Kendall writing the answer in the journal?
+
+
+
+132
+New Questions:
+a. After accepting the invitation to the birthday party, what will Ash plan to do next?
+b. Once Ash arrives at the birthday party, what will he expect to happen next?
+c. Being at the birthday party, what activities does Ash anticipate will follow?
+d. Having accepted the invitation, what does Ash look forward to at the party?
+
+
+
+133
+New Questions:
+a. When Sasha praised Tracy's speech abilities after her speech, how did Tracy feel?
+b. Tracy was caught off guard when Sasha paid her a compliment about her presentational skills. How did she react?
+c. After Sasha's unexpected compliment on her presentation, how did Tracy feel about herself?
+d. Tracy was given a compliment by Sasha that was unexpected during her presentation. What emotions did she experience?
+
+
+
+134
+New Context: After Adam became affluent, he contributed a significant amount to charity, which left him feeling content.
+New Questions:
+a. How would people around Adam feel because of his generosity?
+b. Adam donated a large sum to the local community center. How would the community react?
+c. After making sizable donations to charity, how would Adam's friends and family feel about his actions?
+d. Adam's generosity left him feeling content. How would others be affected by his actions?
+
+
+
+135
+New Context: Sasha had been eagerly waiting for this night as it was his date with Skylar to attend the school's prom. They both had been preparing for this event for weeks.
+
+New Questions:
+a. What preparations did Sasha need to make for the prom?
+b. What did Sasha need to do to make sure their date went well?
+c. How did Sasha feel about being Skylar's prom date?
+d. What did Sasha and Skylar do together before the prom?
+
+
+
+136
+New Questions:
+a. After watching the show and informing their friends, what will Bailey want to do with their friends?
+b. What will Bailey suggest to their friends about the show they watched?
+c. Being enthusiastic about the show, what would Bailey likely propose to their friends for their next activity?
+d. Having created excitement about the show among their friends, what will Bailey want to do to further share their experience?
+
+
+
+137
+New Questions:
+a. Why did Sydney take Skylar out today?
+b. What was the special occasion for Sydney to treat Skylar with ice cream?
+c. It being the end of the school year, why did Sydney choose to have ice cream with Skylar?
+d. Sydney and Skylar went for ice cream. What could have been the reason behind this outing on the last day of school?
+
+
+
+138
+New Questions:
+a. After a long search for something dressy, Jordan eventually decided to wear casual shorts from his closet. How would you describe Jordan's choice?
+b. Jordan spent hours looking for something formal, but ended up choosing casual shorts from his wardrobe. What would you say about his final choice?
+c. Despite looking for formal attire, Jordan decided to wear shorts he already had in his closet. How would you characterize his decision?
+d. Jordan searched extensively for formal attire but ended up putting on casual shorts he found in his closet. What words would you use to describe Jordan's decision-making process?
+
+
+
+139
+New Questions:
+a. After inviting friends over for Sunday brunch, how would Sasha feel about the gathering?
+b. Sasha and their friends usually enjoyed their Sunday brunches. How would Sasha feel about spending this Sunday with their friends?
+c. Sasha often organizes Sunday brunches with their friends. How would Sasha feel after today's gathering?
+d. Sasha loves spending Sundays with their friends and family. After having brunch together, how would Sasha feel?
+
+
+
+140
+New Questions:
+a. What characteristics does Taylor possess that led to their closer look?
+b. What impression did Taylor make on the observer to take a closer look?
+c. How would Taylor describe their experience after being looked at more closely?
+d. Given that Taylor was examined more closely, what could have been the reason behind this action?
+
+
+
+141
+New Questions:
+a. What will Casey's recovery process be like?
+b. How will Casey feel after Kai broke his arm?
+c. What steps will Casey take to recover from his arm injury?
+d. What kind of treatment will Casey need for his broken arm?
+
+
+
+142
+New Context: Emily consulted with Adam about the best way to proceed with their project.
+New Questions:
+a. What will Emily's role be after the consultation?
+b. What impact will Adam's opinion have on Emily's decision?
+c. How will the consultation affect the progress of their project?
+d. What are the possible outcomes of Emily considering Adam's advice?
+
+
+
+143
+New Questions:
+a. What steps did Samantha take to prepare for her application to nursing school?
+b. What actions did Samantha undertake to ensure she was a suitable candidate for nursing school?
+c. Before asking Lee for a recommendation letter, what did Samantha do to qualify for nursing school?
+d. Samantha wanted to be accepted into nursing school. What did she need to accomplish before requesting a recommendation letter from Lee?
+
+
+
+144
+New Context: After receiving the music, the group of friends gathered around and listened to it together.
+New Questions:
+a. How did the friends feel after Jesse handed over the music?
+b. What emotions were expressed by the group after Jesse's gesture?
+c. What would the others think about Jesse's decision to share the music?
+d. How did the others react when they received the music from Jesse?
+
+
+
+145
+New Questions:
+a. What will Taylor's friends want to do next after playing beer pong?
+b. What will Taylor do after taking a break from beer pong?
+c. What is the next activity that Taylor and their friends might enjoy at the party?
+d. What will Taylor try to convince their friends to do next in the party?
+
+
+
+146
+New Context: After Taylor showed him the news article, Cameron's views on climate change shifted significantly.
+a. What will Cameron's response to Taylor be about his changed opinion?
+b. How will Cameron further engage with the topic after being shown the news article?
+c. What questions might Cameron have for Taylor after reading the news article?
+d. What will Cameron want to research now after his opinion was altered by the news article?
+
+
+
+147
+New Context: Emily was driving her friend's car as her friend was too tired to drive.
+New Questions:
+a. What does Emily need to do before getting into the car?
+b. What was the condition of Emily's friend when she agreed to drive?
+c. How did Emily's friend feel about her driving the car?
+d. What measures did Emily take to ensure safe driving?
+
+
+
+148
+New Context: When I was on my way to attend a concert, I met up with Emily. Emily decided not to go because she heard it might be too noisy and the security might not be good.
+New Questions:
+a. What could happen to those who still decide to go to the concert?
+b. What would be the potential consequences of the noise at the concert?
+c. What would happen if the security was indeed not good at the event?
+d. Given Emily's concerns, what could be the risks for those who choose to attend?
+
+
+
+149
+a. Context: After being asked about their understanding of the assignment at work, Emily shook her head and expressed her confusion to her supervisor.
+Question: What will Emily want to do next to clear her doubts?
+
+b. Context: After being asked if he understood the lesson, Adam said no and requested clarification from his teacher in class.
+Question:What will Adam do after asking for clarification?
+
+c. Context: After the job interview, Megan was asked if she understood the job requirements and responsibilities. She expressed her confusion about certain aspects of the job.
+Question: What is Megan likely to do after realizing her confusion about the job?
+
+d. Context: In a new class, Bella was asked if she understood the lesson plan for the year. She said she didn't and wanted more explanation on a few topics.
+Question:What is Bella likely to do after asking for further explanation on the lesson plan?
+
+
+
+150
+New Context and Questions:
+
+a. Tracy decided to cycle to work instead of drive to help reduce their carbon footprint. How would Tracy feel about their decision afterwards?
+
+b. With the aim of helping the environment, Tracy started using public transport more frequently. How would Tracy feel about this change?
+
+c. To reduce their environmental impact, Tracy began walking instead of driving for short distances. How would Tracy feel about their contribution to environmental conservation?
+
+d. Tracy made an effort to reduce their environmental impact by limiting their car usage. How would Tracy feel about their efforts in protecting the environment?
+
+
+
+151
+New Questions:
+a. What motivated Kai to work so hard on developing the new vaccine?
+b. Can you imagine Kai's dedication to develop the vaccine? What could have been his reasons?
+c. What were Kai's goals in developing the new vaccine?
+d. What challenges did Kai face while working on the vaccine and why did he persist?
+
+
+
+152
+New Context: Emma pushed the ball out of the way before they were going to take something from the closet.
+New Questions:
+a. What does Emma need to do before going to the closet?
+b. How did they clear the way for the closet?
+c. What happened after Emma pushed the ball out of the way?
+d. What could have been in the closet that required them to move the ball?
+
+
+
+153
+New Context: Lucy provided Alex with an introduction to the event they are organizing.
+Question: What will happen to Alex next?
+
+New Questions:
+a. After being given a briefing by Jane about the conference they are preparing for, what will be expected of David?
+b. Sara explained the tasks to the team they need to accomplish for the project. How will the team members proceed?
+c. Emma provided a detailed overview of the assignment to her team members. What challenges will they face next?
+d. Jack got a briefing from his boss about the new marketing plan they need to implement. What is his next step in the process?
+
+
+
+154
+New Questions:
+a. Context: After a long cross-Atlantic journey, Jane arrived home via taxi. How would you describe Jane?
+b. Context: Jan finally arrived in his hometown after a grueling cross-Atlantic flight and got into a cab. How would you describe Jan's state of arrival?
+c. Context: After enduring a long international flight, Jan stepped out of the airport and into a taxi. How would you describe Jan's mood?
+d. Context: Jan traveled thousands of miles by plane and reached his destination, boarding a cab to go home. How would you describe Jan's experience?
+
+
+
+155
+New Questions:
+a. What did Skylar do with their old car before getting their new one?
+b. What preparation did Skylar make before trading their old car for a new one?
+c. What decision led Skylar to trade their old car for a new one?
+d. Skylar traded their old car for a new one. What might have been the reason behind this decision?
+
+
+
+156
+New Questions:
+a. How would Skylar feel after being rescued from the rain by Jan?
+b. Being brought home after being stranded in the rain, how would Skylar feel about Jan's kindness?
+c. After experiencing a difficult situation due to being stranded, how would Skylar feel when Jan helped them out?
+d. After being helped by Jan back home, how would Skylar feel in terms of relief and gratitude?
+
+
+
+157
+New Context: Adam is preparing for his science fair and needs a project.
+New Questions:
+a. What does Adam need to do to find a suitable science fair project?
+b. What steps should Adam follow to create a successful science fair project?
+c. What materials or resources does Adam need to gather for his science fair project?
+d. What are the first steps that Adam should take in preparing for the science fair?
+
+
+
+158
+New Questions:
+a. What will Jordan do after losing his job?
+b. How did Micah and Pat's hiring affect Jordan's job security?
+c. What impact did the arrival of Micah and Pat have on Jordan's career?
+d. What are the consequences of Jordan losing his job to Micah and Pat?
+
+
+
+159
+New Questions:
+a. What was the purpose of Riley going to the mall with their mom?
+b. Riley accompanied their mom to the mall for what reason?
+c. Riley and their mom went to the mall to do what?
+d. Riley went shopping at the mall with their mom due to what reason?
+
+
+
+160
+New Context: Emma was so hungry at lunch that she ordered a large pizza and a side salad. However, she couldn't finish everything she ordered.
+New Questions:
+a. What could Emma do after leaving the restaurant?
+b. What would have happened if Emma had ordered even more food than she did?
+c. What does Emma need to do to avoid leaving food on her plate in the future?
+d. How would Emma feel if she couldn't finish her meal even though she was really hungry?
+
+
+
+161
+New Context: Emma felt peckish as she drove the golf cart along the pathway, realizing the course had been altered to lead her towards the clubhouse restaurant.
+New Questions:
+a. How would you describe Emma's current state of hunger?
+b. What emotions might Emma be experiencing as she navigates the altered golf course?
+c. What would be Emma's motivation to follow the altered course?
+d. Given that Emma is in a golf cart, how would you describe her journey to the clubhouse restaurant?
+
+
+
+162
+New Questions:
+a. What was Alex's motivation behind learning to sew?
+b. What was Alex's purpose in mastering the skill of sewing?
+c. Alex learned a new skill. Why did he do it?
+d. Alex chose to learn sewing. What was his reason for doing so?
+
+
+
+163
+New Context and Questions:
+
+a. Context: Emma saw a stranger approaching her, so she grabbed her purse.
+Question: Why did Emma do this?
+
+b. Context: Bob noticed an unfamiliar person walking towards him, so he grabbed his wallet.
+Question: Why did Bob do this?
+
+c. Context: Nina saw a large crowd approaching her, so she put her phone in her pocket.
+Question: Why did Nina do this?
+
+d. Context: Olivia saw a tall person walking in her direction, so she made sure to hold her bag closer.
+Question: Why did Olivia do this?
+
+
+
+164
+New Context: Despite having homework to complete, Michael chose to read books instead.
+New Questions:
+a. Why did Michael choose to read books instead of doing homework?
+b. What was Michael's reason for not focusing on his homework?
+c. Despite having a pressing assignment, why did Michael prioritize reading books?
+d. What factors influenced Michael's decision to avoid homework and read books instead?
+
+
+
+165
+New Context: Jordan realized the benefits of meditation after practicing yoga. She is now interested in exploring other relaxation techniques.
+New Questions:
+a. What is the next step Jordan plans to take?
+b. What does Jordan intend to do after exploring other relaxation techniques?
+c. What other activities might Jordan try out?
+d. Given her experience with yoga, what else does Jordan want to learn about?
+
+
+
+166
+New Questions:
+a. What will Carson do after teaching Jesse how to play the piano?
+b. What skills did Carson demonstrate by teaching Jesse piano?
+c. How did Carson feel after teaching Jesse a lesson on piano?
+d. What other activities might Carson engage in after teaching Jesse the piano?
+
+
+
+167
+New Questions:
+a. What will be Kendall's next reaction after closing the door with a slam?
+b. What could have caused the bad fight between Kendall and Sydney?
+c. What would have been Sydney's emotional state before leaving?
+d. Given their previous altercation, how will Kendall feel after some time has passed?
+
+
+
+168
+New Questions:
+a. Given that Casey was in charge of planning Aubrey's wedding and fulfilled her duties as requested, how would you describe Casey's role in the wedding?
+b. Casey fulfilled her duties for Aubrey's wedding with utmost care. What would you say about Casey's dedication?
+c. In the context of planning Aubrey's wedding, Casey did everything as requested. How would you characterize Casey's performance?
+d. How would you describe Casey's involvement in the wedding planning process, where she meticulously carried out her duties as requested?
+
+
+
+169
+New Questions:
+a. Why did Austin write down the list of items they needed to buy?
+b. What was the purpose of Austin making a grocery list?
+c. Can you assume Austin did this to avoid forgetting any items at the store?
+d. What might have been Austin's rationale behind creating a list of groceries?
+
+
+
+170
+New Context: After witnessing Jordan's efforts to help the starving children, many people have become inspired to take action.
+New Questions:
+a. What actions might these inspired individuals take?
+b. What are the potential outcomes of their actions?
+c. What might they hope to achieve by helping the starving children?
+d. How could their actions influence others in the community?
+
+
+
+171
+New Context and Questions:
+
+a. Before Sasha expressed Skylar's thoughts, what did Sasha need to understand about Skylar?
+
+b. What was the relationship between Sasha and Skylar before Sasha expressed Skylar's thoughts in terms of appreciation and benevolence?
+
+c. Sasha wanted to convey Skylar's thoughts accurately. What preparation did Sasha need to do before expressing them?
+
+d. Sasha was close to Skylar. What did Sasha need to do before interpreting Skylar's thoughts with such care and sensitivity?
+
+
+
+172
+New Context and Questions:
+
+a. Context: Emma noticed the printer was out of paper, causing everyone to wait. Emma quickly loaded more paper into the printer. How would you describe Emma?
+
+b. Context: Olivia realized that the coffee maker was empty and everyone was tired. Olivia filled up the coffee maker with water and made a fresh batch of coffee. How would you describe Olivia?
+
+c. Context: Adam saw that the basketball team had lost their equipment, so they could not practice. Adam donated some of his own equipment to the team. How would you describe Adam?
+
+d. Context: Victoria saw that the plants in the community garden needed watering, but there were no buckets available. Victoria filled plastic bottles with water and used them to water the plants. How would you describe Victoria?
+
+
+
+173
+New Context and Questions:
+
+a. Context: In his science project for school, Kai successfully treated the mice with a new medicine, resulting in their improved health condition.
+Question: What is Kai's main achievement in his science project?
+
+b. Context: Kai has conducted an experiment on mice in his school's science project which showed significant improvements in their health.
+Question: What experiment did Kai perform in his science project?
+
+c. Context: Kai's dedication and enthusiasm in his school science project has led to positive health outcomes for the mice involved in the study.
+Question: How would you describe Kai's dedication in his science project?
+
+d. Context: Kai's school science project focused on improving the health of mice, and he successfully achieved the goal, showcasing his scientific skills and dedication.
+Question: What skills did Kai showcase in his science project?
+
+
+
+174
+New Context: After years of not thinking about it, Emily has forgotten the details of her past.
+New Questions:
+a. What will Emily do to regain her memories?
+b. What steps will Emily take to understand her past?
+c. What actions might Emily take to help her remember?
+d. What does Emily need to do to remember what happened in the past?
+
+
+
+175
+a. When the door finally opened, Riley may want to explore the place. What will she do next?
+b. After entering the room, Riley may need to interact with Jan in order to establish a connection with her. What could she say next?
+c. Being determined, Riley would now push for Jan to give her opinion about their newfound entryway or any subject related to it. What could she ask Jan next?
+d. Riley might want to make sure that Jan is comfortable with the situation after forcing the door open. What will she do to ensure this?
+
+
+
+176
+New Questions:
+a. Robin's communication skills were exceptional, how would you describe her abilities?
+b. Robin had a unique talent for persuading others, how would you summarize her skills in the classroom?
+c. Robin was able to motivate the entire class to study for the next test, how would you describe her influence?
+d. Robin's speech had a profound impact on the class, making everyone want to study harder. How would you describe her speech skills?
+
+
+
+177
+New Questions:
+a. What was Sasha's mood before getting the test results?
+b. What did Sasha expect to see in the test results?
+c. What did Sasha do after seeing the test results?
+d. What was the significance of Sasha passing the test for them?
+
+
+
+178
+New Context: Emma was supposed to go to the volunteer event for her school, but she got invited to a birthday party instead.
+New Questions:
+a. How would her classmates feel about her missing the event?
+b. What emotions might arise in her teachers as a result of her absence at the event?
+c. Given that she opted for the birthday party instead of the volunteer event, how would her peers perceive her decision?
+d. Assuming she had a lot of fun at the birthday party, how would she feel about missing out on the volunteer event later?
+
+
+
+179
+New Questions:
+a. Why did Ash keep his distance from them, knowing they were criminals?
+b. What made Ash realize that the people he was with were criminals?
+c. Once Ash realized they were criminals, why did he choose to avoid them?
+d. What was Ash's motivation behind staying away from the known criminals?
+
+
+
+180
+New Questions:
+a. What did Aubrey do the previous night?
+b. What happened to Aubrey during the day after she stayed up studying?
+c. Describe Aubrey's actions related to her studying and sleeping?
+d. In class after she stayed up all night studying, what happened to Aubrey?
+
+
+
+181
+New Context: After years of struggling, Emma finally got accepted to her dream college but she couldn't afford it. Her friend Sam decided to help her out and paid her tuition fee in full so she wouldn't drop out.
+
+New Questions:
+a. How would Emma feel about getting accepted to her dream college?
+b. What would Emma's reaction be when she realized she couldn't afford the college fee?
+c. How would Emma feel after Sam paid her tuition fee?
+d. What emotions would Emma experience due to Sam's generosity?
+
+
+
+182
+New Questions:
+a. Kai had to push his bike home instead of riding it. How do you think he feels now?
+b. Kai's bike broke down and he had to walk it back home. What emotions might he be experiencing?
+c. Kai encountered a bike malfunction on his way home and had to walk his bike back home due to the closed repair shop. How do you think this made him feel?
+d. Kai's bike needed repairs but the shop was shut, forcing him to walk it back home. How would you describe his mood now?
+
+
+
+183
+New Questions:
+a. Why did Bailey shred the letter she received?
+b. What made the note incomprehensible to Bailey?
+c. What would have happened if Bailey had understood the note?
+d. How did Bailey feel about the note she received and why did she choose to shred it?
+
+
+
+184
+New Context: Because he wanted to surprise his parents, Adam secretly saved money and didn't tell them about his financial status.
+New Questions:
+a. How would Adam's parents feel as a result?
+b. What emotions might Adam's siblings experience in this situation?
+c. How would Adam's friends feel if they knew about his secret savings plan?
+d. What impact could this secrecy have on the relationship between Adam and his parents in the future?
+
+
+
+185
+New Questions:
+a. What was Jesse's motivation for moving houses?
+b. What kind of action did Jesse want to get into?
+c. How did Jesse's move affect their life?
+d. What was Jesse's personality like before they moved houses?
+
+
+
+186
+New Context: When John and his girlfriend went to a restaurant for their anniversary celebration, David met John's girlfriend.
+New Questions:
+a. What will David's reaction be to John's girlfriend?
+b. What might the couple plan to do next after the celebration?
+c. What will John expect from David after this encounter?
+d. What will others present at the restaurant notice about this interaction?
+
+
+
+187
+New Questions:
+a. Why did Tracy shower Lee with so many gifts?
+b. What was Tracy's intention behind providing good food to Lee?
+c. Can you infer the reason Tracy wanted to improve Lee's life through gifts?
+d. What made Tracy decide to enhance Lee's life by giving gifts and good food?
+
+
+
+188
+New Questions with different context:
+a. Context: After a hard-fought match, Emily bestowed a sense of triumph upon Adam, making him feel like a winner. How would you describe Emily?
+Question: How would you describe Emily's character?
+
+b. Context: In the basketball game, Ethan delivered the joy of success to his team, contributing to their victory. How would you describe Ethan?
+Question: What is Ethan's character like?
+
+c. Context: During the chess tournament, Megan provided Michael with the sense of accomplishment after they won the game.
+Question:How would you describe Megan's character?
+
+d. Context: In the final round of the competition, Taylor gave Jesse the experience of triumph, contributing greatly to their team's success. How would you describe Taylor?
+Question:What traits does Taylor possess that led to their team's victory?
+
+
+
+189
+New Questions:
+a. What was Quinn's routine before taking a shower?
+b. What did Quinn do to prepare for his day before getting ready for work?
+c. What did Quinn do before heading to the bathroom to shower and brush his teeth?
+d. Quinn's day started with him getting up and doing what before going to work?
+
+
+
+190
+New Context and Questions:
+
+a. Context: After finishing all the tasks at work, Jordan had some free time.
+Question: What will Jordan want to do during his free time?
+
+b. Context: After Jordan completed the necessary shopping, she felt satisfied.
+Question: What is the next thing Jordan might enjoy doing?
+
+c. Context: Jordan took care of the household chores, now the house is clean and tidy.
+Question: What will Jordan want to focus on next after taking care of the house?
+
+d. Context: Jordan finished her studies for the day and is now free to relax.
+Question:What will Jordan likely do next to unwind and relax?
+
+
+
+191
+New Questions:
+a. What will Skylar's family members plan to serve at the reunion after Skylar saved the bacon?
+b. How will Skylar's actions influence the atmosphere at the family reunion?
+c. What will the family members say about Skylar's effort in saving the bacon?
+d. What activities will the family members want to do together after enjoying the bacon at the reunion?
+
+
+
+192
+New Context: Addison didn't want to please Taylor, so he gave her a small gift instead of what she really wanted.
+New Questions:
+a. How would Taylor feel as a result?
+b. What would have happened if Addison had given Taylor what she really wanted?
+c. What could have been the reason behind Addison's decision not to please Taylor?
+d. Would Taylor appreciate the small gift given by Addison?
+
+
+
+193
+New Questions:
+a. What was the first step Madelyn took in her application process for nursing school?
+b. What preparations did Madelyn make before asking Lee for a recommendation letter?
+c. What actions did Madelyn undertake to ensure she was ready for nursing school?
+d. What did Madelyn do to qualify for the nursing school application process?
+
+
+
+194
+New Context: After undergoing a series of tests by her doctor, Cameron, Kendall received her diagnosis and now faces her treatment plan.
+New Questions:
+a. What is Kendall's plan of action after receiving her diagnosis?
+b. What will Kendall focus on next in terms of her health?
+c. Kendall is very ill. What does she hope for in the coming days?
+d. Given the results of her tests, what does Kendall expect from her treatment plan?
+
+
+
+195
+New Context: After receiving an important email about an upcoming project, Emily realized she needed to start preparing for it.
+New Questions:
+a. What will Emily want to do after reading the email?
+b. Given the upcoming project, what preparations will Emily need to make?
+c. What is the first step Emily will take in starting her preparation for the project?
+d. What actions will Emily take to ensure she is ready for the project?
+
+
+
+196
+New Context and Questions:
+
+a. Before Sasha started being an athlete, what did she need to do?
+
+b. What skills or training did Sasha need to develop to become a bike-riding athlete?
+
+c. What was Sasha's motivation to start cycling as often as possible?
+
+d. Sasha has always enjoyed being outdoors and active. What was her first step towards becoming an athlete?
+
+
+
+197
+New Context: After setting the mouse free, Skylar watched it scamper away safely.
+New Questions:
+a. What will Skylar do now that the mouse is free?
+b. What will Skylar's next action be, considering his previous actions?
+c. What does Skylar hope to accomplish next?
+d. What does Skylar expect the mouse to do now?
+
+
+
+198
+New Questions with different contexts:
+a. Why did Riley endure the pain at the gym with the weights despite feeling uncomfortable?
+b. Riley was determined to push himself through the pain at the gym. What could have motivated him?
+c. Riley was at the gym and lifted weights, enduring pain. What was his intention?
+d. Despite feeling the pain, Riley kept lifting weights at the gym. What could have been his reason for doing so?
+
+
+
+199
+New Context: Emily shared a rumor about someone with Olivia, so Olivia repeated what Emily had said to her friends.
+New Questions:
+a. How would Emily feel after hearing her rumor was spread?
+b. What emotions might Olivia experience after sharing the rumor?
+c. How would Emily likely react if she knew Olivia had spread the rumor to others?
+d. What would happen if Emily confronted Olivia about the spread of the rumor?
+
+
+

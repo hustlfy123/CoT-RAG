@@ -1,0 +1,2369 @@
+0
+Original Question: "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change?"
+
+New Questions:
+a. "The penalties imposed on the hospital were a crushing setback, and they appeared to undermine what the institution had been striving to improve?"
+b. "The fines levied on the factory were a devastating hit, and they seemed to counteract the initiatives the company had taken to clean up its operations?"
+c. "The restrictions placed on the library were a demoralizing blow, and they appeared to nullify the improvements the staff had been working hard to achieve?"
+d. "The closures enforced on the shopping center were a severe setback, and they seemed to nullify the efforts the management had been making to revitalize the area?"
+
+
+
+1
+Original Question: Sammy wanted to go to where the people were. Where might he go?
+
+New Questions:
+a. If Alice seeks the place where there's a lot of activity, what type of location could she visit?
+b. Where would Ben look to find a place with many people if he's seeking a lively environment?
+c. In search of a bustling area, where might Charlie decide to go?
+d. If Diana is looking for a place where crowds gather, where would she likely go?
+
+
+
+2
+Original Question: To locate a choker not located in a jewelry box or boutique where would you go?
+
+New Questions:
+a. To find a rare vintage necklace that isn't in a traditional jewelry store or online marketplace, where would you search?
+b. If you're looking for a unique leather choker that's not in a regular accessories shop or online, where else could you look?
+c. Where would you go to get your hands on a custom-made choker that isn't available at a department store or a craft fair?
+d. To purchase a handmade glass choker that isn't sold in a jewelry shop or a gallery, which alternative locations might you consider?
+
+
+
+3
+Original Question: Google Maps and other highway and street GPS services have replaced what?
+
+New Questions:
+a. What did Yellow Pages and paper road maps replace with the advent of digital GPS services like Google Maps?
+b. In the pre-digital era, which traditional navigation tools have been largely replaced by modern GPS services such as Google Maps?
+c. What were the most common methods of finding directions before the rise of services like Google Maps?
+d. How have traditional street directories and map shops been affected by the introduction of GPS services like Google Maps?
+
+
+
+4
+Original Question: The fox walked from the city into the forest, what was it looking for?
+
+New Questions:
+a. The deer wandered from the suburbs into the nearby woods, what was it searching for?
+b. A squirrel ventured from the urban park into the thick trees, what might it have been seeking?
+c. The rabbit left the town for the dense forest, for what purpose could it have been heading?
+d. The cat slipped out of the village and into the woodland, what did it hope to find?
+
+
+
+5
+Original Question: What home entertainment equipment requires cable?
+
+New Questions:
+a. Which electronic device in the home necessitates a cable connection to access TV signals?
+b. What kind of home appliance is commonly used with a cable for TV programming?
+c. What piece of home theater equipment is typically connected to cable to receive broadcasts?
+d. Which audio system in a household requires a cable to receive cable TV channels?
+
+
+
+6
+Original Question: The only baggage the woman checked was a drawstring bag, where was she heading with it?
+
+New Questions:
+a. The only luggage the man packed was a duffel bag, which destination was he heading towards with it?
+b. The only item the traveler carried was a backpack, and where was he planning to go with it?
+c. The only piece of luggage the tourist checked was a tote bag, to which location was she traveling with it?
+d. The only thing the student brought was a canvas bag, and where did they intend to go with it?
+
+
+
+7
+Original Question: The forgotten leftovers had gotten quite old, he found it covered in mold in the back of his what?
+
+New Questions:
+a. The neglected food items had become quite stale, and he discovered them with mold in the corner of his what?
+b. The discarded snacks had gone bad, and he noticed mold on them hidden behind his what?
+c. The unused groceries had started to deteriorate, and he found them moldy in the recess of his what?
+d. The overlooked provisions had become quite outdated, and he found mold on them tucked away in the shadow of his what?
+
+
+
+8
+Original Question: What do people use to absorb extra ink from a fountain pen?
+
+New Questions:
+a. What tool is commonly used to remove excess ink from a ballpoint pen?
+b. Which item can effectively soak up extra ink from a rollerball pen?
+c. What is the best material to use for cleaning up spills from a felt-tip marker?
+d. What can one use to sop up excess ink from a calligraphy pen?
+
+
+
+9
+Original Question: Where is a business restaurant likely to be located?
+
+New Questions:
+a. Where might a high-end steakhouse typically be found?
+   Context: A high-end steakhouse is known for its sophisticated atmosphere and premium cuts of meat. It is likely to be situated in an area that attracts a wealth of business professionals and offers a tranquil, exclusive dining experience.
+
+b. In what type of neighborhood would one expect to find a corporate cafeteria?
+   Context: A corporate cafeteria is designed to cater to the dining needs of employees in a business district. It is often located within office buildings or in a commercial area with a high concentration of corporate establishments.
+
+c. Where would a businessperson most likely go to dine after a day of meetings?
+   Context: A businessperson might seek a restaurant that offers a combination of convenience, quality, and a business-friendly environment. Such a place might be found in a business district or in a hotel with meeting facilities.
+
+d. What kind of area is best suited for a restaurant that aims to serve clients from nearby corporate offices?
+   Context: To attract clients from corporate offices, a restaurant would need to be accessible and convenient, often located within a business park or a central business district, with easy parking and ample seating for groups.
+
+
+
+10
+Output:
+
+Original Question: "Where do you put your grapes just before checking out?"
+
+New Questions:
+a. "In which section of the store should you place your pears when you are ready to pay?"
+b. "What area should you go to with your apples before you go to the checkout counter?"
+c. "Just before heading to the checkout, where is the best spot to put your oranges?"
+d. "Where should you take your peaches to before proceeding to the cashier?"
+
+
+
+11
+Output:
+Original Question: "Before getting a divorce, what did the wife feel who was doing all the work?"
+New Questions:
+a. "Before they decided to separate, how did the husband feel about handling all the household chores?"
+b. "Prior to their separation, what emotions did the mother experience as she managed the family's finances on her own?"
+c. "In the lead-up to their breakup, what was the father's sentiment towards taking care of the kids single-handedly?"
+d. "What were the feelings of the partner who was responsible for the majority of the gardening tasks before the partnership ended?"
+
+
+
+12
+Original Question: Johnny sat on a bench and relaxed after doing a lot of work on his hobby. Where is he?
+
+New Questions:
+a. Sarah finished her gardening project and took a seat on a park bench. Where is she?
+b. After spending hours crafting a model airplane, Tim sat down on a wooden bench. Where is he?
+c. Emily spent the afternoon painting and then sat on a bench in the art studio to rest. Where is she?
+d. Michael put the final touches on his woodworking project and found a bench outside his workshop to relax. Where is he?
+
+
+
+13
+Original Question: "James was cooling off two quickly. He would die if he didn't find some way to stop what?"
+
+New Questions:
+a. "Ellie felt extremely hot, and her body temperature was rising alarmingly. She risked fatal consequences if she didn't find a way to prevent what?"
+b. "Tom noticed his body temperature skyrocketing after a long run in the sun. What would be his risk of life-threatening complications if he couldn't halt what?"
+c. "While swimming in a pool, Lily began to shiver uncontrollably, her body temperature dropping rapidly. She knew she needed to find a way to stop what or risk serious harm?"
+d. "Alex, after hours of labor in a greenhouse, started to feel dizzy and overheated. If he couldn't stop what, he feared it could be fatal?"
+
+
+
+14
+Original Question: Of all the rooms in a house it was his favorite, the aromas always drew him to the what?
+
+New Questions:
+a. In the grand mansion, which room did he cherish the most, where the scents consistently drew him to the [insert new room name]?
+b. What was the room in the quaint cottage that he adored above all others, where the fragrances consistently pulled him towards the [insert new room name]?
+c. In the cozy bungalow, there was one room he always gravitated towards, the one with the most inviting [insert new room characteristic], which was the [insert new room name]?
+d. In the luxurious apartment, there was one room that he considered his favorite, the one that never failed to entice him with its [insert new room characteristic], which was the [insert new room name]?
+
+
+
+15
+Original Question: "Bill is stuck in marsh when a man comes up to him speaking Cajun, where is he?"
+
+New Questions:
+a. "Jane is lost in a dense forest when she encounters someone speaking Gaelic. Where is she?"
+b. "Tom gets trapped in quicksand by a riverbank and is approached by someone conversing in Italian. Where might Tom be?"
+c. "Sarah is hiking through a swamp and is greeted by someone speaking Portuguese. In which environment is she currently?"
+d. "Mike is paddling a canoe on a lake and is surprised by someone talking in French. What kind of terrain might Mike be on?"
+
+
+
+16
+Original Question: What is it called when you slowly cook using a grill?
+
+New Questions:
+a. What term is used for the method of cooking at a low temperature using an oven?
+b. What do you call the technique of cooking meat slowly over an open flame?
+c. What is the name of the cooking process that involves slow cooking over a low heat source?
+d. What is the term for cooking food slowly using a method that involves indirect heat, like a smoker?
+
+
+
+17
+Original Question: What type of person typically contracts illness?
+
+New Questions:
+a. Who is more likely to catch a cold, a person who exercises regularly or someone who rarely exercises?
+b. Is someone with a strong immune system more or less susceptible to infections compared to someone with a weakened immune system?
+c. Which individual is more prone to flu, one who lives in a crowded city or someone who lives in a rural area with less exposure to others?
+d. Does a person who travels frequently for work have a higher chance of contracting a disease than someone who stays in one place most of the time?
+
+
+
+18
+Original Question: "Where would you expect to find a pizzeria while shopping?"
+
+New Questions:
+a. "In what type of shopping area would you anticipate locating a sushi restaurant?"
+b. "Where might you look for a bakery if you are out shopping for clothes?"
+c. "While browsing for electronics, where would you likely find a coffee shop?"
+d. "If you're shopping for toys, what kind of establishment would you hope to find near the store that sells them?"
+
+
+
+19
+Original Question: When eating everything on the tasting menu, what does one tend to feel?
+
+New Questions:
+a. After trying all the dishes on a gourmet tasting plate, what kind of sensation does a diner usually experience?
+b. What is the general feeling one gets after finishing a complete tasting menu?
+c. When completing a full-course tasting menu, what emotions are commonly felt by the diners?
+d. What is the typical emotional response after indulging in a full tasting menu experience?
+
+
+
+20
+Original Question: What does playing soccer for a long time lead to?
+
+New Questions:
+a. What are the effects of playing basketball regularly over several years?
+b. What health benefits can be derived from playing tennis for extended periods?
+c. What outcomes might result from someone who has been playing volleyball for many years?
+d. What changes in physical fitness might a person experience from years of playing water polo?
+
+
+
+21
+Original Question: Which entrance would you use if you do not want to use the back entrance?
+
+New Questions:
+a. Which door should you avoid if you prefer not to enter through the main entrance?
+b. If you are trying to not use the side entrance, which gate would you take?
+c. Which access point would you not choose if you wish to bypass the front entrance?
+d. Which entryway should you not use if you are not interested in using the primary entrance?
+
+
+
+22
+Original Question: You can share files with someone if you have a connection to a what?
+
+New Questions:
+a. What do you need to connect to in order to send someone a video file?
+b. Which type of network is required to transfer a document to a colleague?
+c. To share a photo with a friend, what kind of connection must you have?
+d. In order to send someone a presentation, what type of connection is necessary?
+
+
+
+23
+Original Question: The accelerator was controlled via a hand throttle, and the foot pedals controlled the steering in the small what?
+
+New Questions:
+a. The throttle was operated by a hand lever, while the foot controls managed the direction in the compact what?
+b. In the diminutive what, the gas was managed with a hand grip, and the steering was done with the feet via pedals?
+c. The handgrip controlled the speed in the tiny what, while the steering was underfoot with the pedals?
+d. The small what had a hand throttle for acceleration, with the steering being manipulated by foot pedals?
+
+
+
+24
+Original Question: Sean was lying about the body, but he was very scared. He constantly worried about what?
+
+New Questions:
+a. Alex was hiding the secret document, but his hands trembled. What was it that he was afraid of finding out?
+b. Jordan was concealing the stolen necklace, but he couldn't stop shaking. What was he worried would happen to him?
+c. Jamie was telling a fib about the lost pet, but his eyes were filled with anxiety. What was it that kept him on edge?
+d. Tom was fabricating a story about the broken vase, but his face turned pale. What was he most afraid of being discovered?
+
+
+
+25
+Original Question: "The drug kingpin told his man to run errands, this was code to go to all the dealers to do what they had?"
+
+New Questions:
+a. "The mob boss instructed his enforcer to perform a series of tasks, which was a hidden signal for the crew to execute what they were supposed to?"
+
+b. "A secret spy leader gave a coded message to his agent to complete a list of assignments, which actually meant to go to all the agents and get them to what their directives were?"
+
+c. "The crime boss sent a cryptic message to his right-hand man, telling him to do 'rounds,' which was actually a code for the gang members to carry out their specific operations?"
+
+d. "The underground ring leader communicated with his follower using a set of coded phrases, one of which was 'check the stations,' which was a sign for the members to proceed with their designated tasks?"
+
+
+
+26
+Original Question: Though he could've kept going his body appreciated the rest, it had been constantly what during the day?
+
+New Questions:
+a. After the marathon, his legs felt relief from stopping, but throughout the race, they had been tirelessly what?
+b. Following the long hike, he was grateful for the break, yet his muscles had been persistently what throughout the day?
+c. Despite the fatigue, he welcomed the pause, but throughout the day his body had been continuously what?
+d. With the yoga session over, he was thankful for the pause, but his body had been enduringly what throughout the day?
+
+
+
+27
+Original Question: Too many people want exotic snakes. The demand is driving what to carry them?
+
+New Questions:
+a. The increasing popularity of large, colorful fish has led to a rise in the need for what to transport them?
+b. As more individuals seek out unique parrots, the demand has surged for what to house them?
+c. There's a growing interest in rare birds of prey, and this trend is creating a higher demand for what to keep them in?
+d. The fascination with venomous lizards has increased, causing the need for what type of containers to hold them?
+
+
+
+28
+Original Question: "Joe suffered many consequences from stabbing a stranger to death. Among them, the family of the victim did something to him. What was that?"
+
+New Questions:
+a. "When Sarah was involved in a tragic hit-and-run accident, the bereaved family of the pedestrian targeted her with a series of actions. What did they do to her?"
+   Context: Sarah was driving home late at night when she accidentally hit and killed a pedestrian. The pedestrian's family was grief-stricken and sought justice or retribution against Sarah.
+
+b. "After the tragic murder of their son, the parents of the victim confronted the accused in court and expressed their deep pain. What did they do to him?"
+   Context: The accused was charged with the murder of the victim, who was a beloved son of a close-knit family. The parents were determined to see justice served and expressed their feelings publicly.
+
+c. "The family of the victim in the fatal shooting incident demanded accountability from the shooter. As a result, they organized a protest outside the court. What action did they take?"
+   Context: A shooting occurred, resulting in the death of a young man. The family was outraged by the lack of accountability and organized a peaceful protest to demand justice.
+
+d. "When Mark was convicted of manslaughter and sentenced to prison for killing a fellow student, the student's family sought a way to make him pay for his actions. What did they do?"
+   Context: Mark was found guilty of manslaughter after an altercation with a fellow student, which ended in the student's death. The family was looking for ways to make Mark face the consequences of his actions.
+
+
+
+29
+Original Question: To prevent any glare during the big football game he made sure to clean the dust of his what?
+
+New Questions:
+a. To avoid any glare during the upcoming basketball game, he made sure to clean the dust from his what?
+b. Ensuring a clear view of the soccer match, he cleaned the dust off his what?
+c. To minimize glare during the high school graduation ceremony, he made sure to clean the dust from his what?
+d. To get the best view of the local community fair, he cleaned the dust off his what?
+
+
+
+30
+Original Question: "I have something in my head I want to share, what ways can I do that?"
+
+New Questions:
+a. "I have an idea for a new business, how can I effectively communicate it to potential investors?"
+b. "I've composed a piece of music and I want to share it with others, what are the best methods to do so?"
+c. "I have a story I've been writing and I want to publish it, what are the steps to get it out there?"
+d. "I discovered a new cooking recipe and I want to share it with my friends, what are the best ways to do that?"
+
+
+
+31
+Original Question: He wanted a house that was gated off from other places, where should he start looking?
+
+New Questions:
+a. He is looking for a property that has a private entrance and is secluded from neighbors. Where should he begin his search?
+b. If he desires a residence that is completely enclosed by a fence and isolated from nearby buildings, what type of real estate should he explore?
+c. He dreams of finding a home that is walled off and not visible to passersby. Where would be the best place to begin his quest?
+d. He wants a house that's completely separated from public view by a barrier. What kind of housing options should he consider?
+
+
+
+32
+Output:
+Original Question: Where in Southern Europe would you find many canals?
+
+New Questions:
+a. In which parts of Southern Europe can you find numerous waterways similar to the canals of Venice?
+b. Where in the Mediterranean region of Southern Europe are there numerous examples of canals like those in Amsterdam?
+c. What cities in Southern Europe are known for their extensive canal systems akin to those in Bruges?
+d. Which countries in Southern Europe have a history of canals and are similar to the canals found in Seville?
+
+
+
+33
+Original Question: What would a camper need to do before he or she can start cooking food?
+
+New Questions:
+a. What must a backpacker do prior to preparing a meal on a trail?
+b. Before a hiker can cook a meal, what steps should they take in the wilderness?
+c. What preparations does a survivalist need to make before they can cook their own food in the wild?
+d. What actions should an outdoor enthusiast take to be ready for cooking in a campsite?
+
+
+
+34
+Original Question: What could happen to a paper if you leave it outside even if it does not move?
+
+New Questions:
+a. What might occur to a leaf if it remains stationary on a tree branch outdoors?
+b. What changes could affect a plastic bag that is left outdoors without any movement?
+c. If a book is left stationary on a porch, what effects might the outdoor environment have on it?
+d. What could happen to a wooden board if it is left outdoors and not moved at all?
+
+
+
+35
+Original Question: Mark's semen was very thick, but after his vasectomy it was also what?
+
+New Questions:
+a. "John's blood was normally quite thick, but after he had a blood transfusion, it was also what?"
+b. "Lila's hair was always quite curly, but after she used a flat iron, it was also what?"
+c. "David's skin was typically very dry, but after he applied moisturizer, it was also what?"
+d. "Sara's voice was always quite high-pitched, but after she took voice lessons, it was also what?"
+
+
+
+36
+Original Question: What is a great place to lay in the sun?
+
+New Questions:
+a. Where is a fantastic spot to bask in the sunlight on a beach?
+b. In which location would you find a nice area to relax and sunbathe in a park?
+c. Can you suggest an ideal place to lay in the sun near a mountain?
+d. What are some good spots to lay in the sun on a rooftop in the city?
+
+
+
+37
+Original Question: Where would you find a seafood restaurant in the east coast of North America?
+
+New Questions:
+a. "In which city on the eastern seaboard of the United States can you locate a well-known seafood restaurant?"
+b. "Which establishment offering seafood dishes is situated on the Atlantic coast of Canada?"
+c. "On the eastern shore of the United States, where can you go to find a traditional seafood eatery?"
+d. "In the coastal regions of Eastern Canada, where is a popular seafood restaurant located?"
+
+
+
+38
+Original Question: "The president is the leader of what institution?"
+
+New Questions:
+a. "Who is the leader of the United Nations?"
+b. "In which organization does the prime minister serve as the head of government?"
+c. "What institution is headed by the mayor?"
+d. "The leader of which educational institution is known as the president?"
+
+
+
+39
+Original Question: Sitting too close while watching TV can cause what sort of pain?
+
+New Questions:
+a. What kind of discomfort might arise from sitting too close to a computer screen for extended periods?
+b. What could be the pain experienced by someone who reads a book with poor posture?
+c. What sort of pain might a child experience if they sit too close to a small TV?
+d. What kind of headache can occur from being seated too closely to a video game console for several hours?
+
+
+
+40
+Original Question: Where is a bald eagle safe?
+
+New Questions:
+a. Where can a bald eagle find a safe habitat?
+b. In what location is it safe for a bald eagle to nest?
+c. Where can a bald eagle be found in a secure environment?
+d. What areas are known to be safe for bald eagles to thrive?
+
+
+
+41
+Original Question: The game promised it was free, but the child's parents soon found themselves doing what for microtransactions?
+
+New Questions:
+a. The app advertised itself as costless, but the family noticed they were being asked to do what in exchange for in-game purchases?
+b. The educational software claimed to be free, yet the child's guardians realized they were being prompted to engage in what for additional features?
+c. The mobile game stated it had no cost, but the parents quickly discovered they were being encouraged to perform what actions for virtual items?
+d. The book app promised to be free, but the child's parents soon had to deal with what requests related to in-app payments?
+
+
+
+42
+Output:
+Original Question: What kind of driving leads to accidents?
+
+New Questions:
+a. Which driving behaviors are most likely to result in collisions?
+b. What types of driving practices are associated with an increased risk of car accidents?
+c. Can you identify the common driving habits that contribute to accidents?
+d. What factors within driving can lead to a higher occurrence of accidents?
+
+
+
+43
+Original Question: What is eating too much dinner likely to result in?
+
+New Questions:
+a. What are the consequences of having an excessive evening meal?
+b. What might happen if someone overeats during their dinner?
+c. What are the potential outcomes of indulging in a large dinner?
+d. What are the results of eating a large amount during dinner time?
+
+New Contexts (Corresponding to each new question):
+a. If you have a particularly large dinner, you might experience discomfort or indigestion.
+b. Overeating during dinner could lead to feelings of bloating or fullness, possibly affecting your sleep.
+c. Indulging in a large dinner could result in weight gain or other health issues if it becomes a regular occurrence.
+d. Eating a lot during dinner may cause stomach pain or discomfort, and it may disrupt your sleep schedule.
+
+
+
+44
+Original Question: What is a person chatting with friends likely hoping to accomplish?
+
+New Questions:
+a. What might someone be aiming to achieve by having a conversation with their colleagues?
+
+b. In what ways could a person be hoping to connect or share information by talking to their classmates?
+
+c. What could be the purpose behind a person engaging in a conversation with their family members?
+
+d. What might someone be trying to achieve by conversing with their neighbors?
+
+
+
+45
+Original Question: Jame's bare feet were burned as he walked, because the sunshine had made the surface hot. Where might he have been?
+
+New Questions:
+a. "Sarah's skin started to sting as she stepped out, as the sun had heated the ground. Where could this have happened?"
+   Context: Sarah was walking in her neighborhood during a sunny afternoon, and she felt the pain on her feet.
+
+b. "After a short walk, Michael's feet began to hurt, noting that the sun had warmed the path. What kind of place might this have occurred?"
+   Context: Michael was on a walk in a local park during a warm, sunny day, and he experienced the discomfort on his feet.
+
+c. "Katie's toes felt like they were on fire as she continued her walk; the sun had made the sidewalk scorching. Where might this have taken place?"
+   Context: Katie was walking back from the grocery store during a hot summer day, and she noticed the pain on her feet upon stepping outside.
+
+d. "Tom's bare feet felt灼热 as he took his first steps outside after lunch; the sunlight had intensified the temperature of the ground. Where could this scenario have unfolded?"
+   Context: Tom decided to take a short walk after having lunch at a picnic table in a public park, and he experienced the heat on his feet.
+
+
+
+46
+Output:
+Original Question: "A fox was thirsty searching for water during the drought, where was he?"
+New Questions:
+a. "A rabbit was parched and looking for a water source in the summer heat. Where could it be found?"
+b. "A bear was feeling dehydrated while traversing the desert, so where might it be seeking hydration?"
+c. "A squirrel, desperate for a drink, was exploring the arid landscape during a dry spell. Which location would it have chosen?"
+d. "A deer wandered through the wildfire-ravaged forest seeking water, but it was scarce. What area might it be searching in?"
+
+
+
+47
+Original Question: What might be the result of a season of successful skiing?
+
+New Questions:
+a. What might be the outcome of a year of consistent snowboarding success?
+b. How could a successful season of ice skating competitions affect an athlete's career?
+c. What benefits could a skater expect from a productive winter season in competitive figure skating?
+d. What might be the consequences of a year filled with top performances in cross-country skiing?
+
+
+
+48
+Original Question: The sensor would just the distance then set off an alarm, the installation expert explained it was called a what kind of sensor?
+
+New Questions:
+a. The device measures the proximity of an object and activates a warning system, the installer told us it's known as a ________ sensor.
+   Context: The installer was explaining the function of a new security device for a warehouse.
+
+b. The gadget detects the amount of space left and triggers an alert, the setup technician described it as a ________ sensor.
+   Context: The setup technician was describing a new sensor system installed in a parking garage.
+
+c. The system monitors the distance from a moving object and activates a caution signal, the maintenance specialist mentioned it as a ________ sensor.
+   Context: The maintenance specialist was inspecting a new automated traffic control system at an intersection.
+
+d. The unit senses the presence of a person within a certain range and sounds an alarm, the installation crew chief identified it as a ________ sensor.
+   Context: The installation crew chief was overseeing the installation of a new security system at a retail store.
+
+
+
+49
+Original Question: The man was eating lunch, but rushed when he looked at his watch, why did he rush?
+
+New Questions:
+a. The woman was enjoying a quiet dinner, but suddenly became anxious upon glancing at her timepiece, what prompted her sudden urgency?
+b. The child was having a snack, but quickly finished when they checked their wristwatch, why did they hurry?
+c. The elderly person was having a leisurely tea, but then quickly ate when they checked their watch, what was the reason for their hastened eating?
+d. The student was studying, but abruptly put down their books and left when they saw the time on their clock, why did they act so hurriedly?
+
+
+
+50
+Output:
+Original Question: "The evacuation became mandatory, so what came on the TV?"
+
+New Questions:
+a. "When the fire alarm went off, what did the community center's TV start broadcasting?"
+b. "Upon hearing the tsunami warning, the local news station switched to what coverage on their channel?"
+c. "Due to the heavy snowfall, the government announced a road closure. What kind of information was provided on the television?"
+d. "A severe storm warning was issued, prompting the city to initiate a lockdown. What kind of emergency broadcast was shown on the TV screens?"
+
+
+
+51
+Original Question: The person gave a good hands on what to show how to do the work?
+
+New Questions:
+a. How effectively did the instructor demonstrate the procedure for assembling the model airplane?
+b. What methods did the chef use to illustrate the proper technique for preparing the gourmet dish?
+c. In what ways did the mechanic demonstrate the step-by-step process of repairing the car engine?
+d. How did the gardener explain the best practices for pruning the rose bushes to the new gardener?
+
+
+
+52
+Output:
+Original Question: "Where would you see some people doing jumping jacks?"
+
+New Questions:
+a. "In which public park might you spot a group of individuals doing jumping jacks in the morning?"
+b. "Where in a university campus could you find students doing jumping jacks during a break?"
+c. "In what kind of gym class would you expect to see kids doing jumping jacks as part of their workout?"
+d. "At what time of day might you see a fitness class doing jumping jacks on a city street?"
+
+
+
+53
+Output:
+Original Question: "The body guard was good at his duties, he made the person who hired him what?"
+
+New Questions:
+a. "The security officer was proficient in his role, he ensured the VIP felt what?"
+b. "The personal assistant was excellent at her job, she made her employer experience what?"
+c. "The executive protection agent excelled in his protection, he allowed his client to feel what?"
+d. "The bodyguard performed his job exceptionally well, he gave his principal a sense of what?"
+
+
+
+54
+Original Question: Learning languages is difficult. Even in a full immersion environment you're likely to make mistakes, mistakes will cause misinterpretation, which will be uncomfortable, which will cause what?
+
+New Questions:
+a. Learning a new musical instrument is challenging. Even in a dedicated practice environment, you might hit wrong notes, and those wrong notes will lead to inaccurate tunes, which can be frustrating, resulting in what?
+b. Mastering a new sport is tough. Even with consistent practice, you might make errors, and these errors will result in incorrect moves, which can be embarrassing, leading to what?
+c. Gaining expertise in a new culinary art is complex. Even in a top-notch kitchen, you may make mistakes, and these mistakes could produce unappetizing dishes, which can be discouraging, thus causing what?
+d. Acquiring a new technical skill is difficult. Even with a comprehensive training course, you might encounter issues, and these issues will lead to faulty results, which can be unsettling, contributing to what?
+
+
+
+55
+Output:
+Original Question: "Jim enjoyed killing people, but he did it too often and the cops found out. What might the cops do to him?"
+
+New Questions:
+a. "Sarah delighted in robbing banks, but she did it repeatedly and the authorities discovered her. What actions could the authorities take against her?"
+b. "Tom had a habit of starting fires, but he was caught multiple times and the fire department was notified. What measures might the fire department impose on Tom?"
+c. "Emily was known for her illegal street racing, but she got caught by the police several times. What penalties could the police enforce on Emily?"
+d. "Michael had a penchant for stealing valuable artifacts, but his crimes were uncovered by the FBI. What consequences might the FBI have for Michael?"
+
+
+
+56
+Original Question: Where is there usually a fiddle playing?
+
+New Questions:
+a. In what type of venue can you often hear a fiddle being played?
+b. What kind of cultural event typically includes a fiddle player?
+c. Where might you find a fiddle being played in a traditional setting?
+d. In which kind of music performance is the fiddle a common instrument?
+
+
+
+57
+Original Question: What is the only way to recover from exhaustion?
+
+New Questions:
+a. What is the sole method for overcoming fatigue?
+b. How can one exclusively recover from being worn out?
+c. What is the only means of recuperating from extreme tiredness?
+d. What is the exclusive way to get back to normal after being exhausted?
+
+
+
+58
+Original Question: What would you do if you want to be able to earn money?
+
+New Questions:
+a. What steps would you take to start making an income?
+b. How can you initiate the process of earning money?
+c. What actions should you undertake to begin earning a salary?
+d. What are the procedures to follow in order to start making money?
+
+
+
+59
+Output:
+Original Question: What is a grumpy person likely to have?
+New Questions:
+a. What are the odds that an irritable person is carrying?
+b. What might a crabby individual frequently possess?
+c. What kind of possession is usually associated with someone in a bad mood?
+d. What's something a snappish person is prone to holding or wearing?
+
+
+
+60
+Original Question: What do drugs do?
+
+New Questions:
+a. What effects do recreational substances have on the human body?
+b. How do medications alter the physiological processes in an individual?
+c. What are the consequences of taking illegal stimulants?
+d. In what ways do anesthetics impact the nervous system during surgery?
+
+
+
+61
+Original Question: "A beaver can destroy a machine's functionality if they build their dam in this?"
+
+New Questions:
+a. "If a beaver constructs a dam in this location, it could disrupt the operation of a nearby what?"
+   Context: The beaver is known for its ability to manipulate waterways, and the question is asking about the potential impact of a dam on various types of machinery or infrastructure.
+
+b. "What kind of structure might be compromised if a beaver builds a dam in this area, thereby affecting its operation?"
+   Context: The question focuses on the specific type of structure that a beaver's dam could affect, highlighting the beaver's impact on water-dependent machinery.
+
+c. "In which kind of environment could a beaver's dam potentially disable the functionality of a piece of equipment?"
+   Context: This question inquires about the kind of environment where beavers are likely to build dams, which could lead to the disruption of equipment.
+
+d. "A beaver's dam in this location could lead to the malfunction of what type of machinery, given its propensity to alter water flow?"
+   Context: The question emphasizes the relationship between the beaver's dam-building behavior and the potential malfunction of machinery that relies on water flow.
+
+
+
+62
+Original Question: "They decided to hash things out over drinks, after enough booze they were able to get close on a few things and what?"
+
+New Questions:
+a. "They agreed to discuss the project over coffee, and once they had a few cups, they were able to agree on several key points and what?"
+   Context: The project team had been struggling to reach consensus on the project's direction, so they decided to meet for coffee in a relaxed setting to facilitate a more open discussion.
+
+b. "The couple decided to hash out their differences over a walk in the park, and after some time, they were able to resolve a few issues and what?"
+   Context: The couple had been arguing about their weekend plans and decided to take a walk together to clear the air and reach a mutual decision.
+
+c. "They chose to tackle the budget issues over a meal at the new bistro, and after several courses, they were able to come to an agreement on several expenses and what?"
+   Context: The board of directors had been at odds over the budget allocation for the upcoming fiscal year, so they decided to have a meeting over a meal to find common ground.
+
+d. "They agreed to iron out the team's strategies over a game of darts, and after several rounds, they were able to align on a few tactics and what?"
+   Context: The sports team had been divided on their game strategies, so they decided to have a casual evening of darts to foster better communication and consensus.
+
+
+
+63
+Original Question: Where could a fungus grow and not be disturbed by sunlight?
+
+New Questions:
+a. In what kind of environment would a mushroom thrive without exposure to direct sunlight?
+b. What type of habitat would allow a mycelium network to grow without sunlight interruption?
+c. In which location would you find a fungal colony that is shielded from sunlight?
+d. Where can you find fungi that are protected from sunlight and able to grow undisturbed?
+
+
+
+64
+Original Question: Can you name a good reason for attending school?
+
+New Questions:
+a. What is a significant benefit of enrolling in college?
+b. Why might someone choose to attend a coding bootcamp?
+c. What are some advantages of attending a vocational training program?
+d. Why would someone decide to participate in a summer enrichment program for high school students?
+
+
+
+65
+Original Question: What state south of Kentucky and north of Alabama will you find people playing the fiddle?
+
+New Questions:
+a. In which state, located to the south of Indiana and north of Tennessee, can you commonly hear fiddle music?
+b. Which state, situated south of Michigan and north of Georgia, is known for its fiddle players?
+c. Where in the United States, between Ohio and Mississippi, do fiddle players often perform?
+d. Identify the state that lies to the south of Pennsylvania and north of Arkansas, where fiddle music is popular.
+
+
+
+66
+Original Question: Though she made the cut years ago, its figurative scars would never what?
+
+New Questions:
+a. Despite overcoming the rejection, the emotional wounds from the failed project would never what?
+b. Years after the breakup, the deep emotional bruises would never what?
+c. Although he secured the job promotion, the lingering doubts from the previous setback would never what?
+d. After getting through the health scare, the mental scars from the incident would never what?
+
+
+
+67
+Output:
+Original Question: What does sex often make happen in people?
+
+New Questions:
+a. What does exercise often make happen in people?
+   Context: Exercise is a common activity that people engage in for various reasons, such as fitness, health, or leisure.
+
+b. What does eating a healthy diet often make happen in people?
+   Context: Maintaining a healthy diet is a fundamental aspect of a person's lifestyle, often contributing to overall well-being and health.
+
+c. What does getting enough sleep often make happen in people?
+   Context: Adequate sleep is essential for the body to function properly, affecting mood, cognitive performance, and physical health.
+
+d. What does meditation often make happen in people?
+   Context: Meditation is a practice that can be used for stress reduction, relaxation, and mental clarity, commonly pursued by individuals for personal development.
+
+
+
+68
+Original Question: Where would you see people in uniform playing with a ball?
+
+New Questions:
+a. In what setting would you find individuals dressed in the same attire engaging in a game with a spherical object?
+b. Can you identify a location where people wearing matching outfits are known to play with a spherical toy?
+c. What kind of gathering would you expect to see where participants are dressed in a uniform and are playing with a ball?
+d. Where might you observe a group of people in uniformed attire participating in a sport that involves a ball?
+
+
+
+69
+Original Question: What kind of place could have a seafood restaurant?
+
+New Questions:
+a. In which type of coastal town might you find a seafood café?
+b. Which type of urban district is likely to have a sushi bar that specializes in seafood?
+c. What sort of tourist destination is commonly known for having a variety of seafood eateries?
+d. Where would you expect to find a seafood grill in a large metropolitan area?
+
+
+
+70
+Original Question: Who was the head of the branch yelling at?
+
+New Questions:
+a. Who was the manager of the department scolding during the meeting?
+b. In the office, who did the supervisor reprimand for the late report?
+c. Who did the branch manager confront about the missing inventory?
+d. Who was the store manager reprimanding when the customer service issue arose?
+
+
+
+71
+Original Question: He made another call, he did this all day hoping people would what well to his offer?
+
+New Questions:
+a. He initiated several video conferences, doing this non-stop in hopes that his colleagues would respond favorably to his proposal.
+b. She sent out multiple emails, engaging in this activity all day long, hoping that clients would take a positive view of her new product offer.
+c. Throughout the day, he placed a series of phone calls, each one with the intention of persuading his friends to act well on his business investment opportunity.
+d. He spent the entire day making phone calls, each one in the hope that his relatives would react positively to his suggestion for a family vacation plan.
+
+
+
+72
+Original Question: She needs to visit a bookshop after buying the latest fashion, where should she look?
+
+New Questions:
+a. He wants to check out the newest gadgets before picking up a new book, where should he go?
+b. She needs to find a bookstore after purchasing the latest electronics, what place should she visit?
+c. After shopping for the latest home decor, he needs to locate a place to buy a novel, where should he seek?
+d. She's planning to buy the latest kitchenware before heading to the bookstore, where should she start her search?
+
+
+
+73
+Original Question: Where could you see an advertisement while reading news?
+
+New Questions:
+a. In which section of a sports magazine would you typically find an advertisement?
+b. While browsing through a travel guidebook, where are advertisements often placed?
+c. What part of a lifestyle blog is commonly used to display ads?
+d. Where would you expect to find advertisements within a children's educational book?
+
+
+
+74
+Original Question: What is required to be good at playing tennis?
+
+New Questions:
+a. What skills are necessary to excel in playing basketball?
+b. What attributes are needed to become proficient at swimming?
+c. What does it take to be a skilled chess player?
+d. What are the prerequisites for becoming a top-notch soccer player?
+
+
+
+75
+Output:
+Original Question: What state is the John Davis Lodge toll road found in?
+New Questions:
+a. In which state can you find the toll road named the George Washington Bridge?
+b. The Eisenhower Expressway is located in which U.S. state?
+c. Which state in the United States hosts the I-75 toll road?
+d. The San Mateo-Hayward Bridge is situated in what state?
+
+
+
+76
+Original Question: The man went to clown college, he had always wanted to run away with the what?
+
+New Questions:
+a. The woman enrolled in acrobat school, her dream was to join the what?
+b. The boy signed up for juggling classes, he longed to escape with the what?
+c. The girl trained at the magician's academy, she aspired to perform with the what?
+d. The young man studied at a stand-up comedy workshop, his ambition was to perform with the what?
+
+
+
+77
+Original Question: Jamie wanted to reduce her waist size, but all of her efforts failed miserably. She continued to do what?
+
+New Questions:
+a. Emily aimed to trim down her hip measurements, but her attempts never seemed to work. What did she persistently keep doing?
+b. Mark was determined to shrink his midsection, but despite his efforts, he saw no progress. What actions did he continue to undertake?
+c. Lisa had been trying to decrease her bust size, but nothing seemed to help. What was it that she continued to do over and over again?
+d. Sarah was struggling to lose inches around her abdomen, but her attempts were fruitless. What repetitive activity did she continue despite the lack of results?
+
+
+
+78
+Original Question: James felt himself losing consciousness. He was frightened. He didn't want this. He was scared of what?
+
+New Questions:
+a. "Sarah suddenly felt dizzy and her vision blurred. Distressed, she didn't want to faint. What was she afraid of happening?"
+b. "Tom began to experience a strange tingling sensation and his heart raced. He was worried about losing control. What was he scared of feeling?"
+c. "Lucy felt herself collapsing to the ground. She was petrified and wanted to avoid such a terrifying situation. What did she fear could occur?"
+d. "Michael felt his body going numb, and his mind went blank. He was in a panic. What did he dread could be happening to him?"
+
+
+
+79
+Original Question: If someone is aloof and self-important, what is their experience when meeting people?
+
+New Questions:
+a. If a person is distant and overly proud, how do they feel during social interactions?
+b. When encountering others, what is the experience of someone who is unapproachable and egotistical?
+c. How does an individual with a haughty demeanor and self-assured attitude perceive their interactions with others?
+d. What kind of interaction does someone who is remote and self-centered have when they meet new people?
+
+
+
+80
+Original Question: He was receiving workman's compensation, he had tripped over a metal rod while building where?
+
+New Questions:
+a. She was eligible for workers' compensation after slipping on a wooden plank at the construction site of what building?
+b. The worker received benefits for a fall on a steel beam during the renovation of which structure?
+c. He was on workers' comp due to a fall on a concrete barrier while working on the expansion of what facility?
+d. The compensation claim was for an injury sustained by stepping on a metal pipe during the assembly of what project?
+
+
+
+81
+Original Question: John and James spent most of their time communicating with each other on their project. The time required to communicate slowed their what?
+
+New Questions:
+a. Alex and Brian spent a significant amount of time discussing their assignment. What aspect of their work was delayed due to the discussions?
+b. In their group project, Emma and Olivia found that the constant dialogue took up much of their schedule. What progress on the project was hindered by their communication?
+c. When Tom and Lily collaborated, they spent considerable time in dialogue. This communication impacted which part of their teamwork?
+d. For their team project, Carlos and Diego noticed that their conversations frequently consumed their time. What element of their collaborative work was affected by the amount of time they spent talking?
+
+
+
+82
+Original Question: When you play around with your dog, they will have?
+
+New Questions:
+a. When you engage in a game with your cat, what will the cat likely experience?
+b. If you play fetch with your puppy, what effect does it have on the puppy?
+c. During a playful session with your rabbit, what is the rabbit likely to feel?
+d. When you chase after your kitten, what reaction does the kitten usually show?
+
+
+
+83
+Original Question: Where would a person keep a book while it's being read?
+
+New Questions:
+a. In what place would someone typically set down a novel while they are in the middle of reading it?
+b. Where do people commonly put a book down when they are in the midst of reading it?
+c. When someone is engaged in reading a book, where is it likely that they would store it temporarily?
+d. During the act of reading, where might a person place their book for convenience?
+
+
+
+84
+Original Question: The student needed to get some new pencils, where did he go?
+
+New Questions:
+a. The student required a fresh set of notebooks, which store did they visit?
+b. To acquire a new calculator, the student had to find a place, where did they go?
+c. The student needed to replenish their collection of pens, to which shop did they head?
+d. The student was in need of a new ruler; where did they look for it?
+
+
+
+85
+Original Question: She loved buying products, she was driven by her what to shop more than any practical needs?
+
+New Questions:
+a. He was always eager to purchase gadgets, driven by his what to shop excessively, despite his limited budget?
+b. She was known for her extensive wardrobe, her what was the main motivator for her frequent shopping sprees, even when she had no need for more clothes?
+c. He had a habit of collecting rare stamps, his what was the primary factor that made him shop for them, even when it wasn't necessary?
+d. She was fascinated by the latest beauty products, her what drove her to buy them, more so than her actual needs for them?
+
+
+
+86
+Original Question: How does getting paid feel?
+
+New Questions:
+a. What is the emotional experience of receiving a bonus at work?
+b. How does it feel to receive a salary after completing a long-term project?
+c. Can you describe the sensation of getting paid back after a significant investment?
+d. What emotions do you experience when you receive a payment for a personal service rendered?
+
+
+
+87
+Original Question: The fat man refused to accept what was possible, he complained that he what the simplest activities?
+
+New Questions:
+a. The tall woman rejected what seemed achievable, grumbling that she could not do what was the most basic tasks?
+b. The short man dismissed what was feasible, lamenting that he was unable to complete the simplest exercises?
+c. The muscular woman disregarded what appeared to be within reach, griping that she couldn't perform the simplest chores?
+d. The slender man ignored what he felt was possible, moaning that he could not engage in the simplest movements?
+
+
+
+88
+Output:
+
+Original Question: "Where can meat last a long time?"
+
+New Questions:
+a. "In which type of storage does cheese maintain its freshness for the longest?"
+b. "What condition helps fish to remain fresh the longest after purchase?"
+c. "Which storage environment ensures that a loaf of bread stays soft and edible for the longest duration?"
+d. "How long can a jar of jam remain good if stored correctly?"
+
+
+
+89
+Original Question: What group of musicians will include someone playing the cello?
+
+New Questions:
+a. Which ensemble typically has a cellist among its members?
+b. In what type of orchestra can one expect to find a musician playing the cello?
+c. What is the group of musicians where a cello is a standard instrument?
+d. Which musical group is known for having a cellist as part of its lineup?
+
+
+
+90
+Original Question: Where do bees congregate with red flowers?
+
+New Questions:
+a. In which garden do bees gather around pink roses?
+b. Which meadow is frequented by bees visiting yellow daisies?
+c. What orchard is popular with bees that collect nectar from white blossoms?
+d. At what botanical garden can one find bees that swarm around purple irises?
+
+
+
+91
+Original Question: What is someone who gets angry after getting drunk likely to participate in?
+
+New Questions:
+a. In what activities might a person become aggressive after consuming alcohol?
+b. What kind of behaviors could someone engage in if they become愤怒 when they're intoxicated?
+c. When someone turns violent after drinking, what sort of events or situations might they be part of?
+d. What could be some scenarios where a person's anger escalates after they've been drinking?
+
+
+
+92
+Original Question: The teacher told all the students that listening was key, it was the main way they would gain what?
+
+New Questions:
+a. The coach emphasized that focus was crucial, as it was the primary means through which the athletes would improve what?
+b. The doctor advised all patients that patience was the cornerstone, and it was the main way they would enhance what?
+c. The artist instructed the beginners that observation was essential, as it was the primary path they would master what?
+d. The librarian informed the scholars that curiosity was vital, as it was the main way they would expand what?
+
+
+
+93
+Original Question: Stanley had a dream that was very vivid and scary. He had trouble telling it from what?
+
+New Questions:
+a. "Emily had a dream that was quite detailed and unsettling. She found it difficult to distinguish between the dream and what?"
+b. "John experienced a dream that was extremely realistic and chilling. It was hard for him to differentiate it from which scenario?"
+c. "Linda woke up from a nightmare that seemed lifelike and terrifying. She couldn't tell the dream apart from what?"
+d. "Michael had a dream that was so lifelike and terrifying that he struggled to differentiate it from which experience?"
+
+
+
+94
+Original Question: The city's community garden was demolished for yet another what?
+
+New Questions:
+a. The town's local playground was torn down to make way for another what?
+b. The neighborhood park was destroyed to build another what?
+c. The community center was demolished for the construction of another what?
+d. The village's historic theater was pulled down for yet another what?
+
+
+
+95
+Original Question: "What do cats get into when they are ripping things apart?"
+
+New Questions:
+a. "When dogs start tearing apart household items, what kinds of trouble do they find themselves in?"
+b. "What kind of mischief do puppies get into when they start to dismantle their toys?"
+c. "What can ferrets get up to when they begin to rip apart their bedding?"
+d. "What do rabbits do when they start to destroy their cages with their teeth?"
+
+
+
+96
+Original Question: What is a good result of losing weight?
+
+New Questions:
+a. What positive outcome can be expected from shedding excess pounds?
+b. What are some benefits that individuals might gain from successful weight loss?
+c. What are the positive consequences one might notice after losing weight effectively?
+d. What are some favorable effects that can result from achieving weight loss goals?
+
+
+
+97
+Original Question: "A person lived in my what?"
+
+New Questions:
+a. "Who once resided in my which?"
+
+b. "In which of my places did a person stay before moving out?"
+
+c. "What was the place where someone previously lived in my household?"
+
+d. "Whose former living space is now mine, according to my what?"
+
+
+
+98
+Original Question: The skin was cut while chopping onions, where was this skin likely cut?
+
+New Questions:
+a. The finger was cut while slicing tomatoes, where was this finger likely cut?
+b. The hand was cut while dicing potatoes, where was this hand likely cut?
+c. The arm was cut while grating cheese, where was this arm likely cut?
+d. The leg was cut while peeling garlic, where was this leg likely cut?
+
+New Contexts (corresponding to the new questions):
+a. The gardener accidentally sliced their finger while cutting tomatoes to prepare a salad.
+b. The chef was prepping a dish and diced potatoes when their hand slipped on the cutting board.
+c. The home cook was grating cheese for a recipe and accidentally cut their arm.
+d. While preparing a meal, the cook was peeling garlic and suffered a cut on their leg.
+
+
+
+99
+Original Question: What might you feel after doing housework for hours?
+
+New Questions:
+a. What emotions could you experience after spending several hours cleaning your office space?
+b. After completing a marathon session of gardening for hours, what sensations might you feel?
+c. How might you feel emotionally after spending a full day organizing your kitchen cabinets?
+d. What could be your emotional state after cleaning and tidying up a large event venue for several hours?
+
+
+
+100
+Original Question: The accountant used a calculator regularly, he kept one at home and one at the what?
+
+New Questions:
+a. The engineer always had a calculator on hand, storing one at home and another at the what?
+b. The teacher made sure to have a calculator handy, keeping one at home and another at the what?
+c. The doctor's office was equipped with calculators, one at the desk and another at the what?
+d. The chef uses calculators for precise measurements, keeping one at home and another at the what?
+
+
+
+101
+Original Question: At the end of your meal what will a waiter do?
+
+New Questions:
+a. When you finish your dining experience, what action will a server typically take?
+b. After completing a restaurant meal, what task does a waitress usually perform?
+c. Upon the conclusion of a meal, what is the usual duty of a restaurant staff member?
+d. What is the customary procedure for a waitstaff member at the end of a dining session?
+
+
+
+102
+Output:
+Original Question: If you aren't glad, unhappy or gloomy, what illness may you have?
+New Questions:
+a. If you are not feeling joyful, melancholic, or despondent, what medical condition could you possibly be suffering from?
+b. If you do not experience cheerfulness, sorrow, or depression, what health issue might you be facing?
+c. If you are not experiencing happiness, sadness, or a gloomy mood, what disease or mental health problem might be the cause?
+d. If you lack the feeling of joy, are not downcast, and do not feel gloomy, what might be the underlying medical condition affecting you?
+
+
+
+103
+Original Question: You can hear testimony of how spirituality changes lives when you do what?
+
+New Questions:
+a. You can hear firsthand accounts of how mindfulness transforms lives by engaging in which activity?
+b. How can you listen to personal stories of how meditation has impacted individuals' lives?
+c. Through which practice can you gain insights into the ways that religion has positively altered people's lives?
+d. What is the method to experience personal stories that illustrate the transformational power of spiritual beliefs?
+
+
+
+104
+Output:
+Original Question: It was a great rest, she had never felt this much what in the morning?
+
+New Questions:
+a. After a full night's sleep, he felt this much energy in the morning, unlike any other day?
+b. She awoke feeling this rejuvenated in the morning, a sensation she had never experienced before?
+c. The morning brought a sense of revitalization she had never felt before, thanks to the rest she had?
+d. Waking up after a restful night, she was overwhelmed with this feeling more than ever in the morning?
+
+
+
+105
+Original Question: Which region has the most famous temple?
+
+New Questions:
+a. In which area can you find the most renowned mosque?
+b. What region is home to the most celebrated cathedral?
+c. Which part of the world is known for its most iconic pagoda?
+d. In what part of the country is the most visited shrine located?
+
+
+
+106
+Original Question: Where would you find a bee gathering pollen?
+
+New Questions:
+a. In which location can you typically see a bee collecting nectar?
+b. Where do bees go to collect the necessary pollen for their hives?
+c. What kind of flower is most likely to have a bee gathering pollen on it?
+d. At what type of plant can you expect to find a bee actively gathering pollen?
+
+
+
+107
+Output:
+Original Question: Where would you put a folding chair if you do not plan to use it and you do not have any large doors in your house?
+
+New Questions:
+a. What is the best spot to store an unused portable table if there are no spacious entryways in your apartment?
+b. Where should you keep an extra lightweight camping cot if you can't access a wide doorway in your living space?
+c. In the absence of a large door, what area of your small studio would be suitable for storing an extra folding bench?
+d. If you need to store an extra folding stool but there are no broad exits in your room, what kind of storage location would you consider?
+
+
+
+108
+Original Question: If you're speaking to a lawyer about getting a divorce, what relationship status are you trying to end?
+
+New Questions:
+a. When consulting with a family attorney regarding a separation, which marital status are you seeking to dissolve?
+b. If you're meeting with a legal counsel to discuss annulment, what type of relationship bond are you looking to terminate?
+c. In a session with a matrimonial lawyer to initiate a legal separation, what kind of relationship are you attempting to conclude?
+d. If you're in talks with a divorce attorney about dissolving a civil union, what legal relationship are you planning to end?
+
+
+
+109
+Original Question: How do geese normally get from place to place?
+
+New Questions:
+a. What is the typical method that swans use to migrate from one lake to another?
+b. How do flamingos travel from one wetland to another during their migration?
+c. Describe the usual way that ducks navigate from one river to another.
+d. What is the common means of transportation for pelicans when they move from one coastal area to another?
+
+
+
+110
+Original Question: John was punching and punching at the wall but succeeded only in bloodying his knuckles. This was bad. He would be unable to hold his tools if he injured what?
+
+New Questions:
+a. "Mary repeatedly pounded on the floor with her fists, leaving her palms scraped. This was not ideal. If she had hurt this part, she wouldn't be able to use her gardening shears properly. What would she injure?"
+b. "While trying to break open a stuck jar, Tim accidentally hit the countertop hard, resulting in a cut on his fingers. This was problematic. If he had injured this area, he would have difficulty holding his hammer. What body part could he have damaged?"
+c. "Tom accidentally slammed his hand against the car door, leaving a gash. This was a concern. If he had injured this part, he wouldn't be able to grip his paintbrushes effectively. What body part is he likely to have hurt?"
+d. "Jane was so frustrated that she ended up scratching her arm while pounding on the kitchen table. This was unfortunate. If she had injured this section, she would have trouble using her knitting needles. What body part could she have potentially damaged?"
+
+
+
+111
+Original Question: Though it stayed strictly indoors, the small dog felt like it had all the space in the world in the what?
+
+New Questions:
+a. Though it stayed strictly indoors, the young cat felt like it had all the space in the world in the which?
+
+b. Even though it remained inside all day, the anxious rabbit felt as though it was in the what?
+
+c. Despite being cooped up indoors, the playful puppy felt like it had endless space in the what?
+
+d. With the windows all shut, the contented hamster felt as though it had all the space in the what?
+
+
+
+112
+Original Question: What leads to someone's death when they are very depressed?
+
+New Questions:
+a. What are the primary causes of death for individuals who are severely anxious?
+b. What factors contribute to the mortality rate among those who are extremely lonely?
+c. What are the main reasons for death among people who are highly stressed?
+d. What consequences are associated with the death of individuals who are deeply traumatized?
+
+
+
+113
+Original Question: She was sick and staying in bed the day of the event, unfortunately this meant she was what?
+
+New Questions:
+a. He had a severe headache and couldn't make it to the concert, so he was what?
+b. Due to a sudden stomach bug, she had to cancel her plans for the movie night, which meant she was what?
+c. He was feeling under the weather and decided to rest instead of going to the sports game, so he was what?
+d. She had a bad case of food poisoning and had to miss the family reunion, which meant she was what?
+
+
+
+114
+Output:
+
+Original Question: "Where would a lizard surprise a person?"
+
+New Questions:
+a. "In which place might a person be startled by a lizard suddenly appearing?"
+b. "What type of environment is most likely to catch someone off guard with a lizard?"
+c. "At what location is a lizard most likely to give someone a surprise encounter?"
+d. "Under what circumstances could a person unexpectedly encounter a lizard?"
+
+
+
+115
+Output:
+Original Question: "They were getting together for the big game, he wasn't hosting but made sure to bring plenty of food with him over to where?"
+
+New Questions:
+a. "For the annual soccer match, they were planning to watch the game. He wasn't the host but made certain to bring a selection of snacks with him to which location?"
+   Context: The annual soccer match is an event they look forward to every year, and they usually gather at a local sports bar to watch.
+
+b. "They were excited to celebrate the championship season. He wasn't at the rink himself but brought a variety of appetizers with him to what place?"
+   Context: The championship season of their favorite hockey team is a big deal, and they tend to meet at a local diner to enjoy the games.
+
+c. "The big basketball game was scheduled, and they were planning to cheer on their team. Although he wasn't in charge of the viewing party, he brought an assortment of finger foods with him to which venue?"
+   Context: The basketball game is a big community event, and they gather at the town square to watch the game on a big screen.
+
+d. "They were getting ready for the community's annual flag football game. He wasn't the person hosting the gathering but ensured to bring a spread of dishes with him to what spot?"
+   Context: The flag football game is a community tradition, and the spectators usually meet at a local park to watch the games.
+
+
+
+116
+Output:
+
+Original Question: "Who is likely to have a caring heart?"
+New Questions:
+a. "Which professional is most likely to exhibit a compassionate attitude?"
+b. "In which role can one expect to find someone with an especially nurturing nature?"
+c. "Who is typically known for their empathetic and supportive demeanor?"
+d. "What kind of person is often regarded as having a genuinely affectionate heart?"
+
+
+
+117
+Original Question: I'm looking for alcohol and fried foods, any suggestions?
+
+New Questions:
+a. I'm in the mood for some spirits and crispy treats. Can you recommend any?
+b. Are there any places serving drinks and fried delicacies I should check out?
+c. I need a spot where I can get both an alcoholic beverage and something fried. Do you have any recommendations?
+d. I'm craving a combo of alcohol and fried goods. Do you know of any establishments that offer this?
+
+
+
+118
+Original Question: If I had a jar which was likely to spoil if left out, where would I want to put it?
+
+New Questions:
+a. If I had a container that might go bad if exposed to air, what is the best place to store it?
+b. Where should I place a bottle that is prone to deterioration if not sealed properly?
+c. If my jar is susceptible to spoilage if left open, what kind of environment should I keep it in?
+d. To avoid spoilage, what location is ideal for storing a jar that can degrade if left uncovered?
+
+
+
+119
+Original Question: "Sam went to Paris where he ordered a blowfish at a sushi place. Where was Sam?"
+
+New Questions:
+a. "Jane visited Tokyo and had sushi with a mackerel. In which city was Jane dining?"
+b. "Mike traveled to Rome and ordered a dish of octopus. Where could Mike have been eating?"
+c. "Lily went to Barcelona and picked sashimi. Where might Lily have dined?"
+d. "Tom explored Hong Kong and indulged in a sushi roll. Which city did Tom eat in?"
+
+
+
+120
+Output:
+Original Question: What will happen to skin pinched in something?
+
+New Questions:
+a. What effect does pinching the skin between fingers have on it?
+b. When the skin is pinched between two objects, what changes occur in the skin?
+c. What happens to the skin when it is pinched between a door and a frame?
+d. What is the outcome of skin being pinched tightly by a belt or a strap?
+
+
+
+121
+Original Question: "Sally lost her kite because she wasn't careful. She thought that there was more string on the spool, but it slipped out of her fingers when she reached the what?"
+
+New Questions:
+a. "Jenny lost her balloon because she wasn't careful. She thought that there was more air in the pump, but it slipped out of her fingers when she reached the what?"
+b. "Max's cat accidentally let go of the fishing rod because he wasn't careful. He thought there was more line on the reel, but it slipped out of his paws when he reached the what?"
+c. "Lisa's puppy dropped its toy because she wasn't careful. She thought that there was more rope on the spool, but it slipped out of her hand when she reached the what?"
+d. "Morgan's kite slipped from her grasp because she wasn't careful. She thought there was more string on the winder, but it slipped out of her fingers when she reached the what?"
+
+
+
+122
+Original Question: "The man uses grooming before a job interview, what is he trying to portray?"
+
+New Questions:
+a. "The woman puts on a professional outfit before her first day at a new law firm, what image is she aiming to project?"
+b. "The man dresses up in formal attire before an important business presentation, what impression does he want to give?"
+c. "The student sharpens her appearance with a new hairstyle and polished shoes before an important college interview, what is she attempting to communicate?"
+d. "The employee wears a neat uniform and freshens up her makeup before meeting a key client, what image is she hoping to present?"
+
+
+
+123
+Output:
+Original Question: Where would there be many people sitting in chairs and listening to religious speech?
+
+New Questions:
+a. In which location would a large group of individuals be seated in chairs, attentively hearing a religious leader's discourse?
+b. What venue is typically filled with people in chairs, engaged in listening to a religious sermon?
+c. Where can one find many people sitting in chairs, focused on listening to a spiritual leader's speech?
+d. Which gathering would you expect to see many individuals sitting and listening to a religious figure's talk?
+
+
+
+124
+Original Question: Where is a tabby cat likely to be happiest?
+
+New Questions:
+a. In what type of environment is a Siamese cat most content?
+b. Where would a Maine Coon cat feel most at home?
+c. What kind of setting is most conducive to the happiness of a Persian cat?
+d. Which environment would be best for a Ragdoll cat to thrive in?
+
+
+
+125
+Original Question: East coast areas such as Florida are found where?
+
+New Questions:
+a. "In which region are areas like New York located, which are part of the east coast?"
+b. "What geographical area encompasses states similar to Massachusetts, which are situated on the east coast?"
+c. "Which part of the United States is characterized by having areas like Maine, which are on the east coast?"
+d. "What region of the country includes states like Virginia, which are on the east coast?"
+
+
+
+126
+Original Question: To learn must have the right book, to work efficiently what must one have?
+
+New Questions:
+a. To study effectively, what essential tool should one possess?
+b. In order to perform a task with precision, what is necessary?
+c. What is required for someone to execute their job duties effectively?
+d. To excel in a particular profession, what resource is indispensable?
+
+
+
+127
+Original Question: What is a mobile launching platform found in the ocean?
+
+New Questions:
+a. What is the term for a mobile launching structure used at sea for military operations?
+b. Identify the name for a mobile launching station located on the high seas for maritime surveillance.
+c. What do you call a floating platform designed for deploying equipment in oceanic environments?
+d. What term is used for a mobile launch facility that can be found floating in the oceanic waters?
+
+
+
+128
+Original Question: There weren't potatoes but actually a snake in his what?
+
+New Questions:
+a. There wasn't a cat but instead a fish in her what?
+b. There wasn't a book but actually a key in his what?
+c. There wasn't a cake but instead a candle in her what?
+d. There wasn't a phone but actually a coin in his what?
+
+
+
+129
+Original Question: What could listening to music cause you to be?
+
+New Questions:
+a. What emotional state might you find yourself in after listening to an upbeat song?
+b. How might you feel after listening to a relaxing piece of music for an hour?
+c. What kind of mood might a person be in after hearing a melancholic symphony?
+d. What could be the physical sensation someone experiences while listening to fast-paced electronic music?
+
+
+
+130
+Original Question: If you want to make a big splash in a river with a rock, from where should you throw it?
+
+New Questions:
+a. To create the most dramatic splash in a lake using a large stone, what position should you be in when you throw it?
+b. Where is the best spot to throw a heavy rock to generate the largest splash in a pond?
+c. To achieve the most impressive splash in a stream with a rock, what location should you choose for your throw?
+d. To make the biggest possible wave in a river by throwing a rock, what distance from the water's edge should you stand?
+
+
+
+131
+Original Question: What is committing perjury likely to lead to?
+
+New Questions:
+a. What are the consequences of lying under oath in a court of law?
+b. What penalties might someone face for falsely testifying in a legal proceeding?
+c. What might happen to an individual caught in a situation where they have committed perjury?
+d. What are the possible legal outcomes for someone who has provided false statements under oath?
+
+
+
+132
+Original Question: "The new play was the go to performance of the year, all the crowds would stand and what?"
+
+New Questions:
+a. "The latest concert was the talk of the town, with all the fans cheering and what?"
+   Context: The latest concert was a sold-out event, featuring a popular band that had been on a hiatus for several years. The crowd was excited and energetic, with many fans wearing band merchandise.
+
+b. "The annual charity run was a highlight of the community event, with all the participants cheering and what?"
+   Context: The annual charity run was organized to raise funds for local children's hospitals. The community came together in support, with many participants dressed in colorful, themed costumes.
+
+c. "The new dance competition was a sensation, with all the audience members clapping and what?"
+   Context: The new dance competition showcased a variety of dance styles from around the world. The judges were renowned dancers and choreographers, and the audience was captivated by the performances.
+
+d. "The interactive art exhibit was a must-see, with all the visitors oohing and what?"
+   Context: The interactive art exhibit allowed visitors to engage with the art in new and innovative ways. It featured works from both emerging and established artists, and the exhibit space was designed to enhance the immersive experience.
+
+
+
+133
+Original Question: "There are 10 apples on an apple tree. Three fall off. Now there are X apples. What is this an example of?"
+
+New Questions:
+a. "Initially, there were 20 pears in a basket. Five pears were given away. Now there are Y pears. What is this an example of?"
+b. "A jar started with 8 marbles. Two marbles were lost. Now there are Z marbles left. What concept is this illustrating?"
+c. "At the start of a party, there were 15 guests. After 3 guests left, there were A guests remaining. What is this scenario an example of?"
+d. "There were originally 12 chocolates in a box. Six were eaten. Now there are B chocolates left. What concept is described here?"
+
+
+
+134
+Original Question: Where are people likely to find food?
+
+New Questions:
+a. In what places can individuals commonly locate groceries?
+b. Where do individuals typically go to buy fresh produce?
+c. What are the common spots for people to find a restaurant?
+d. In which areas can you generally find food service establishments?
+
+
+
+135
+Original Question: What might a kid do with his friend before going to play?
+
+New Questions:
+a. What could two friends do together right before they go out to play in the park?
+b. Before starting their video game session, what activity might kids engage in with each other?
+c. What are some activities that friends might participate in prior to a playdate at the beach?
+d. What do children commonly do with their playmates right before they go on a treasure hunt?
+
+
+
+136
+Original Question: What is a person who is well educated?
+
+New Questions:
+a. What are the characteristics of an individual who has a profound understanding of art history?
+b. How would you describe someone who has a comprehensive knowledge of quantum physics?
+c. What qualities define someone with a deep understanding of literature?
+d. How can you identify a person who is highly knowledgeable about the principles of economics?
+
+
+
+137
+Output:
+
+Original Question: Ben was an alcoholic and was in an accident. Because of his mistake, he spent 8 years somewhere. Where was he?
+
+New Questions:
+a. John was a heavy smoker and had a severe heart attack. Due to his poor lifestyle choices, he was confined to a certain place for 10 years. Where was he?
+   Context: John was diagnosed with a life-threatening heart condition after suffering a heart attack. He was forced to spend the next decade in a rehabilitation center.
+
+b. Emily was involved in a drug-related offense and was sentenced to 5 years of mandatory detention. Where did she serve her time?
+   Context: Emily was convicted of possession of a controlled substance and was sentenced to a five-year term at a federal correctional facility.
+
+c. Michael, a notorious graffiti artist, was arrested for vandalism and sentenced to a 7-year prison term. After serving his time, he was released. Where did he serve his sentence?
+   Context: Michael, known for his graffiti art, was caught painting on protected property and was handed a seven-year sentence. He served his term in a local prison.
+
+d. After being caught driving under the influence, Sarah was sentenced to serve 6 years of probation with mandatory alcohol treatment. During this period, she had to reside in a specified facility. Where was it?
+   Context: Sarah was convicted of drunk driving and was placed on a six-year probation program that included mandatory alcohol counseling. As part of her probation, she was required to stay in a residential alcohol rehabilitation facility.
+
+
+
+138
+Original Question: Where do you buy tickets at a ticket booth for games?
+
+New Questions:
+a. Where can you purchase tickets at a ticket booth for concerts?
+b. At what location do you go to buy tickets at a ticket booth for sports events?
+c. Where do you find the ticket booth to buy tickets for theater performances?
+d. What is the place where you buy tickets at a ticket booth for movie screenings?
+
+
+
+139
+Original Question: A soccer field that is not contained in a building would be where?
+
+New Questions:
+a. A baseball diamond that is not enclosed within a stadium would be located at what type of facility?
+b. A basketball court that is not housed in an indoor gym would typically be found at what kind of venue?
+c. A volleyball court that is not part of an indoor sports complex would generally be situated in what sort of setting?
+d. A tennis court that is not in a covered facility would usually be situated on what kind of property?
+
+
+
+140
+Original Question: Letters are sometimes delivered by hand through one of these.
+
+New Questions:
+a. Packages are occasionally delivered by hand using one of these methods.
+b. Newsletters are frequently distributed by hand through one of these channels.
+c. Documents are commonly hand-delivered via one of these services.
+d. Invoices are sometimes delivered in person through one of these delivery methods.
+
+
+
+141
+Original Question: "John came to see Sam and Sam kicked him out. Sam didn't like company. He preferred what?"
+
+New Questions:
+a. "Alice visited Bob, but Bob asked her to leave because he不喜欢 having guests. What did Bob prefer instead?"
+   Context: Bob had always been a solitary person who enjoyed the quiet of his own home without the interruptions of company.
+
+b. "After Mary showed up at Lisa's house, Lisa told her to go because she didn't enjoy having guests around. What did Lisa prefer doing?"
+   Context: Lisa found it difficult to socialize and much preferred to spend her time alone, engaging in her hobbies and reading.
+
+c. "Dave invited Tom to his house for a movie night, but Tom refused to stay. Tom had a reputation for being a loner. What was it that Tom preferred?"
+   Context: Tom valued his personal space and solitude, often opting to spend his evenings by himself to unwind.
+
+d. "When Chuck came over to hang out with Tom, Tom quickly asked him to leave, saying he preferred to be on his own. What kind of atmosphere did Tom usually seek?"
+   Context: Tom had a tendency to avoid large groups and preferred a tranquil environment where he could think and relax without disturbances.
+
+
+
+142
+Original Question: If somebody likes temperatures cool, they might have more than one electric fan where?
+
+New Questions:
+a. In which room would someone likely place multiple electric fans if they prefer a cool atmosphere?
+b. Where might someone install extra electric fans if they enjoy cooler temperatures in their living space?
+c. If someone appreciates a cool environment, which area of their home might they use multiple electric fans in?
+d. Where would someone likely put more than one electric fan if they are looking to keep the temperature cool?
+
+
+
+143
+Original Question: "Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?"
+
+New Questions:
+a. "Bungee jumping made him nervous, as soon as he leaped from the bridge he started feeling dizzy while what?"
+b. "He was terrified of deep-sea diving, and when he descended to the ocean's depths he began to feel faint while what?"
+c. "Paragliding gave him the chills, and upon taking off he suffered from dizziness while what?"
+d. "Heli-skiing scared him, and after exiting the helicopter he lost his balance while what?"
+
+
+
+144
+Original Question: The president had to make a decision regarding the hate attack on his country, what did he do?
+
+New Questions:
+a. After the terrorist bombing in the capital, the leader had to decide on a response strategy. What measures did he take?
+   Context: The leader's country recently faced a terrorist bombing in the capital city, causing widespread damage and fear among the citizens.
+
+b. Faced with the surge in racial incidents, the prime minister had to act quickly. What was the course of action she chose?
+   Context: The prime minister's country has experienced a significant increase in racial incidents, leading to social unrest and a need for immediate action.
+
+c. When the country was hit by a wave of cyber-attacks, the head of state had to address the issue. What steps did he initiate?
+   Context: The head of state's country is under attack from a series of sophisticated cyber-attacks, threatening national security and infrastructure.
+
+d. In response to the violent protests that broke out across the nation, the president had to make a decision. What actions did he order?
+   Context: The president's country is facing a wave of violent protests that have resulted in property damage and injuries, necessitating a swift and decisive response.
+
+
+
+145
+Original Question: What's it called when you have seen something through an eyepiece?
+
+New Questions:
+a. What term is used to describe viewing an object through a magnifying lens?
+b. What do you call the act of inspecting a small item using a magnifying glass?
+c. What is the process known as when you look at a distant object through a telescope's eyepiece?
+d. What term refers to the action of examining a specimen using a microscope's eyepiece?
+
+
+
+146
+Original Question: He had done a great job with the scary decorations, they were completely what?
+
+New Questions:
+a. She had meticulously crafted the festive decorations, making them completely what?
+b. The artist painted the abstract artwork with precision, resulting in something that was completely what?
+c. The chef prepared the gourmet meal with exceptional skill, leaving the guests feeling they had experienced something that was completely what?
+d. The team leader organized the event with great care, ensuring the atmosphere was completely what?
+
+
+
+147
+Original Question: If you did well on the test, you might get an A as a what?
+
+New Questions:
+a. If you performed well on the quiz, you might receive an A as a [assignment grade].
+b. If you excelled in the final exam, you might be awarded an A as a [course grade].
+c. If you did exceptionally on the midterm, you might get an A as a [semester mark].
+d. If you scored highly on the pop quiz, you might be given an A as a [class assessment].
+
+
+
+148
+Original Question: If you tell your boss you're suffering from boredom, they'll likely tell you to get back to what?
+
+New Questions:
+a. If you express to your supervisor that you're feeling disengaged, what will they probably instruct you to return to?
+b. When you inform your manager that you're encountering boredom at work, what task will they most likely ask you to resume?
+c. If you admit to your director that you're experiencing a lack of enthusiasm, what activity will they suggest you re-engage with?
+d. When you discuss with your superior that you're encountering a sense of boredom, what job responsibility will they recommend you re-focus on?
+
+
+
+149
+Original Question: What is a good result of jogging?
+
+New Questions:
+a. What are the benefits of swimming regularly?
+b. What is a positive outcome of practicing yoga?
+c. How does cycling improve one's health?
+d. What are the advantages of doing Pilates exercises?
+
+
+
+150
+Original Question: What is done to wood to attach something to it?
+
+New Questions:
+a. What process is used to secure an object onto a wooden board?
+b. How is an item fastened to a wooden structure?
+c. Which technique is employed to join an item with a piece of wood?
+d. What method is used to affix something to wooden material?
+
+
+
+151
+Output:
+
+Original Question: "Where is a fox likely to be caught?"
+
+New Questions:
+a. "In what kind of environment would one expect to find a fox trapped?"
+b. "Where might someone be successful in trapping a red fox?"
+c. "What kind of location is best suited for catching a fox?"
+d. "Where can a hunter typically catch a fox?"
+
+
+
+152
+Original Question: Where do you put a new dining table?
+
+New Questions:
+a. In what location should you set up a new kitchen island?
+b. Where is the best spot to place a new home office desk?
+c. Where would you position a new entertainment center in your living room?
+d. What is the ideal place to install a new dining table in a small apartment?
+
+
+
+153
+Original Question: "Sometimes fighting inflation isn't even what, because it is so negligible?"
+
+New Questions:
+a. "In certain cases, combating a minimal increase in prices might not be worth the effort, as it is so insignificant, isn't it?"
+b. "When the rise in consumer costs is barely noticeable, does it really make sense to actively manage it, as its impact is so minimal?"
+c. "If the increase in the cost of living is almost imperceptible, is it even worth the trouble to fight against it, considering its trivial nature?"
+d. "When the increment in inflation is almost non-existent, does it become irrelevant to try and control it, since its effect is so negligible?"
+
+
+
+154
+Original Question: What is likely to have more than one level in a city?
+
+New Questions:
+a. What type of building is commonly found with multiple floors in a modern city?
+b. Which urban structure in a city is frequently designed with several levels or stories?
+c. In an urban environment, which public facility is typically constructed with several levels for different functions?
+d. What type of commercial establishment in a city is often designed with several levels for different departments or stores?
+
+
+
+155
+Original Question: Where is likely to have a lot of fire extinguishers?
+
+New Questions:
+a. In which building would you expect to find numerous fire extinguishers?
+b. Which public place is most likely to be equipped with a large number of fire extinguishers?
+c. Where can you typically find a high concentration of fire extinguishers?
+d. Which type of commercial establishment is known for having many fire extinguishers on-site?
+
+
+
+156
+Original Question: Where would someone learn to play an upright piano?
+
+New Questions:
+a. In which educational institution can a person acquire skills to play an upright grand piano?
+b. What is the best place to start learning how to play an upright baby grand piano?
+c. Where can one go to study the art of playing an upright piano?
+d. At what facility could someone begin their journey to learn to play an upright spinet piano?
+
+
+
+157
+Original Question: What is necessary for learning by yourself?
+
+New Questions:
+a. What are the essential elements required for self-study in a new language?
+b. What resources are needed for self-learning a musical instrument?
+c. What prerequisites are essential for self-teaching computer programming?
+d. What materials and tools are required for self-study in physics?
+
+
+
+158
+Original Question: John and Jane were a couple. They were dating for a while and wanted to be together for even longer. For this reason, they did what?
+
+New Questions:
+a. Michael and Lisa had been engaged for several months. They were eager to solidify their commitment. What did they decide to do?
+b. Alex and Emily had been in a relationship for two years. They were contemplating the next step in their relationship. What action did they take?
+c. Sarah and Tom had been married for a year. They wanted to make their union even stronger. What did they do?
+d. Dan and Kelly had been together for five years. They desired a more permanent bond. What did they decide to do together?
+
+
+
+159
+Original Question: What emotion does getting paid lead to?
+
+New Questions:
+a. What feeling does receiving a bonus evoke in someone?
+b. Which emotion is commonly associated with receiving a salary increase?
+c. What is the typical emotional response to being paid off on a loan?
+d. What type of emotional reaction does getting a commission usually bring about in an employee?
+
+
+
+160
+Original Question: Who is likely going into a market?
+
+New Questions:
+a. Who is most likely to go shopping at a local farmer's market?
+b. Which person is probably heading to a grocery store to buy food?
+c. Who would typically visit a weekend flea market for second-hand items?
+d. Who is most frequently seen entering a department store for a variety of purchases?
+
+
+
+161
+Original Question: What is a characteristic of thin glass?
+
+New Questions:
+a. What property is typically found in thin plastic sheets?
+b. Can you identify a typical characteristic of thin metal foil?
+c. What common feature does thin ceramic tiles usually have?
+d. What characteristic is commonly associated with thin rubber membranes?
+
+
+
+162
+Original Question: What do you get for not moving your car during the required time?
+
+New Questions:
+a. What consequences might you face if you fail to park your car within the designated time frame at the parking garage?
+b. What penalties can you incur by not shifting your car into the required parking spot within the allowed period at the mall?
+c. What are the repercussions of not driving your car according to the speed limits and traffic rules set by the local authority?
+d. What happens if you forget to move your car from the no-move zone during the specified hours in the neighborhood?
+
+
+
+163
+Output:
+Original Question: Bob's feet hurt from running barefoot on the hot pavement. I lost his shoes, didn't know where they landed, and had to run from the corner store to his home. About where did he run?
+
+New Questions:
+a. "Alice's toes became sore from sprinting in the sandals that fell off. She didn't find them after leaving the sports equipment store. Where did she have to dash to her house from?"
+
+b. "John's legs ached from jogging in his flip-flops, which got left behind at the beach. He was in a rush to get back to his apartment. Along which route did he run home?"
+
+c. "Lila's feet were throbbing from walking in her open-toed shoes that slipped off at the park. She had to locate them after visiting the gift shop. Which way did she run back to her flat?"
+
+d. "Mark's feet were on fire from his flip-flops that flew off during his walk in the city. He had to quickly make his way to the subway station. About where did he run to catch his train?"
+
+
+
+164
+Original Question: Where would you be able to hear a bassoon played in an unpleasing fashion?
+
+New Questions:
+a. In which setting would you likely encounter a clarinet being played poorly?
+b. Where is it possible to hear a violin performed in a dissonant manner?
+c. What kind of environment would you expect to find a trumpet being played off-key?
+d. Where might you hear a cello played in a way that is unpleasant to the ear?
+
+
+
+165
+Original Question: "John loved competing because he was very competitive. He liked being able to divide people into what categories?"
+
+New Questions:
+a. "Sarah thrives in sports due to her competitive nature. What types of groups does she enjoy segregating competitors into?"
+b. "Mike enjoys the thrill of competition and often organizes events. What different groups does he categorize participants in?"
+c. "Emily is known for her competitive spirit in her field. Which distinct categories does she prefer to sort her colleagues into?"
+d. "David finds satisfaction in competitive activities and is always looking to classify participants. What various groups does he like to divide them into?"
+
+
+
+166
+Original Question: The game was on sale. I got it then because it was usually what?
+
+New Questions:
+a. The movie ticket was discounted. I bought it then since it was usually how much?
+b. The book was half off. I purchased it because it was usually priced at what?
+c. The store had a sale on electronics. I bought the laptop because it was usually at what price?
+d. The restaurant had a special menu. I chose to dine there because the usual price was what?
+
+
+
+167
+Original Question: What could a massive building be if it is not constructed well?
+
+New Questions:
+a. What could a towering skyscraper become if it's not properly built?
+b. If a grand cathedral is not built to withstand its design, what might it end up being?
+c. What might a colossal bridge become if it is not constructed with adequate engineering?
+d. What could a vast stadium be if it's not built to last and maintain its structural integrity?
+
+
+
+168
+Output:
+Original Question: "Where could a printer be used by thousands of people?"
+
+New Questions:
+a. "In what type of establishment would a large, communal printer be commonly found to serve thousands of users?"
+b. "What public venue is likely to have a printer that is accessible to thousands of visitors on a daily basis?"
+c. "In which type of office building is it typical for a printer to be shared among thousands of employees?"
+d. "What kind of educational facility would likely have a printer that is used by thousands of students and faculty members?"
+
+
+
+169
+Original Question: What could prevent someone from buying Christmas presents?
+
+New Questions:
+a. What factors might stop someone from purchasing holiday gifts?
+b. What are some reasons that might lead a person to avoid buying gifts for friends during the holiday season?
+c. Under what circumstances might an individual be unable to buy presents for their family over the holidays?
+d. What situations could cause someone to refrain from buying Christmas presents this year?
+
+
+
+170
+Original Question: What is the hope of playing sports without competition?
+
+New Questions:
+a. What are the benefits of engaging in sports activities in a non-competitive setting?
+b. How can participating in sports without competition foster a sense of camaraderie among players?
+c. What are the potential advantages of playing sports recreationally instead of competitively?
+d. What is the purpose of practicing sports for fun rather than competing in them?
+
+
+
+171
+Original Question: They moved out of the city to have a master bedroom, what kind of home did they seek?
+
+New Questions:
+a. After relocating from downtown, they looked for a house with a spacious master suite, what type of dwelling were they interested in?
+b. The city was too crowded, so they searched for a property that offered a larger master bedroom; what type of residential setup were they targeting?
+c. To escape the urban sprawl, they desired a house featuring a big master bedroom, which kind of house did they aim to purchase?
+d. They wanted a house on the outskirts of the city that had a large master bedroom, so what kind of accommodation were they considering?
+
+
+
+172
+Original Question: What could you add a line to?
+
+New Questions:
+a. What addition could you make to this painting?
+   Context: The painting is an abstract artwork that currently features geometric shapes in a single color palette.
+
+b. Which sentence would you add to complete this poem?
+   Context: The poem is a sonnet with a rhyme scheme of ABAB CDCD EFEF GG, and the last line is incomplete.
+
+c. What element should you insert into this mathematical equation to make it balanced?
+   Context: The equation involves quadratic equations and currently reads as 3x^2 - 4x = 7.
+
+d. Which line item would you suggest to add to this shopping list to create a balanced meal?
+   Context: The shopping list includes items for a salad and the suggested meal is to be a healthy and well-rounded option.
+
+
+
+173
+Original Question: "Joe bought a ficus. He thought it would look good in what part of his home?"
+
+New Questions:
+a. "After purchasing a bamboo plant, Mary wonders which area of her house would enhance its visual appeal."
+b. "John recently acquired a cactus. He is contemplating which section of his living space would be the most suitable for displaying it."
+c. "Lisa is thinking of placing a new bonsai tree in her apartment. She is curious about which room would be the best to showcase its unique shape."
+d. "Tom has bought a small palm tree for his patio. He is considering where it would look the most attractive in his outdoor space."
+
+
+
+174
+Original Question: "Sarah wanted to buy a new rug. Ink spilled onto her old one. Really, she didn't know what that thing had an inkwell in the first place. What piece of furniture might have been on her run?"
+
+New Questions:
+a. "Linda needed to purchase a new sofa. Red wine splashed on her old one. She was surprised to find out that her antique table actually had a secret inkwell. What type of furniture could have been on her walk?"
+
+b. "Tom was in the market for a new throw blanket. Coffee accidentally spilled on his old one. He was amazed to discover that his vintage bookshelf had an inkwell hidden inside. What piece of home decor might have been on his jog?"
+
+c. "Emily was looking for a new dining table. Juice was spilled on her old one. She was astonished to realize that her ornate picture frame actually contained an inkwell. What kind of artwork might have been on her cycle?"
+
+d. "John was searching for a new armchair. Chocolate sauce was spilled on his old one. He was startled to find out that his grandfather clock had a secret inkwell. What timekeeping device might have been on his run?"
+
+
+
+175
+Original Question: When people discover something new while chatting with friends, why are they likely to continue talking?
+
+New Questions:
+a. Why might individuals prolong their conversation after revealing a novel fact during a group discussion?
+b. In what way does the sharing of an unexpected piece of information during a social gathering encourage people to keep talking?
+c. When someone stumbles upon a new topic during a conversation, why do they often find themselves talking more?
+d. How does the act of learning something new in the context of a casual chat with acquaintances lead to an extended conversation?
+
+
+
+176
+Original Question: How can one's views change after learning about science?
+
+New Questions:
+a. What impact can learning about history have on one's perspective on societal structures?
+b. How might understanding quantum physics alter a person's beliefs about the nature of reality?
+c. What changes in worldview might occur after studying the theory of evolution?
+d. What new insights could a person gain about human psychology after taking a course on cognitive science?
+
+
+
+177
+Original Question: Traveling underwater has many dangers, such as low visibility causing what?
+
+New Questions:
+a. Exploring the depths of the ocean presents numerous risks, including poor visibility leading to what?
+
+b. Diving into the sea can be perilous, especially when visibility is limited, which can result in what?
+
+c. Underwater adventures can be fraught with peril, one of which is diminished visibility that can contribute to what?
+
+d. Navigating the underwater world carries its own set of challenges, with reduced visibility potentially causing what issues?
+
+
+
+178
+Output:
+
+Original Question: "Where are people likely to stand at an intersection?"
+
+New Questions:
+a. "In what area of a busy subway station is it common for people to wait for their train?"
+b. "What part of a public library does the majority of people tend to congregate in while waiting for help or materials?"
+c. "At what section of a shopping mall would you find most people waiting to enter a store or exit a parking area?"
+d. "Which area of an airport terminal is frequently used by passengers waiting to board their flight?"
+
+
+
+179
+Original Question: "Janet knew she was dying from her injuries because she could feel herself doing what?"
+
+New Questions:
+a. "After the accident, Alex realized he was in critical condition because he could feel himself doing what?"
+b. "Sarah felt a sharp pain and knew her condition was worsening; she could feel herself doing what?"
+c. "Despite the medical team's efforts, Mark felt a sense of inevitability; he could feel himself doing what?"
+d. "Linda knew her injuries were severe as she could feel herself doing what?"
+
+
+
+180
+Original Question: An expressway can suffer from traffic, this traffic gets worse the closer you get to any what?
+
+New Questions:
+a. On a busy street, congestion tends to increase as you approach any major intersection, doesn't it?
+b. As you get closer to a busy shopping mall, the traffic usually gets heavier, right?
+c. Traffic on a highway typically gets more intense when you reach the vicinity of any toll booth, doesn't it?
+d. In the city center, traffic congestion usually worsens as you get near any busy public transportation station, isn't that the case?
+
+
+
+181
+Original Question: Where are there more telephone booths?
+
+New Questions:
+a. In which city are there more public restrooms?
+b. Which town has more post offices per square mile?
+c. Where can you find more libraries in comparison to banks?
+d. In what neighborhood are there more grocery stores than gas stations?
+
+
+
+182
+Original Question: John moved away from his family. He was a bit upset that he had to do it, but he needed the job. Still, he would have preferred it if the job were what?
+
+New Questions:
+a. Sarah left her hometown for a new opportunity. She was initially sad to leave, but the job was necessary. However, she would have been happier if the job had been what?
+b. When Mark relocated for his career, it was a difficult decision for him to separate from his loved ones. Despite the need for the job, he wished it had been what kind of job?
+c. Emily had to relocate to a different city for her work. It was a tough choice, as she missed her family, but the job was essential. She would have been happier if the job had been in what type of industry?
+d. David decided to move to another city for a job offer that he couldn't refuse. Although it was hard on his family, he needed the job. What kind of job would he have preferred instead?
+
+
+
+183
+Output:
+Original Question: "James complained that Alexa's electric guitar was too loud and he couldn't get any work done at home, so she decided that she should get an acoustic guitar. Where might she look for one?"
+
+New Questions:
+a. "Tom was disturbed by the noise from his neighbor's electric bass. He suggested that his neighbor should switch to a quieter instrument. Where might the neighbor look to find such an instrument?"
+   Context: Tom lives in an apartment building, and his neighbor often practices music at night.
+
+b. "Sarah's electric piano was so noisy that it was disrupting her family's morning routine. They suggested she consider buying a quieter alternative. Where could Sarah look for a quieter piano?"
+   Context: Sarah is a professional musician who needs to practice regularly but doesn't want to disturb her family.
+
+c. "Chris' electric violin was so loud that it was keeping his roommates awake. They advised him to try an acoustic one. Where might Chris start looking for an acoustic violin?"
+   Context: Chris shares a small dormitory room with other music students who are sensitive to noise.
+
+d. "John's electric drum set was causing a lot of noise in his house, so his family advised him to switch to a quieter option. Where could John search for an acoustic drum set?"
+   Context: John lives in a suburban home, and his neighbors are not fond of excessive noise.
+
+
+
+184
+Original Question: What can someone feeling happiness fall into?
+
+New Questions:
+a. What can someone experiencing joy become immersed in?
+b. When someone is in a state of happiness, what might they become deeply engrossed in?
+c. What could someone who is happy be drawn to or involved with?
+d. In the midst of happiness, what activity or experience might someone be prone to enjoying?
+
+
+
+185
+Output:
+Original Question: How might a person address someone who is leaving?
+
+New Questions:
+a. What should one say to a colleague who is transferring to a different department?
+b. How can someone express farewell to a friend who is moving to another city?
+c. What are appropriate words to use when addressing a customer who is returning a product?
+d. In what manner can an employee communicate with a supervisor who is taking a sabbatical?
+
+
+
+186
+Original Question: What does a chef do when working in the evening?
+
+New Questions:
+a. What is a chef's routine when they are cooking at night in a restaurant?
+b. When working late into the evening, how does a chef go about their tasks in a professional kitchen?
+c. In the evening shift, what are the responsibilities of a chef in managing a kitchen?
+d. During the night shift, what kind of tasks does a chef perform in their culinary duties?
+
+
+
+187
+Output:
+
+Original Question: What would happen to a person if his or her money is stolen?
+
+New Questions:
+a. What consequences might someone face if their wallet is robbed while on vacation?
+b. How might a person be affected if their bank account is hacked and funds are stolen?
+c. What could be the impact on an individual if their cash is taken from their home?
+d. What are the possible effects on someone if their credit card information is compromised and used without their permission?
+
+
+
+188
+Original Question: "The people in class were instructed to brainstorm ideas, how would they use their minds for this?"
+
+New Questions:
+a. "In a creative writing workshop, participants were directed to generate storylines, what mental processes would they employ to achieve this?"
+
+b. "During a marketing strategy session, team members were asked to come up with new product concepts. How would they utilize their cognitive skills to facilitate this?"
+
+c. "In a group innovation challenge, individuals were tasked with designing sustainable solutions. How might they engage their minds to generate effective ideas?"
+
+d. "In an art class focused on conceptual art, students were encouraged to explore abstract themes. What kinds of creative thinking techniques would they apply to foster their brainstorming?"
+
+
+
+189
+Original Question: "Someone lacking immortality will one day be?"
+
+New Questions:
+a. "What will be the fate of an individual who does not possess eternal life?"
+b. "Ultimately, what will become of a person who is not immortal?"
+c. "What will happen to a being that is not equipped with the quality of immortality?"
+d. "In the end, what awaits someone who is devoid of the ability to live forever?"
+
+
+
+190
+Original Question: After his mother saw his report card he knew he was going to be doing housework, what could have prevented this?
+
+New Questions:
+a. If the principal noticed the student's low grades, what action might have been taken to avoid assigning chores?
+
+b. When the teacher reviewed the student's test scores, what might she have done to stop the requirement for housework?
+
+c. After his tutor evaluated the student's academic performance, what intervention could have been made to avert doing chores?
+
+d. If the student's school counselor discussed his academic challenges, what measures could they have suggested to sidestep the housework obligation?
+
+
+
+191
+Original Question: "Glass that hasn't been treated to be extra strong is what?"
+
+New Questions:
+a. "What is the term for window panes that have not undergone a process to enhance their durability?"
+b. "What do you call standard glass that has not been strengthened?"
+c. "Which type of glass is not reinforced for extra strength?"
+d. "What is the standard classification for glass that is not treated to be more resistant to impact?"
+
+
+
+192
+Original Question: If you've thrown a rod you've done damage to what?
+
+New Questions:
+a. If you've dropped a hammer, what have you damaged?
+b. When you've accidentally slipped and dropped a plate, what object have you damaged?
+c. If you've accidentally slipped and shattered a glass, what have you broken?
+d. If you've accidentally slipped and spilled a jar of paint, what have you ruined?
+
+
+
+193
+Original Question: What enables most people to transport themselves?
+
+New Questions:
+a. What common devices allow individuals to travel independently?
+b. What are the primary means of personal mobility for the majority of people?
+c. What items are commonly used by most people for self-transportation?
+d. What are the typical methods that most people use to get around on their own?
+
+
+
+194
+Original Question: What do people in the same family often share?
+
+New Questions:
+a. What traits do siblings usually have in common?
+b. What characteristics do cousins often possess that are similar?
+c. What is commonly inherited among members of the same lineage?
+d. What are the typical shared experiences among a family's offspring?
+
+
+
+195
+Original Question: What is an area with no grass where I can get things to sell at a roadside stand?
+
+New Questions:
+a. Where can I find a location without any greenery to set up a roadside stand to sell homemade crafts?
+b. In which type of area would I be able to establish a roadside stand without having to worry about grass, to sell fresh produce?
+c. I'm looking for a spot without grass to sell my vintage items; can you suggest an area suitable for a roadside stand?
+d. Where should I set up a roadside stand to sell my homemade baked goods, in an area that doesn't have any grass?
+
+
+
+196
+Original Question: Where do kids find fish in their backyards?
+
+New Questions:
+a. In what places do children discover fish in their gardens?
+b. Where might kids search for fish in their yard environments?
+c. Which areas are children likely to find fish in their backyards?
+d. What spots in kids' backyards could be home to fish?
+
+
+
+197
+Original Question: Where must one wear a white shoe?
+
+New Questions:
+a. In which situation is it appropriate to wear a black leather shoe?
+b. What type of event would require a person to wear a red patent leather shoe?
+c. When is it customary to wear a brown leather loafer?
+d. Under what circumstances should a person wear a silver metallic sandal?
+
+
+
+198
+Output:
+Original Question: "James chose to not to print the cards, because he wanted to be more personal. What type of cards did he choose, instead?"
+
+New Questions:
+a. "Instead of opting for printed invitations, Emily decided to go the extra mile to make them more meaningful. What kind of invitations did she select?"
+b. "Because he preferred a more personal touch, Tom decided against traditional wedding favors. What type of favors did he choose to give out?"
+c. "Linda wanted to send a message of care, so she decided to avoid printed thank-you notes. What alternative did she choose for expressing her gratitude?"
+d. "To make her son's birthday celebration more special, Sarah avoided using store-bought greeting cards. What did she use instead to convey her message?"
+
+
+
+199
+Original Question: They checked the weather one more time during the flight, they were on their way to paradise and wanted it to what?
+
+New Questions:
+a. They reviewed the weather forecast one last time before the trip, excited for their vacation to paradise; they hoped it would be what?
+b. They double-checked the weather conditions just before takeoff, as they were heading towards a tropical paradise; what were they anticipating for the weather?
+c. Before setting off for their dream destination, they one last time checked the weather report; they were eager for paradise to offer what kind of weather?
+d. As they prepared to land in paradise, they made one final weather check; they were looking forward to a weather scenario that would be what?
+
+
+
